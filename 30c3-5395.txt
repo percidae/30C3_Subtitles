@@ -1,0 +1,545 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Towards an affordable brain-computer-i. are supposed to be created  
+ 
+
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos) 
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be:  
+[ ] German  
+[x] English  
+(the orignal talk-language) 
+-------------------------------------------------------------------------------------------------------------
+
+Hi, we're Anne and Dominic.and were here to tell you about brain computer interfaces
+I'm a mathematician and he's a cognitive scientist.
+*First, we'll tell you why we're excited about this topic.
+Then, we'll dive into the technical details:
+*How data is represented  inside the brain and
+*How to read them with a computer.and how to build your own ci
+*And finally, we'll have a quick discussion and answer some questions.
+
+so lets talk about comunications
+
+Language is the most natural way to communicate with our fellow humans, it's the most intuitive way of expressing your thoughts and also the most common method to write computer code.
+Obviously, the word is very powerful.
+
+But which devices can we use, to put the words from our minds into a computer?
+
+*Of course, there's the keyboard.
+Compared to talking, it's quite slow and quite hard to learn, but extremely accurate by design.
+
+*There are all kinds of motion-tracking tools:
+The mouse,the Touchpad, Touch screen, Graphic tablet.
+Because we want text input, we need to use hand writing:
+Higher information density, easier to use than a keyboard, but very slow at actually transferring a message.
+
+*Then we have voice input.
+Everybody knows that dictating is much faster than writing.
+But since a couple of years, even our computers understand what we say.
+This could become very interesting in the long run, because talking raises the transfer speed limit considerably.
+have you thought about the inforamtion transfer that is happeing here
+
+*Because the actual chain of information looks more like this.
+Itâ€™s the brain that sends information to a body part, which interacts with a device that sends information to a computer.
+And both ends of the communication can deal with much higher data rates than a measly 15 bytes per second or so
+So, what would happen if we cut out the middle man and connect a device directly to the brain?
+
+as for Language
+Spoilers: it would be surprisingly underwhelming.
+Thinking words isn't that much faster than speaking them.
+when read aout the words from the brain the data is horrible 
+
+And you would have to teach the software where the words are in your brain, so you'd need a couple of hours before you could get even started.
+
+But of course, with such an interface, you could also use something else than words as input.
+
+
+For example, let's look at art!
+When I imagine a picture, and want to show it to other people,
+*I can just pick up my canvas and paintbrush and start painting.
+*or I could also use a graphics tablet to paint with a virtual brush,
+*or a specialized mouse to put together 3D objects and render the scene.
+But each of these strategies is going to cost me several hours.
+And even if I actually had some knowledge in painting, the end result would never look exactly like my imagination.
+
+*Here's where a brain-computer interface is starting to shine, because
+it can access the image in your head entirely and immediately.
+
+
+There's not just *arts and *language, there's also *gaming, there's *music: theres interfaces everywhere.
+Interfaces that are hard to learn and even harder to master.
+Interfaces that put a limit on our creativity.
+
+Having a really good brain-computer interface would make lots of these devices redundant.
+and soon as a computer can guess what you want to do, a lot of frustration starts to disappear from learning.
+*And since there is more to the brain than just hearing and seeing, maybe it makes sense to transfer data from other senses as well.
+unforutnatly this is still very much a cision of the future
+it's not even that expensive
+
+Before we can build a system that can read from our brain, we need to know how the data is represented in there.
+For that, we need to take look at a very basic map.
+*We see and imagine with the back of the brain.
+*Hearing and talking happens in the lower side areas.(ears)
+*The top of the brain is responsible for skin and muscles and movements in general.
+*What the front part does is most difficult to understand, even for scientists. Let's just say it does the actual thinking.
+
+So lets start with a simple example 
+Let's say we imagine a red ball.
+*First, we look up the meaning of a red ball in the associative cortex down here.
+*Then, we send this object code to the fusiform gyrus at the front.
+This area is a library of visual objects.
+*It resolves the object code into its color and shape codes,
+*which are immediately sent downwards.
+*Color and shape center then convert these property codes into their visual meaning
+*and build up a link to the correct space in the visual buffer.
+*As soon as this connection is established, we can see the image of a red ball in our mind
+
+
+This red ball is stored somewhere in the brain too, along with millions of other data sets.
+All the information is stored in the connections between neurons.
+Neurons never work alone, because they're too weak. I'l explain that in a minute.
+To create a meaningful signal, they have to work together.
+
+And they do that in groups of a hundred of neurons, which is called a minicolumn.
+Each minicolumn stores one unit of information.
+Together with 100 other minicolumn they form one memory unit, called hypercolumn.
+Each one of those hexagonal memory units is incredibly flexible.
+
+They can remember everything about red balls - how it looks, how it feels, how it sounds like, and even your emotions towards red balls.
+But because we only have two millions hypercolumns, it would be a waste to use a separate one for every ball.
+That's why your memory unit for red balls is the same unit as for green, black and blue balls as well.
+
+
+What happens when a hypercolumn of neurons recognizes the special ball from your childhood?
+It activates the minicolumn that stores the emotions of your childhood.
+Before, all the neurons in this minicolumn were idling.
+Their activity was slow, random, and completely desynchronized.
+But as soon as the activation signal arrives, they generate waves of activity.
+Now, each one of those yellow dots in the bottom is the activity of a single neuron.
+Because single neurons can only generate a short flash of activity, they have to work together. and to use these waves
+
+These waves are the typical data format inside the brain.
+Waves can encode more information by changing the frequency and phase.
+The amplitude however mostly is the same.
+And in this case, this wave is part of the memory of the red ball of your childhood.
+
+in case you were wondering this is hoe hypercloms comunivate
+this is the slow motion part of the actual cortex
+you see 
+flowing shifting never repeating
+loops forming in the later stages of the brain
+this is what we perceive as information
+
+So i give a short math warning i will use some formulas
+its ok
+what we now have to do is find the origin of these waves
+
+So how do we do this without physical access to the brain?
+
+â€” Electroencephalography (EEG)
+The easiest (and already established) way is to use an EEG.
+This is a device that measures electric fields with the help of some electrodes.
+
+You have probably seen one on TV already later well explain how it works 
+
+The big question is now, how does this all work.
+
+â€” Electric fields in the brain
+When the neurons in the brain are activated, they also create an electric field.
+This electric field from a neuronal cluster is strong enough to be measured outside of the head.
+its usually between 200 and 500 millivolts
+We have to place the electrodes directly onto the head surface because air conductivity is very low.
+Then we combine all the electrode voltages, so that we know the voltage for each point on the head surface.
+
+
+Neuron clusters also produce an magnetic field at the same time.
+This could also be measured from a small distance.
+But the devices for measuring very weak magnetic fields are far too big to carry around, and very expensive.
+
+They also have to be isolated from other "strong" fields.
+Even regular wrist watches create magnetic fields that are magnitudes stronger than the whole brain.
+the reseasrch of devices is already started
+Currently, EEGs are the only handy devices for custom usage.
+
+Since the electric field is caused somewhere inside of the brain, we have to look at what happens on the way outside.
+Our head consists of different tissues, which all put up some amount of resistance for electric fields.
+So, instead of travelling straight through the head, the electric field gets distorted.
+
+It could a little bit imagined like this: when jogging, you have different speeds on different types of surfaces.
+When you are jogging on asphalt, you are quicker than on sand.
+It is the same with the electric fields in the head.
+For example, our bones have a very high resistance, and the liquid around our brain is very conductive.
+And ONE brain tissue even has different conductivities for different directions.
+
+
+We are finished with our setup: active neurons create an electric field inside of the head.
+We know about the conductivities of different tissue layers, and the voltage on the head surface.without any other knowledge what is back here
+
+
+Like in many occasions for solving problems, now we require the mighty toolbox of mathematical science to find a solution.
+What we want to do now: we want to translate our setting (and our problem, too) into the language of mathematics, solve the problem there, and translate the mathematical solution back into reality.
+And to warn you beforehand: within the mathematical world, we will need another translation, into something a computer can solve.
+
+The first step, the translating into mathematical language is also called to model the problem.
+Building a mathematical model uses principles, laws and concepts from other fields of science.
+
+In our case, we use a modified version of the famous Maxwell Equations, which describe a connection between magnetic and electric fields (and forces).
+they wre first dicribed by maxwell in 1865
+
+The equation we get as a result is written here.
+
+First, we look at the left side.
+The x describes any point in the head.
+u(x) is the electric field at the position x.
+and When you derive that, you get the current at this point.
+Now you fold this with the electric conductivity and compute the divergence.
+
+What you can imagine happening in the left side is the difference between the incoming flow and the outgoing flow of every electric field, at every point x.
+
+The right side is all about neuronal activity.
+what is written there is a model called a "current dipole".
+It is important to know, that the whole equation is zero everywhere, except at the position of the activity.
+
+Together this means: For every point in the head, the same amount of electricity flows in as it flows out, with the exception of the active neurons.
+
+â€” Solving the equation
+Let's say you are a mathematician and you take a look at this equation.
+You would assume that the head conductivity and the location of the neuronal activity are already known, and you would start calculating the head currents.
+this is called tho foward problem.
+But of course, we donâ€™t know the correct location yet, and we donâ€™t even have any head currents yet.
+
+We want to calculate the activity location from the two things we already know.
+The equation needs to be turned around.this is called the inverse porblem and is difficult
+
+
+We want to know where the activity inside of the brain is located.
+So, we measure the electric field on the head surface.
+But we can not measure INSIDE the head.
+
+Medical EEG have probably around 120 sensors.
+So the measured electric field only has a resolution of 120 points.
+This gives us much less information then we actually need.
+
+We can deal with such kind of less information if we make some presumptions about the location of activity.
+ usually we limit ourselves to places in the brain with actual neurons, namely the cortex.
+but ofcourse the res gets better the more sensors we have
+â€” Requirements for the computation
+Once we have faced these problems, we now can convert the equation into a computer friendly format.
+
+A computer can not deal with equations, which describe something for every point in the head.
+That would be infinitely many points, and infinite memory is still quite expensive.
+some people  developed methods to make equations which are computerfriendly.
+ we do not compute every point in the head.
+Instead we select only some points in the head (for example, one million) and compute results only for them.
+We interpolate the areas between our selected points when we need a value there.
+
+Mathematically speaking, this selection process is called discretization.
+The continuous structures of the head are divided into small cells of simple geometry.
+the continuous structures of the head… öh
+Usually we use tetrahedra or hexahedra - or a mixture of both.
+This works well, and it can be shown that the error from the discretization is small for certain settings.
+
+For this approach to work well, we need a good 3D model of the head.
+and we havent talked about the connectivity 
+We also need this model to represent the conductivity well enough.
+ 
+
+The scientific way is to put the head of choice into an MRI.
+That is a big machine which can take high resolution images of the head.
+Then we take such a good picture from this head and convert this picture into these little geometric cells.
+There is only one conductivity value for one cell.
+
+
+If you want to be very exact, one has to use a different head model for every person, because every head is unique.
+And because the brain can move around inside the head, you should always measure your person in the same position.
+
+But when you don't need to be so precise, there's a simple rule: ANY head model is better than NO head model.
+[laughter]
+
+
+Then we are ready to estimate the location of neuronal activity.
+We take:
+the conductivity of the head model,
+the location of the sensors
+all the locations of all cortex points
+and put all of this into this machine.
+
+This machine puts all of this information together to one head model.
+It makes sure that all the little cubes, and the sensor positions, and the cortex share the same coordinate system.
+
+The last dataset makes sure that we only estimate locations of activity inside of the cortex.
+When putting up these restrictions, you have to be sure of two things:
+- first the real location of activity is actually in the cortex
+- and second that there is NO activity outside of the cortex.
+
+
+With the head model then computes an intermediate step called a â€œtransfer matrixâ€.or refer 
+The transfer matrix describes what the sensors would measure for every possible electric activity in the cortex.
+Building this matrix is a very time- and memory-consuming process
+
+Once it is finished, you can put any pattern of electric fields into the cortex, and immediately get the voltage on all the sensors.
+
+
+The nice thing about this whole first part is, that you can prepare it â€œofflineâ€.
+After the first huge calculation, only the last step requires some brain activity. its over there
+Since this last step can happen in a few milliseconds, this is perfect for real-time applications.
+And if you always use your EEG in the same position on your head and your cortex has enough points, there's no reason to change the transfer matrix.
+
+
+The next step take this transfer matrix and the measured electric field.
+
+The inverse problem then decides which was the most likely activity location that caused these sensor voltages.
+There are different algorithms, like MNE or sLORETA, which give reasonalbe results.
+But still, they are too memory and time consuming to do this in a reasonable online-time.
+
+
+In the end you get an activity map, that shows where the active clusters are.
+
+and To conclude my part: yes, we CAN estimate where our neurons are active.
+Our estimation would be much better if we had MILLIONS  of sensors (instead of 120),
+It would be much better if the sensors were inside of the brain instead of outside.
+[laughter]
+And we still need a ton of computational power and memory.
+
+But it is possible.like domeink will explain in a few seconds
+
+ok
+We're finished with the theory, and we're coming back to the real world.
+Don't worry, it's easier than you think.
+in the beginning you can deal with not the location part and data only (?)
+
+so What do you need to build your own BCI?
+Two pieces of hardware, and two pieces of software.
+I'll start with the hardware.
+An EEG consist of two core parts
+
+----im lost here---
+
+open eeg project
+then we have the open bci project wich is much newer and sposneord by darpa so choose your camp
+
+This is the current spectrum of EEG devices in a sensible price range.
+We start at 40€ for the cheapest (and worst) implementation of an openEEG.
+It only has two channels, and these channels will be all over the place, because it doesn't have a reference electrode.
+The best solution depends on your budget, of course.
+What you pay for is the number of channels and a low amount of noise.
+The most channels you can get is the openBCI with 16 cahnnels,  but 440€ will only get you passive electrodes.
+Passive electrodes are cheaper, but they send tiny voltages through very long wires.
+So, they're very noisy, and you need conductive gel to make contact with the head surface.
+active electordes have the eci directly near the ....
+bit the noise lever are lower and no gel in hair 
+{laughter}
+The Emotiv Epoch is still the most compact technologically advanced, but they're proprietary and quite expensive. and its weakness is the frequency, you can get 225Hz.
+
+
+The software needs to do four basic different things.
+First, it needs to acquire signals from the EEG and put them into data packets.
+Second, it need to estimate the locations of brain activity are estimated.
+Third, the estimated activity need to be processed at a signal level. I'm talking about frequency filters, Fourier transforms and so on.
+Fourth, some BCI paradigms. These are the small programs that actually know what brain activity is.
+
+lets start on the left:
+Fieldtrip is based on Matlab and most feature-complete. I's very versatile,its used in science a lot but its real-time support is quite weak, so you have to hand-code a lot of things.
+NeuroFEM is a plugin for Fieldtrip. I's the only software that can deal with the highest quality of headmodels, so it's mostly used in cutting-edge science. but if your iterested you can do this with only fieltrip(?)
+The most user-friendly solution is probably OpenVibe. It doesn't do localization, but it has a GUI, supports many types of EEG and is very well documented. with even a plathora of examples out there
+Mushu is the pythonic alternative, mainly for people who like python or don't like Matlab. -python joke
+
+
+When you have decided which software package to use, it's time for a BCI paradigm.
+I'll give a short overview about the most popular paradigms today.
+Maybe that's a good start for you guys to get into something more advanced.
+
+Steady-state evoked responses are a brute-force approach to the brain.
+You put in a certain frequency, and hope that at least some neurons pick it up.
+The classic pattern is a flickering chessboard.
+
+Before I show it to you, hereâ€™s an epilepsy warning.
+Everyone with a history of epilepsy please look away for five seconds.
+OK? Go! (click) (wait 5 seconds) (click)
+
+Both checkerboards were flickering at a very comfortable frequency for most neurons in the brain. no we usually at the 10-60hz range
+These frequencies come in at the back of the brain, along with everything else you see.
+When you select the back of the brain with your EEG software, you can find back this exact frequency in your spectrogram.
+
+Now, the cool thing is that you can pay attention to one checkerboard and ignore the other one.
+In your measurement, the frequency band of the attended checkerboard becomes stronger, and the other one becomes weaker when you do that.
+With this trick, your software can detect if your attention is on the one checkerboard or the other.
+In practice, this paradigm works like mental buttons - you press a button by looking at it.i
+They don't have to be big, and you can run up to a dozen checkerboards at the same time.
+
+so next paradime P300 / oddball paradigm
+in psychology they are differnet but here combined
+The basic idea behind the oddball paradigm is that your brain always creates the same pattern under certain conditions.
+The P300 signal i show it in the next slide, Is generated when we see something unfamiliar, or something that doesn't belong into the group.
+The signal is the strongest at 300ms after seeing the oddball.
+The strongest peak is positive, which is what the P stands for.
+
+Usually, the oddball paradigm works with images or sounds, but of courese you could do it with any other senses as well.
+
+Detecting the P300 in a continuous signal isn't completely straightforward.
+The incoming signal will be contaminated by other brain activity, so if you use a simple amplitude threshold, you will trigger all the time.
+A good strategy therefore is to use a reference signal.
+You take the last 500ms of your continuus signal and correlate it with the reference wave.
+When the correlation is above 50% or so, you know that the correct shape was actually in your signal.
+With this tool, you can even type on a keyboard with your mind. this is currently used for locked in patience or quadropoligics. Just look up the p300 speller.
+
+last point: Event-related desynchronization this is a very popular one
+Event-related desynchronization is really easy to set up and very reliable.
+You imagine moving one of your limbs, for example wiggling your right foot.
+you can actually do it but it is not as impressive
+This imagination causes certain neuronal clusters to synchronize or desynchronize. you probably remember the waves from the beginning.
+In the overall spectrum, this desynchronization will create a gap in the 10-13Hz range.
+The analysis for this is very simple: select a region at the top right side or left side you have to consider that the left foot ir conected to the right side and vice versa
+
+, and calculate the fourier transform of its data stream.
+Select a few frequencies in the alpha band (thatâ€™s between 8 and 13 Hz) and look for change in magnitude.
+Now your software triggers whenever you think of a moving foot or waving hand.
+Oh, and when you look for two regions at the same time, your software can even detect which hand youâ€™re waving.
+
+
+So, in summary buy an EEG headset, choose a BCI software, and get started!
+
+We're nearly finished, I'll just do a quick recap:
+
+Certain clusters in your brain do always the same thing.
+Memories are stored in the connections between neurons.
+Neurons communicate with electric waves in certain frequencies.
+
+We want to find the clusters that does what we want.
+Or we already know how to search, for example from my talk or from the literature.
+
+but Either way, we select an area on the activity map.
+We put the signal into our BCI paradigm, and enter the eternal feedback loop with the user.
+
+Have a lot of fun, that's it for today!
+
+Q:if you want to stear some device what is the advantage of infering the lovcatiopn of brain activity instead of just training your software
+A: the raw eeg signal is not really raw, its a mixture of different parts of the brain. itsvery much
+convoluted and with the localization you can split them up in regions so you only get the …
+Imagen your right food and the electornde is here you will also get signals from other … not as noise free
+
+
+
+Q: when you want it to use with visual input, like 300 features, how to you come up with that?
+A: arm waving
+
+Q:I assume the option of putting the sensor in the brain is to expensive and that why it wasnt diccussed
+but midle ground as you show in the slides the skull is abarrier, why has no one proposed to drive needls into the skull? Design that is relativly easy and streight forward
+
+A: ok i know what you mean, its had actually been done. they tried it in the beginning. but its the easiest to put the sensors directly into the brain
+But you need a preson willing to open up the skull which is usually only the case if there is something wrong with the perosn
+the thing with the needs isnt so far fethed it is being done with oarkinson patience
+the needles deteriorate and have a short life span because the metal gets "fat"
+follow up 
+Q: even if you drive the needle 9/10th of the thickness of the skukk
+A: that would help
+
+there is still the dora-,mate ;) that seperates the breain from the skull
+it could work it hasnt been done beofer because this type of eeg hasnt become so mainstream that people do it for fun
+
+Q: what can't you do with the ??-feature acutally?
+A: you cant atucllay deconf the parts that come into one electrode, which means your activity ois onyl one third of the 
+high noise level
+
+
+Q: actually i have two quastions how many datapoints do you get? maybe it is possible to use the hair as a wire?
+A: So the skinn isnt our big variable,
+(use hair as cable)
+they dont conduct elevrticity
+add grafite
+thats actually not bad
+there is a lot of chemestry going on, so if they make curls maybe you can make it conductoveI
+I dont want to c
+
+Q: The second thing is if I want to move my foot I have to think about it, there is also a lot of tension in my body that keeps me upright
+A: No the tension is hapeing in your spine
+Q: I have narkolepsy to shut it off and i have to give some electrical shocks to start them
+The second part is basicly proven to be prosiible can i find if you losse all the tension in the mussles sense that with an eeg
+you want to sens if you loos muscle controle
+A: the easiest aproach is to use an electorde on your mussle because they generate a lot of electricity like 2 volts and when the volatage gos down you have your signal
+when it stands still the frequency is low and when you move it it becomes higher
+
+Q:Are the hypercolumn always in this formation?
+A: no of coure not htis hypercolom organisation only aplies to the few flexible regions of the brain, hyper colom are used for a mix of computations where they are set up like this
+
+Q:so everything we talked about right now giving visuall sig and record, but can i skip the eye and give impulse without visual input?
+A: you cant to know if you can replace the eyes with something better?
+you cant stick needles in the brain because they would have a low livetime.
+there is actually some research with people ...
+
+
+funny thing is we dont know how collor works yet
+
+Q: how preciese are your recognise of what your thinking why not use thnumbs
+A: you mean we should have brought an eeg, actually we forgot to bring it
+
+Q: Ive been looking the posibilities outside uni interfaces and you are the first who speak positively about ? I wanted to make a hackerthon and invite openBCI people to make a hackathon somewhere in europe ..
+Have you experiemented with them and have any expericento share
+A: I actually bought one when it came out, it was cheep and sitll is untill next year, not such a great quality though, the company behind seemd to have regretted decition . they wanted that as an geming input device
+This didnt really work out because the API is not really that great, so it was used a lot for research but it doens have a lot of channels we need 125 
+the epoch hasnt progressed anywhere, not sure it has future
+but other than that quite possitive, though only on osx and windows because i want to do it on my smartphone
+reasonably ok c++ api so you can get it out into a 
+
+Q: ok this is sort of related to the  Are there any atttemps to make the image more preciese by using IO feedback?
+A: biofeedback?
+Ye there was an art projekt brianavatar whihc used the … into a water basin whcih was projected into an overhead projector so you could see the waves
+people tried to influence the patterns produced 
+8electorn is it possible to add another layer 
+A: yes sidplaying a realtime map is easy, I think its even build in bio feedback is more complicated because you have a feedback loop
+measure alpha waves and then displays if your doing ok or not
+you can lrean to meditate with that
+you can learn how to shoot a bow. by alignning two dots
+
+Q: wanted to kow if you ahve an outlook about privacy instruiosn? maybe next 5 or ten years
+A:unless we fix the sensorship in the brain … we need nano sensors at each milicollom withc is around (small) 
+has to betrained first what each neuron actually mean, you have to opt in to this
+Im speaking of a time frame of 20 years
+
+Q: I think it would be awesome if we could read more from the brain then limbs and things we see and would increase the sosror no from100 to 1000 help
+A.yes , you can only buy one with 256 sensors, if you increase every sensor would help, the more the better
+Q so why not every milimeter?
+A: price one channel cost 
+Q: scale?
+A: yet but magnituted and no moores law
+
+Qgiven the tendencey of the brain to move things around are the coloms identifyable easily?
+A: no you need at least 50 years to …
+
+Qjust to continue the you said you can make bilind see b/W but can I show them pics that are not those they see?
+A yey
+Q so we know how it is encoded
+A yes we know… but not color. if you want to connect directly to the brain, don't use the retina, use the back of the brain, there is much more resolution
+Q: so i heard from a neruo science one is that datawaveform is hard two is that twice with rats implanted electrodes the areas moved so the needles moved and comunicated dfifferent i dont know how well this is or…
+A areas themselfs in humasn dont move that much but single neurons can move up to a sentimeter/h
+what we do we stick 
+if its an iseue you have to recalibrate
+
+
+
+
+

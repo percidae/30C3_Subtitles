@@ -1,0 +1,131 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Glass Hacks" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+I gonna talk about history of wearable computing. [talk about some imposter claming to invent wearable tech in 199x, invention of a shoe calculator] Someone with Bell Inc. IP changed the Wikipedia article on wearable computing to ensure Steve Mann was it's inventor. [crazy and creppy Steve Mann]. Steve Mann grandfather of wearable devises. This was the short history. 
+
+That keep coming up when I work on these kinds of problems
+And those three things are, 1, we are moving into a world, where we're able to collect, as an individual, massive amounts of data.
+
+Lets talk about the fun stuff. Google Glass comes with their own proprietary launcher called glass.app or something like that. you can scroll through cards etc. but when you install a new app on your Android phone it just is in your launcher, it doesn't work on Glass this way. Ill make all the source available later on GitHub or on my slides, you will be able to load this on your glass or Android phones. 
+Google Glass as you can see does not have a hardware recording indicator light. Wow what were they thinking? So how do others know you are recording then? Google says the screen turns on when you are taking a picture. But that is all in software so totally not circumventable. One of the software I will post is basically this. I didn't need to have root access, which is not hard to get. But it was not neccessary to be able to turn of the screen when taking a picture. You can't tell when someone is recording you. The only thing that limits people from recording you is the battery life. 
+Another one is facial recogniton. We will talk about what is possible today and will become in the near future. Face rec is in my opinion still a toy application. Let's say you have a very large amount of pictures and you want to find a bunch of pictures of me. That is useful face recognition. But what you hear in the media like rec people on the street - that is currently not possible. But I think it will become possible very soon and this is something I have done some work with on Glass. I think it is something that is actually going to be very useful. Imagine you are someone with alzheimers or are blind and the Glass can talk into your ear and tell you who is in front of you. Let me show you some data and go by example. First let me show you just well this idea here. I do not have code for it, I am not planning to implement it, but [it] is potentially very creepy. Imagine you walk around and it uses APR? To pull licence plate numbers out of what you are seeing. It's pretty straight forward to classify these plates and uploading these plates to a database with geo location.. why would someone do it? I don't know, but it's not hard to create such an application. 
+Okay this is me taking a picture every few seconds. I have been doing these experiments. I reveal my password by typing it out on my computer.. I think a lot of those data is moving from centralized storage of these data is going to change to more distributed storage. The Google way of just uploading every photo you take is not going to work this way.
+The resolution is quite high, it's easy to read the plate numbers. The sheer amount of data one can collect is frightening. I think it's interesting and we just dont have a framework for it to talk about it and think about it in a legal perspective. There are somethings to driver privacy, there are some obscure laws in the US, but they don't apply here.
+Let's talk about the code that makes this possible. I had a set up that was taking a picture every few seconds, let me show you some downsampled stuff of an entire day. This is just me from the beginning of my day. I downsized these images.
+This is a stream of my entire day, I think 11 am to 11 pm. This is the data I am collecting every single day. Some nice views actually. The idea is we are capable of collecting so much data what does it mean? There is a bunch of revealing info. I think there are some credit cards in there. Let's go back to how is it possible. You are probably familiar with the wake lock API. There is an enum somewhere, there is partial wake lock etc. this is the API example you can get pretty far with this. With Glass what you can do using this API is turn the screen off and continue for some time to take photos, this is how the secret take a picture work. But after a while your app gets turned off. People from Android where trying to get the power managment aligned with the kernel and Linux people were like no don't put this here. There is a constant opportunistic span(?)
+How you actually keep the device running but the screen off is by roting your phone and using the powermanagement.java. There is a call to acquire wakelock there is a whole lot you can read about the tech background if you are sick or something. 
+This poor guy had a fight for this one.. Douglas McIlroy
+He does a very well articulate ... he wrote a page or two of code it was written on the spot and worked the first time. This is all you do, you need root of course. This is all you need to run your cam logging software or whatever in the background.
+The pictures you saw were recoded using an android device but not Glass. It does not have enough power to do that. So something else was required. Something i hacked together that makes me look even more dorky than wearing glass is called the Lambda Hat. This is what i used. It has a large battery, i can record for 16hr taking a pic every 4 seconds. It's frighetning to be honest. I looked at the data and looked at myself and said oh god what have i done it's a horrible idea. You can put the board behind here, this is what it actually looks like. It's always on and always is listening to you. Audio data is actually far more sensible. We have a legal thing in NY? In california I would have to tell everyone I meet hey btw i am recording this conversation. In video it is not neccessary. This is where its going in my opionion, to always on. 
+[...] Cat detector in 2011 [...]
+Some guys at the University of Toronto reproduced and beat those results with two GPUs. The ability to go through all these data and recognise interesting things like faces or text.. people will be able to do that, not just large companies.
+They had there deep learning research they called Google Brain. Geoffrey Hinton is basically the godfather of neural networks. Facebook hired Yann LeCun who had some really good results. Zuckerberg personally attended NIPS which is the largest neural thing conference. I dont know what that means, I'm pretty sure I dont want to know, I'm sure its nothing I want to have done.
+Google makes billion dollar a year from selling click ads. I think they get a few extra cent all the time when they are able to better target.
+Should we worry? We have these devices which record data and soon can process it (??)
+I'm just logging data like the poor people driving down the highway, but this has never been done before.
+Brandice went on to court of justice something
+What was this in response to, to instant spontanous photography. The Kodac Brownie camera, first made possible for everyone to be able to relatively cheaply and easily record lots of photos. This caused a controversy back in the 19xx
+On Facebook et cetera you voluntarily spread data, but there is no way for me right now to stop someone else from recording me. These Neo Brownies are a question of propose to everyone in the audience, there is lots to me that is similiar to the always on devices but others are different.
+
+[___QUESTIONS___]
+I'll now store some time away for questions so thank you.
+
+Are there any countereasures to be taking avoiding violation of your privacy, like cloaking suits et cetera?
+
+It really depends on what you are trying to circumvent, a lot of those cmos cameras have IV filters, but there are some you can jam with bright lights. About licence plates I don't now, its hard, these solutions have to come on a problem solution basis. Some people have proposed riddicoulus things like wear LEDs on your face, I think solutions people won't use (wear?) are not solutions. Honestly the state of the art of face recording is when you look down wearing a head or something you are doing pretty fine... Just like hiding your face from another person.
+
+Since you bashed Google a little bit do you think the recording LED w
+
+He elededs don't come on
+
+its a good point, i think there is a difficulty. of course i could desolder the LED, that would be a good solution to not keep the light on. the worries with the macbook is probably that it can be done remotely. to answer your question no google bashing.. honestly if its as easy as rooting the device, that is probably an issue. a software thing is def something different to firmware issues
+
+Is your hat on right now, are you recording?
+
+No, no im not. Good question. This one doesn't even have a battery.
+
+Assuming Google Glass uses this small battery because of weight, what does your lambda hat weight?
+
+It weighs more but its more evenly distributed so its like a normal hat
+
+You mentioned always on etc is it a solution like having manufacturers to include always on indicators, but we don't want our devices not to work outsite of what we control, the cure would be...?
+
+To be clear about my personal stance vs ideal solution... I kind of agree [] I did bash Google. At the end of the day someone will circumvent it. It's your right as the device owner. What I hate more is when people tell me what to or not to do. I like Google, but I hate authority figures trying to tell me what to do, like Google does a lot lately. Sorry, not sure if that answers your question.
+
+Are you selling your Lambda Hats? Kickstarter plans?
+
+We are trying to work with some manufacturers. I want to avoid Kickstarter, we don't want to take money before taking peoples' money.
+
+As you have said, Glass looks dorky, usability is awkward. Do you think it will get attention by mainstream in coming years?
+
+That is a hard question, but i have some ideas. One if you remember, PDAs like the Palm Pilot 5 though took off well before smartphones hit the market. They did stuff like the iPhone does, just not in the right way. I think glasses might rather be in the PDA stage than the iPhone stage.
+
+What about something like ftabloid what filesystem?
+
+It's a filesystem distributed [and] developed by a guy called XX I think that's interesting, it's a really good - what if the storage is not the only thing distributed, but also the processing power... yes, I think that would be interesting.
+
+
+Are there Glass-like projects that are completly open and if not why not?
+
+In general lambda hat is going to be open. Yes, I personally think a personal wearable computer is going to be a big part of your daily life. An always on PC on your body is going to be an essential feature of your life.
+
+What are your thoughts on narrative clip Memoto?
+
+It's interesting, it's microcontroller-based, its not as easily programmable. You get battery life improvements. I have never actually touched one before. It's a life logging device, but I think the more interesting thing are more general computers. Essentially you will have to be able to SSH into it.
+
+Google Glass something something is quite obvious, where do you see the difference? - Brownies something
+
+I still think they are similiar in the debate that they are bringing up, so yeah...
+
+You said that Google doesn't want to store all the pictures on their servers, so they will be stored on our computers, can you explain that? I think they want all data they can get.
+
+I'm not suggesting Google wants to keep the data on your devices, I think the users want that. I wasn't suggesting that Google wants distributed storage.
+
+To the Brownie aspect. Kodak wanted to sell cameras, they said you push the button, we do the rest. We look at the device not as a processor what are you interested in, for example, when you see a face it gets distorted, what no idea...?
+the question was (?)
+
+This is the augmented side of things. Glass is not doing augmentations, you can't overlay on reality. The battery life would be even worse. The screen is not large enough etc. there are some thing you can do processing on Glass, but you cant distort reality. We are further off from that.
+
+Interesting side of things regarding privacy i am really interested to know where do you propose to limit privacy violations legaslative could work?
+
+I think the one thing that worries me than the rouge person on the street is draconian gov legislation and policy. I can't even imagine what they would be able to come with. It would be influenced by money, power etc..
+In US I am worried of state solutions, they always seem to cause negative side effects. There is two things, the right to not be photographed and the right to photograph. The question is where do I personally draw the line or what is my opinion why should that be projected on society. Honestly thats a very complicated thing to answer. I don't feel comfortable with coming up on answers on the spot. If I just have to choose one.. it's relatively easy to record people on the street, I would say lets not make it illegal. I'd go more towards the photographers rights. You could always wear a kind of mask or hoodie.
+
+[Transcription aborted]
+
+what is the state of the bootloader, there was a vulnerability that allows looking at it?
+
+what i was referenceing was a wonderful writeup about a sec vuln to root your glass. it comes OEM unlocked you can do fastboot unlock and unlock the device. if you relock the device later it doesnt get resetthe flag so you can break your warrenty. there is both the google section and the false security vuln to gain access. that is the state of the bootloader.
+
+[ end of talk ]
+

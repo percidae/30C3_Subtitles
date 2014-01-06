@@ -1,0 +1,523 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ x] English  
+(the orignal talk-language)
+-----
+
+
+
+--------------------------------------------------------------------------------------------------------
+Many argue: surveilance is not an issue in India.
+
+What the hell are you talking about.
+
+Hey, there are sattelites in slums.
+
+But they do have a sattelite.
+
+They also have cellphones.
+
+At the same time most poeople in INdia do have cellphones.
+
+According to they are social
+
+So, that's pretty much the majority
+
+Most surveilance in INdia is carried out through mobile networks,
+
+Which schemes and projects
+
+Basically who is providing technology.
+
+So in India theere are five laws which ... surveilance.
+
+I am not going to focus on the previous four.
+
+the reason for this is,
+
+So first of all I am going to draw attention to
+
+Oh my god what the hell is this about.
+
+Then there is section 66a.
+
+There have been lots of cases
+
+The section states that anyone ... will be punished.
+
+As a results of that they shut down.
+
+And then the other girl next to here. Because they dare to do so,
+
+And because the girl liked it.
+
+What kind of abuse and power
+
+Then there is the famous section 69 of this law.
+
+This section allows the interception of any information ...
+
+ONce its intercepted ...
+
+And this section goes beyond that.
+
+This is bizarre to say the least.
+
+Generally the law states.
+
+... and hell you are using encrption ...
+
+Then there is section 80 which allows police to seize suspects in public places
+
+Then under this law ...
+
+hey, most people in INdia don't have computer - most people in INdia use the internet through cyber cafes.
+
+And to retain such records
+
+And then upon request they can
+
+Literally if you use the internet through
+
+So, these laws
+
+However there are license agreements which do.
+
+In order for them to operate they have to
+
+IN India the...
+
+So essentially 
+
+Now anyone can argue what kind 
+
+Well like I said they can operate if they want to.
+
+IN general if you use encryption
+
+The only cases
+
+And still I am guessing in oder to give this permission...
+
+So, technically India makes everathing
+
+This applies to both ISPs and TSPs in INdia.
+
+IN particular there is a section under this license agreement
+
+Mass surveilance is not legally mandated.
+
+And then of course there are the MLATs.
+
+INdia has such MLATs with 35 countries, including the US.
+
+So first we have some data sharing projects.
+
+So first of all there is the national intelligence grid.
+
+So what that means basically 
+
+So when the government wants to access.
+
+That way they have a clear idea.
+
+Then there is the CCTNS.
+
+Essentially what it does, it links the databases.
+
+Hey they want to tell a story about you.
+
+The worst part is that..
+
+On top of that we have other schemes.
+
+This one basically operates on two levels.
+
+Essentially all mobile operators in India.
+
+With the regard of 
+
+And that way all traffic is intercepted by the governents.
+
+By the way, Assam is a state...
+
+It's really creepy..
+
+However wo do not have proof of that.
+
+The reason why we don't have tenders for other states.
+
+But what we doknow is very limited.
+
+And the it gets worse 
+
+Now the CMS ...
+
+This April, this year, so four years later.
+
+Only now we know about it.
+
+Everything. This is basically a project
+
+It's implemented by the department of 
+
+Since its implementation we kknow that 72$ million have been.
+
+Its probably more than this. This itself is 
+
+They are investing in 
+
+They are very secretive about it.
+
+Based on that all TSPs in India hat to install Lawful Interception Systems on their premises.
+
+So, now they have integrated those two systems...
+
+So every state in INdia has a Regional Monitoring Systems.
+
+This data from the ISPs goes directly to...
+
+So what has already been done in regards to.
+
+So, it's safe to assume that this project is way ahead.
+
+Most of it is being carried out.
+
+Most of these services have been fully
+
+So most people in India use
+
+We know as a fact that if you are using one of these two providers.
+
+What we also know in addition to this, that the government uses
+
+What is very interesting, that the government
+
+Oh damn we received so much criticism
+
+Theay actually came up with a list why the CMS is actually privacy friends.y
+
+We just automatized it...
+
+It says that ...
+
+When it is necessary or ... to do so
+
+Basically we have these
+
+Therefore of course this is privacy friendly.
+
+All data from TSPs goes directly 
+
+By theay way 
+
+So what that means, 
+
+And they will give it to them.
+
+ I am not sure how that's even possible.
+ 
+ And the last point is that the CMS will include a non-erasable command log of all provisioning activities.
+ 
+ However ... who is going to have access to it?
+ 
+There is no checks and balances whatsoever.
+
+I don't know - I am just presenting the other side.
+
+It's up to you to decice
+
+The reason why I had this, a few month ago the Indian government signed this agreement with Blackberry.
+
+However it remains unclear
+
+It's not even clear what it is being carried out under.
+
+Now, the UID, why I included
+
+So the UID scheme is the largest biometric 
+
+So to give up their biometric and also some other data
+
+And under that
+
+The MPR requires you to have a UID
+
+... you have to have a UID.
+
+So eg. if youre an INdian... you have tot have a UID number.
+
+So also if you want your kids to school
+
+So there are loads of government services.
+
+So although its voluntary.
+
+the reason why this is 
+
+In which sense. The government has to
+
+So how do you make sure, that this data you have access to.
+
+The UID supposedly verifies that X data belongs to X person.
+
+Hey it's you. It's your data.
+
+Many of the contractors of the UID have links with intelligence agencies.
+
+So this itself is a very vulnerable system.
+
+It's so easy to fake your fingerprints.
+
+So using the system to verfiy system.
+
+Now, this here is a actual scanner for the system.
+
+They use this to collect Indians fingerprints.
+
+This small scanner, this scmall box is really important.
+
+So feel free...
+
+The reason I have this, all these schemes are like a type of honeypot.
+
+Although they argue: all theses systems are
+
+It does not not make any fucking sense.
+
+So that's what we have to the schemes.
+
+Which companies provide the technology.
+
+Initially I had a 
+
+And what I did essentially
+
+So here you have the list of the fifty companies.
+
+The least harmful  company is Legend Systems.
+
+Now the criteria I used to rank these companies.
+
+So basically 
+
+How much data do they actually capture.
+
+It captures much more data than a biometric device.
+
+I ranked ISPs and TSPs as the most harmful.
+
+18 of them sell phone monitoring solutions.
+
+A big amount of these companies sell phone monitoring solutions.
+
+Then out of the 50 companies 30 of them sell 
+
+And what's very interesting 
+
+The other three are
+
+Ten of them were from other countries of the world.
+
+This sounds really problematic.
+
+At least I comply with the regulations.
+
+Then again only 19 companies are certified.
+
+And so all theses companies are handling
+
+Now only seven of them are ISO 27001 certified.
+
+Then only 19 compnies have privacy policies.
+
+And they don't even bother to pretend they care about your personal data.
+
+If your are selling various...
+
+I care about your data. It's probably not true.
+
+And that's really tragic, it sells mobile spyware.
+
+It only sells biometrics.
+
+So when you have a company 
+
+They can use biometrics to target.
+
+With regards to 
+
+First of all there is KOmmlabs.
+
+So, they have a whole range of internet and phone monitoring solutions.
+
+The first one is VerbaNET.
+
+And then there it is VerbaCENTRE.
+
+Make sure you don't have stress in oyur voice.
+
+And another harmful company is Vehere.
+
+Essentially what it is able to do...
+
+And it's even able to detect sleeper cells.
+
+This is an indian company.
+
+Yes, I completely agree. 
+
+In some case theay are even more scary.
+
+Paldion Networks
+
+They sell
+and cyber cafe monitoring systems.
+
+What's very interesting about this company.
+
+And that's very interesting
+
+The more open a company is, the more dodgy they are
+
+And then ClearTRail. 
+
+They have a whole wide range of products.
+
+Now QuickTrail is
+
+What it does it is able to monitor
+
+So if you think you are safe ... or through a hotel, think again. It s very likely that your communications
+
+MTrail what it does over the air interception 
+
+In 2011 there were these allegations
+
+And following this ... ban all interception in INdia.
+
+So actually ... in the middle east and in other Asian countries.
+
+But hey, even if we talk about democracies.
+
+They surveillance is crazy.
+
+There is no provicy legislation whatsoever.
+
+Which mandate that all you communication is intercepted.
+
+And yet there is no privacy law.
+
+There was no debate
+
+The government does whatever it wants.
+
+It knows what's good for you.
+
+This itself is very concerning.
+
+When a government doesn't even try to get some public consent.
+
+But India that's not even the case.
+
+That itself is extremely problematic itself.
+
+The questions comes on to : is privacy dead?
+
+They don't have necesserarily have the concept of privacy.
+
+Privavcy ensures your autonomy as a human being.
+
+IN INdia theay do everything to violate this.
+
+Hey, if the government does not want to ...
+
+Right now this is still the beginning.
+
+And acutally we will regret it 
+
+We won't even aknowledge it as a problem.
+
+And hell we won't resists to it.
+
+The ultimate of our lives.
+
+If you dont want to be totally controlled.
+
+A lot of poeple will have access to the Internet.
+
+So it's unlikely they will takkle the government
+
+So it's not about India.
+
+Q&A
+
+Q1: You did not talk about. Is this information
+A1: It's not clear what the CMS does. HOwever you are right, getting a card is a complicated process. You have to give them proof of address. HOwever nonetheless most poeople go with the bureaucracy. I mentioned before.
+
+Q2: Thank you for your great talk. This is really scary. Can you talk about the political motivation about the mass surveilance in INdia. I don't know what the official motiviation is. So like in the west.
+A2: Actually terrorism is more of a problem in INdia. So, what you can say, since 2008. So since the Mumbai terrorist attacks, we the implementation. So all these projects. So I think it's safe to say. So yeah, they quote crime and terrorism as a reason for this. Because most people in India. And this makes it very hard for them to access government services. Then with regard to child pornography. Pornography is illegal in INdia. They even came down with this Cyber Security POlicy. And that they share intelligence. But in my personal oppionin a government. Because what you are doing. You are hoping this will make sense. I think they are not really smart about it. Oh, the West carries out . They just intercept everything and monitor everyone. I think partly they just copying the West. Because every government knows..
+
+Q3:
+A3:
+
+Q4:
+A4:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

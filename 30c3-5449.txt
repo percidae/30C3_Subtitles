@@ -1,0 +1,220 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Mobile network attack evolution" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+
+The language is supposed to be: 
+[ ] German
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Thank you very much and good evening.
+We're here to talk about network attacks.
+And we want to give this a new spin.
+...
+Make sure that we dont keep recreating old results
+look at later stages of attack evolution
+Introduce dynamics for everybody to make netwsrks become more secure
+
+My primary goal today is to enable all of you help 
+
+In the end for us security researchers
+And again, here we wanna check on the network operators and force the protection that we deserve.
+
+
+A large part of the user base is remotely infected via simcards.
+Anybody can intercept ur calls at any time.
+Fornce operators 
+First publicly discussed sim card attacks in august this year.
+three classes of vulnerabilities
+first fragment ist the ability to send bin textmessages over netorks
+no such thing of network neutrality in .
+
+
+
+
+Sim card attacks, the topic of this year, where networks found themselves in a critical situation,... there has been a fruitful discussion in the industry, with fuitful discussion in the industry, but not enough,... really anybody can intercept your phone at any time,... we first discuss SIM card atacks in august of this year, after a few months of respibsible discloruse. We found a combination of 3 vulnerabilities, which led to potentially, .... the abliity to send binary text messages, from one suscirber to another suscriber, so carriers,...the second thing we found that the services that these messages reach on the sim cards are often badly protected cryptographically,... sim cards sim use old keys like that. And thirdly we found that applications that ou can install through those,... and then access all sorts of data on the sim card that no sorts of data was supposed to access on the java.,... They put in filtering, so that the SMS messages wouldn't reach the phone anymore, and they upgraded desk ? keys ,to triple des to prevent that. ... so I want to go into the first two categories.... 
+So let's look at filtering first, and what goes wrong with filtering. Many networks started filtering, when we presented this publically
+what didn't understand though, how much broader the vulnerability class is
+if you tell somebody that they have a problem in the TCP stack, let's say in the linux implementation is also present ont any other tcp service (test on port 22)
+and as bunches of ways to format an SMS to reach the sim card
+in particluar some android phoens will look at the message and discard it if its not properly formated.
+so, the implementation of the android phone took the easy way, it will decide what it wants or what it doesn't want
+even normal user messages even get forwarded to the SIM
+when we talk about tools we may perhaps enable you to do that type of testing
+the second area when the industry response fails to 
+the problem with tripple des keys, is that you can break them in a matter of minues with rainbow tables
+we make sure that everything is tripple des in our SIM cards, or at least those who were des, we patched them to amek triple des
+there is a collection of keys, up to 15 keysets
+and those keys have a specific type
+And the application gets to chose, which keys get what level of access. What seemed to have happened in August, is that the networks
+And then the DES keys they had them upgraded to triple DES. However we find a whole number of sim cards in a similar situation
+So you send a command to that SIM tar ? specifiying this keyset, and you're not required to use encryption.
+This sim card will accept and yommand sent to it . And again, it would be an obvious thing to check for, but it requirtes a deeper level of understangint than more developers have ...
+Industry has to think througs those attacks...
+to make sure it get's across very visually, I'd like to get Luka to demo the attack, as we think it would play out in the real world. And as one sentence as introduction, this is coming from a very recent sim tcard that we picked up when we started playing with the iphone 5s fingerprint reader. 
+So, as asdfasf said we found this particularly 
+I'm goign to show you what can we do to bypass the filters that operators have now. So we put into the phone, I have here a BTS that emulates the real operator netowrk (of course that's a default way to bypass any type of network).
+My BTS is sending some SMS. 
+It thinks it's the home network, I send my application that is completely installed without any warning on the iPhone, yeah, I want to show you something here. So this is the first command, it's a delete, since, uh, it's a delete. Thats remote application management on e recent simcard.
+
+This is remote application managment ona  recent sim card that requires no security at all. You can put in any...
+And now, the SIM car d is infected with malware, that sends the current location of th euser every 5 minutes to the attacker number. Since the iPhone doesn't show anything, I'll put this sim card in another phone...
+This is the other phone, I have ok, so, uh,  The virus stays with the card, independent of the phone.
+I'm going to turn it on now. Yeah. Yeah. Hopefully it registers to the home nwteork. Yeah. Yeah, it did, it did register. Yeah. So, we are actually replaying the attack again, just for fun. Oups. Yeah bare with us, this si a complex demo, lots of moving parts. What I can do is delete the SMS. So is it trying something? So i stop my fake BTS now.
+Yeah, let it connect to the real network. Ok. Let's see. 
+That's actually a nice, nice, ok.
+Everybody got the idea roughly, right? He's catching the phone, and he can test the vulnerability by sending an sms
+When he finds an unprotected application, 
+and it will, every 5 minutes, send the current location via SMS, to his number
+installing the virus again? it's installing again.
+yeah this was just the best case we found, he can actually in stall the application in side the sim, another method would be to...
+so this was the messages I was waiting for
+this was the only phone we found that would allow you to choose whether you want to send sms back to the attacker (APPLAUSE)  (?)
+the phone now sent the SMS to me, and I want to show now how it look slike
+something like this? yeaaah, nope. ah I want to enlarge this. So  in this little field, there is the little area, with the cell ID...
+so basically it's very precise location information about the user *claps*
+pnow to ersistant cinformareate tion osome on a modern simcard.
+
+to enable everybody to do these tests yourself, we want to release today this tool that condenses all the sim card knowledge that we collected over the years
+it tests for vulnerabilities that we discussed in august, as triple des downgrade
+but it also detects these more recent vulnerabilites. Scanning these 16 million vulnerabilites on a SIM card can take a long time one thing that thing does is to preselect attacks intelligently.
+so of course it can now communicate with a sim card. So if you have one of those pcie readers on the osmocom phone, test your cards and report to your network operators and demand the situation to be fixed.
+
+Applause
+thank you. um, looking at similar technologies, let's revisit the topic of GSM intercept. 
+
+Networks may be casually interested in fixing some bugs that they may have not fully understood
+Network operators supposed to protect us on all the frequencies we use, whilst 3G and 4G bring pretty OK technology, with pretty long keychains, normal phone calls still go through 2G which is basically technology from the 80ies...
+so 2g frequences are certainly still used by everybody almost every day
+There are two encryption standards A5/1 and A5/3 
+I would say about half of ht ephone in current use will support the A53 cipher
+To break A5/1, with  tools that we released some 5 years ago, you must have some attack surface. It's not enough tto have a tool that can break the A5 packet, you also have to know what is in this packet. 
+So you have to start somewhere to then get the rest of it. No spy agency would not have a bett.. So if everything becomes unpredictable it comes down to xoring random numbers. brute force.
+They worked hard some 5 years ago to ammend standards for this attack surface to go away.
+Pretty much every thing that is encrypted, is predictable - at least in phone call setup.
+It will then encrypt every single packet it sends, and expect the packets it receives to be encrypted.  ...
+(Null frames are encrypted too)
+This exact same message, was send, maybe a second earlier, unencrypted. When it switches over to encrypted,...
+Assignments to certein freßuencyies which are a small set and therefore predicatble too.
+All of this is to be considered as an attack surface. There are two standards, 
+the little bit of attack surfae that's left, is due to vendor specific communication, and this needs to be fixed, vendor by vendor
+a51 calls should be protected by at least tools that we can think of
+you'0d imagine that these fixes, these tiny software fixes, however we rearley see...
+so somwehere along the way, between the gsma and the 3gpp people who write the standards. 
+These things, should be pretty straight forward to be implemented. We've seen both ideas in the wild. 
+The samme attack services would open up for a53, if someone had a much bigger computer to decrypt it - a million dolar computer.?
+you don't have to mess wiht the key generation, it becomes much more secure. and in fact it did, 2 million times secure.
+
+And not just at one agency, every agencey has a spare 1 million to build a a53 cracker.  decrypt 
+now it's already outdated. if the next standard was developed 5 years ago A5/4 it's called
+But every sim card these days is a 3G sim card. So some how, we are always 10 years behind state of the art cryptography.
+and we want that to change. And again, we want you to help that change,
+It's not enough to standardize padding randomization,
+The first one runs on an Android phone and enables you to do network traces.
+they actually need to deploy it
+and here's 3 tools that help it 
+make some visibility
+first one runs on an android phone, and it will ask you to record network traces. These traces of course tell you 
+and so forth. The second tool , is basically the same ... ona linux computer. 
+And then the third pollibility, not just for your own phone, but also for anyone in the cell you're connected to. 
+One created this burst in brand and we extended it.
+We extended it just a litltle bit to make it more stable. 
+Any of these tools now help you to look at what ... your network is using
+We would much appreciate if you shared some of this infromation with us. 
+To make that even easier, we make all these tools in a live ISO that you can boot from a USB stick and use it
+And it has the catcher catcher  to send data an website called gsmmap... detect imsi catchers in your vicinity... gsmpap
+Much more usable we hope. So, here's the new gsm map. This now interprets a lot of network traces that many of you collected over the past few years.
+For those countries where there are a litle bit of data
+T-mobile for instance, the hgih flier here, they had a big drop in network security, by switching off some of the randomization earlier this year. But after they did that...
+This now on an aggregate level tells you how secure your network is.
+Other poeple using your phone identity, to conduct some transaction. 
+And you see how networks differ in these categories. these by the way were..
+but thank you so much for all of you that all of you sent in from all these places we hve ...
+a lot of striped and white countries that we hope to complete 
+hopefully with the tools that we release today, it will become much easier
+For those country whe have a lot of data, we release a set of report explaining the data.
+
+Rank the networks and explain how we measure these things
+What types of transactions are authenitcated and all sorts
+*applause*
+thank you. So if your coutnry is one of the twenty seven, we'd love for you to read the report, and if it istn't
+laughs*
+so that's GSMmap, the new website, and you saw all the tools that are available now. you may notice that gsmap doesn't have security measures on sim cards
+We'd like to start calling out networks that do bad security on sim cards
+So there should be a good chance that if you have a few sim cards at home, you can find at least a few that you can find vulnerabiites in. 
+Just about ready this morning, after many months of working on them
+there's just a long list of poeple who contributed a month or two
+thanks to the open technology fund for helping us fund this, and ...
+thank you for all of you for using all of our tools for taking it to places we could never have imagined. 
+thanks, thank you very much. 
+
+Ok fuck this I'm not doing questions.
+Or do any 
+Two questions from the internet
+First one: there are still many low hanging fruits, what about ss7 networks?  Did you investigate their way of communicating with each other, ...
+SS7 is another old technology that was built with a wrong threat model; basically everyone that connects is trusted.  but all have to connect.  pople find ss7 vulns wherever they look.  same kind of topics come up in ss7, where you want to block unneeded traffic.  people find implementation bugs in the boxes that are connected; very hard to reasearch; expensive, everyone who runs them will put you in jail if you ever attempted to break
+ss7 unfortunately inst really prime for open research; it requires a coevolution where networks let hackers in where other hackers ...
+definitely a topic with lots of low hanging fruit no easy way to research it
+
+second question: has there been any testing using parallel application on the sim card to block secondary apps on the sim card, or did you investigate any other way to block
+the answer is you can put all kind of proxy stuff in between your phone and your sim card.  but that means you carry a little computer next to your phone whenever you use it.  a forensic toolm no practical way to get a phone to give you that level of access, even on Android, the part of the OS which speaks to the sim card is more baseband, or at least proprietary device driver type.  i can't think of any usable phone where you can implement a sim card firewall.  but i'd love to learn about them if they do exist
+
+any upstream vulnerabilities from SIM to the phone OS?  such as an iphone?
+we haven't investigated; wouldn't think it would be the most fruitful vector. Because the interface between the baseband(sim-card) and the phone is very defined, narrow.  interface from baseband is much wider, much more protocols to explot targets
+
+3: you showed protocol by country.  would it make sense to look at smartphone by country, for instance US?
+we occasionally come across a country where there are config differences within country.  we tried Germany and but they role out A5/3 location by location.
+goal is to implement security functions everywhere.  security patches don't get deployed everywhere.  currently it's just averaged.  what we need is more data.  berlin is dominating in our measurement set.  thank you ccc.
+
+4: simulating a BTS.  i was wondering if you were using any of the known OpenBTS or osmo BTS. 
+
+It's a patched version of openBSC/openBTS 
+
+they're very very useful.
+
+4: banks and other organizations love to send one time tokens over sms.  from what i understand of talk, would it be within the range of a regular criminal to exploit and steal those tokens?
+
+with a5/1 yes.  you have to be close to them, within 2km.  it's unlikely the person who infected your online banking; unlikely same person will vuln and be your neighbor.  with the sim vulns you can do more, forward SMS, route calls, etc.  the only thing you can't do is read SMS -- banks got lucky there.
+
+intenret: wouldn't it be easier to invent a new network from scratch rather than use these protocols?
+
+things don't really pleup.  one reason for openbsc was availability of cheap old basestations, during the 3g upgrade.  same with 4g now.  as 4g is being rolled out over germany, everything is being upgraded.  there is't much legacy in the hardware, but the protocol.  it's just the logical legacy, i don't think there's an easy fix to that.  this is very high scalability engineering where things hvt oe work in extreme corner casers.  at the investment that a single 4g network costs, a single one, you could probably upgrade the entire world to a5/3.  in the end, it's single lines of code.
+
+3: for tools that you're ordering, can they work with passive monitoring devices.  
+i think that's more focused on being a bts than a sniffer device but i think you can use it as a sniffer device.  you just need to process the data in a different way.  use an osmacom phone.
+it does so passively by latching onto a cell, hearing what's happening on broadcast, as soon as cell starts communicating, it jumps to frequency. c139, $12 in china, most common.  i don't think there's any reason to reimplement for another platform when it's $12.
+
+I: actually some people are complaining that they have no signal in the room, could that be caused by you?
+
+we add choices for signal, we don't take them away.
+
+i ask for applause for karsen and luka.
+
+
+
+
+

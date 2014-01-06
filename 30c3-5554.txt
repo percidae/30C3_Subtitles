@@ -1,0 +1,536 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Magic Lantern are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Thank you so much.
+
+Ok... Hi everyone. So... uhm.. Magic Lantern.
+
+I wanted to put so much into this talk.
+
+And I did this talk in different formats in different places - in Linuxtalk for example, this year in Berlin - and sometimes it's a crowd that is more technically interested, sometimes a crowd that's more interested in fimmaking, in that part - and I think with magic lantern it all kind of comes together...
+
+So some people are really using it for documentary film making or for short film making and
+some others are using it professionally for advertisement and that stuff.
+
+And since the project has really grown a lot in recent... in this year, mostly.
+
+So you get all these different kinds of people under one project.
+
+And also, I 'll try and keep all the philosophy behind it out because I want to make this a more practical talk.
+
+But maybe you just can keep in mind that a lot of stuff is reflected here.
+
+For example the talk two ears ago by Doctorow about "The War on General Purpose Computing", the fact that everything is a computer now, like a car is a computer with four weels and that stuff, and here you've got like: a camera is a computer with a light sensor and some input/output (and some code signing) I think that's what's happening here as well.
+
+So keep that in mind and see how it all comes together while I go through the more practical side of it.
+
+So what's Magic Lantern?
+
+It's obviously a free open source software team project.
+
+It's  a collaboration from people from all over the world.
+
+It all started with one guy in america, he figurerd out how we could sign our own firmwares.
+
+And from there on it was all about figuring out the internals of the camera, finding hooks into the system and getting in there.
+
+Figuring out how the different chips worked together and what we can do with it.
+
+Like trying to find out: where are the hardware? What are the physical limits we cannot get over but what can we archieve in software.
+
+And it's developed just by hobbyist, by some people in their spare time. There's no money involved. We even stopped donations because we wanted to play it safe for the moment.
+
+And so I'll just try and give you an overview about how it all started with DSLR's in general.
+
+How did they first start to make movies with it? 
+And what happened next.
+
+So basically such a camera here... that's a 5D Mark 2, by Canon.
+
+And I think it's five years old now.
+
+It's not the newest model. There's a 5D Mark 3 by now, there's much cheaper cameras, but stil you can get this one for 
+
+If you compare the functionality of this thins after you put Magic Lantern on it with ... professional ...
+
+A lot of things you have to be aware of
+We try to have this functionality and not for film making. I'm pretty interested in film making so I'm going to talk a lot abou tfilm
+
+movies done with DSLRs.
+
+There can be situation where it makes sense. For example 
+
+I've tried to amke a list of challenges. ... DSLRs, you cannot compare them to cameras ... trying to give options on how to fix that.
+
+there's no autofocus. A film camera, a digital camera, you expct the camer to have a proper autofocus. These things don't hvae autofocus. You have to get a feel for it. They introduced autofocus but in a very simple way up up until now you have to do it by hand.
+If you do a short movie or something you probably don't want to wory about that too much.
+
+You know where you're actors are going to walk, going to stand.
+But if you're doing a documentory where the scene happens only one time
+
+You just have to get a feel for it.
+
+Then there's rolling shutter. The sensor isn't ...
+For example I think you'll know you're on a highway ...
+nothing we can do about it, it's hardware based.
+you can maybe 
+
+Then there's moire. These cameras have very big sensors. Not like the big film cameras from Hollywood.
+The size of your fingers, they're much larger, they cannot compress that amount of information in that time
+they're not reading al the lines from the sensor, they just read like every 4th line
+
+It's like a meshing moire pattern what happens.
+
+These cameras they record video on a consumer codec, h264.
+Every step is like a jpeg, it's not for changing it
+
+If you for example wnt to lift the black ... then there is some information at some point that is going to collapse. We found ways to figure that out, and I'm shooting in h264 at some times
+
+Color information is not that big. If you have a nice gradient on the screen ... the color information doesn't hold on. You can see those, but I'm going to that later.
+
+There's a recording limit of 4GiB.
+
+this limit is introduced because of laws in europe because you have to pay different
+
+in full hd you can go up to 30fps, that's ok, that what you're expecting from tv.
+
+there's no proper audio, there's no xlr input, it's not symmetrical with the exception of 5D3 which is not supported by magic lantern because we don't touch the higher level models
+
+if you got no timecode you have to do the syncing in your edition software later on and that takes a lot of time.
+
+there is hdmi output. You don't have professional SDI output
+
+also for most cameras if you hit the rec button and the camera starts recording the signal send via hdmi is 480p.
+
+So lots of problems but there are also lots of advantages.
+
+price
+you got the professional resolution and framerate
+it can be a good idea to use a small dslr
+nobody will notice like in the next 10 years police will probabyl
+
+also the rigs are not so expensive
+you can do all this on a budget if you want to 
+
+look up tables
+
+you want to keep the skin tones so you take a look up table and try to keep all the skin tones and throw away 
+
+the glass is not so expensive
+
+you can get some really nice glass for 40 eur.
+
+8 bit, the color information is reduced
+
+you don't have single frames, h264 takes a single frame and then 
+
+what can I offer you as a solution
+for audio 
+there was this fantastic functionality called agc.
+when there's silent in this room and someone says sssh they try to figure the correct gain
+turn it of, don't use it. Don't use the internal preamp as well. Use a good preamp. ... use you external amp, you'll get a much clearer signal
+
+there's special microphones that have a very high output
+
+for timecode and syncing there's a software called pluralize.
+what they're doing it is they're comparing the audio of your recordings
+then you'll throw all your files into pluralautio
+all this syncing by hand which is a lot of trouble
+like 2h
+for audio probably do it externally
+
+For video, I've talked about picture styles
+use a proper picture style
+information gets compressed
+
+that's a way to improve it. Don't do the sharpening of the software.
+
+turn it off and sharpen it on the computer later.
+focus pullinhg
+
+if you have a control situation
+focus quickly don't touch it anymore
+you can use a viewfinder
+
+if you're outside and it's very bright
+and it looks professional
+
+if you're shooting with nothing, no rig, no stabilization, it really helps
+it really stabilizes the camera a lot
+that might be a solution as well
+
+think about getting a rig at some point if you want to do proper shots
+
+you can easily exchange your camera through different tripods it's probably a good idea to use quick plates
+
+the idea is you put a little bit of noise on top of it
+you just dither it out
+
+before the mastering step you put in some noise to filter it out
+
+some analog recorded noise on top of that
+
+now comes magic lantern and the real fun part
+
+...
+
+Magic Lantern (Michael Zöller)
+
+Spieleentwickler
+Jemand im falschen Raum?
+
+www.magiclantern.fm
+
+Hallo Zusammen
+ich wollte viel in diese Präsentation bringen.
+Manchmal sind die Zuhörer mehr interessiert in...
+
+
+Ich versuche die Hintergründe nur wenig zu erwähnen und mich auf Praktisches zu konzentrieren
+
+Alles ist jettzt ein Computer
+
+Kamera ist Comput ermit LIchtsensor
+praktische Seite
+
+1.1 ML ist ein free os sw proekt
+
+Ging ursprünglich darum herauszufinden, wo die Grenzen der MÖglichkeiten sind
+
+
+Ich versuche euch einen Überblick zu geben
+wie haben sie zunächst gestartet filme zu  machen
+
+5d mark 2
+1,5kEUR - einigermaßen erschwinglich
+zusammenhang mit hollywood filmkameras
+
+es hat sich stark verbessert
+
+ich bin sehr interessiert im filmemachen aber wir haben viel bild
+
+Filme die mit DLSR erstellt wurden
+verwenden dslrs auf hemlen etc
+
+2.1 liste der herausforderungen
+
+kann man nicht mit großen kameras verleichen
+wir versuchen das zu kompensieren
+kein autofokus. Du erwartest dass die Kamera einen Autofokus hat.
+Also musst Du manuell fokussieren.
+
+wird noch besser, im moment aber noch von hand
+
+wenn du einen kurzfilm machen willst, wirst du dich nicht so viel drum kümmern müssen
+du weißt wo die schauspieler stehen und sich bewegen.
+wenn du ständig fokussieren müsstest wäre es di e falsche wahl
+
+rolling shutter - globoshutter?
+aus dem fenster filmen
+hardware-problem wir können nichts dagegen tun
+
+sehr große sensoren
+sie lesen nicht alle zeilen, sondern überspriengen 4 zeilen
+-> interferenzen
+Entstehen moire-muster
+kontrollieren, was die schauspielen tragen
+
+
+codec
+h264 (8bit)
+wie photoshpot in mehreren schritten
+coding nicht für solchen anwendungen gedacht
+wenn die chwarzanteile reduziert weden sollen
+
+ich filme meist noch mit h264
+keine 
+
+aufnhamelimit 4 gb bzw 30 minuten
+
+limit wegen eu-gesetzen (unterschied film-/ bild-kamera)
+
+full hd. bis 30 fps
+slow-mo bis 27fps
+
+ist trotzdem interessant, damit zu experimentieren
+kein prof audio
+kein xls-eingänge
++
+kein timecode
+mehrere kameras müssen synchronisiert werden
+
+hmdi output nur z.'T. vorhandne
+
+ beim drücken des startknopfens...
+
+
+vorteile
+
+sehr günstig
+professionelle
+
+dokumentarfilm in russland - willst nicht bemerkt werden
+stabilisatoren und zubehör günstiger
+kameras müssen reduzieren farbtiefe auf ...
+interview - viel gesicht (kamera)
+du willst dass die Leute natürlich aussehen
+Objektive günstig und viele vorhanden
+billige speichermedien
+
+
+2.3 codec chall
+- beweungen im hintergrund 
+h264 full frame every x sec.
+-> not i codec
+- editing complicated
+
+3.1 best pract.
+audio_ auto gain control: not controllable - ausschalten
+keine verstärkung durch kamera, nur extern
+spezielle mikrofone mit einen guten ausgang
+
+für timecode / synchron
+- pluraleyes - gute software
+audios werden verglichen
+sehgr gut auf framebasis 
+sehr schnell 2h - ein kaffe, dann schneiden
+
+unterweg eines dieser geräte
+audio von kamera nur für sync
+richtiges signal von externem gerät (xlr)
+
+wird hell/ dunkel draussen
+wenn du den bogen raus hast
+das ist der weg, das zu verbessern
+schärfen ausstellen, auf dem Pc durchführen (
+fokussieren, dann zoomen zeigt ob der fokus richtig eingestellt ist
+nicht mehr anfassen
+
+viewfinder
+20e ur auf ebay
+einfaches display auf die kamera geklebt
+deine kunden mögen es
+wenn du ohne zubehör filmst hilfe es ungemein weil durch die 3 punkte mit körper verbunden ist
+quick releas plates verwenden schneller austausch
+
+wenn du h264 verwendest wills tdu konvertieren
+
+nur ein wenig noise drauf (sonst denoise) - dither als 10bit speichern, farbanpassung durchführen, dann analog drüber/ drunter legen
+
+
+wer würde ml verwenden
+
+Profis wohl nicht (Kohle spielt keine Rolle): zu kompliziert
+core hacker: vorischitig bei den änderungen 
+einfach mal probieren, önnte für dich funktionieren
+
+hudson startet mit 5d2
+firmware wird nicht geändert, verändern 2-3 bits nicht wirklich gefährlich
+du wirdst deine fw icht flaschen müssen
+
+viel der erfahrungen aus hacks kleinerer Modelle verwendet
+2010 - Alex the dictator (main dev and coord)
+2011 hdr video jeder frame bekommt ein separates 
+vor ein fenster sellen hell 
+über / unterbelichtet - mischen 
+probleme frame rate 30p
+
+weil manche videos von nachtszenen veröff wurden, die 
+vid sieht aus wie von prof kameras
+
+2013 explodiert
+ich erkläre das später, jetzt nur die Schlagworte
+wenn ich auf einem portrait-shooting/ vid-shooting 
+kann ich die situation nicht richtig kontroll
+
+auto-exposure to the right (ettr) 
+meistens etwas gefährliches 
+wir machen das automatisch
+neues raw format
+stark verbessertes auto exopsure feat 
+verb. scripting- gerade draußen, wir wieder hinzugefügt 2erdne
+modlulaere ssystem wie linux
+
+die meisten kameras wurden gehackt
+wenn canon nic hts veändert..
+manchmal unterschiedliche sensoren, etc.
+aktuellste version ca. 0,5 mio dls
+
+27k+ reg users
+
+von einem philosophischen standpunkt
+
+
+wie wir arbetien
+core team bringt alles zusammen 
+manche für spezielle funktionalitäten
+andere sür spez. modelle
+70 speziell weil 2 prozessoren, müssen 
+
+dictatorship: nicht wirklich, jeder kann beitragen
+steile lernkurve wir haben nciht allles dokumentiert
+sauberer code (außer kommentare9
+
+eine gute community
+
+installation ist wirklich schnell und sicher
+wir haben in 3a 4 kameras gebrickt- 0,5m dls zeigen dass ml wohl nicht das problem war/ ist
+trash button - nich t im previewmodus
+ausdiozuegs
+dual iso zwei kreise für das auslesen der sensoren
+global draw
+zoom nicht wärhend des aufnehmens
+so kannst du den zoom während des aufn sehen
+focus peaking sehr hilfreich
+ntersch belichtetet aufnahmen der selben situation
+
+
+
+14 raw fvid
+wird sehr stark reduziert - nicht-red. auslesen erwünscht
+14bit frame by frame - 85Mb/s
+so sieht es aus, wenn du mit/ ohne raw aufnimmst
+
+hard-/firmware - sehrts euch an, stelle ich bereit
+wir erstellen eine fw-datei die keine ist
+ermöglicht es uns den code parallel zur fw auszuführen
+ändern nur den debugmodus
+andere karte ohne ml - kein Ml- daher sicher
+
+
+
+rechtliche situation
+2,5 a - noch keine neg. rückmeldung
+wir schreiben eigenen code, kopieren nichts
+man muss argumentieren, dass es sich in ihrem sinne entwickelt
+
+
+wir wissen nicht, was als nächste s passiert.
+
+
+
+Vielen Dank
+
+Frage aus dem Internet
+wie wird pluray
+es schafft es.
+das vied wird in kleinere teile gesplittet
+
+suche folgendes feat: wenn auto belichtung verwendet wird, möchte ich optin haben, mehr belichtung haben.
+ich konnte es euch nichtg ehigen , der graph editor ermöglicht dinzustellen, wei die autop exp funktin funktionieren
+
+gps für sync verwendbar?
+
+42
+welche sw empfehltst du frü das schneiden der foootage o
+keine diskussion anstoßen aber wenn du komm verwenden willst - kein problem
+um das beste rauszuholen in 10bit konvertieren
+
+???
+usb interaction
+Ic h gleube es gibte eine app für android, die direkt mit ml kommunizieren
+ist glaub ich os
+
+interent frage
+beta oder stable release for 5d mark3 - vermutlich weil nightlies funktionieren.
+ein hobbyprojekt
+sobald man zu viel drukc auf die entwickler aufbaut...
+es wird eine stable verwendet werden
+wenn du n...
+
+
+scripting und ml bitte erklären
+wir haben mit vielem experimentiert - nichts gegen python, aber 40mc
+picoc beste möglichkeitt im moment
+wenn du eine scripting engine hast, die besser funk.
+api ist verfügbar?
+ja, 
+
+
+zusammenarbeit with canon?
+wir machen das aus spaß
+möglicherweise interessant für einige der entwickler
+was könnten sie euch geben das euch das leben erleichtern würde
+
+sie können keine probleme riskieren
+api/ doku wäre klasse
+
+
+7d experimentiert - stereo mic ext. rec.
+klares oder leichtes rauschen ...
+sehr spezifisch, damit kann ich gerade nicht verwenden
+unterschiel. audio-chips - daher kann ich ...
+
+
+
+focus points im enü erwähnt
+während der aufnahme
+du  speicherst die potition des motiors in der linse.
+
+weiche bewegung
+
+
+schon etwas von gewährleistungsproblemen gehört
+bislang keine probleme gehört
+sie ignorieren es
+
+
+350d zu alt oder interessiert es einfach niemanden
+einfach jemanden finden, den es auch interessiert, der mitentwickeln würde
+
+
+chdk
+
+
+???
+
+
+moire und rolling shutter sind die verbliebenen probleme
+
+die hw ist nicht in der lage so viel info zu skalieren
+
+mit einer wirklich schnellen karte kann man sogar einige sek über hd qualität gehen
+
+
+
+
+wie schwer ist es, die software auf eine neue kamera zu übertragen
+herausfinden was sie in der sw geändert habn
+adressen für funktionen suchen
+haben liste der funktionene nach denen wir suche
+succhen spezif. nach fkt
+hallo world manchmal in wenigen tagen
+
+
+

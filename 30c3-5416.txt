@@ -1,0 +1,171 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Desperately Seeking Susy
+A farewell to a bold proposal? (en)
+atdotde
+saal 6
+
+
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+{started 20:02}
+
+What you measure looks like this..
+so obvisouly there is something wrong with your prediction.
+this is predicted on the mas syou can see.
+the only solution is that you ar not seeing the mass
+yu need 5 times the mass of the atars that you see to get this rotation curve.
+flat rather than ..
+there must be more mass in the galaxy than there is the mass of the starts
+with this curve you can dtermine ...
+this mass has to be in the form of heavy stable particfle butnot electrically cahrged or strongly interacting. so heavy means that they are moving slowly, 
+much slower than the speed of ligth, furthermore they must move through the stars and everything that moves through the galxy without interacting with them or scattering with them. 
+they are not aligned with the stars and of course it has to be stable because these galaxys have been around for along long time. they wouldnt have been there iif..
+there has to be heavy paticle and stable and not intracting and not having anything signnificant interaction with the store.
+a wimp =
+no wimps amongst the known particle among the known specie sof particels.
+and the heavy particles, wouldnt be kind of non attracting with the stars
+so there has to be an additional particle 
+sujersymetry is such a particle
+supersymetric have aproperty called ahpardody thatn can be either +1 or -1 for...
+
+that means that you can only create new particles in squares. 
+so here, is the process, that you read left to right.
+these guys are supersymetric partners and ...
+so this one decays by .. a neutrino that ...
+there has to be an odd number of particles in the product..
+there is also a reaming supersymetric () particle.
+when they are created they are create din pairs.
+there has to be one after the decay.
+so ... even number.
+so that means if I have a super partner an it decays, there is always another super partner, called the LSP, it can not decay any further and it can decay....
+that makes the LSP has exactly the properties to expalin the dark matter and the dark galaxies.
+and finally close tomy heart.
+we are not stuck with particles htere are super strings that ...
+the only way we know to do this is also to actually create the super symetrical model
+so super strings also want super symetry
+
+so these 5 problems, of which i try to explain 3
+
+so supersymetry is actually a good theory to have
+what we look for. unfortunately a problem. we need  to break it ...
+we need the super partners to be heavy
+there are 120 parameters , compare to () parameters
+Choose 90 numbers of the standard models.
+The mass of the other electreons and particles.
+There are 90 number sy you have to measur
+for super syemtry you have to measur 120 particles
+so, if you measure something, like at LHC you have to be explicit
+you make an asusmption that the value of these parameters...
+with 120 para , plenty of reoom to avoid detection
+every measurment you make is relevant to some .... for some of these parameters
+so look for super sysmetry is a hard thing because you have to determine large numbers
+
+at Hadron collider at CERN you have a collider ring, this is the computer center, at several pioint in the ring their are detectors where CMS and ATLAs are big detectors that , the two beams that runn around here are acolliding.
+
+For today they are different but in principle are measuing the same thing
+there is another problem with hadron colider and that is HADRON
+proton are .... of HAdron and these are the things that are accelerated at the LHC.
+problem is remember in my artilce there is no protons, they consist of quarks. because of these energies popping out of the ..
+so a proton is a cloud of 200 particles... that are popping out of hte hadron
+you are not collding 2 protons but you are actually pick 2 protons and 2000 particles and collide these .99 ...
+its hard cause there is a lot of garbabfe flying around
+these collisions , have a ATV  distributed amonst these particles and this happens only a fraction of these. we have to look at a lot of these process and do statistical analysis and that is quit ehard.
+
+that is a pictur eof hte ATLAS detectro, this a person, so you can have an idea of how big this is. this is the detector, among the beam pipe , this empty spac eis filled with detector. this is the part of the detector, this is multi story building if you be there several sotries under gorund
+
+this is what the detector measure. the assympilation. the beam pipe is here in the middle and here they are supposed to collided and when they colide they go through sever shells of detextors .
+
+and the next shell they can only see the energy that is detected... by the yellow bars.
+only the .. reach the outter shell. this is how one such collisoion loks like and this is what you are seeing.
+
+now what whould super sysmetry look like. the smoking gun is that you dot see it.
+the light particle is not seen by the detector, you dont see it it. you only see the riest of the particles they seem to violate momentum conversation.
+so much of the stuff flies in the beam pipe and is not detected, but if you view the pipe and you see stuff going, but every thing is more to the right than to the left. so since the beam has no memomentum to the beam, in this collision there is something that went this way with lots of engery. so the tendency for all the rest to go to the right.
+and this is what super sysmetry woul dliook like. this is what we are looking for.
+
+and our expection for LHC was , acouple years ago i heard if not in 5 minutes or week we would find super symetry but when it was turned on, then even  (shows picture *laughter*)
+
+this is mass scale. an enegy scale all type os suerp symetral particle partners and all kinds that have created if they exsist they have to be 
+
+they are all mass bound all the usper partners have to be heavy and the process than these numbers. which is would have expected them at 100 gv. which is here. which is obvisiuly a problem.
+
+(shows slide ... there are knowns and unknowns...)
+
+maybe this was the minimal supser symetrical version. hven more particle, even more wiggling room to expalin why we hvnt seen ti so far.
+even harder.... or simply the 100gv suepr sym is not natures solution to natrions
+
+so do we forget suzy?  well maybe not really
+would have to come up with new solutions with these 5 problems that suzy is actually solving for us. not any good candiate is known. some are known but not at good at super symetry. super sym offers sol in particle physics but unfortantely it is not as easy as we had hoped
+currently LHC is not running , its, well people put more stuff tomake it runn higher collision rates, we hope in version 2 of LHC more collisions at higher energy at super sym , well if not we have to come up with more ideas.
+
+thanks alot!
+*applause*
+
+q: they run at most weekly?  i was wondering if you have some vents in the unvierse that happen in the universe with enormaus neutriioos and we should not expect wipmps between super novas and ..
+a: they have to participat ein some interaction or we cant observe particles. super nova is a very big energy concept, even this has a mass in micro gram.  me doing this is more enegry thant any plankt scale process. however, when i do this (jumps up and down on stage)  i am not a single particle. but i consist of 10 to the 23rd to share this energy and has more eneery but distrubeted to make up the star. so, yes and no. 
+
+q:  are there such particle that do not particle to interact ... should they enter in the galaxy and ..
+a: they only feel the mass, no, there is no friction to make them fall into .... (shows slide)
+here my pic of galaxy is a disc comes form the friction in cosmic evoltuion there was stuff lying around and three diamionsal thing and it has rotation and anglular roation and the starrs interact gravitationally. this complicate dof all the million of stars amonst them acts like friction makes this 3 dimensional bult that makse it fall back... this make sit go into the disc twith the angular momentum,... 
+q: gravity is not enough to build that gravitation
+a: no so
+q: should those particle to the hawking radiation......
+a: the anwer is no
+
+q: the mic works. i thought hte LHC advanage wa to ... protons but the actual condition take place with ... why didnt you stay with electron
+a:  my first point is that they are easy to accelerate. you want ot accelerate them in a ring and people did that in the past with the electrons. but when you put elec in circular wave they lose energry and they lose more energy than you pump in. by the acceleration if you want to acceleratate electrons you cant do this in sthese straight pipes here in deezy ... that would have ....
+
+
+q: in the diagram , you show an interaciton with super sym particle and you say the neurtino is injected,.. could we not see them or detect them
+a; no we can not
+we can detect them but not in th eparticle detector (?)
+q: can we not see the exceess of neutrino in the galxy
+a; yes but you remember we are only trying to see on
+
+q;  i try to get basic understanding. as i understand it but there sould be mass but heere is nothing we can measure?
+a: well we see light. we cannot see it but ..
+q; what is light
+a: .   that is our information. the light that reach us. we know that we ....
+
+
+do you feel properly enlightened?  *laughter*
+he will answer questions outside the door.  (the lounge is too loud)
+
+thank you Dr.  big hand please
+*appluse*
+
+
+

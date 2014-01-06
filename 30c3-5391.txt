@@ -1,0 +1,213 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Y U NO ISP are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X ] English  
+(the original talk-language) 
+-------------------------------------------------------------------------------------------------------------
+Y U NO ISP, taking back the Net
+(taziden)
+
+Why and how you should build and run your own Internet Access Provider, or at least try
+It was the first title i came up with, it's quite long, so [???] Y U NO ISP, [?] second title [?] of course [?] actually we are ISP, we are doing this, so this is the answer to your questions.
+
+I don't know you and I will elaborate on that during the talk.
+First a little disclaimer: we are going to talk about access, but we are not going to talk about hosting and transit. Those are very interesting issues, very important issues...
+
+but that's a separate issue and that's not the scope on the talk today.
+I'm going to focus about access and how to provide a neutral internet access.
+So I will start by giving you a quick overview of the network in France, the public network, the public ISPs: the are lots darkzones, we have no or bandwith, 
+very isolated; network neutrality is under heavy attack
+form different perspectives
+from the legislative point of view, from commercial ISPs themselves,
+from all sorts of bad people
+and ?[Google?]? also but they don't know what they are doing
+and there are especially stupid laws like Hadopi, and the ??? laws we had in France, and ACTA, and so on, we can continue a very long time with these bad laws.
+There is no diversity, there are very few commercial ISPs, 3 or 4, something like that,
+so there is a kind of monoploly there
+The network is very centralised, everything or almost everything goes through Paris,
+one person in the south west or France wants to exchange packets through the network with someone from the south east, the packets go to Paris, and then go back to the south of France, it's complicated, and that's not how the internet should work.
+So there is something to do on this, on the centralisation of the network.
+And of course, as there are big commercial ISPs, we are just numbers in a database.
+When we call the hotline, we are asked to wait for a long time to have a ???, that's not ?[how do you call it?]
+And there are lots of other issues on the network in France, but ???
+
+So there are several issues to address:
+First: help people understand the stakes: what is the internet ? How does it work ? It's not a box that you buy at the supermarket. Many people think that's the way it is.
+Make people understand that freedom of expression is at stake when it comes to port restrictions and things like that on their internet access.
+Another issue to address is how to provide public IPs, for making people capable of hosting their own services at home, v4, v6 and so on, have a neutral access, that's quite easy, actually, to provide a neutral access, but the big telcos continue to tell us that, "yeah, you know, the bandwidth is so big, the pipes are full, the network are saturated…", that bla bla shit.
+
+And of course a big issue which is the rural areas and how to build rural networks there to provide a good access to the internet and to put an end to this divide, this digital divide about the access to the internet.
+
+So how do we engage this fights? In France we come up  with a solution that I will present you. I've identified two key-points for me, but maybe there are others. First federating energies: we are doing things, but how do we build on top of this, how do we share the knowledge that we use to build our networks, how can we avoid to reinvent the wheel and to ask again the same question each in our little corners.
+So, at first, in France, there was an example to follow, FDN, it's "French Data Network". It exists since 1992, since then almost nothing has changed in the structure of the organisation: its a nonprofit oragnisation; at first it was plain old telephonic system, and then ASDL came in 2005. Well
+POTS has proven useful lately in Egypt and Syria: FDN provided international landlines for… call numbers... to give back the access to the internet to people there and all around the world. And FDN also provide VPN, which is very cool and they provide VPN for Reporters Without Borders which is even more cooler.
+
+..
+
+So, have you ever seen the ISPs routers?
+Because there are mines, those are the routers that are seeing my trafic when I am connected to the internet.
+
+So FDN is kind of "choose your own adventure book" now, not book, ISP!
+It's like you're the hero of the very service that you use everyday. You have your say on how it works, on everything: how much does it cost and so on...
+
+in 2010 FDN was growing and growing, the human scale that was very important, was starting to vanish, and then it was time to spread the word it was time to fork and to build other ISPs and copy the very same structure and the  very same concepts which were the basis of FDN. So 
+here came the FFDN, the Federation FDN, called in tribute to this old organisation, and in 
+2011 there were 7 non profit ISP founding this federation, counting something like 400 members and now we are 23 ISPs all over France, counting something like something like 1600 members and… spoiler, we are soon crossing the borders, because there are plans to build a non profit ISP that will integrate our federation in Belgium.
+You're right, they're amazing and you should support them.
+If you are Belgian, we can discuss and I can introduce you to this people, they are here today.
+
+So here's a map of this organisation.
+So we built copies of FDN locally to maintain the human scale. That's very important if you want to do things with people that you can meet them, actually on a weekly, daily, not daily, but weekly or monthly basis, because what we are doing requires human link, much more than bandwith and technical stuff.
+
+So, How do we connect subscribers?
+There are many solutions actually to provide access to internet. In France we have the chance, the opportunity to have ADSL backhaul contracts, it's not possible everywhere
+You can use 5 GHz wifi bridges to extend ADSL lines and so on, to reach the darkzones I told you about and soon we are going to provide fibre to the home next to Paris, in a small city, which is quite exciting, and no, the RFC1149 doesn't work, don't try it. I've heard there's a new one, the 2549 but we won't try it.
+
+So some examples.
+
+There is Rhizome, it's a student ISP, 
+they provide temporary wireless access, it's cheap, easy to setup, it's really the good example of how we do things on a case by case basis. The commercials ISP don't offer a cheap, easy to setup internet access in this city, where this ISP is located. Actually there are lot of students, they are not in the same place, they're all over the town and it's quite complicated  to give access to buildings, because they are not all in two or three buildings, they're across the city. So the students there came up with the idea of providing small internet at the beginning of the university year and so people come to the student bureau and they come back home with this kind of antenna and they put either relays or endpoints of this network all across the city. The funny thing is they also do rebound on buildings which is quite… well, at first it's scary, it's weird!
+
+And this is an example i love. this is tetaneutral.net, they are based in Toulouse, they are located close to the hackerspace of Toulouse which is called the Tetalab, and they have something great, they have the fibre to the datacenter which is 200 metres away from the squat where is the hackerspace, and so they provide wireless, VPN, virtual machine hosting, IPv4, v6, they have their own autonomous system, they are pretty much amazing. And they provide access in both dense zones in the city and dark zones; they rented a fibre to provide access through wireless in the south of Toulouse in the middle of nowhere. And they also provide access to squats which is really cool.
+
+They have 400 members, they exist since three years and they are already 400 members: it's amazing how fast they grow. There are approximatively half of these the people who are actually connected through the internet, it's difficult to know the number of people using the access because they provide access to squats, so we don't ask people to check in, of course. And they provide wireless upon fibre. And that's a photo I like, so I share it with you.
+
+We are doing this because because we gained more control of the internet. Not all the internet, but we add something, we add our own little network to the internet and we know that we have to some extent a control on this part.
+One important thing is that we built something local, friendly, human, this gives us obviously a better service. Not obviously, because some people asked me: Well, you're volounteer based, you are all volounteers, if the network goes down what happens, who do you calll? Actually you call your friends, because they're all your friends, and so you say Hey I've got no network, do you have an idea? Oh, yeah, reboot this and this and it works… Oh God no, stop this! Oh no, it's not like it, almost.
+One pretty thing we spread knowledge 
+we try to document everything we are doing but we are quite bad at it as we do it in french 
+for now, but I'm trying to advocate to go outside of France, as you can see.
+And we try to have some political influence
+the federation is quite small, , it's just 100 members, but we are listened by politcians, by institutions,lately we have been listened, heard by the national frequency authority about how to reuse the old television analog hertzian frequencies: basicly is the question is what are we gonna do with these frequences, are we going to stay with the licenses and fees to use them or are we gonna have a a good policy for networks like ours. So that's interesting because putting an umbrella on top of all these local initiatives give us the opportunity to have some voice.
+And it's fun, seriously we have very good fun.
+That's… some people build their router, modem inside this toaster… yeah, that's fun.
+
+So we decide the service we provide, we decide the prices, and when I say "we" it's… we don't have customers, we have only people doing things together: when you subscribe to one of these ISPs, you become a member of it and so you have your say on it. You can say "the price is quite, too too much for me, I have no job, how can we do this? At a group you can decide that for students with no job you fix a low price that will be financed by the others. That's something that you cannot do with a commercial ISP, like say "oh please…?" doesn't work. And of course we decide what technology we use and that's important, I won't learn you anything with this, and we share our wiki, mailing list, IRC: transparencies  are the core of what we are doing. We have meatspace meetings, because that's very important to meet people you're interacting with and with whom you're building things. And we advocate to journalists, politicians, small and medium enterprises. And there's a funny project we have about a small cinema distribution: we have friends that are running independent movie theaters and they asked us if we could distribute the movies they are showing from the distributers to the theaters and we were like "OK… what is the job?" "Yeah, it's just basically transporting the film from one point to multiple points" so I don't know if you heard about a protocol called bittorrent… We started to test it, it's quite efficient: you should have a look at it. And so [???] datalove: we share the same love for the internet and datalove all the things. It's what drives us, what makes us wake in the morning and say "Ok, the internet is again down, I have to go to the roof and see what happened and so on…" basicaly, we love it!
+
+OK, that's for France, but what about elsewhere?
+The possible obstacles
+The legal framework - I don't know the legal framework about telecommunications in all the countries, I don't even know everything about it in France, so it's quite complicated, it's sometime a mess, you don't wanna know what is going on in Belgium. There's the market, of course, it's not easy to have backhaul contracts, we really are lucky to have it in France, and one important thing, one important issue that you should have in mind is the community, the human issue. You're building something that needs to last, you're building something with not just machines, but people and something you have to take care of. Datalove helps for this, of course.
+About the european legal framework, I haven't done an extended review of this, but there is not much to help what we are doing, what is most importatn is the country regulation, there is nothing that I have seen on european level on this, like in France you just have to declare yourself as an operator to actually do this, it's just filling a form and  you're OK, and you're even not forced to d this. In Belgium you have to pay a certain amount of euros if you're not giving the service for free, so it's quite weird. Of course people pay in our [???] so in Belgium I think we would be considered as a commercial ISPs and so we had to pay 10000€, something like that, to start doing things, so it's quite impossible for us, but we are trying to do things. And there are things on the european level: with France and Spain, I hope this talk will give the opportunity for people from all around Europe and all around the world to meet and to start to discuss this. My experience as a volounteer for La Quadrature du net learned me that if you don't ask politicians to do things, they will do silly laws and stupid laws: [?] you have to hit them when they do stupid laws and then you have to propose something, you have to say "Hey, this would be better" and if we don't talk together as European citizens we won't have good networks, community-driven networks, so it's very important to think about that.
+
+Technical stuff actually is not a problem, like yeah, we can provide a 100GB of network here so… and even if is not a problem using free software: we are at a small scale and the bandwith we are dealing with doesn't require to have big CISCOs and [???]: we use Quagga, bird, l2tpns [???], we use freeradius, OpenWRT, there's nothing difficult: sharing is the key. If in your own corner you are doing things and you keep it with you, yeah, of course it will be difficult, but if you reuse what has been done elsewhere, yes it's quite easy. My example is the network I have built in the middle of nowhere in France, the network we built, we litterally copy-pasted the configuration files from Rhizome, the student ISP I showed you, so yes basically its copy-past all.
+
+So who's out there?
+In Spain there are Guifi, they have an amazing network with a thousand of nodes, wireless nodes, there is the Free Network Foundation in the US, there is  Ninux in Roma, Altermundi in Argentina, and individual networks in Germany, and there are others, there are plenty of others, but the problem is we don't know each other, we don't talk to each other, we don't benefit from the network, even in the same city. There's a funny thing: yesterday evening I was talking to some guy form the [Shuckspace] in Stuttgart, and he was very much interested in this. This morning I received an e-mail from a guy from Stuttgart who was running a non-profit ISP, a student one, with 4500 members, and I was like "What, they don't know each other and they are in the same city? What is wrong? It's not like we have the internet to know each other". 
+
+So commication and federaration is the key to this in my opinion. So I will introduce you to some kind of exclusivity (don't be too excited, or maybe… you will see). o we build a database at the beginning we thoght yust for France 
+we are asking each other 
+20 organisaton asking each other these numbers
+we build the database 
+is build with international scope in head
+with friendly isp you can 
+
+I will demonstrate you
+
+were are in the system right now
+
+oh its english (laughing) almost!
+so you can  find the closest isp to you... where im living in the middle of nowhere, at my place... you can see the closest isp to you.
+there is a wireless network here... you click on the organisation and you get the information, like the mailing list, the chatroom if you want to interact with people it just takes a few minutes to provide a new project you can automatically provide.. info, and youre done, its in the map.
+as i said. the features: there is information on isps, it is free software, you can patch it, fork it, whatever you like
+international discussions
+the idea I have in mind today and why I am here today is why dont we have hackerspaces.org for isps. why don't two people from the same city know there already is a big network ... to share some information 
+
+
+
+the batter of you 
+if youre interessed there will be a workshop in Hall 13
+
+Questions 
+Yeah, for example is it hard to get an autonomous system number? ip prefixes and to find someone for the BGP peering?
+It's really simple Requesting an autonomous system (ASN) is really filling out a form. It's quite easy
+they think about technical issuses... ppl who have tried to do this you understand that the technical part... its simple, we do it on a daily basis... you cannot edit the config file of your friend, that's the difficult part of 
+
+
+
+
+regarding the net neutrality: how hard is to stay under the radar or not?
+You do not have enough power to mess with big guys and mess with rules?
+The anwser to that is that basically no one . on the layer three... where usally the network attacks appeared... neutral networks... the big telcos don't care about us... we have our own IPs it just works.
+we have our own IPs, our own routes.
+
+there are things enforced by legislation... we try with the ffdn to be against it, to fight it....
+... that's a different angle to attack this kind of things
+
+
+thats some ppl butiltthir router inside a toaster
+we decided the price is 
+when i say we - ...
+when you subscribe to an ISP you become a member and you have a say in it
+you can say the price is quite.. it is too much for me... we can decide for ppl with no jobs/ students: "we have not money, oh please" doesnt work with big ISPs.
+we  share, use wikie, mailing lists, irc, ... we have meatspace meedings  which is very importatns... and there is a funny project we have about  cinema distribution
+we  have friends who are running .... theatres... showeing from the  distributors to the theatres ... basically transporting films... .i dotn  know if you've heard of a protocol callled bittorrent .. ist quite efficietnnt
+we share the same...
+
+ok that is the job 
+transfers one point to another  point
+have you heard about bittorrent? 
+we have tested it is quite efficient, you should look at it
+Datalove all the things
+what makes us get up in the moringng... baisically we love it
+ok the internet is again down, I have to go to the roof and…
+go
+
+
+
+
+the possible obstacles
+The legal framework - I don't know the legal framework about telecommunications in all the countries, I don't even know everything about it in France, so it's quite complicated, it's sometime a mess, you don't wanna ... in belgium... not easy to have .. contract... lucky to have it in france....
+you should have in mind is the human issue.
+... thats something you have to take care of. ... I havent done an extended review of that.
+about the european legal framework, I haven't done an extended review of it
+what is most importatn is the country regulation... in France you just have to declare yourself as an operator, in Belgium you have to pay a certain amount of euros if you're not giving the service for free.
+in belgium you have certing laws 
+you can not give the service for free
+
+in belgium where were considerated as commercial isp and have to pay 10000€, something like that, and then you can start doing things
+
+
+
+there is a market of course its not easy to have background contracts
+one important thing, one important issue that you need to have in mind is:
+the human thing
+
+
+...
+in france you only have to fill in a form to declare yourselves an isp
+
+
+
+all around the world 
+my experience as a participant of 'la quadrature du net': if there are politicans
+to hit them if they have supid laws
+if we don't get together
+is is very important to think of that
+

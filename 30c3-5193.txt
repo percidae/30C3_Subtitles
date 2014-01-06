@@ -1,0 +1,185 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Hardware Attacks, Advanced ARM Exploitation, and Android Hacking" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+en → de
+VOC
+
+
+
+
+
+
+What's up guys? How are you doing? Can everyone hear me? This is very unpersonal for such a personal community. I will try to make this as personal as possible. It's kinda thrown together.
+This is a very personal community
+
+there is a lot of pictures because hardware is tangible.
+Are there any black people in here? I can't see a single one!
+Maybe we need to start another community initiative to reach out to minorities. I appreciate the applause. Im steven. normally what I would do in smaller circumstances we would throw these condoms into the audience but on the condoms you can read prevent more whitehats. if you want some of those just come and see me, i'm the black guy at the conference. So you'll be able to find me. so lets have a little fun with hardware. I run a blog with stephen Lawler. we used to work together. It's a little bit about me. This screen is huge! never seen a screen that big. right there is a tv too, thank you. Im not crazy that is 
+I run a small information security consultancy. *reads slide*
+some of the stuff in the book, really cool hardware section, ill talk about some of these techniques in this talk. ill talk about how i discovered hardware hacking, im traditionally a ha
+
+
+we might have to skip through stuff like X stacking
+I was always really interested in hardware. I just really didnt have a way to get into it. I was really fascinated that a lot of pcbs and chips speak standart serial protocls. I was really surprised to find out about that. I started finding these serial enabled ICs in consumer hardware, analog to digital converters, BUS controllers etc. 
+we are talking protocols that you can intercept and look at the data and see intresting results. I slooked at x found stuff on routers. 
+HDMI and VGA have I2C? pins this is serial data on two wires running when you plug it into your devices
+its because im black, innit? I see how you all do in Germany! its alright. thank you. just a macbook pro. I hope I dont slip and fall. thank you sir.
+I found these interesting serial protocols on the PCBs and in routers. First thing i did I bust open my cable modem at home this is a broadcom chipset I found four exposed pins. I used one of the techniquesI explained in one of the other talks. I basically figured out it was UR?on those pins, or a serial console. I could watch the thing boot. we did a lot of fuzzing and got it to crash. there is a build in HTTP server running on the broadcom, for forwarding etc. we got it to crash. its MIPS. this was my first attempt at hardware hacking. I got it to crash what do I do next? 
+what we did was now that we know that this is possible, we can fuzz hardware devices and get them to crash 
+
+good to get started with GDB you can write test programs get comfortable with assembly and stuff like that. we compiled the troolchain 
+we basically did stack overflows and all that kind of stuff all in qemu
+
+than we wanted to procede on real hardware. oops
+there are a lot of systems out, rpi, beagleboard, many open source platforms. we looked around and settled on gumstix platform. It's used a lot in ..  its just a small PC? that runs on a micro SD there is a bunch of precompiled linux distros out there. eventually we used our own and got linux running on these things, they are pretty small the boards and there are expansion boards for ethernet etc for it. we bought a bunch of these and called it the lackluster hack cluster. we have gone from completly software emulated to hardware and started doing the excercises on hardware
+we figured why dont we just give it to the community and pack it together. we started distributing some of those as crackmes or own mes and people asked why dont you do a training for it on blackhat, we probalby do that but we didnt have much of real world applications for it. we did it on older devices ?
+
+now we have some explotation xperience we put it to a course lots of people have taken it it always sold out fast. we made private courses all around the world. it teaches us we are in the post PC environment its about stuff you have in your pockets. there is an intereste in this stuff ppl want to know how to own mobiles. 
+we did quite a bit of research on this kind of stuff and X its about turning into programming ?
+
+you cant run binaries from another system you need to find out how to run code that is already on the XHQ?
+somone explained ROP to a girl she said its kind of like on of those old ransom letters where you snip bits of newspaper to glue them together and form a larger message 
+when you can do clever things with small bits of code you can glue them together to do malicious things. 
+
+ill talk to you briefly about how we did those gadget hunting but its rather boring there is lots of stuff on the web if interested.
+essentially this gadget all is does is pop items from stack (see slide) and branches to R12. it removes things from stack, moves to registers and begins executing from stack. we put stuff on a stack through a stack overflow or similiar and then run one of those gadgets to run the stack. 
+we use it to circumnvet prevention methods and other stuff ?
+the huge taeavway from ROP is because you are piecing together small pices to do a larger function it becomes really complex. 
+methods like staggering memory. this is the channel of ROP. the huge takeaway
+again more rop stuff, how we built rop gadget. op left is function call gadget. rop payloads are essentially addresses on the stack, we are putting them on the stack. 
+its errorprone - we did a python script 
+
+we think this is very useful because it allows you to 
+
+one of the key things from our talks, several ARM modes. they have THUMB mode and a few other instruction modes. thumbEE special instructions to enter small bits of code.  (ah see slides. ;p)
+
+feature desgned for old feature phones, lots of javaEE stuff. what we want people to know, even though rop is hard or indirect, we have this varioous instruction modes. we are using bits of code already in the processor to run malicious code and also find more gadgfets
+
+this is a really great gadget for running a function. we have been using whaat
+
+same region of memory but idissassemble as thumb mode - some pieces supposed to run as 32 bt mode we can use tricks to use old code but run it in another instruction mode to do other things and get new gadgets.
+we teach some basic ROPs tricks. this is a really cool techniques, using the delta between sections you can learn about them downloading the slides
+
+
+If we take the same region of memory and dissassemplbe it starting at 3850c we get FD..
+
+we get a POP R2 R0 PC
+
+
+So we teache some other tricks alsow, some basic stuff when your doing exploitation, like scratch space. 
+
+
+we talked about sstack pievuts w
+
+if you have a ROP table you have built and it exists on the heap
+[..] everyone says JTAG, I was thinking coming from the SW world it must be a way to debug HW. I can read registers and stuff like that. Its not a silver bullet, every manufactorer does it a little different and every chip has to know specifics to debug. one of the things i learned is there is a huge misconscepption about JTAG. for 90$ you can get XX there is just a singlke executable on the chip you can plug the Jlink via usb in your computer and use geneeDB to talk to the hw. raffl riemand? look up that paper something about baseband processors. some company ?? made me a specific adapter 
+[..] this is from a specific project I worked on I didnt know which 
+I knew for a fact it had jtag
+
+This mezzanine connector is something called SMD, anyone know what SMD is for. It's surface mount. 
+
+It's meant to be surface placed by a pick and place machine. [..] 
+
+and thats how circuits get gbonded to pcb's
+It's not meand for guys with big clumsy hands like me
+
+It's called a smartboard? made by a guy in nebraska.
+
+You can attach the slightes bit of the tip of a soldering iron. It will bond the chip with the board.
+[..]
+The leads connect out to jumpers. [...}
+
+And from this I can go back into the jlink, and from there I had a jtag connetion to the Point of sale system. 
+
+S we can get debug acces to stuff. 
+This guy chris and me we were looking at the schematics, the manufacturer gave them to us. 
+
+Remember componentes are soldered to the board with an alloy 
+chipquick is a alloy but it has a higher melting point so we can put it on the solder and it will keep the solder liquid longer so we can pull the components off the board. now we have the chip free so what do we do
+Is there a universal reader or flash programmer. 
+we us celltech? to pull the firmware and load it into IDA. Sometimes you get file system images. there is a lot of how tos. 
+we will do a course hoefully this year at blackhat.
+
+so we found a device called pod gizmo its a 30 pin cable that gibes you these headers. 
+[..]
+So I'm pretty ghetto, I use a continuity detector for most of this. It beeps when something is connected.
+
+So I use this a BK precision power supply.  .. you may want to power a small chip or something. 
+
+Travis device is awesome. 
+
+Are we good on time?
+Allright. so i feel like I might be boring you alittle bit
+
+so lets talk about how we can spy on thse communications.
+And in the hw hacking for software people talk we go into. 
+
+so this total. f device. looksl like this, remember we build this dock connection
+
+so we will plug he totalpahse into our really hacked cable. so it breaks out itno these little heather pins and you get a really gret reprentations of the data on the bus. 
+
+so we have ways to sniff and intercept data, how do we attack it? lets start putting stuff into the device. we got the Jlink connector there. we can port forward and have GDB? running and attack the device. we can use X to generate traffic but how do we attack? we can use the face dancer. 
+we can get crashes by fuzzing. 
+and lots of devices implement their own usb stack. and we can get a lot of juicy bugs by investigationg that attack surface.
+that stm 32 chip i showed you earlier the one we ripped the firmware out of will also build libraries to implement some of these stacks, usb, iap or ios something? 
+and this manufacturer actually does, they call it IAP implementation. 
+skipping forward. how do we inject th-
+facedancer 10 and 11 and a lot of time it required assembly but thats a barrier that is hard to overcome for SW guys. yourre used to python, you're used to ...for the community we got the idea to int3.cc its a community driven web store for informationsecurity related tools. 
+I, my company will front the cost. of assembly and shipping. if you come to me with a cool project and need help getting it to the masses we will basically pay for the manufacturing. we can ship to you in a few days. we sold hundreds of these things. mostly internationally from the US
+this is a modified facedancer21. Travis name is still there. 
+There is a website, int3.cc
+there was a media frenzy about the usb condom we just build it as a joke. we are running out of time but another project is osprey. its going to be a HW device thats basically metasploit for HW. if you want to do glitching you download a software put it on your device and can do what you want to do. you can create new firmware or just use prepared ones. the idea is to launch it as consumer product. it will be called tally. there is a small chip capable of speaking RF and X they are devices to monitor devices around you. monitor the temperature in your dog cabinet. sveral of those speak together and can react on events - transmit via bluetooth or X to your mobile phone and inform you.  to consumers its nice for that but developer also have a great research tool to glitch attack hack low power RF devices using custom firmware. right now you can sign up on the mailing list we will probably start a kickstarter later this year or something. osprey got onboard eeprom and microsd for storage its low cost low power it speaks serial it got expamndable mezzanine?? 
+some pictures of it. that is the idea, the dream. osprey for developers, tally for consumers. 
+So we can use it for debuggin. Those are the two antennas, theres one sma conn., thers one built in ceramic antenna,  
+you can attach a stronger antenna
+the newer version has two ftdi on it. 
+milestones are figure out how to get to consumer, do the kickstarter, community driven development, figure out how people will want to use it.
+Basically what I want you to know If I can figure out how to do that stuff, you can too. if you are smart enough to write software, this should not be a problem. we are stepping into a new awesome world f better embedded security. thank you very muchm hopefully we can make it hapen
+that is all I have, here are some url you might want.
+De datenkrake is a great example, ? is a great example
+
+Q So the chip you used the chipquik on, why did you not access the jtag directly
+
+A You can sacrifice one board, regognize an attack, and use it on another. 
+
+
+And there is a q on mike 2 please
+
+not a q, more of a . why did you desolder, why not use jtag, there was a guy gave a pres on jtagulateor, check that out it was awseome.
+xeltex 5000 is expensicve, adafruit sells a carrier, no software, but it's like 50 bucks. 
+the jtagulator is great, and in the andr hack handb there is a a section. 
+what the jtagultator attachs to all those pins and does teh combinatorials, and tests all teh pins. the jtgls is awesome, its pink but its a great tools. 
+
+please also take your trash with you. are there any more quesitons. no thank you. please take your trash with you when you are leaving. 
+
+

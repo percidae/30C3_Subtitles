@@ -1,0 +1,171 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Making machines that make are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+Hallo! 
+I found the button.
+so we start now with the first in the morning. nadya peak will present making machines that make, rapid prototyping [...]
+[applause]
+
+good morning, thanks for coming for my talk this early.
+i start with a small story, why you want to make any kind of machine.
+depending on what you want your machine to do, do you need superfast, or slow?
+...
+a timing belt can be very quickly, rack and pinion can rapid protoype
+a popular way for rapid prototyper is to laser cut wood.
+a machine that is very heavy is hard to move around.
+..
+where have you restrict motions of the machine? how many degrees of freedom do you want,
+h-bot is an example of parallel positioning.
+...
+if you want to make a machine, there are kinds of different steps
+
+using mass production technics allow us to build things that are in other ways to expensive to build
+how many do you pay for a car? i don't know i don't own a car.
+a lot of the technics that are developed to produce things came for militarisation.
+
+making tools to make tools goes back a long time.
+this is the first cnc milling machine, they stole the idea from an independent inventor.
+
+and so then making things in an economy skill isn't as important anymore, you can easily change the code. that does'nt mean that this is the way we are building things.
+mass production has side effects and gains desires in people that they want some things.
+
+this is a fablab in iceland. they have many equipment that was previosly unaffordable.
+lasercutters, precision machines.
+
+how to make anything?
+
+..digital fabrication and building things.
+you want to make more tools for digital fabrication
+
+he build the multi purpose machine tools ..
+it becomes easyer to build these kind of tools
+this was a plastic version of the milling machine
+the plans are online so everybody can build them
+
+theres something kind of strange, how a machine can be designed?
+having a desktop computer or having a portable milling machine...
+maybe the form isn't quite right. i show a video how different ...
+[video]
+[applause]
+maybe remember the different parts of machines.
+theres a computer that controls the z-axis.
+and so its kind of an exploration to use this kind of machines every time
+this is in 2010 or so, its milling boards. its not that to can make boards yet, its not an easy enjoyable process now.
+..
+what comes out of it is g-code
+g-code is like 30 years older that c
+every machine has to interprete g-code in a machinespecific way
+its qiute silly
+you have secret information transport like a usb-stick
+this a machine that i use these days, it is a terrible interface
+you load it in this machine and the machine has all teh fun [laughter]
+and now the tools get more accessable and more affordable.
+you can get a 3d printer that is inexpensive.
+what about less ordinary machines?
+
+these are machines that i use an a regular basis
+like 5-axis milling machines, ct scanner, 1kW laser, wire EDM
+if i want to move the stage ...
+they are boxes and you have no way to communicate with it
+on the left here you can see someone who hold a ?-protector and turning it on and off. that seems completely absurd to me [applause]
+we want to make more of the ceiling machines.
+how you make sure thay are all the same length?
+you don't have to do any measurements ...
+and similarily there is a funny project where you can design on a webinterface he used coils.
+and to get the coils, he makes another machine that makes coils
+this is not a really nice design, i just need a thing that makes a thing.
+how can we make all these processes easier
+
+this is a break down of the tools.
+
+they have a control system that is hardware, which can be controlled by software or some other kind of interface
+the control system in software is very easy compared to prototyping a control system
+the internet of things is networking in the future if we have enough .. for it
+this are machine components
+sometimes i have to work on things for a research group, each node hase temperature sensing and heating
+so that have to communcate over all the hardware layer. and we have to know were it is on the network
+each motor an the network as an x y and z axis. you have a g-code interpreter that get recompiled and changed to each motor an the network
+its grown since the library ...
+the interface is you write a virtual machine.
+you think software is all virtual and only real machines are machines, just call everything just machine.
+
+you have to write a whol g-code interpration layer.
+build into the lab you could neccassarily control it with ...
+you can add other virtual nodes to the network
+this is a inkerprinter. and you can send serial commands to the box, and it can get another node an the network and you go to another control layer.
+you can buy machines for hundreds of thousand of dollars.
+we build .. using the same control interface
+this is a webbased interface for mill pcb and the control system for it.
+this is one of the hardware layer nodes which controls one of the axis 
+it has a stepper motor control onboard
+if you want to attach it to a stepper motor it is very straight forward
+
+control system are not super exciting to anyone.
+can the rest be more modular too? we thing to the brief introduction to machine design from earlier.
+how many degrees of freedom?
+you just move one thing back und fourth
+maybe you wnat 2 degrees of freedom
+or three axis ..
+or chains to add this things together, so you gat 4 axis machine control so you can cut metal with a hot wire cutter.
+this kind of a modular machine network.
+this is made with htp, htp is very heavd, the latest version that we maded is with metal. with aluminum frame.
+here is a last month we build the hot wire cutter that we thought before.
+[video playing]
+[applause]
+that took us 22 hours to build from mill, and we had no sleep so we were up for 24 hours.
+you can find anything ad mtm.cba.mit.edu you find every cad files. that was what i wanted to show you
+[applause]
+thank you very much, we have 10 minutes vor q/a if you have questions please go to the microphones so we can start
+its because its very early!
+have you ever make anything made out of raw materials?
+yeah
+and sorry, ... with both machine like ..
+i guess it depends were at the prototyping process we are, something we can cut by hand, but once you want to building the rest of it, its not possible to ...
+everything you can do with controlled machines you can do by hand, it takes just much longer.
+have you any rotation based systems?
+yeah we made something. for example you make something which is rotating and a needle to wrap.
+in the videos it seems the pathing was pretty prescripted
+for example the hot wire cutter, you design something in rhino and export that and import that directly in the control system. if you wanted something like amplification you should use it as ... we have no realtime control for it.
+for more complicated shapes
+you can use a png to get the vectorshape and the toolpath..
+how do the accuracy made up?
+its something that seems logical, that if you building a machine you get more and more inaccurat.... if you have something , imagine a child that building with legos, the lego has micron precision, the child has not but can get the precision through legos
+do you use slic3r to generate gcode? how is it compared?
+the transition from gcode based to ?? should be effordless?
+yes
+
+thank you very much!
+[applause]
+

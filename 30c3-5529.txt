@@ -1,0 +1,88 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+    
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ #Saal2 "Hardening hardware and choosing a good Bios"  Peter Stuge
+ 
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Alright. Thanks everybody. I'm here to talk about hardening hardware and choosing a good bios.
+lets see what this means
+Introduction about me:  Why should we care about hardware? the software seems to work fine.  I will look at some hardware attacks.  that are open on any machine today.
+lets see if we can do anythign aobut these attacks. we wiilll look inside the machine and schematics.  also, we need to choose goodbios pun on badbios :)
+Firmware is the root of trust in our software stack. it is the first that runs on our stack and we need to be aware of this (phone rings) its not for me.
+
+we need be aware of the firmware and other things laying around in the machine.
+i consider core boot to be the good bios.  corfe boot is not focuses on a single platform but it is on  86 (audio out) 
+
+I'm peter and i moved from sweden to germany a few years ago.  
+i've been interested in electronics and i took things apart and put them back together.
+i worke on core boot and , flash rom and other projects.
+
+So, hardening hardware, so whats the problem? the security is not really amakret value. no one is buying millions of computers because they are secure. instead it is cost or size or battery lifetime. or screen reslolution, or hertz, or ect bytes or bmaybe the color .... or or or or 
+
+the lenght of the hdmi cable?  applause. maybr some wil buy a machine on the length of the cable.
+
+some will buy because of security but they are few. i buy a device because it works. but it also needs to be secure. the systems that function that way that just tend to work or so simplfied and restricted that they will do the thing reliably that they are meant to do and they are locked down hard so we cant do antything with them.
+
+how does it work inside?  thats what this talk is about? is the hardware hard enough?  it is physical , it is tangible but really it seems to be that hardware changes quite alot under its lifeteime.  harware is becoming softer.  there are updates for everythinng all the time
+
+the usb 3 and the hid standard was developed so quickly that they were hardly compliant.  they had to be finished so quickly that they couldnt be finished before they shipped even (audio out)
+
+feature phone.  i have a cell phone. some dont. i got a new cell phone a year a go and bought the simpliest cell hone i could buy for the least amount of money.  i call it a dumb phone cause it is not a smart hone.  how many of you have a devcie that asks you to download a update/firmware.  
+
+cpu have updates to the actuall processor and since we know 2004 the pentium pro had updates.  the immediate future will be reconfiguaralble processors. i did a project with beagle bone and you can load a firmware processor and it does other magic things.
+
+i am sure we will see reconfigurable computing explode in the next ten years.
+
+They come will a fixed stack of software.  We need to know what we have so we can do the best we can.  IF you have a skilled carpenter with good tools they can make magnificent things so is the same with software developers.  Start with simple things, and they destroy them and then make good things.
+
+The sad state is that we dont know that much about how hardware.  we used to know alot about our pc's.  We have not been paying attention anlong the way.  The companies know everything about them :(  
+    
+    the devices that just work . ios is a good example. some android devices are more locked down then other.  there are a few systems that are really both open for modification.  desktop and server pc's are all microsfot windows machines.  if you talk to a laptaop or desktop they think of this pc as a windows machine . anything else is an accident.
+    its is true. it is sad but it is true.  macs are apple osx machines. but it is designed and manufatured to be only this one thing.  cell phones.  apples os machines. google machines.  i am hopeful that we will be using open based and open machiens.
+    
+    the micro code that ships with the machines is harware.  so microcode updates are hardware. either you trust or do not trust the hardware.  there are many other preseentations i hope you will see and maybe you will like to build your own processors/machines.  
+    
+    some idealists will remove these things and they want to remove core boot and only want to run the microcode that is shipped with the computer.   
+    what is this microcode update  (audio out)
+    do you update the microcode update or dont you?
+    sometimes it doesnt even start.
+    Removing your control over me, is one thing. What control do we want to have? Kernal, bsd, boot, coreboot on arm, other boot loaders on other platforms, what about hardware. 
+    
+    A user , my software is running just fine.  Does it?  Do you really know?  It looks like it is running fine but is it leaking information on a side channell that you dont have the  ( ) to test. It is no so easy.
+    
+    There are alot of attacks on laptops. Remote memory access is a fast attack that is meant for fast i394 (?) . if you dont restritc where the access goes then you can access any memory. there is advance tech technology that is built in chip set after 2005. every chipset has this.  there is a cut off point betweent he 964 chips and 965 chips.  if you power on the f( ) you will see one thing.
+...
+i96 packet coming of ether port in 965 chip
+
+..(audiot out)
+(thank you for typing!)
+
+

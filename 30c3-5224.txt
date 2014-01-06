@@ -1,0 +1,253 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Triggering deep vulnerabilities using symbolic execution are supposed to be created  
+  
+Link and further information can be found here: 
+  
+The language is supposed to be: 
+[X] German  
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+"Jetzt haben Sie immer von 5 Terroranschlägen geredet [] Wieviele waren es denn?"
+
+"Die Amerikaner haben gesagt sie haben 25 ..."
+
+Wir bleiben mal in Deutschland und bleiben bei 5, das ist das Positivliste, wenn wir die Argumentation von Friedrich nehmen, vielleicht waren es mehr, vielleicht waren es weniger.
+
+[Base-Rate Fallacy]
+
+I) Wir nehmen mal an, daß alle erkannten [geplanten] Anschläge auch alle erkannt und verhindert wurden.
+
+II) [Weitere Annahme] Der Attentäter ist danach nicht mehr aktiv.
+
+III) Alle erfolgreichen wurden vorher nicht erkannt.
+
+
+17/80*10^6 ~ 2.1*10^-7
+
+=> in Deutschland ~17 Leute, einer davon ist dann ggf. einer.. vielleicht.
+
+
+"true positives > 0, daraus folgt, das mehr daten gespeichert werden müssten"
+=> wenn man das weitertreibt, dann hat man irgendwann alle Bürger, Umkehrung der Unschuldsvermutung
+
+[Folie Sascha Lobo]
+
+Dadurch, daß der @regsprecher etwas sagt, können auch alle anderen das übernehmen:
+
+"Ausspähen ist inakzeptabel" sagt Westerwelle.
+@presseprecher sagt ["Im Kampf gegen Bedrohungen können wir nur durch zusammenarbeit schützen, streng nach Gesetz, kann nur im Parlamentarischen Kontrollgremium kontrolliert werden"]
+
+Schlüsselwörter 1) Recht & Gesetz 2) Vorwürfe sind alle angeblich, die NSA greife 'angeblich zu'
+
+Presseprecher: [...Abhören von Freunden, das ist inakzeptabel, das geht gar nicht, die Bundesregierung setzt sich dafür ein, daß das vollständig aufgeklärt wird ..]
+
+
+Geflügeltes Wort, das sagt dann auch die Bundeskanzlerin ["Ausspähen unter Freunden das geht gar nicht und zwar gegenüber niemandem, ... dafür bin ich als Bundeskanzlerin auch verantwortlich, das durchzusetzen]
+
+danach beendet Pofalla die NSA Afffäre [ Profallablabla ]
+Dahinter versteckt sich Hanns-Peter Uhl [wäre schlimm wenn Deutschland von Piraten und Chaoten regiert wird - die aus dem Computerclub]
+
+"haben erklärt, daß sie sich an deutsches Recht halten" - würde das jedem Landedieb empfehlen.
+
+Das das nicht geht, haben selbst die von den lustigen Taschenbüchern mibekommen:
+"Die von der NSA sid seriös, das haben sie selbst gesagt."
+
+Pofalla: [.. hochrangige Gespräche in London und Washington ..
+1. die nsa hat uns schriftlich versichert, daß sie recht und gesetz in deutschland einhält
+ich zitiere aus einem nsa papier, das uns zu den gesprechen in waschington übermittelt wurde
+verträge mit deutschen nachrichtendiensten .. und hat sich auch in der vergangenheit immer daran gehlten[
+
+Nicht nur mündlich behauptet , sondern auch schriftlich - Steigerung!
+Und auch wieder Recht & Gesetz, das ist quasi der Schlüssel für den gesamten Text.
+
+Pofalla [ 23.7 hat uns die NSA schriftlich zugesagt: Die NSA unternimmt nichts, um dt. Interessen zu schädigen. ... das heisst die deutschen Interessen werden durch die NSA erfüllt, das haben wir]
+
+Jetzt wird das Einverständnis erklärt, sich an Recht und Gesetz zu halten.
+non sequitur - 
+auf dt. BODEN wird dt. recht eingehalten - extraterritorial
+
+POF: Auch der britische Nachrichtendienst .. ich zitiere aus Schreiben vom brit. Gehe ... unsere Arbeit unterliegt jederzeit den gesetzlichen Vorschriften beider Länder. Dieses Schreiben ist vom britischen Außenminister persönlich authorisiert!
+
+Da muss ja alles stimmen. Nochmal gesteigert, das sich beziehen auf die Schriftlichkeit.
+
+POF [selbstverständlich halten sich auch unsere nachrichtendienste an recht und gesetz. alle 3 bestätigen, ]
+
+POF: [Nachrichtendiesnte der USA & GBs, haben uns zugesagt, daß es keine flächendeckende Datenauswertung dt. Bürger gibt.
+
+Wieder "zugesagt" "uns", da weiss man nicht so genau, wer das ist - Regierung / Bürger?
+
+POF [Dt. Daten werden dabei vorher in einem mehrstufigen Verfahren ausgefiltert. ... der Vorwurf ist nach Angaben der Dienste vom Tisch. Es gibt in .de keine millionenfache Grundrechtsverletzung, wie immer millionenfach behauptet wird.
+
+Damit wird zugegeben, daß tatächlich Daten gesammelt werden, sonst könnte nichts rausgefiltert werden
+
+G10Kommision "mit Befähigung zum Richteramt" - d.h. er hat ein abgeschlossenes Jurastudium.
+
+"vom Tisch" wieder Umgangssprache "vermeintlich" "fälschllich behauptet"
+
+POF [6. was es gibt ist "eine" zusammenarbeit und auswertung von daten in "einzelfällen", die unserer sicherheit dienen]
+
+"unserer" ist jetzt wahrscheinlich die ganze Welt.
+
+POF [EU Datenschutzverordnung Abschluss eines no-spy abkommens angeboten, ... schindler hat alexander angeschrieben ... wil das angebot auch an einer stelle interpretieren ... dieses angebot könnte uns niemals gemacht werden, wenn die aussage sich an recht und gesetz zu halten ]
+
+Das ist eine Logik, die ist derart abduktiv, daß man es wirklich nicht ernst nehmen kann.
+
+POF [R&G werden ... eingehalten .. die Grundrechte der Bürgerinnen und Bürger werden gewahrt ... Recht und Gesetz ... und dabei haben sie viele Anschläge gegen Soldaten verhindert ... bei Zusammenarbeit geht es um vitales grundlegendes Interesse unseres Landes. Unsere Nachrichtendiesnte arbeiten hart]
+
+POF [Unsere Nachrichtendiesnte leisten rechtsstaatlich korrekte und gute Arbeit. Diese Erkenntnis sollte uns einen, bei allen auseinandersetzungen, die ein wahlkampf mitbringt, ich werde meinen beitrag dazu leisten]
+
+Die Parole für den Walkampf wird ausgerufen: Schluss mit der Affäre, wir einigen uns für den Wahlkampf.
+
+
+Drei Wortgruppen die sich immer wiederholen haben Phrasencharacter.
+Sofort werden wir bei Pofalla fündig:
+
+5x memorandum of agreement 
+ das sol lgeschlossen werden zwischen den Geheimdiensten, eine mehr oder weniger formelle Vereinbarung zwischen Firmen, die nicht justiziabel ist
+
+6x recht und gesetz
+
+7x soldatinnen und soldaten (öfter von soldaten)
+ 
+diese 3 Wortgruppen kennzeichnen eigentlich den gesamten Inhalt
+
+Oder inahltlich zusammengefasst:
+
+Halten sich an Recht und gesetz, beweis ist die selbstverpflichtung und das zu schliessende Abkommen
+
+das alles dienst zum schutz der soldaten, die sind ja am hindukush ...
+=> geschützt werden die Soldaten i sauerland, irgendwie komisch.
+
+Die Frage ist nun: Ist die Affäre wirklich beendet? Und das erklärt uns Kai:
+
+Also, die ist beendet, ich fühle mich jetzt besser.
+
+Wen "unsere Bürger" benutzt wird, dann ist alles in Ordnung.
+
+Konzept vom tertium non datur + Lieblingsspiel angewendeter Zynismus.
+
+Wichtig ist #merkelphone.
+
+Nur das Kanzlerinnenhandy auszuschliessen bringt nichts, Büroleiterin, Frau Springer, Internetbeauftragter (früher war mehr Pomade). Der Ausschluss von nur einer Person ist also kein Ausschluss.
+
+Pressemitteilung geht noch weiter, auch wenn sie schon monatelang warten, hochrangige Gespäche "müssen fortgesetzt werden" - immer noch keine Antwort, länger machen.
+Das konterkariert die Aussage, daß man so schön viele Informationen bekommen hätte.
+
+So lesen wir wieder 
+keine zielgerichtete -- kann immer noch bedeuten, daß alles zu erheben immer noch möglich ist.
+
+gegenteil von nicht zielgerichtet -> evtl. alle?
+
+Metadaten VDS -- Erklärung bezieht ich auf Inhaltsdaten, die zielgerichtet ausgewertet werden.
+Was ein bischen zugegeben wird ist, daß man ein neues Abkommen ... "für die Zukunft eine klare vertragliche Grundlage"
+
+Was mit welchem Ziel und mit welchen Mitteln?
+Tag später in Presse ...
+Gegenseitig nicht ausspionieren ist soweit man weiss Grundlage im 5-Eyes ... vielleicht Vorbereitungen für ein 6-Eyes?
+
+Die Sätze "leben". Wir sehen auf der Homepage der Bundeskanzlerin "Nachjustierungen", wahrscheinlich zu unserem Benefit.
+
+Am 7.11. wir das nochmal ein bischen präzisiert Zusammenarbeit "auf eine neue Basis" zu stellen, einmalige Chance, vergangenes Vertrauen zurückzubringen.
+
+Wessen Vertrauen in wen genau eigentlich?
+
+Die eine Hypothese der 6-eyes wird nicht ausgeschlossen.
+
+"im WH eine sutuation entstanden, in dem die politische Dimension erkannt hat"
+
+Da steht nur "Das kommt schlecht rüber."
+=> Berichterstattung ist das Problem
+
+[Resultat von 'grenzenloser' Kostendeckung, Rechenbeispiel mit Break Even bei 333 Anschlägen pro Jahr]
+
+Dafür könnte man viele Feuerwehr- und Rotkreuzwagen kaufen.
+
+2012 ist Dokument UN Office Drugs & Crime, Sitz in Wien, sehr langweilig zu lesen, eine oder andere Perle.
+
+"should develop" - mischung aus beschreibung und empfehlung "informal elements" etablieren soll "for earliest [data] retention"
+
+Das ist ein UN-Dokument, das sollte in Berlin vorgelegen haben, nicht zuletzt, weil .
+Dual approach in den USA, Konkretisierung des Ausdrucks informal process:
+"if no direct relationship with ISP" in Amerika existiert, dann "informeller request an ISP".
+
+Verhältnismäßigkeit, Zweckbindung?
+
+Marry crises and a happy new fear!
+
+
+Fragerunde:
+
+1) Gibt es Infos zum Cryptohandy und ...
+  M hat ein offizielels handy, von dem weiss man nichts, das abgehörte ist das andere, was sie benutzt um mit der partei zu kommunizieren. mit guttenberg, mit anderen parteimitgliedern, das hat auch kein crypto.
+Das Narrativ Merkel sei so technikaffin, weil sie immer SMS gesendet hatte ist verschwunden.
+2) Überwachung von US-Botschaften aus?
+Ich finde es wird sehr oft betont "von deutschem Boden" - es wird zumindest keine Aussage gemacht, was in der Botschaft gemacht wird. - "Das Thema ist beinahe schon Ablenkung - wo kann ich mehr Daten abgreifen?" bei Frank rieger? sind ein paar Photos auf dem blog von der britischen Botschaft - Bei bestimmten Knotenpunkten abzugreifend wäre ja auch nicht "flächendeckend".
+
+3) Habt Ihr irgendwo nochmal wiederholt gesehen, daß MErkel Ihre Verantwortung öffentlich erklärt?
+  Amtseid auf Phönix?
+4) Wie bekommen wir Sprache in unsere Hand
+  a) Genau hinhören!
+  b) Journalisten müssen kritischer sein
+  c) Publikative nicht Journalisten überlassen, Podcasts, etc.
+  d) selber tätig werden und Sachen veröffentlichen
+
+Geometrie des Resonanzkörper so zu verändern, daß die Resonanzfrequenz schlechter getroffen wird!
+
+5) Liegt mehr vor?
+Deny & admit ... Deutschland möchte gerne das 6. Auge sein.
+
+[]
+
+Es geht immer ums Geld, de Frage ist, ob wir, wenn wir gegen Überwachung argumentieren, die ökonomische Seiter mehr herausstellen müssen?
+  Interessant ist vielelicht SWIFT-Geschichte, da gab es Bemühungen, das abzustelen, da wurde nie darüber berichtet - Blackbox, ist eine Hypothese
+  
+X) Mir war schon seit 12 Jahren klar gewesen, daß meine Daten international unterwegs sind. Mein Handy klingelt. ... Gehirnwäsche
+  Kennt Ihr den Atomstromfilter? Der filtert den Atomstrom aus der Steckdose raus.
+
+Wen Sie Herr Pofalla gewesen wären, was hätten Sie gesagt?
+ "Ich erkläre meinen Rücktritt? Ich weiss es nicht."
+
+X+1) Wurde behauptet die NSA verhandle mit der Bundesregierung, aber eigentlich verhandle sie mit den Nachirichtendiensten, eigentlich auch eine sprachliche Sache, die überhaupt nicht geht, das eine ist Exekutive, das andere Judikative.
+  "Outsourcing ist in."
+
+X+2) Die Gefahr für Merkel besteht in der Bevölkerung, daß sie nicht wiedergewählt wird, wenn sie Diensthandy für Parteizwecke nutzt
+
+X+3)
+
+Fefe: [Wie dt. Daten gefiltert werden haben sie nachher ja noch gesagt, daß auf .de endende Emailadressen gefiltert werden
+
+Ich glaube der Uhl hat sich nicht verplappert mit dem "Wir werden von Geheimdiensten regiert". Es gibt da ein Photo, da war niemand dabei, der ansonsten was zu sagen hatte.
+
+Wir werden hier gerade von Sicherheitskräften regiert, so ist das.
+Das Generalkonsulat ist in Frankfurt, beim DE-CIX]
+
+Es folgt die Werbung.
+
+https://twitter.com/martinhaase
+
+

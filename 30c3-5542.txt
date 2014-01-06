@@ -1,0 +1,490 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Strange machines and reflections  are supposed to be created  
+ 
+Revisiting "Trusting Trust" for binary toolchains
+(en)
+sergeybratus, Julian Bangert,bx
+Saal 2
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German
+[ X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Hello, it's great to be here. we're going to build on our previous year's talk, which some of your may have heard. if not, we'll catch you up. I'm sergey, we're from darkmouth. Julian was from darkmouth as well, but he defected. Traitor.
+
+Okay. So, this is what we're going to talk about. Imagine, if you will, that we could make bugs dissappear, magically, for some definition of dissappear and some definition of bugs. Would we still be able to, will we be able to build chains of trust that wouldn't suck so much as they do now.
+
+We're going to explain why not. and why the standard practices of constructing chains of trust these days have to change before we can actually trust them. if you want a tongue twister to go and take home, "bugless bable breaks badly". because this is going to be about the tower of babel and the problems that you get when you have things disagreeing on components of you your trust chains disagreeing on dialects. And we're going to show you some case studies. In particular, l-signing and a bit of macao(?). And we're going to show you how linux kernel disagrees with the linux loader about what is where in the loaded image. isn't that fun?
+
+i'll stuck with theory, and then hand it to bx and then he'll hand it to juli. so 1984, ken thompson and his famous "reflections on trusting trust", almost
+30 years ago, 29, but that's an off-by-one, came up with this maxim, that
+you can't trust code that you did'nt completely write yourself. he planted
+a bug in the compiler, and the compiler, having compiled whatever was
+built with that trust chain, propagated the back door into everything
+compiled. and you shouldn't really trust your compiler.
+
+He  went on an predicted the future and by now evertything that he predicted
+came true. including well placed microcode bugs. And really these days
+you'll look at software and wonder which software doesn't have planted bugs,
+right?. Certain orgainsation has something to do with it, but honestly 30
+years ago i never imagined that i ever encounter a deliberately planted bug
+and here we go.
+
+what if we could wave a magic wand and make it all go away. what if we could
+complete trust the author. and what if the author could completely trust him
+or herself to have the code do exactly what the author intetded. would we
+solve trusting trust then? and the answer: hell no! and the reason is that
+trust chains are built up and up and up and up and all the components of
+those trust chains must talk to each other and agree on what they're saying
+and agreeing on what they're interpreting. this is what software engireering
+pretty much looks today, right? if you need the narrative [unverständlich]
+reminder, people decided to build a tower to reach the sky. they, the
+powers-that-be did not like it, so they make the dialects of thebuilders
+divert. nad suddenly one builder asked for rope, he was instead handed a
+saw. or somebody said 'give me a saw', and the other heard 'your father was
+a donkey'.
+
+As you can imagine the construction didn't go well afterwalrds. if we were
+to explain that with cats, the components of the trust chain must speak
+precisely the same dialect of the inputs or else you're going to have, well,
+we're going to call this the bable-cat, the ceiling which is over your moral
+health. the babel-cat is in you rtrust chains.
+
+well, let's make this a bit more theoreectial before we get to the practice.
+what is a chain of trust? a chain of trust is really a chain of execution
+environments of increasing power. you start at boot, you execute some code,
+you load your os, you execute some code. and eventually you'll get to the
+executable that you want to run, construct a process out of it and run it.
+and hopefully throughout that entire process no unexpected computation,
+otherwise known as 'pwnage', occurs. it's the same code, it's the same bytes
+that are being interpreted by a chain of parsers and handlel by a chain of
+loaders. and so the meaning of those bytes has to be completely agreed upon
+between all of those trust links.
+
+now, when i say trust, what exactly do i mean, right? how do we trust, why
+do we trust things, why do we trust bytes to run? there are two approaches
+to this. you cannot analyze turing complete binary code. what is of course
+that you compile down to. and so instead you sign it. you trust the process
+of your developers, you trust their good intentions, you trust their secops
+and so on. so you get this frozen bit of code and you hope that it would be
+immutable(?). or ther's another way. you can actually check the code, do
+static analysis of it and convince yourself that the execution of it would
+be exactly as intended. we can do that as well. and then you can trust it
+because youv'e analyzed it. it  doesnt work with generic code, no matter
+what anti-virus vendors will tell you how many times a day they will solve
+the halting problem. you know.
+
+so let's see which kinds of trust are there in trust chains. and the answer
+is 'both', right? you freeze some bits in your binary but you also want to
+do composition.
+
+[stoped at 8min19s of the official recording]
+
+You also want to have signed code, 
+in the end your trusted binary ends up being this sausage thing
+it tells you where these trusted bits are
+
+enter stage right, tables
+
+it decides where.. signatures are.
+tables are simple
+it's full of ofsetes,
+youcan put data about how to relocate the code, how to patch the code
+it makes aslr possible
+any input is a program,
+any table is a program
+
+periodic table, this is prbably the top of my gfx abilties
+it's atable that describes the elements of the trustes sausage
+
+I could say ABI
+
+there are pieces of code, pieces of logic baked into the processor
+they are in your, loader, kernel, RTLD
+
+they consume the talbes just as your processor consumes it input
+hopefully it's simple enough that your computation doens't run away
+tables are something of a byte code.
+
+how you locate the signed pieces, you are doing arthinmetic, lops, brankces
+
+you get a turing machin
+any input is a program as a matter of princicple
+
+any complex data is indistinguasjble from bytcode driving a virtual machine
+
+a parser code for suff complex input is indist from a cplex machine running its bytecode
+
+so what can go wrong
+your parser may be buggy
+your parser may overflow
+may be corrupted
+some other logic will take it and run away with it
+the input can be completely well formt. but so complex there is no predicing how it will do
+
+relocatens sumbo tables have that
+
+different pices of the trust chains vwill disagree.
+
+the three cats of the apocalypse
+
+the two cats who get the gold star and the red start
+input and parser differentials
+letting the turing cat out of the bag
+and the cat turns out to be quite an impressive capt
+medeival writes knew their cat
+
+there is your runtime after boot
+
+here is the original Ken Thompson plant
+then comes the loader, the linker, the relocator and then of course there is memory management
+
+..
+
+these pieces that have the gold stars are turing complete on their inputs.
+you can compile any computation into those tables, 
+
+the favorite is the weird machin in the page fault handling logic,
+it not only reads from memory but it writes to meory itself
+
+keep your processor alternating between the page fault and the double page fault
+you continue getting page faults you can still compute anything you like and write interesting patterns into meomody
+
+ulia wrote the compiler for both
+
+some academic has had an unnerving sense of taste.
+
+the relocating engine that build program in meory, is actually turing complete
+
+The RTLD and the loader can be made to disagree what isn't a program
+
+see different program
+
+The second kind of cat.
+
+first we gave talk on hacker confierence.
+why would you know what is inside your machine, when you can solve interesting problems like having a graph looking like
+
+finally published at woot after having it rejectd from som high an mighty venues
+
+tables are programs, they interpret their ...
+
+there are bad things in the input, but you cans suppres them byg checking
+this is wrong.
+
+validation is teh same as verificdation as that data causes computation
+
+validation of tables are
+
+even in the absence of bugs you can have complex, impossible analyisi
+
+you will solve teh antivirus vendors halting problem
+
+let's look at the specifics of the machines that execute tables
+
+there we go
+prepared students
+
+code signing is being worked into the trust chain more and more
+we see it popping up in open sourece, kernel modules, driver sign in windows
+
+it is used for trust evidence
+this binary has integrit, unchanged. since developer handed it to you
+have some attrubition, the binary came from these people
+
+it is easy to implement poorly, it's not an algorithm, 
+so many components involved, in order to have a good amount of trust, you need proper key mgmt, 
+the program that is loaded in memory is the one we really want to trust, not the one on disk
+program in meory is only infuenced by the program on disk
+
+does signing give us what we wanted
+we feel that we can trust it because tehre is some kind of integrit
+there are many "mahines" involved 
+
+we end up with some sort of rube goldberg machine
+so there's maby different componets working together.
+
+we have to think about it. when considering code signing, a bunch of questions come to mind
+
+are the machines correct, bug-free, do we understand what they are capable of
+
+making the loader do something 
+
+two machines operating on the same data, do they agree.
+
+are the tables correct and complete.
+
+can we trust the tranformations done to the process loaded into memry after the static analysis,
+
+another question is enforecemetn, how and what do we want to enforce.
+I've looked at may elf code signing mechanisms and hope we can learn somthing 
+
+
+we have validator machines, a lot working together.
+
+looking at different code signing for userland and kernel binaryes
+creative names for code signing.
+Had trouble telling them apart.
+writtein 2003-2005 and are obsolete.
+a resurgence of work in the kernel module area
+
+questions I want to tevisit, are machines in codesigning correctly implemented.
+in Mach0  XML is impletentein signing.
+
+In ELF I saw everything was written in C 
+one thing but one, one thing was written in C++
+I'm sure there won't be any other bugs because of taht
+how powerful are our machines
+
+things that look like tables, we found to drive unexpected computation
+we need to understand what codesigning is sable to door.
+
+this is old worki with a backdoor in ping
+the same backdor in Mach-O
+nothing was changed or added and removed to the file
+I would argue that hiding computation in metasdata, you can see it but can be difficult.
+two different interpreters parse it differntly
+
+codesigning for elf implmentations. be trusted?
+
+In this example from bsign I love this example
+I don't recall why we need to check more than teh elf header
+the intersting pard is the author thought we cans stop here and be ok
+I see this as a red flag, we need to think more when developing code signing
+
+in pares differentials , 
+this pariticular asn1 ...
+
+ELF has multiple ways to interpret it
+there are multiple ways to load an elf
+ifyour signature is in the same section. 
+
+A proposed patch looking for the signature section looking for the first section and looking for the correct name and .
+
+Skip over the sign section. I can give other sections the same name. is there anything preventing me from inserting nw sections
+signing the singatures, who watches the watchers, this segment 
+
+
+A little bit about mach o code signing.
+Had our graphic designer 
+
+Macho-o codesignign blob, ther'es a bunch of metadata
+internal requirements, what I wrote here is a text interpretation
+these are encoded into a bytecode w
+
+ther'es a bunch of hashes and all these different components that must work together and so much room for parsers to disagree.
+
+Everything that's signing, relocating, 
+you cannot trust code taht you didn't totally load yourself
+
+and now for the third part we bring out the thin cat
+
+that elephant is parser differntials, 
+
+histioricall there have been issues like x509, 
+issues with androids code signing and master key avuln
+one implmented in C and one implemented in java
+
+signature matches on install, but you can run something completely different when executing.
+
+I'm going to talk about it happeins in userspace
+
+How may elf parsers are involved in typical program exec
+there tends to be two. 
+elfoader int the kernel binfrmt elf and userland ld.so library
+
+all of these parsers have to see the same sections, and rely on the same metadata to enorce this trust.
+
+they do not share any code or formal grammar to .
+
+in particular the PTLOAD entry, it is there to map the byaes from the elf file into me..
+
+So other parts of the tool chain.
+
+unless you look at them as automaton it is unlikely you will catch all these bugs
+
+This is part o the linux kernel 3.4 there is no grammar, there is no bnf, just randomly throing aaround pointers and..
+
+the typical layout of the elf header is folowed by the program header table, describes how it is to be loaded into memory
+
+I performes one memory map, 
+it finds out if it's dynamically linked
+it loades teh binary from .. special section
+then to tell deh loader whee to start parsing, it has to give it the virtual address
+the userpacle loader is already mapped into the address space
+
+it does that b lokoing at the address of first ptload and adding the offset to that address.
+
+this is where the loader will look and begin parsing
+
+it turns out adding a file offset to ..
+
+it always places program in first segment and works fine
+you can add virtual adress to file offsets as you please
+if you place it somehwere else in memory, the kernel 
+
+If you control the program memory you can map arbitra memory to arb adresse, no other tool will see it as surch
+
+which is nice if you want to hide a program. 
+
+we place the program header table at the end fo the file
+if you craft it exaclty right, ..
+
+if you have one of .. code sign g schemes you can point it into middle of signing
+in linux you can execute a library
+it give you an email where you can bug them about bugs.
+it passes control to separate parser.
+when you load it as a shared library the kerel never touches it.
+which loads it by ld.so which gets a consistent and completely different view.
+I hope the demo wokrs correctly
+
+it's straigtforawrdm it calles anohter function, which prints hello world
+in order to demonstrate this library, 
+i
+it's loading libgood,so and libpoc.so everything is perfectl yfind
+when we execute libpoc direclyt it has a shell, 
+if yo're running on debuan you might want to figure out what is going on
+it's only libgoot, lets look into libgoot, it does not even metion shell how does it for somthing
+..
+you'll notice that if you take the pain of lokoing at the maps it points to libevil.,so 
+ 
+If I want to load another library I could lok at the tricks used by..
+for having a clear understanding of ..
+
+if you run this on a sane system it will tell you it links libevil and not libgood.
+
+the debugging tool will not .
+feel free to play around, I'm sure there are many pother parsing ambiguities in ELF.
+I will hand it back to sergey
+
+as I metioned loading a shared library is just a trick from PFC?
+you can rewrite your binary at will
+
+to cover the last point
+we have used relocation entries to .
+reloc entries are powerful they are there for editng loaded coad, pachitn rewriting address, 
+that's cheating right
+how about just symbols. dnamic symbol table
+I can pretend all of your program is the globa offset table
+GOT is something your linkr writes into
+you want printf, your first jump will be into the stub thtough the GOT, pointing at that stub
+that stub brings you into the dynamic loader, brings you into ..
+your next jump, call to pring gost straigt to the library
+my enitre program is the GOT, it will take a large symobl table
+so to conclude, chains of trust is something taht we absoltely want to have
+all those littel steps, links in them andyhitng involving finding pieces we trust
+peices we trust conating evidemce, say crypograph. evidence are as importan as s original development porcess.
+even though you have no bugs there, you will likely have disagreem in the links of the chain of trust
+you will also have powerflu softare engineering hacks, that can rewrite your pgram and deprive you of the ability to trust your poggram
+
+you can start signing everything, but composistion is the sould of software engeenring so you will find it ncessary to combine ..
+sure emory corruption is fun, sure shellcode is loverly, but parser differentials are equally important
+
+complex data formats that don't allow checkinf for first order of trust kill trust.
+
+diversion of dialects kills trust
+there can be no chain of trust in Babel
+all those cats building up balbes toswer, not a good software engineering practis
+chains fo trust, when do we want them
+NOW right.
+simple formats that take away compultaniall power fomr the..
+
+starting with a boot , we hat a look of the top of the trust chain, how about the bottom
+EFI how simple is that
+
+you dhould not ru
+
+the installer is an linux installer and what it sees is not what the java crypot ses.
+what good is a signature mister anderson if you can not even see the document.
+
+It's all about computation, all about input begin program
+you ahve to hobble the power hese can induce in your code
+
+one of them is caled elfbac. we will be relasing code next year
+julian is the main develper
+
+that breaks bx's weird machins
+it depriveds the reloc automaton of some of the
+
+new hardware that will contain our parsers
+bugs are not a necess. for getting pwned
+the parses will not see the same thing
+we will hold an academinc workshop on this thing
+
+finally we are going to have a workshop where thiese topics will be considered.
+may 18th you will find the CFP at this URL
+dedicated to the memory of Len Sasserman? (sp) who togheter with his wife invented this 
+topic
+
+topics. language ambiguity, parser difeerentiols, machines who run away on their input
+
+with that I thank you
+[applause]
+
+so we have littel time for QA
+please line up at the microfphones.
+if you leave please tak your trash with you
+please put all teh bottles at the create
+we have a q from internet
+
+If you could implement relocation without turing complete semantings.
+rpt
+
+well yes and you should
+you should imol linking and otehr sptes wihtout turing completenes.s
+if you have accidental or designed turing co,pleteess you deplrive yourfself of the ability of checing what result is other than runnning ti, alsso known as halting
+
+this is a very good question
+we see turing completeness being sowed everyhwe
+downloadin a file from dropbox e have ot run javacript
+
+I need to run javscript why
+html 5 togheter by ccss can be tricked int torung completeness.
+It's actually proven turing complete, you can find a paper in te links section
+we are surrounded by unceccasyr Truring comple, it's tehre to .. the atacer
+computation is also a privelige, it is given to the attacher. TC where it doesn't belong, TC on boundaries where data arrives is a relaly bad ide.
+
+Have I responded?
+Mike 1 quickly
+Did I understand, teh tales to rewrite the code, are they part or not part of the signing process.
+many schemse do not signe metadata
+
+hooray
+[applause]
+
+the answer is again, we've been akse BX ahs done this for elf PE is acousin of elf with all sots of poperties
+mach-o does reloc with bytecode, dedicated bytecode, not just c structs like ELF
+that is actual bytecode, teh VM is uncluded for it. turing complete as well
+our time is up. thank you very much
+
+If you want to give feedback do so in teh ...FOEBUD? system
+and reduce your computational privilege of power.
+
+,
+
+

@@ -1,0 +1,190 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Zwischen supersicherer Verschlüsselung und Klartext liegt oft nur 1bit are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[x] German  
+[ ] English 
+(the orignal talk-language)
+------------------------------------------------------------------------------------------------------------
+
+wir kommen nun zum letzten talk live aus saal 2. es gibt um kryptografie, ich bitte auf meine applaus für jens kubiziel.
+
+ja allo herzlich willkomen, vielen dank das ihr so zahlreich erschienen seid
+hat jemand einen laserpointer den er mir ausleihen kann?
+ja 
+wir werden also im verlauf des vortrages sehen, man kann wenn man ein bit kennt schon alles kaputt machen
+
+und in der tat gibt es also leute die verrueckt genung sind und nutzen krypto und gucken dass ihre chats verschluesselt sind usw.
+und es gibt auch leute die veruschen selbst krypto zu implementieren, es gibt aber immer wieder fehler die gemacht werden ich möchte einige fehler aufzeigen die katastrophale folgen haben.
+
+ich fange mit einfachen sachen an und steigere mich dann was die angriffe betrifft
+
+s gibt viele irrglauben, was man oft hört, ist das sei viel mathematik, das ist natürlich richtig, wer in den djb talk gewesen ist wird viele formeln gesehen haben, auch komplizierte mathematik wie elliptische kurven.
+mich hat vor kurzem jemand auf ein weiteres verfahren gestoßen auf basis von hadamard matrizen die nur aus 1 und -1 bestihen die auch für krpyot interessant sind.
+wenn man versucht ein paar paer zu finden die diese matrizen in crpyot einsetzen findet man wenig, aber was gibts für konferenzen, da gibts kleine workshops mit 7-10 leuten von der nsa, einige von der university von maryland, ich vermute das wenn man veröffentichungen liest, das einige in der behörde mehr nutzen gefunden haben
+oftmals ist der glaube, je aktueller die krypto desto mehre mathematisches vorwissen.
+wenn ich verschluesselung einsetze dann bin ich sicher meiner kommunikation kann nichts passieren
+variante ist für einige, man nehme einen längeren schlüssel und der sei dann viel sicherer.
+wie zum beispiel aes256 sei viel sicherer als 128, was in der theorie nicht ganz richtig ist
+oder wenn ich algorithmus xy verwende, dann kann mir nichts passieren denn den haben viele experten angeguckt und der sei unknackbar.
+ichversuche einige dieser irrglauben zu zerstören.
+regel 1: erfinde nicht eigene kryptografische routinen.
+es ist für jeden in der welt, in diesem saal, einen algo zu entwickeln einen algo den man selbst nicht brechen kann, aber sehr viel schwieriger einen zu finden den auch jemand anders nicht brechen kenn.
+es gab im usenet immer wieder leute die in kryptogruppen gekommen sind und behauptet ihr system sei super sicher, schaut ich habe 3 zeilen verschlüsselt, ihr kriegt das nie raus.
+wenn man versucht die algos anzugucken gehen die sehr schnell kaputt.
+es gibt eine website, die heißt kryptochef.net, die sieht aus von vor 20 jahren und bietet supersichere verschlüsselung an [gelächter]
+wenn man was entwickeln will muss man sicht mit kryptoanalyse beschäftigen es gibt eine reihe von büchern, die heißt military cryptoanalysis, wurde entwickelt von ??, wurde von der NSA verwendet (und vielleicht auch immernoch) erste version von den 70er jahren. da geht es um verschiedene kryptoanalyitsche verfahren und übungsaufgaben. es wird erklärt wie kann man codes brechen.
+es wurde mal freigeklagt und ist interessant zu lesen.
+dann sollte man mal versuchen real existierende codes zu brechen und durchaus auch algorithmen die als sicher gelten, und modifiziert sich und schaut sich an was man schrittweise ändern (z.B. erstmal nur einen in AES) kann und ob man die dann knacken kann und geht dann einen schritt weiter.
+es kann schon ausreichen mit diesem algo in den erfa kreis reinzugehen und zu gucken ob die leute das brechen können. eine lehre die schon 200 jahre alt sind, die kerkhoffschen regeln, das design muss offen liegen, es muss nachvollziehbar sein.
+es passiert immer wieder das automobilhersteller die denken der algo müsse geschlossen bleiben, aber wer das analysiert bekommt den algorithmus raus.
+regel2: implementiere nicht kryptografische algos neu.
+ich habe mit vielen schon lange diskutiert, aes liegt offen, ich kann das einfach rute
+es gibt tausend und zwei webseiten wo ich das nachlesen kann...fuer die leute die rsa nicht kennen: man sucht sich zwei primzahlen aus und zieht 1 ab und multipliziert
+(p-1)(q-1)
+
+das schwierige ist allerdings das waehlen guter primzahlen, es gibt viele zahlentehoretische regeln die beachtet werden muessen.
+wähle ein e mit 1 < e < phi(n) und teilerfremd zu phi(n)
+berechne d mit ed equiv 1 mod phi(n)
+das basiert auf dem euklidischen algorithmus, das ganze in code zu gießen ist ganz einfach, das n und e sind der öffentliche schlüssel und d der private. man wird natürlich nie die zahlen als zahl finden sondern sind speziell codiert.
+
+es gibt einfache beispiele wo es schiefgehen kann:
+primzahlzwillinge also p und p+2
+die zweit muss ich gar nicht lange suchen, die zweite ging dann schnell, und nehme die beiden zahlen. und lass meinen algo durchlaufen.
+die hauptsicherheit liegt in der faktorisierung, das n kann man nicht einfach p und q zurückrechnen, wenn man primzahlzwillinge nimmt, kann man einfahc die wurzel ziehen, und bekommt eine zahl die sehr nah an p liegt.
+die prinzahlen sollen einen großen abstand haben, aber eine ähnliche anzahl an stellen haben.
+wenn man reines rsa macht, kann das sehr langen, da könnte man denken man nehme ein kleines e=3, es war wohl mal so das openssl 3 genommen hat, denn es ist schnell und es ist erst dann ein problem, wenn viele leute 3 nahmen. wenn man also an viele verschlüsselt die 3 genommen haben, dann kannes passieren, dann könnte man die nachricht nehmen und die kubik wurzel ziehen und hab die nachricht zurückerhalten. die lösung ist einfach, in jede nachricht einen salt reinzugeben. dann geht der angriff in die hose.
+man kann auch 3 als modulus nehmen, bei openssl nehmen die 2^16+1, was auch binär relativ gut zum rechnen im computer ist und es fallen ein paar schwächen weg.
+wenn man ein kleines d hat, hat das schlechte eigenschaften durch die man sich die zahlen wieder rausrechnen kann und der privaten schlüssel bekommt
+das ist vergleichweise alt, das findet man auch in 30 jahre alten büchern, aber man findet auch immer wieder neue angriffe. man muss noch mehr beachten.
+es kann auch sein, dass ihr alles wisst und alles perfekt macht und auf einmal kommt jemand und hört euch zu beim rechnen.
+
+wer gestern beim talk von djbg war der hat das vielleicht mitbekommen, da hat jemand nen mikrofon ein paar meter neben den rechner gestellt und durchs horchen beim entschluesseln den privatekey gefunden
+später haben sie ein smartphone neben den rechner gelegt und die geräpusche aufgenommen, und man bekommt die cpu instructionen die genutzt wurden und sie konnten einen 4096 bit schlüssel rausrechnen.
+das ist so ein seitenkanalangriff. es gibt seit etwa 10 jahre akustokryptoanalysis
+es gibt auch das über den stromverbrauch, wann gibt es einen peak im stromverbrauch was macht der rechner.
+es gibt auch timing attacken. dieser code array.equas(foo,ba), da wird bye für byte verglichen. und wenn das erste byte schon verschieden ist, sagt er stimmt nicht überein und ist zuende, und sonst geht er von byet zu byte. die zeitunterschiede in der berechnung kann man messen und es gibt unterschiede. am längsten dauerst wenn die werte gleich sind
+mit etwas geschick kann man auf die weise passwörter rausrechnen, man hat schon einen geheimen ssh schlüssel übers netzwerk herausfinden können.
+wenn man überlegt was kann man da machen muss man aufpassen weil einige compiler immer noch was wegoptimieren.
+vor kurzem haben wir über timing attacken gesprochen und da meinten welche übers netzwerk gigne das nicht.
+das hat man dann also versucht zu messen, und konnte zeitunterschiede bis zu 30μs messen im lan bis zu 200ns. der code barucht also funktionen die unabhängig von der länge immer gleich lang laufen. auch randomisierung funktioniert nicht, denn es muss wirklich unabhängig sein von der eingabe und nicht systematische unterschiede haben.
+bei tor hidden services kann man diese unter last setzen, dann wurden die warm (dadurch haben sich die Quarz-Kristalle verändert) und sie konnten messen ...
+was man da machen kann ist sehr erschreckend, der paper heißt irgendwie "hot or not detecting ..
+ok schreibt euren code nicht selber, habt ihr verstanden es gibt ja eine openssl bibliothek.
+hier schematisch aufgeschrieben wie mit der lib es passiert das man eine tls verbindung aufmacht. ssl macht keine überprüfung des hostnames, weil es verschiedene verfahren wie LDAP etc. unterstützt. man muss also den hostname selbst validieren.
+wenn das scheitert muss man openssl das sagen, es kann aber auch sein das 
+...
+das klingt hakelig und einige programme machen das auch falsch, ein beispiel ist trillian, das hat SSL_get_verify_result nicht aufgerufen und dadurch beliebige ssl certs akzeptiert, man kann also mitm machen und hat seinen spaß
+gerüchteweise haben einige unis trillian für die übungen genutzt um mitm zu demonstrieren.
+der zweite punkt hier ist wenn man mit php programmiert und fsockopen nimmt, die nutzen auch alle keine certs, paypal hat sowas genutzt und verbindungen aufgemacht ohne das cert zu prüfen.
+es gibt gute high level libs wie keyczar, cryptlib, NaCl statt openssl was lowlevel ist
+cryptocode sollte man nie selbst schreiben und wenn doch den reviewn machen.
+entwicklungskosten des codes mal 10 ist das was ein ordentlicher crpyto code review kostet, das gilt dann auch fuer high level libs.
+
+regel 3: richtiger betriebsmodus bei 
+und sozusagen wenn man nicht grossartig nachdenkt nimmt man den block der eingabe verschluesselt nimmt den naechsten block verschlüsselt usw. und setzt zusammen als geheimtext.
+das ist die naive trviale annahme. wenn man nun den geheimtext verschlüsselt, man kann nicht erkennen was da ursprünglich stand, ist total sicher, oder?
+man sieht ganz klar was da mal gestanden hat auf dem bild, bei ecb, es gibt auch ein tux bild in der wikipedia
+es gibt ein buch von bruce schneier, wo er schrieb nutzt keine ecb modus, das ist unsicher. es gab einen vortrag zum staatstrojaen, die profis nutzen natürlich ecb modus mit allen konsequenzen.
+das zweite das man natürlich kennen lernt ist cipher block chaining cbc mode encryption. das sieht erstmal ganz einfach aus: man hat also erst den klartext und einen initialisierungsvector.
+das ist ein zufallswerd der wird mit dem plaintext xort dann kommt der block cipher, das gibt den ciphertext, dann hat man eine kette von verschlüsselten blöcken die ineinander geschaltet werden
+der initvector muss ordentlicher zufall sein.
+openbsd nutzte cbc, und vor 2 jahren meinte mal jemand er wäre bezahlt worden um eine backdoor einzubauen, da gab es dann einen ordentlichen review. es wurde was gefunden, was erstmal ganz harmlos aussah.
+da war eine funktion, die hat sich den letzten ciphertext gemerkt und das als init vector genutzt. 
+die idee ist wohl korrekt da man dann eine kette hat, aber ein aktiver angreifer könnte einen klartext so modifiezieren, das er das ergebnis der letzten verschlüsselung kennt und somit den initvector, und hat damit ein sogenanntes orakel. und kann damit den cbc modus auf sowas wie ebc reduzierung
+auch das xor ist schwierig, da muss man aufpassen.
+seit längerer zeit wurde das in openbsd korrigiert, in einem anderen beispiel war das krasser.
+zweites beispiel was vor einer woche genannt wurde.
+es gibt luks, die haben bis januar 2013 cbc verwendet. der angreifer kennt einfach teile des klartexts und den geheimtext.
+zum beispiel durch eine ubuntuinstallation wo die dash immer an ähnlichen stellen kopiert wurde auf der festplatte.
+... man kann also dinge auf die platte schreiben/manipulieren durch die schwächen im cbc modus. das will man nicht unbedingt haben.
+also man sollte überlegen welcher betriebsmodus sinnvoll ist. es gibt verschiedene modi mit verschiedenen eigenschaften. cbc muss zufällige initvectoren haben, recicling ist schlecht, cbc für festplatten ist auch schlecht
+zu empfehlen ist der xts-modus. das ist ein langes wort. da sind fortgeschrittene konzepte in dem modus. einige andere modi sind patentiert oder haben andere schwächen.
+was wir gerade gesehen haben bei dem cbc modus, wenn man einen aktiven angreifer vor sich hat, der kennt ein paar klartexte und geheimtexte und ist in der lage anderen ciphertext zu schaffen. man will eigentlich ciphertext integretität.
+da gibt es ein konzept das sich authonticated encrypted nennt.
+tls hat das auch versucht einzusetzen, sie berechnen eine prüfsumme hmac, fügt ein padding ein und verschlüsselt die nachricht hmac und padding. bis tls 1.1 gabs zwei fehlermeldungen bei entschlüsselung, wenn das padding falsch war kam zurück decryption faild und bei hmac falsch kam bad record mac.
+der kleine unterschied ist, mit padding falsch oder richtig, kann man aufgrund der fehlermeldung entscheiden, was stand denn wirklich in dem ursprünglichen klartext drin.
+einige versuche sind, nicht wie sonst die größe des universums.
+hier fuer 16byte reichen 20.. (ca. 2000) versuche bis tls 1.1 wurde das gemacht, das nennt sich padding oracle.
+tls macht erst hmac, dann verschlüsselt es, mac then encrypt. die zusatzinformation hat alles kaputt gemacht.
+ipsec geht den anderen weg, die verschlüsseln erst die nachricht und berechnen dann die mac. es gibt auch den vorschlag das als ssl extionsion zu standardisieren.
+es gibt diskussionen darum da die kryptographen, bei tls gibt es downgrade attacken, wo eine seite behauptet man müsse ein verfahren das schwächer ist.
+was sie alternativ vorschlagen ist, etwas wie gcm und eax die mit authenticated encrpytion arbeiten. ciphertext integrität will man eigentlich haben.
+
+regel 5:
+ein weiteres problem: was evtl. etwas exotisch rüberkommt ist bei hashes, also krpyotgrafische prüfsummen das konkatenieren.
+flickr als beispiel fügt verschiedene texte zusammen und berechnet daraus md5.
+das problem dabei ist, sie wenden wiederholt kompressionsfunktionen an, wenn man also ein versierter angreifer ist kann man modifizierte nachrichten dranhängen und kann eine neue hash summe errechnen.
+hier oben nochmal genauer aufgeführt, man muss sich aufgrund der bekannten länge ein padding errechnen und bekommt dann einen neuen hash herausgerechnet
+bei filckr hat man ein paar parameter angegeben, die haben das dann akzeptiert, man konnte bei denen dann leute an externe urls weiterleiten, und wurde automatisch auf andere seiten weitergeleiter wie ccc.de oder andere bösartige seiten.
+viele andere services haben das genauso gemacht, bei flickr war das merkwürdig, da sie alles was & und = war herausextrahierten, also foo=bar war für flickr das gleiche wie f=oobar
+als das entdeckt wurde haben die wisschenschaftler gesagt, wenn man das umdreht und das concateniert dann geht der angriff nicht mehr aber das wurde später auch wieder geknackt.
+es gibt dieses hmac-sha256, das sind sehr gute alternative ohne diese probleme. ich vermute auch das der keccak algorithmus, also sha-3, genau diese szenarien nicht mehr bietet. vorausgesetzt die nist akzeptiert das wie vorgeschlagen und nicht modifiziert.
+aber gemäß dem vortrag von djb gestern werkelt die nist daran herum.
+grundsätzlich braucht man für ein gutes cryptosystem auch guten zufall.
+
+regel 6: verwendet guten zufall
+manchmal ist es nur wichtig, manchmal essenziell. wenn ihr schlechten zufall in dsa ein ...
+cryptocat ist so ein beispiel für den browser, immer wenn zwei presonen chatten werden neue schlüssel generiert. der der das schrieb ist kein cryptograph und hat eine ganze reihe von fehlern gemacht und einige haben gesagt man solle das eher decryptocat nennen.
+es gibt da einige probleme mit den zufallszahlen.
+auf diesen 4 zeilen ist zusammengefasst was die mit dem rng gemacht haben
+das ist in javascript geschrieben
+es ist eine kleine schleife, bei der die zahlen auf 250 werten abgebildet werden, also 25 mal die 9 und so.
+die funktion randomSalsaByte garantiert mir, das innerhalb einer gewissen zeit zurückkommet was ungefähr in der range ist, das hauptsächliche problem ist, wer gern programmiert kennt den fehler, man zählt von 0 bis 250, iteriert also ueber 251 werte, dadurch gibt es 26 mal die null aber nur 25 mal die anderen werte, also eine bevorzugung eines wertes.
+man könnte denken, was macht das schon, aber man hat da mal eine grafik erstellt, und man sieht hier ein muster in einem zufallszahlengeneratior.
+ein rng mit muster ist nicht zufällig! das ist eines der probleme über die cryptocat gestolpert ist
+besser nutzt einfach /dev/random oder /dev/urandom.
+wer gerne mit routern rumspielt wird sehen das mehrfach einige zufallszahlen gleich sein.  wer gern mit linux rumspielt kennt das problem, der rng muss erstmal seinen initialen seed bekommen, im desktop wird etwas gespeichert und ausgelesen und da kommen maus und tastatur und netzwerk und so rein. aber ein router hat weder maus noch festplatte noch tastatur, also fehlt eine große klasse an zufallsquellen. darum dauert das eine ganze zeit bis der guten zufall liefert.
+der von windows war mal so zufällig, wo man bei einem bestimmten status wenn man ihn kennt die nähcsten zufälle herausfinden kann. das ist gefixt nun.
+hier habe ich mal ein paar zufallsfunktionen in verschiedenen sprachen aufgeschrieben, die man benutzten kann
+man muss natürlich seinen zufall auch erstmal testen, es gibt ein C programm, das heißt diehard, das benutzt einige statistische verfahren um zu testen ob das gut oder wenige gut ist.
+grundsätzlich ist es natürlich so, in der zeit die ich hatte habe ich 6 sachen rausgesucht. es gibt noch andere problematische dinge, das waren die wichtigsten.
+auch bei verfahren die etabliert sind, die man anders als vorgesehen verwendet können unvorhergesehene ergebnisse liefern.
+ein kleiner fehler bei krypto führt zu massiven problemen bis hin zu klartext.
+das jemand sagt das etwas cool ist weil es irgendeinen icon hat zählt bei crypto nicht, man muss sich die quellen angucken und selber entscheiden ob das gut oder schlecht ist.
+es ist besser wenn mehr augen draufgucken.
+das waren ein paar ideen ich hoffe das hat euch geholfen
+[applaus]
+
+Q: welche cryptolibs sollte man meiden und welche sind zu empfehlen
+A: besser high level bibs verwenden. also besser nicht openssl, die ist zwar nicht fehlerhaft, aber die benutzung ist sehr schwierig, darum besser keyczar oder so. es gibt auch die GPG lib durch snowden schauen sich mehr leute wieder gpg angeschaut und es gab auch wieder ne reihe von patches.
+
+Q: anmerkung: bitte bitte nehmt nicht /dev/urandom weil ... server hat das garkein zufall
+diehard soll man auch nicht nehmen in bestimmten szenarien.
+
+Q: ich wollte fragen ob es bei der benutzung einer lib unabdingbar ist ob die fuer eine plattform optimiert sein muss, und ob man sonst riskiert dass es ... angriffe gibt
+A: also ich weiß nicht ob ich deine frage richtige verstehe, für mich ist das beispiel die NaCl lib von djb die klar auf verschiedene plattformen optimiert ist. er überlegt sich genau was er wo braucht. er achtet auch sehr auf timing attacken, aber bei ander muss man wirklich drauf achten, es gibt auch leute die da nicht so genau drauf achten. aber die gedanken sind so geprüft und abgehangen das man die empfehlen kann.
+
+Q: also die frage zielte mehr darauf ab ob ich wenn ich ne lib in c nehme da bestimmt effekte in den registern auftauchen beim kompilieren.
+A: je nachdem wie es programmiert wurde kann man keinen generellen rat geben
+
+Q: die geschichte bei flickr mit den hashes, ich hätte gedacht bei passwörtern macht man was ähnliches macht das man einen salt dranhängt und jag das durch nen hash.
+A: bei einem pw macht man das ja. aber der hash bei passwötern bleibt ja gleich, bei dem was ich gezeigt habe ändert der sich ja wird aber als korrekt erkannt.
+
+

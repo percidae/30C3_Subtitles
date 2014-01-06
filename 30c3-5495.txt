@@ -1,0 +1,316 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+ 
+Concepts for global TSCM
+getting out of surveillance state mode (en)
+andy
+ 
+ 2013.12.30
+ 16:00
+ 
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[x ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+ctually, this thing is a different version of another talk.
+It might just be a draft of something to discuss.
+If turned out to be totally true.
+I thought , I need to move on and we need to find ways to debug planet earth. And Im looking
+The Snowden stuff ther is a lot more stuff on ..
+Also, on the cooporation model
+
+They have stuff to share and itnerest to share and so on.
+
+The technology stuff that we must  .. that is comprosied.
+
+We have this information at hand and we have a processs , we have more information that finds their way into the public understanding t the moeoment.
+Im working with Der Speigel ..
+We look at the  informatiion proess.
+The NSA doesnt break the encrytption but rather to curicumvent it.
+
+The editoral process says this is to complicated for the reader , lets change it
+And they say NSA breaks encrytion, which is the wrong message.
+We need new ways to bring this into pbulic understanding and ways to get out this problematic situation.
+And we have missing bits.
+Snowden comes form a.. level s2, which is..
+One of the other way, however, most of this material is about technology.
+The material contains not so much about the targets, because they are indiviual cases.
+They only find the way in to the material if special... was required.
+
+They need to do something specifically. Ther eis a diparmtnet if you look at the wy NSA works.
+S1 is calle fcustomer relations. we dont hav ethat much stuff at the moment. we hve some..info about the customers.. the white house, the CIa 
+
+we have osme stuff about the liasons...
+
+This finds its way into tasking. This is done by someon w ho udnerstand the technical ... way of programs.
+
+Collections,e xploitsk.. about the target. but then all this type of technical data.. goes back to ... interest... write analytica reports.
+
+This helps us undrstand why the NSA has a 50 billion dollar budget.. people using this information.
+
+They need 5 -10 people who submit the list to NSa and ...
+
+These reports contain all infromationa nd discuss this type of usage by Binney who became one of the early whistleblowers.
+
+Its not that we have to use this data in blackmailing,  think grey mailing.  It works like this you have this info and you dont want to talk about it and they dont want to tralk about.. Like a gentlemans way of ...
+
+What the hell are they doing with this data nd what are they doing. how does this effec tpolicy making an dbig business..
+
+This talk is trying to get some ideas together on what we could about it.
+
+There is ... tsm survey which is defining the service providedr to....technical security ...weekness.
+The facility in this case is planet earth.
+The make it manageble I would like to think of a country... that we wwould like ot provide our citizens a infrastructure ...
+
+If we think of a country that might want to move in that direction.  There are a few steps required...
+
+My .... is not a clinical one.  The TSCM just detects what the heck is around there... in old days you would go into a room and do sweeiping... remove that and be find.
+
+so, communication security is all partys of a successful TSCM approach..
+
+The ..   takes place.
+
+Identify the framework
+The parties involved
+The technologies and jurisdications
+Construct service process es and ...  get nothing.
+Where networks, process and .. issues.
+That data does not get into wrong hands by default.
+
+The ..
+
+Thats quite a high attitude to achieve but its what we want.
+The scoope of the problem however is, that the Trans-NAtional Infrastructure must be considered compromised.
+
+Country A and Country B, NSA GHSQ and Ahmad [ ? ]....
+
+Therey are perowened parties by the british or american players or whatever have ...  getting the data and so on.
+So we are dealing with even more people.
+Expoitation methods that are built into technology.
+That Jacob referred to slightly .. Der Speigel article this morning.
+Remains on the devices in orfer to control it.
+
+considered comprosmied...    NSa terminology
+Encryption tools are avaialb eon a scable demons..
+
+Collect all our ... plugins and so on and standard exploits at hand.
+This is just a very rough picture. The NSA puts this rough picture into a bit nicer form.
+
+
+ I dont want to analzye this here you can do that at home
+ Cables connection countries and continents, regional and structures of the collection services, cooperating.. plus implants.  Whic makes the foreeight
+ 
+ The .. works like this.  I hope this is of interst for you.  I spend many ...
+ collect ten shakes and stuff.  the .. guys  
+ special forces coperation ...  telecommunications and tech ... you might call it hacking but I call it the military way of attacking computers and ...  these are assholes in governmental...
+ 
+ Alright, then we have next to the straight tech specs in these areas we have to a bit of princicple.  Let put ourselves in the mind of a group who adives a government or want sot get out of it.  What do we find next to these... bases and so on.
+ 
+ The NSA calls this the Noble[?] rprincicple.  
+ In secure network environment is also subjec to explort controls.. tehre is no regualtion controls for ....
+ its not avaialbe to all coutnrie sto be exploited and so. Also the sig intel of these ... The data being accessed through all these programs is a currencly. its being exchanged between  countries.
+ 
+ If Merkel... find that if the german intel and army doesnt find form Aermica stuff happening in Afgan an d elsewhere nd probelm justifying that and ...
+ 
+ And these dependcies are very different betweeetn..
+ If we dont integrate that in out concept. we stay Naive.
+ What are interst and what deals are being made to insure that national govt exist or whatever.
+ That is th third point and that is not to unimpornt.
+ The...
+ 
+ Country-specific control freaks, so called governements...
+ so, we might of course even if .. its a bit of a straght idea.  a whorl is bettter than a .. than a one nation state and that fucks all the other...
+ 
+ rise the value of their own ... its hard to trade it.
+ if you are ble to a bit of bjectivity on your
+ And .. here we run into a ot of problem.s
+ 
+So let's say we have here our country X. ... we look at cross coutnry stuff.  We might identify the companies... if they are Aermican companies and .... also th do eir options to..
+ 
+ The embassies 
+Cicso or whatever technologies are providing...
+
+If we look at.. we have already many things in our hands when ..
+Bwtween specific points ... connecting 
+
+Foreign satelites and communicationg systems and we hav emor of those things.
+The second thing, is viewing third parties operating within the country and review ... identify crititcla points.
+Review identical architecture, 
+Review and identify clean operations. those that do no hand over their data. 
+There is a lot of options to put onditions into licnsing.  This suff is already happening if .....if coutnries say .. we just get all the dat of of oure citizens and not the NSA .. we have it and if the nsa wants something, then we have something to trade.
+
+... we have to be careful bout the ideas we are spreading and to our agendas
+
+
+The critical appartus of... where we suspect a better level of unerstanding of the problems.  .. NOrmally this should have happened long ago in some coutnryes.  If we look at greece for example, like Greece, this was a very tech thing that was interception that was reporammed that the ministers would be target that would not show up in the lawful interception and was all identifies coming from Voda phone.  then greece mini found hanged nad called suicide an dno one belinved and police started .. invesstigatin again.
+so greece did not 150 million cashe in instaed of vodaphone problem.. in 2006
+we learn about same company that the company has same olibgations to british government 
+
+Acting the right way.. they need to be instructed, obvisiouly
+then twe have the agreement between cooperation with local agencies ... with NSA.
+Then we see of upter importance , in germany this situatio is as fucked up as it can be by the way.
+
+when east and west got USRL list ., the most secret of NSA of all the targets in all the counrres.  Waht they want of each company and that country. They had that list and ... east german intel had it and the authority keeping the ... east germ intel .. gauk,... turned over that list that showed that Merkel wa s a target.  they gave back to americans without keeping a copy.  later that person was not punished ... he later became german sd president. when snowden cam eup and when this pres said i dont have symptathy with traitors... he gave us a on idea about his recyclibility ... what do you do with this guy.. maybe recyle him as dogfood or something.. but what helpful role in politics.
+
+when we come to the area... condences... lets say foreighn company or ...there actually .. we spend some time with this in Germany. We .. what can we found out?  Prison, embassies, their activites, movements.... if you are ... we should have some options to look closer here.
+
+To target, improve... so this sound all kind of wild but I thnk it is pretty important. ..
+If you look at for the example, ithe roof top of the embassy here in Berlin, we can identify were this is located... However hundred meters behind the british embassy doesnt even hide it.  The Americans at least ry to make it look a little nice.
+
+They have one of these walls, which are not walls.  In each direction, Thee location is pretty good for getting gsm and aother things from parliment itself.   Dunken campbell collects these pics, he has a lot more.  What we found and swhat was pbulished today.
+
+When they want to corrupt and shoot down tcp connections...
+
+
+there is this many dimensions on knowing your eenemy.
+
+The implants in you infrastructure like bearing points 
+
+Because if that infrastructure is pre-owned, they don't need to build infrastructure...
+
+So the whole paradigm of the national infrastructure ..
+
+we might to even have redefine..
+
+...
+
+
+
+If you can protect your infrastructure, then avoid putting stuff which can get out of your hands.
+
+If you can't protect data in the data retention system, then don't put it there
+
+forget process more data than 
+
+next to that are some situation that are totally out of controll.
+
+the question is, what can you do about that.
+
+if your national compatnies ahve their data in.. or in cloud providers.
+
+..
+
+so and then, next to that.
+
+there's the whole range of ...security where... where we think we need ot live in farady shielded camps like this guys tend to to create their own little reality in these tent.
+
+..
+
+this means we maybe get to the intermedieat .... how we get to survive.
+
+...
+
+where we have strong encryption and also our own measures to prevent it.like fingerprints and so on
+
+...
+
+that's roughly the right direction, but as soon as you make use of the web, , images scripts plugins etc forget it ..  your already dead.
+
+what all is being failed .the node taken over.. . is beeing taken over or exploited or what ever
+
+as said this are only rough ideas about what 
+
+
+QUESTIONS
+
+Announces: If you have any ideas or questions, please line up at the microphones.  all ideas and comments are appreciated.  
+
+So any questions from irc
+
+yes there are
+
+audio c whatever
+
+yes there are questions
+audio can you...  
+q:  did the NSA manage to infiltrate Tor, if yes to what extend? Is it still usable against an adversary like the NSA?
+if yest to what extent
+
+Andy: by default tor is not broken. but there are so many y ways to circumvent and control and .. clients and it depends on your setup
+
+and of course there is possibilites because in most tor ..you also still leak info about he system your using and you might have java script enabled .... which might make yiu a subject of attack.
+there is not a clear , all is safe, situation..  
+
+question from number 2 please
+thank you for the talk ... so what other choice do you have if your .. is already compromised?
+andy:  I aminvolded in a company called crypto phone and .... trusty worhty hardware components.. we are at the beginning of that ..
+
+is actually i think we are roughly at the beginning of this journey. i utterly hope that cines compnaies will see that the only way ot of this will be to support trustworthy hardware .... but if we don't have that what are we ... so i dont have a clear adivce, maybe i would suggest to use secure hardware. Maybe I just havnt found it yet.
+
+q: I like the things you showed about how obama uses the things and I think we should use those things for ...
+being more agressive about counter spying.  we can do simple things like this.
+Andy:  youre totally right and i had some exchange with duncan ... ... i have those --- in my wiki . there is a lot more work to do in .many . country. we can do this as a crowd we dont need funding to do this.   you're totally right, we shouild ahve done it a long time ago.
+also we started the same things and we didnt knw the other wikis existed but now we do
+--- we didn't know if the other ..
+creating a hacker galactic intel agency is difficult . 
+That's unfortunaletly true about that last thinky
+
+there's another question from irc
+
+this is a quetsionffom finland. Greetings from Helsinki, Finland. Starting Jan 1st, our police gets new legislation that enables them to engage in active network survaillance. Secondly, our government will soon publish a new "cybersecurity strategy". In it they want initiate their signal-intelligence operationsexplicitly, in the name of for network-security and to leverage their position in intelligence -- traiding with other states.-- What kind of political and technical message would you have for the Finnish citizens, here on video? What things and jargon should we keep an eye on? What should we demand on our goverment and politicians? Third, in what sense a Google Datacenter we have is a SIGINT collection 
+
+a:yes kind of it is.
+they dont encrypt everything so google is kind of evil. and the finish situation has to be evaluated , its important to understand the agreemetns of the intel agencies, if you dont have theum on your side, then they arenot part of hte solution they are the problem.  they should be prosecuted, improsed.. etc.. the other big quesion is what kind of legistaiton is in place to allowe  or not allow foreighn operators in the .. in ....stuff is what should be done locally because the people kknow better what they are dealing with. there is not one solution that fits it all
+
+q:  thank you.  i was surpsrised to see fingerprints on the list.  can you caomment on the sit for fingerprints authentication
+
+a:  fingerprints can be exahcnged mishandled and used in other ways.  what i have learned is that they have massive scable infrastructrue for man in the middle games. ..for playing with our clients, and messages transfered and that the fingerprint is one way   . OTR and pgp is the best we have at these moment.  it might be inconvenient but i dont have the answer to that. there are better people than me to answer that answer.
+q:   is using non-smart phones better in protecting information stored on the phone?
+a: yes. 
+so sometimes no telephone is better than using telephone
+
+q:  what should be change on the legal sid eof ...  technology.
+a:  stuff like data retention is a huge risk  it does not insure that the data does not get into the wrong hands. it is .. it can be abused to easily.  storing the less data required is and decentralizing ...  the best solution is for me is to limit whatever data that is required and not carry around so much dat a with you .. that can be compromised.  
+
+q:  this is our data so .... its basically .. also something that can be regulated.  we have like in germany every [school?] is regulated.  
+
+a:  yes. i think we are coming to  that. .. most default firewall and so called firewall. .. because the  provide the illustion that you could protect the scenariosec mechanisms must be considered as the problem than the solution. it creates an illusion that security is there and there is no way. ihave no idea about the policy,
+
+I think we need to write that actiually, how to provide security in that case, in these circumstances .... I think that is the solution.
+
+q: security much matter than ...
+a: if people think that exploiting millions of clients is raising alot of costs they are wrong. the .. infratstructure is massive and scable an it doesnt cost anything to them..  raising the cost for them is a good goal but we are not there yet.  
+
+
+
+q : in this context I see most of the provlems is thorught the concetnatrion of power that the us shouldnt the nation law enfrocement  gainded thorught the nsa. ....do something to proectect their peoplej?
+
+a: that's the theory of their job description....i talked to member of german parliment and he asked  should we disolve their agencies. or should we give them more money to give to intelligence when i..hear this I say to him .. Before i give some advice about ... I want to sleep some night and think about it.
+
+q:  conflict of interest with local law enforcment and ...  agencies?
+
+a:  this is true but to...  give law enforcement all they want cant be good.
+
+q: the Finland, the policiticans look at him as some kind of ... authority and there is a commercial  interest.  is it a problem that cyber sec gen is a involved with coperate companhy
+
+the corperaarization of cyberspace is ther. whehter we like it or not. .. many are running the companies now form a former  ... [tinel life]  I dont like military thinkng in these ideas.  you are in a triangle where everyone holds guns to each others heads and they call it peace. we need to find out our own ways, not like those guys.  
+

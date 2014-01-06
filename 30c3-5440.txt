@@ -1,0 +1,309 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+ 
+Art of the Exploit: An Introduction to Critical Engineering
+(en)
+Julian Oliver
+
+saal 2
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+I mean for instance we had to focus on a couble walkin in the scene, a guy with a lantern, having a conversation, maybe in gent or antwer or 
+The movement of poeple itself would need to be coordinated by signaling an infrastructure of signaly
+the monetary where poeple get cash, a goat or trade a bag of rice, 
+cash can be pulled out of the wall
+we can coherently represent the forces that we understand to be teh life we have to day
+
+we have trading, the braoder fincancial marketplace, HFT built on a bedrock of algorightmic outputs, and .
+
+Indoor representations of tat market, products sitting in boxes with expiry dagtes, 
+depends on refrigerations
+the CDC in the US have documented the effects of refirgeration ceasing to exists, millions dead from foodpoisoning
+
+forces as inputs to maintains this thing we call everyday urban life.
+
+what we deal with now as opposed to th elders, is viibility, vs invisibility, 
+unable to see the inner working s of out machinery
+when a machine runs efficiently one only needs to focuos only on its inputs and outputs,
+
+the better a machine runs, the cloer it comes to beconing opaque.
+
+Latour brought the black boux into rethrouic at the time, we have an interesting representation of it her.e 
+we have teh feedback control loop looking at our .. 
+
+When we look at the internet of represnetations of the internet as a netw of netw.
+an nongoing attempt to connect networks, a clustering around the stars.
+
+the only people refering to users are drug dealers and software desisgners.
+
+Firefox is not playing the game of opacity
+the web. which proivdes may convenrineces comes with the cost of a lack of transparency
+I grew up in NZ sourrournded bu   beautiful forests, and now I'm in cities.
+the prisons of infrastructure, 
+the ide that we can have an urban envronment to talk about as a singular thing is problematic both for depictions but also understanding modern life.
+
+This is the grammohpne, the shithot mp3 player of its time
+it's a social extroverted object in its own sense
+you see the horn where the sound comes out and we can confirm wheith our ears that sound comes out
+if we look at the cranks its an energy inputs giving and immediate response, looking closely we can see teh needle bobbing up and down.
+the inner wokrings are translucent. compared to the ipod, it is a skinned object of metraphors
+
+My girlfriend christedl told med trying to explauin the experience of rewind a cassed to a young boy
+he could not fathom the concept
+
+Already we start to see metaphors playing into how we use tech, and how it is designe.d
+
+to understand how it works you have to open it up.
+most people could not tell you how it works.
+they could not tell you where teh cpu, dsp meomry is
+the opacity is displayed inwardly
+most of us do not know the devices in our pocekt.
+that we sleep next to and speak into
+here is the radio part of an iphone 4
+the right to ownership
+the right to stud them is contested. a wall of lwayers beteween us and our objects
+e should stop talking about lwayers.
+
+we need teh right to read write and executte as rgards to objects we own.
+needs to be actively upheld though stud.
+
+Yes we sscan problem, 
+this is my album btw.
+
+We have this incredible stuff....
+..
+If you asky anyone know how the postcard you sent them arrieved they cold give a coherent descritpion of the process.
+Postcode, there's this combination called addresses. if you ask them how their email arrived, very few people would be able to do so
+without using high poetry and surreal. descritions.
+
+if you tell poeople tha their snail mail for years have been taken into a special room opened carefully and copioed and teh recipient put in a database, there would be old people in the streets burning cars.
+but the abstraction is coming in the way of discrussion and assholes like this can come in and sneak a .
+
+
+engeineering is complex, its terms abstract, the other layer of opacity I referred to
+
+This is my defintion of the internet, based on quiestiuons I have asked and feedback 
+
+
+the internet is everyhere now, a subatomic particle
+a throbbing dark star in its avereness.
+
+talking about the internet as a living thing, belonging to the people with a lack of awareness of the inner wokrings doesn't afford them thee insights they need.
+internet is aa highyl privatized space from the phyical layer up to the application layer
+
+We're peoples data is in in these things called data centers' your drunken tweets and facebook messaged 
+You'd find it diffucult to gain access to that harddisk with the drunken tweet you want to delete
+
+instead we .. this childrens book depictions the cloud. 
+
+a large prop of americans believed cloud computing was affected by bad weather.
+If theres a typhoon yeah the clouds goes down but I don't think they were going so far.
+
+This is apples datacenter where a lot of itunes profieles are stored
+if you look closesly you see high heavy duty fences, four of five guys with submachineguns. 
+when we talk about the internet we need to get down to the middle, instead we are pushed this field of surfacess
+things are seamnless, but we need to get down to seamfullness.
+
+How much time have we god, half an hours
+
+the calbe map is an interesting example having a spin-off effect of
+ 
+ you can click on cables and you find few of them have public owenershipt, hardly any govmnt owenrship
+ now as we see withgchq and nsa tapping these calbes, right of access is basically a financiual trancation
+ 
+ so critical engineering is getting away from this defintiion of engineering and seeing how we can fortegt about the... economincs of it all and how we can use this langugage, collection of concepts around engineering to open public dialogue.
+ 
+ It's about turing egneering from a discipline known to the , sandalwearing brians and truning ..
+ critcial engineering mainifseto was written by this guy, this guy and myself.
+ it was tranlsadted into 0 languages and can be found in hacckerpsaces, univeristum curricula.
+ It turns out w hit a bit of a nerve
+ 
+ [reading slide]
+ 
+ first thing I want to talk about is my favorite work from 2001.  Gordn one of the co oauthors fo the manifesto and Bengt.
+ PPacketbrucke was developed for a expo in a big house in ..
+ We were asked to come up with 10 works, and what they came up with was special indeed
+ 
+ Who is familiar with mac addresses, link layers, beacons
+ 
+ just a quick..... 
+ so here we have staions around us. 
+ mac adress rep accessp ints
+ these beacons are the management layer of wireless nets
+ 
+ here's another replrestentaiton, theres a huge number flying around the room right now, and thy are vital for the functioning of the network
+ as far as packetbruce is concerned there are these location addreses .
+ 
+ what they wanted to do was that it was possible to intervene with the location tendency
+ 
+ we know about the carrieriq scandal. with beacons pushed back to teh mothership and used to build proiles.
+ and now they can switch from gps to fine grained locations systemd.
+ 
+ they set up a bunch of radios. 
+ 
+ each of these represent an antenna.
+ they capture frames in the studio and send them over a tunnel to the ..
+ 
+ 2000 people walking around with phones, looking for places that did not exist, they existed around the studio.
+ 
+ This is important because it leverages the trust we place in technology
+ It thorws it back and shows you it places you in a volatile position.
+ 
+ Dennis is probably here, Hes clever.. 
+ It doesn't have to be complex. here's an example Nullstecker
+ 
+ So of course you plug that in and a fuse blows. and you take out.
+ a large verison would look like this, you can wear it like a necklace
+ 
+ Heres a priece. 
+ no network is a gsm jammern in teh form of a battle tank
+ it's a littel object in the, it plays on cyberwarfare
+ it knows out in a sphere of 6 m.
+ you can exprerience in a controlled enviroment, being knocked off the grid.
+ 
+ Q: is it remote controlled. 
+ 
+ I'd love to do that it would be the next thing..
+ 
+
+
+The traransparency grenade looks  at the metaphor of cyber warfare. 
+
+...
+I wanted a handheld iconic solution, based on the soviet f handgrandes. 
+lovely silverwalk.
+got a powerful microphone, gumsitx arm based board, running debian, my chiice 
+when you pull the pin it captures all the wireless traffic and tunnesl it to the server and picks out jpeg, etc. and shows on a map what people are doing.
+.
+soneocne could check their emails and stuff.
+Ive shown it at a big museum, the pentagon, 
+telling people they ahve to be aware. 
+The violence of the object, mother and daughter talking about the greande and phone....
+
+PRISM, this is a little project inteneded to .. a speculative proposal of what NSA forensics equipment might look like,
+the prism spins when someone is in the room
+when they ask for a lease, we capture the bootp packet and we show it.
+when it's an iphone its invariable toms iphone, sarahs iphone.
+
+[warbling noises]
+[PING!]
+
+Susi.. iphone
+look whats that
+it's angela merkels iphone
+what is she doing there
+so its justa a game
+one of the things of working in a free software environ you can cobble stuff togheter, just 
+I would never dream of working outside this domain
+
+transmediala is going to have a sinister version of this prject wanna come see it?
+
+Martin is a very importan artist? 
+Our hardware is detached conceptually in our mind from ...
+much of whats in ou pocket comes from a 
+
+this actually boots when you stick it in the ground, sourcing electricyty from teh ground programming its runtime function
+here is one stuck in the ground, a poetic representation of approaching critical engineers,
+imagine if tyour phone needed contact with the ground from which it came
+I'm foused on cellular infrastructiure at the moment
+
+opacity takes other forms, removal form the world we live int
+this bizarrre practice of disguising cell towers as something lese
+her'es  a celltower badly disguised as a tree.
+what we see is a groinw community of radio enthusiasts finding these things.
+it was only found because people in gloomy engrand walked home and teh streetlamp never functioned.
+all they had to do was to apply power to a bulb and noone would have found it  at all
+
+some poor sod had a job disguisng a tower as bricks, took a photograph and printed it in vinyl., but did not use vuv resistand vinly so the disguies wears off
+
+..
+I'm going to talk about finally trust an engieering.
+Newwsteeek made my danil and myself.
+we have beenshoing this a lot
+it comes in the fomr a small wallwart.
+it attacks hte local wireless network, routes traffict to tiself and lets the owner go to koala lumpur and edit the news on that nework.
+you can tell poelp youve cancelled flighst. 
+you can tell people on the bbc .there is an asteroid storm and its time to crack up the whiskey
+
+that an asteroid storm is currently on the way to earth and now is the time to crack open the whiskey.
+
+[music]
+
+
+media is the nervous sustem of a democracy if it does not function well democracy cannot function
+
+[applause]
+
+thanks guys, question time
+
+thank you very much, line up infront of the mikes
+
+we will start with irc
+
+so . the main question is where can I get one of these devices.
+
+
+
+q: where can I get one of these devies?
+a:  we had a how to up and runing for two years and the page is broekn but many people have made them and are using them all over the world. if you go to newseek.com/howto , in a week or two the how to will be available. the firmware is freely available and the shell scripts to study
+
+q:  thank you for bridging the new media dn trhe hacker community. there is not enough of  ...
+how do you actually bring art and ... how do you see it deployed in the world and not a gesture.
+a: this is important. its important to break aways from the balck box of the world ...away from art as a sefl fulfilling prophecy. its closed. so the way we do it is that we show that it works.we do it in big public museums and around the public that bring the gen public in so that they have zero base to get up and go and then to having real contact throught the enegineering and the ... also to upload the how to online. this is what happened to newsweek and it pissed people off all around the world actually.
+
+q:  have you thought of appliying those newsweeks to the cars and taxis. so when i reload i go back to a article and its different, its a little different with the plug but what if you put a solar cell on it and put it on a tax. 
+
+a:  most when people are reading news in a tax they are going through the 3g or 4g connection
+q; not necessarily from the phone or the taxi but the surrounding population
+a: if you could change the network topology fast enough, you could, that would be an intereting idea. the speed on a tram would be interestin.g  gettin gout into the street would be interesting
+
+q:  i've heard about newsweek. i didnt know you were one of two behind it. any other projects behind it?
+a: im really focuse don gsm cell tower infractures but i have to talk to my lawyers before i represent it. we are workin ghard on intervention in berlin and test an take it to the next level after that. im also interested in looking at the more ....low tech solution like the .... drive the point home without having to go necessary so hard so long. you can follow along with us online. the online is up to date i can talk about stuff there.
+
+q:  what is the source for the firmware which is not on the ... the transport ... its a tcc dump capturing with a deviant avero from gumsticks. the tcc dump is runing with .. 0 and then it tunnels it over vpn over to my serve. so really the server side with perl is where it is working. on the greanade it really is just a few shell scripts that work meaninful with target networks wher eyou have to supply a key. if you gnu utils then.. i will publish it all 
+
+q: the work you show is destructive and interuptive , whould you consider something not more ..
+a:  . i think i am interested in producting paranoi and fear.  fear is something that gets attention. if you can change what happens in that little linear bounds upon their phonne, something they are consitent trust with and their provider  and with their wireless , if you can manipulate taht space and .. fear and paranoi,.. and if you can do this then the healthy healing process of change begins.
+
+q: are you worrie dabout persectution from newsweek. we
+
+a; we had people wanted to buy these and the moment we had to sell anything we are immediatley in a differnt legal category.  we work in a research ceategory, applied none the less., we dont push this out in the world as a product.  my lawyer says this would put us into a different legal domain.  if you write on a site , this is inteneded to scare your sister and not people at airports, what can the lawyer say.
+
+thankyou very much
+*applause*
+
+
+
+
+

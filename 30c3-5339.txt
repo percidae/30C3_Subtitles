@@ -1,0 +1,373 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help!
+
+ Here shall the english version come into being
+
+The Year in Crypto
+
+Daniel J. Bernstein: djb
+Nadia Heninger: NH
+Tanja Lange: TL
+
+DJB: Thanks for the nice welcome. Few weeks ago "what's the most important thing that happened last year"? Obfuscation is. If this is the best the NSA has to offer, we are screwed.
+
+NH: Picture of Jon ??? - how he understands Cyberspace. There are multiple layers.
+
+Audience: Where is the turtle?
+
+NH: introduction to schedule. Different layers shown
+
+Cryptocalypse: Last year we talked about factoring for those of you that were here. This year we talk about Discrete Log.
+
+What is the Cryptocalypse? The Cryptocalypse is summarized in 
+
+factoring integers into prices, discrete log modulo primes discrete log in elliptic curve primes
+
+Some stuff about Discrete log over small characteristic fields
+
+Series of breakthrough for cracking specific cryptographic fields.
+
+If these improvements can be scaled to big characteristic fields -> serious problems
+
+ - Recommendations for using cryptography
+
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+
+Hier ist der Bereich für die deutsche Übersetzung für "The Year in Crypto":
+
+Dies ist ein Bild von John ? so wie die Kryptographie verstehen.
+
+Slide über die Basics von Kryptographie.
+
+Vorstellung Kryptocalypse:
+
+Vortrag über Diskrete Logarithmen, was ist die "Kryptocalypse". Damit meint man dass sämtliche assymetrische Verschlüsselungen in einigen Jahren gebrochen werden können sobald das Problem der diskreten Logarithmen gelöst wird.
+
+Die Sicherheit beruht auf drei mathematischen Problemen:
+
+1. Faktorisierung
+2. Diskrete Logarithmen
+3. Elliptische Kurven
+
+
+Diese Probleme haben subexponentielle Lösungsalgorithmen.
+
+Vorstellung einer Gliechung für einen Lösungsalgorithmus der dieses JAhr gefunden wurde liegt im Bereich n^O(llog n)
+
+Falls die Komplexität verringert werden kann von L(1/3) auf L(1/4) verringert werden könnte , hätte dies dramatische Auwirkungen auf die Datensicherheit.
+
+Es gibt  keinen Beweis dass Faktorisierung oder DL ein wirklich schiweriges Problem wären auch wenn bisher niemand einen Beweis erbringen konnte.
+
+
+In 2013 gab es eine "Premiere" als Glenn Greenwald (Journalist ;) versuchte PGP zu installieren ;)
+
+In 2008 gab es ein Paper welches einen theoretische Side Channel attack gegen TLS beschrieb.
+
+Eine "Empfehlung" der SW Hersteller war SSL mit RC4 zu verwenden.
+
+Ein Problem der Faktorisierung ist der "shared factors", durch Berechung der Faktoren mittels kann der andere Faktor einfach berechnet werden.
+
+Der Shutdown von Lavabit durch erzwungene Massnahmen der Regierung löste Empörung in der Community aus. 
+
+Durch die Herausgabe der private keys von Lavabit hätten die Behörden sowohl
+
+1. sämtliche emails die jeweils versendet wurden entschlüsseln
+2. Identitätsdiebstahl eines jeden Benutzers
+
+Forward secrecy ist wichtig damit keine emails entschlüsselt werden können falls der private key verloren geht. (siehe Diffie-Hellman Verfahren)
+
+Hausaufgabe: Herausfinden der Konfiguration welches der eigene Browser verwendet bei HTTPS Verbindungen
+
+Man sollte nach Möglichkeit End-to-End Verfahren verwenden.
+
+Intel benutzt einen RNG in seinem Chip, welcher aufgerufen werden kann. Dieser RNG wird bereits weitverbreitet verwendet trotz Sicherheitsbedenken.
+
+Nach Analyse mit Elektonenmikroskop stellte sich heraus dass dies nicht der Fall ist.
+
+
+Analyse von DUAL_EC RNG:
+
+Die Sicherheit dieses RNG basiert auf ECDLP Problem, diverse Paper brachten Hinweise dass der Output Schwächen hatte. Im August 2007 wurde bekannt dass eine Backdoor möglich ist. Da der Algorithmus bereits verwendet wurde als Standard war eine Rücknahme schwer möglich.
+
+Das NSA bullrun program versucht bewusst diesen schwachen RNG zu verbreiten in kommerzielle Software.
+
+NIST will auf Druck wieder eine Diskussion beginnern um diese Benutzung dieses RNG nicht mehr zu empfehlen.
+
+Die NISt wollte den Siegeralgortihmus von SHA 3 abschwächen. Die Empörung war so gross dass NIST dies zurücknehmen musste.
+
+
+Projekte für die Suche nach sicheren elliptischen Kurven (Link), NIST EC scheinen nicht sehr gut zu sein.
+
+Eine Schwäche von Android Java RNG ermöglichte Diebstahl von BTC.
+
+"SSL crytpo isnt good but better than sending clear text ! (Google)
+
+Akustische Attacken um Schlüssel zu knacken nach Genkin, Shamir, Tromer durch Analyse der HW Geräusche
+
+RSA wurde mit 10 Millionen Dollar bestochen um den schwachen RNG als default RNG zu verwenden.
+
+
+
+------------------------------------------------------------------------------------------------------------- 
+Here, the subtitles for talk "The Year in Crypto" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be:
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+Obfuscation based on .. maps. and if this is the best defence we have we are screwed
+A talk we took last month. a n unclassified slide, they understand cyberace as a series of a layers, somehwere in there there is a turtle. 
+Just to get our bearings hewree, RSA diffie hellman sand so on
+we use thos in different protocols like tls ssh pgpg and these are used in differnt labtriss
+
+we will be talking about dif levels today
+
+let's start about the cryptopocalpse
+
+the obvious followup si discrte log.
+the first 5 slide will be instruction about discrete logs.
+
+what is the cryptopocalypee
+
+internet security crisis OMG.
+could be undermined in just a few years.
+
+the CRYPT... is sort of summarize in this article.
+if you are not an academiac may be a little bit confusing.
+
+a smalle breakthorugh in discrete log fields.
+
+crypto relies on thre assumptions.
+factoring integers.
+descrete log mod primes
+discrete log in elliptic curves
+
+some examples.
+
+here I generate a rsa key, hope factoring is safe
+
+here a dsa key, that mean discrete log primce
+
+I have a secure conn to goole, here I use EEC, 
+that is all we hace.
+
+discrete log over small charac fields. nobody relies on this.
+
+
+the importan thins is factoing dlf has subexp time algorithsm.s
+
+these basi assumptions ahve been due to moores lawe.
+
+until this year, 
+a serie of breakthroughs for small characteristic field.
+these numbers get large very fast.
+some actual algortighmic improvements for these specaal fields.
+what is the impact of this.
+
+Then there would be problems for crypto in real world.
+
+big if
+
+the general purose running time si this complicated functions. 
+
+field imrpovement went from  N to N
+
+woudl be catastrophic for key sizes.
+
+Try to estimate the bit sizes of different rsa keys.
+
+4096 should have 156 bit security. a small improvemengt in the constent
+would lead to 1024 being 68 bit. 
+if we dropp from an L1/3 to L14 algo 1024 would be solvable right now. 
+and 4096 would be too close for comfort.
+
+no we do not know how to adopt this for general problems. 
+
+all of a sudden there was a massive imrpovemen.
+
+there is no proof these are theroetcially hard .
+
+Ellipt curves are completely different.
+dan an I have dig arguments about.
+
+dns does not like algorthmic agility.
+we know what the correct choicesa re.
+listen to teh cryptographers.
+if you nead to use public key, think elliptic curve.
+
+as nadia mentioned we have some other things to talk about.
+a  non thechncal uses actually tired to use crypto.
+
+applause
+
+as you knw the resuslt were not really pretty
+
+you know who I am talking about. it ws glenn green walk
+
+eventually glenn got back in the game
+let me propose a new years resolution. 
+how about some hig sec crypot software thats so easy to use thata a journalist can uses it
+
+we have some crypto that is deploud ont the interent.
+
+is tls acually secure, in februar here's a quote in the tls 
+
+here's the bomb
+
+
+there is the lucky 13 attack. 
+
+they got coockis out of supposedly secure  cookise.
+they do a pad and then encrytp. the fact that CBC causes problems we saw with teh BEAST attack. when there is an attack against CBS TLS offers algo agility
+
+tls offers the options to switch from CBC to the backup plan
+the backup is of course RC4
+here is F5. a big vendor.
+protect yourself by configuring ssl to use RC4 and rc4 is uiuimmune
+
+rc4 wasl used for more than half of ssl on the internet
+which cause abbit of ufzz, after.
+ it's not the fastes attack
+ 
+
+RC4 C4 sucks, ths is not a good steam sichper.
+tls has the AES cbc option which is extr difficult to implent and it has the rc 4 options whihc is boken.
+
+and it has the gcm option if your client supports tls 1.2 which it doesn't..
+
+cointinuing with the sort of attack theme.
+the taiwan digital cert.
+it has govt level pki. so you can interact with the goct in a secure way
+we reported on a student project in taiwan.
+
+some shared common factors, which let them factor this easily
+
+
+theres lots of rng failures in this form. bad RNG end of story.
+we took a closer look at the prime factos. 
+it's fine its' random
+tw⁵
+
+there's lots of ways crypto can fail if you have bad rng.
+
+
+...
+so yes, we factored some keys
+
+so here is what they threw at us
+a pub from nsa surface, two stream ciphers, and sure enough there's word.
+apparently the crypt community have been distracted from looking at this.
+I took an oath that I would not reaveal this
+
+we are 
+
+how cna you be crazy enough to deploy NSA crypto in the first place.
+
+For those who are interesd 
+
+Later on in agusut some other things happende in the crypto world, inclruding the sudden shut
+
+
+If your building a prvacy too be use end to end crypto
+if you so got Lavabit no. you will see a cert saying ...
+
+In aug ther was a conference by ... that showed an attack of breaking the high end luxury cars.  that injuction in the UK saying they couldnt publish the paper because the paper would show the secret algo.  We did not ask could you at least publish the attack? they could not do that becasue the reader to construct what the secret algo. so those that have these cars are no safer .
+
+At chez 2013 , there was a terrifiying paper that , you know the intel chips , a random numer generator which intel has been telling ;you to use. you are not to use the entropy collection or pool or timings , your supposed to take readrand and call it , they dont make it privabledge and i did a github search and got 30,000 resutls.  now this in thlast few months, but has gernerated controversy. but we know what were doing random numbers but what is intel doing. how would we be able to know what they are doing
+
+intell, we have looked at these with a micropse and everything is laid out exactly as it should be. so you can manufacture this chip and if you do you see... it is backdoored.
+everything that intel has done publicily that their random number generators are working properly and they could have been back doored and they wouldnt have been able to tell
+
+for reasons that becaome clear soon i would like to look at a randome number genrator.
+this is a software ran num gen. and you have to feed int to. you can have a optional intput, it runs through this algo.. it 
+
+
+you take the top 16 bits and output, no, you ..... output it.
+you take your randomness and then  you..
+
+however you want to get more randomness from it.
+and so you compute the next time the x point times the x point. each time you ouptut the 240 bits.
+at the time this was desgined was.. the first draft was in july 2004, the draft from june 2004. this was discussed in ansii..  (connection dropped)
+
+All this pain and suffering of taking ran num gener becasue you want something that is pure. they should not take because of... assumptions.
+
+Dan Brown was writing that p and q are random then this thing is secrue. but the ouptut sequence is .... he shows that there is a bias if you look at this as a bit sequence.
+he makes a statement that q integer is random.
+(connection dropped)
+
+Now 2004 , 2005 this looks like a big computation.. the standard says.... for performance reasons... *applause and laughter*
+
+for performance reaons the output length should not... do not thin kabout given us fewer bits thatn 240.
+
+so in 2013 more people are looking at these dual standars....  for instance...the sha3 competition.  
+there is long history oc ompetiion in crypto.  
+there has been preetty wide support for aes and sha3 and shneider, c a cmptetitor for sha3, said .. they are reasonalble 
+
+they threw aways some options and kept some options, NISt is propsing to ... 
+
+the weakining is osmething like 256 bit option to 128 bit security options. we kile competitions because we see what is going on.  its popular , so algo are accepted , that is not the same as what NIST was talking about in December about standardizing.
+so then they said, maybe thats not such a good idea.
+
+The security danger sof the eclipse curves, a paper we wrote.  
+Showing that its really really hard to implement them properly.  that dont have failures, checks etc.  you may be doing it wrong.  
+
+they couldhave tried hashing several of the ... they could have been weaker... 
+NIST might be nice and actually wants to protect us... in sept he tweets... 
+
+we were working on how to save safe ecliplse curves for crypto.  we have the machine verified and we also include user avaialbity questions.
+
+we also introduced a new curve that .. will mostl likely use for their ... (connection down)
+
+And the the really funny thing is... This is the second version.
+
+This is kind of scary..
+
+Anothe attack that happens. This is acustic attack. This is watching ... If you look at the picture
+
+They also demonstrated the same attack..
+
+[Applause]
+
+Another thing that happend in december... 
+
+But here is one interesting paragraph...which is talking about specific...i have ease of reading here... is used in this paragraph... it goes on... So to illustrate this. Here is a list of some wild specualations. ... 
+
+The could have introduced backdoors... 
+
+How are we supposed to know... What we have learned soon after. In order to implement the ...
+...
+Sorry we didn't know. This was the good guys.
+
+Maybe in 2004 it was correct but...
+
+If  you pay attention i put.... There is one interesting thing from 2005. 
+
+However if you look at this. So ... Even goes into details how this .. could be used... There is also a part one to this...
+
+Look we told the world about it. .. Who every has this key to the backdoor would be able to decript the description.
+

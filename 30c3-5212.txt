@@ -1,0 +1,235 @@
+Welcome to the Subtitles Pad, nice to see you here!  
+   
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words!  
+  
+ It is also possible to change the main writer during the talk when fingers become tired. 
+   
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles. 
+   
+Thank you very, very much for your help!  
+   
+percidae (Barbara) from the VOC team  
+------------------------------------------------------------------------------------------------------------- 
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen!  
+   
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden.  
+   
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden. 
+   
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen.  
+   
+Vielen, vielen Dank für deine Mithilfe!  
+percidae (Barbara) vom VOC Team  
+------------------------------------------------------------------------------------------------------------- 
+Here, the subtitles for talk XY are supposed to be created  
+   
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos) 
+
+The language is supposed to be:  
+[ ] German  
+[ x] English  
+(the orignal talk-language) 
+
+
+The follwoing is NOT the "baseband exploitation in 2013" presentation --
+
+-- this was orginally transcribed on chaos pad 5618 but it should have been transcribed on chaos pad 5212. -- this was cut an pasted to chaos pad 5212. 
+---------------------------------------t----------------------------------------------------------------------
+GNU name system in Saal  6 
+
+[starting about half way through]
+
+[showing IBF extract slide]
+
+Lets see how we can reconstruct this for .. (audio is poor and low)
+
+ONe thing that is missing is we have no idea how large the IBF should actually be.
+We estimate the systamitc difference for the different sets.
+We can use IBF for that
+you can estimate the difference especially when it is very small
+Basica idea is for {} you sample your set by looking at the hash, ....
+
+NOw that we have created the data structure and extrract the [] filter, then we can try to code them. the first one will probably work and then...
+
+the next one succeed two and we get more elements because we have more elements. lets say the next one fails and we do not know how many elements we have.
+we can do a realtion with this filter and this filter. in one layer there will be half of th eleemtns.
+so lets look at this, here we have 3 for7 so 10 elements and the [] filters did not decode because .....
+this one will contain twice as much and multiply by 4 then .... 
+we can use our IBF
+
+so you can see that a tiny problem like revocation creates a bigger problem.
+now back to the gnu name system. there is also a global identifyiers. 
+
+It only hs to be unique within her (alice, krista) network, not globally.
+
+If I want to change by server mapping and I would like the users to get to the new records.  But I dont want the DHT to be down.  We can put shadow records in.  Set the expiration dates so that the validity dates concur.  A little trick to make this caching work.  So everyone can get an update.
+
+Practical concerns.
+[slide]
+If you trust the registrar you can be assured it will always keep your keys. 
+
+Many paths can lead to the same user in the same zone.
+After this import we can resolve Bob.
+We have these issues like virtual hosting and ssl.  These existing protocols ....
+
+The certificate says ...org and not ... gnu, so client side proxy fakes out the browser and makes it happy.  ...
+
+When you go vcalidate against the ca system if it says gnu.org then it is ok.  As opposed to gnu....  
+
+
+You are trusting on loop back here, basically doing yourself a MITM here as long as your machine is safe.
+We can validate against  ...   {speaker very fast}
+The proxy does not work as well as we'd like it to.  
+
+Relative names
+so we have this notion that we can put in other names, c name records we could put one thing and other in ..   i can put in .class at the end is the name of the rocrd you have resolved it from.  It would be nice if browsers could support htose kind of links.
+
+We gns to dns, vpn to peer to peer target, we have phone reords for conversation... {short version of this }  
+
+please come to other assemblies in thenext coulple of days and have more fun with secure networking.
+a soft proxy you can plug into,  send all dns  traffic to us so we can mess with it.  of course you can use your c tool and ....
+we changed crypto in 0.10, ...
+
+for all our record types we have ()  .. for all of them we want a pg key party so you can exchange them and create your private keys and exchange  private business card demon with your business card and get pdfs for printing
+
+
+question:  what about (collision detection) key look up with short keys
+a:  what kind of collision?
+question; in the DHT or something
+the dht is collition are hashed 512.  it is more likely you will be hit by lightning
+
+question:  setting up a boom filter?
+a:  you can do it once a head of time, local pc, you dont have to do this on the network. how much network traffic do i have?  
+question: so circular slide with mutliple ipvs inside , is this in sid eyour system or computer when you meet other
+the , totally static, they have to compute larger one, if the () fail , this data structure is totally static
+
+question:  with the dynmaic dns, if you have chaning ip address, how fast can you propage this?
+a: how good is the dht? you might have downtime for a few hours but i wouldnt want to host ip addresses in there. i woud want social application and .... it is a performance issue but not a secfurity issue.
+
+question:  what is the use caes?  i can see alot of use case for geeks but for commercial application and large scale do you think there is a ..?
+a:  net conversation, i want to call you, call gnu. i dont want a company managing names,. i want to call you and you buddy and then we are secure in social room. these kind of are ...
+jpeople dont want to do the dns because they dont want to pay the (fees) but this way you can converse
+
+you provide authenticity and  ()  but what about robustedness, maybe by flooding with messaging wrong and corrupt hash tables etc.
+
+a:  if the dht is attacked; you cant give us invalid records, you can ddos us, most systems unless big cannot fix but we try to route around misbehavers in the dht.  if you read ... evans.. or paper (audio out)  it has measurments and experiments in detail.
+
+q:  if relocation lists grow to big is there aplan for versioning of list?
+a:  there was a plan , if i talk to this peer recently, i can skip the thousands that are not relative; i dont see it being necessary for quite sometime.  i dont have that many revocations to worry about. maybe there should be.  only recovations should be used by high profile users that got hit badly.  if you were jacob applebaum and need to recoke your key ...  ()
+
+q: could you limit the lifetime of everything in the dht?
+a:  (audio out)      
+
+connection dropped
+
+
+q; how can i improve the technique i described
+a: i dont know a better way or i would have done it.  
+q; would it be possible to get the corporation of browser to add support
+a:  we have been talking to tor browser bundle but i dont think its likely we will soon
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+GNU name system in Saal  6 
+-- this was orginally transcribed on chaos pad 5618 but it should have been transcribed here on chaos pad 5212. -- 
+
+
+[starting about half way through]
+
+[showing IBF extract slide]
+
+Lets see how we can reconstruct this for .. (audio is poor and low)
+
+ONe thing that is missing is we have no idea how large the IBF should actually be.
+We estimate the systamitc difference for the different sets.
+We can use IBF for that
+you can estimate the difference especially when it is very small
+Basica idea is for {} you sample your set by looking at the hash, ....
+
+NOw  that we have created the data structure and extrract the [] filter,  then we can try to code them. the first one will probably work and  then...
+
+the  next one succeed two and we get more elements because we have more  elements. lets say the next one fails and we do not know how many  elements we have.
+we can do a realtion with this filter and this filter. in one layer there will be half of th eleemtns.
+so lets look at this, here we have 3 for7 so 10 elements and the [] filters did not decode because .....
+this one will contain twice as much and multiply by 4 then .... 
+we can use our IBF
+
+so you can see that a tiny problem like revocation creates a bigger problem.
+now back to the gnu name system. there is also a global identifyiers. 
+
+It only hs to be unique within her (alice, krista) network, not globally.
+
+If  I want to change by server mapping and I would like the users to get to  the new records.  But I dont want the DHT to be down.  We can put  shadow records in.  Set the expiration dates so that the validity dates  concur.  A little trick to make this caching work.  So everyone can get  an update.
+
+Practical concerns.
+[slide]
+If you trust the registrar you can be assured it will always keep your keys. 
+
+Many paths can lead to the same user in the same zone.
+After this import we can resolve Bob.
+We have these issues like virtual hosting and ssl.  These existing protocols ....
+
+The certificate says ...org and not ... gnu, so client side proxy fakes out the browser and makes it happy.  ...
+
+When you go vcalidate against the ca system if it says gnu.org then it is ok.  As opposed to gnu....  
+
+
+You are trusting on loop back here, basically doing yourself a MITM here as long as your machine is safe.
+We can validate against  ...   {speaker very fast}
+The proxy does not work as well as we'd like it to.  
+
+Relative names
+so  we have this notion that we can put in other names, c name records we  could put one thing and other in ..   i can put in .class at the end is  the name of the rocrd you have resolved it from.  It would be nice if  browsers could support htose kind of links.
+
+We gns to dns, vpn to peer to peer target, we have phone reords for conversation... {short version of this }  
+
+please come to other assemblies in thenext coulple of days and have more fun with secure networking.
+a soft proxy you can plug into,  send all dns  traffic to us so we can mess with it.  of course you can use your c tool and ....
+we changed crypto in 0.10, ...
+
+for  all our record types we have ()  .. for all of them we want a pg key  party so you can exchange them and create your private keys and  exchange  private business card demon with your business card and get  pdfs for printing
+
+
+question:  what about (collision detection) key look up with short keys
+a:  what kind of collision?
+question; in the DHT or something
+the dht is collition are hashed 512.  it is more likely you will be hit by lightning
+
+question:  setting up a boom filter?
+a:  you can do it once a head of time, local pc, you dont have to do this on the network. how much network traffic do i have?  
+question: so circular slide with mutliple ipvs inside , is this in sid eyour system or computer when you meet other
+the , totally static, they have to compute larger one, if the () fail , this data structure is totally static
+
+question:  with the dynmaic dns, if you have chaning ip address, how fast can you propage this?
+a:  how good is the dht? you might have downtime for a few hours but i  wouldnt want to host ip addresses in there. i woud want social  application and .... it is a performance issue but not a secfurity  issue.
+
+question:   what is the use caes?  i can see alot of use case for geeks but for  commercial application and large scale do you think there is a ..?
+a:   net conversation, i want to call you, call gnu. i dont want a company  managing names,. i want to call you and you buddy and then we are secure  in social room. these kind of are ...
+jpeople dont want to do the dns because they dont want to pay the (fees) but this way you can converse
+
+you  provide authenticity and  ()  but what about robustedness, maybe by  flooding with messaging wrong and corrupt hash tables etc.
+
+a:   if the dht is attacked; you cant give us invalid records, you can ddos  us, most systems unless big cannot fix but we try to route around  misbehavers in the dht.  if you read ... evans.. or paper (audio out)   it has measurments and experiments in detail.
+
+q:  if revocation lists grow to big is there aplan for versioning of list?
+a:   there was a plan , if i talk to this peer recently, i can skip the  thousands that are not relative; i dont see it being necessary for quite  sometime.  i dont have that many revocations to worry about. maybe  there should be.  only recovations should be used by high profile users  that got hit badly.  if you were jacob applebaum and need to recoke your  key ...  ()
+
+q: could you limit the lifetime of everything in the dht?
+a:  (audio out)      
+
+connection dropped
+
+
+q; how can i improve the technique i described
+a: i dont know a better way or i would have done it.  
+q; would it be possible to get the corporation of browser to add support
+a:  we have been talking to tor browser bundle but i dont think its likely we will soon
+
+
+

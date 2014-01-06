@@ -1,0 +1,321 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+------ä------------------------------------------------------------------------------------------------------
+
+next talk will be mostly in english.
+
+ja herzlich willkommen bei dem closing event
+ich werds jetzt doch auf deutsch machen, weil die englishsprachigen in saal 2 sind
+hat nicht geklappt also doch auf english
+
+so thank you for being here
+its my first time habing a closing event
+thank you for visiting this great event
+
+before i start with boring stats about the congress
+i want to tell you about something thats very new in this particular event
+its sponsering
+this event was way too expensive, so i hope its find to you that i introduce to you security solutions limited who would like to have a few words with you
+
+here he goes
+
+schoen hier zu sein, freut mich.
+
+sehr verehrte damen und herren
+mein name ist ole nowodni
+ich bin stellvertretender geschaeftsfuehrer der firma security solutions ltd.
+wir sind ein junges unternehmen das sowohl im oeffentlich als auch privaten sektor
+proaktive sicherheitsloesungen entwickelt und Aktzente in der Sicherheitindustrie setzt die auf ... niveau unerreicht sind
+ qualitaet made in germany
+ 
+ das alle hier waere natuerlich nicht moeglich ohne die enge verzahnung, ich wuerde sagen einbindung in diese einzigartige und unbeschreiblich inspirierende community
+ 
+ and dieser stelle moechte ich mich auch gern bei unseren freunden aus den usa und den niederlanden bedanken. denn dort sind es organisationen ohne die der gute kontakt in die szene der Hacker und Computerspezialisten nicht moeglich waere. es ist von grosser tragweite, dass sich eine [lachen] gefestigte bewegung wie der CCC ganz klar zu den sozialpolitischen belangen der fortschreitenden digitalisierung unserer gesellschaft positioniert.
+ 
+ Darum freuen wir uns sehr den 30c3 als goldsponsor [applaus] begleiten zu dürfen. vielen dank. und wir hoffen dass wir auch in zukunft weiter positive impulse in der Community mit veranstaltungen wie dem congress hier in Hamburg und anderen hacker events in europa foerrdern koennen.
+ 
+ es war uns ein ausserordentliches vergnuegen die szene der kreativen koepfe auf diesem event mit organisatiorischen und vor allem auch finanziellen mitteln entscheidend zu unterstuetzen. wir hoffen gemeinsam in zukunft in zusammenarbeiten mit ihnen, den innovativen und jungen menschen wie wir sie hier auf dem congress, ja allerorten,  antreffen, wir hoffen den sicherheitsrelevanten themen unserr zeeit zusammen voran zu kommen und diese entshceideungen positiv zu beeinflussen.
+ 
+ es ist uns auch ein anliegen zwischen unseren kunden im oeffentlich sektor, der privatwirtschaft und ihnen, den grossen Talenten der IT-Branche zu vermitteln, fuer spannende aufgaben im online handel, verbrechenbekaempfung und landesverteitigung und insbesondere natuerlich der cyber defense.
+ benoetigen wir, innovative, effektive und effiziente loesungen.
+ gelebte entwicklungszusammenarbeit durch praktische hilfe bei der bewaeltigung praktischer sicherheitsfragen ist unser metier
+ 
+ und natuerlich auch ihre chance, einen beitrag fuer mehr sicherheit in der welt zu leisten.
+ sei es bei der bekaempfung [applaus wg. laserpointer im gesicht] sei es bei der bekaempfung der organisierten kriminalitaet, des rauschgifthandels, der pornographie und des internationalen terrorismus security solutions bietet loesungen und hilft die bevoelkerungen zu schuetzen.
+ 
+ durch die beobachtung der internationalen finanzstroeme, die kontrolle der personen ...
+ [buuuuu raus]
+ lassen sie mich ausreden
+
+leisten unsere technischen sonderloesungen
+
+leisten unsere sonderloesungen einen wertvollen beitrag und um diesen zu ermoeglichen brauchen wir sie
+
+[rufe: zugabe]
+[gelaechter]
+
+arbeiten sie mit uns zusammen in einem spannenden innovativen umfeld in einem jungen team um die herausforderung der zukunft
+
+[wird von buehne gefuehrt]
+[applaus]
+
+ok um die konfusion zu vervollstaendigen werde ich jetzt doch weiter deutsch reden
+ich versuch 
+ich glaub nicht dass ich so langsam reden kann wie der herr eben
+
+was wir hier gesehen haben war abschluss eines viertaegigen experiments
+wir haben ein rollenspiel durch profis durchfuehren lassen
+dass ziel war leute anzuwerben
+es waren schauspieler die als recruiter auftraten um leute anzuwerben
+
+wir haben dieses stueck durchgefuehrt weil es leider auf den meisten sec. conferencen ueblich ist, dass recruiter fuer schattige produkte und geschaefte anwerben
+
+wir wollten beobachten wie das funktioniert und wie die reaktion ist
+
+es gibt glaube ich keine videos davon
+
+aber auf jeden fall kann ich sagen, dass wir stolz sind, dass die meisten der ca. 150 leute die angesprochen worden abgesagt haben und sich nicht weiter darum gekümmert haben
+
+[applaus]
+
+[rufe: zahlen]
+
+500 waren das? Okay, dann hab ich mich jetzt ein bisschen verhaspelt mit den Zahlen 
+
+aber es ist doch insgesammt ziemlich positiv dass vllt. in 2 faellen ein positives feedback kam. mit denen haben wir dann im hinterzimmer ein gespraech gefuehrt
+
+fragt euch ob das der richtige weg ist, oder ob ihr auch auf ehrliche weise an geld kommt
+
+wir wollen nicht nur an die teilnehmer sondern auch an die veranstalter appelieren
+
+es ist leider so dass viele auf sponsoren angewiesen sind und nicht darauf achten aus welcher ecke diese kommen
+
+wir wollen an diese appelieren ob sie wirklich auf diese schattigen sponsoren angewiesen sind, denn wir sind auf dieser konferenz schon seit 30 jahren ohne nur einen einzigen Sponsor dafür ins Boot zu holen.
+
+[applaus]
+
+wir haben ja ne riesengrosse veranstaltung abgeliefert mit euch fuer euch
+wir haben ueber 9000 besucher
+
+ja wie gesagt, das war alles ohne sponsoren, guckt euch die lounge an, da steht sogar ein wasserwerfer drin, das ist doch total geil oder?
+
+in diesem sinne moechte ich gerne auf die nackten zahlen und fakten zurückkommen
+
+das ist halt manchmal so, dass wenn man sich die zahlen zusammenklaubt, dass man dann die ein oder andere Information
+
+was?
+
+ueber 9000 besucher und
+mindestens 1000 engel ohne die dieser ganze kongress nicht möglich wäre
+
+also die 178 speaker die wir hatten waeren vollkommen ohne ton
+
+uebrigens wurden rund 6000 tickets im vorverkauf verkauft, was eigentlich auch schon beachtlich ist.
+
+wir hatten ueber vortraege
+
+das sind vortraege 30 min.
+
+es gab 154 assemblies, wieviele workshops es jetzt konkret gab kann ich leider jetzt nicht sagen, sonst haette ich wieder was falsches gesagt. ueber 250?
+also, das ist schon eine ganze menge.
+
+fuer die vortragenden hatten wir 8kg kekse, dass sind pro vortragendem 50g keks.
+
+es gab 10kg tee aber keine moeglichkeit den tee zuzubereiten
+
+es wurden 196 flaschen wasser bereitgestellt und verbraucht
+und wohl auch eine flasche schnaps, die aber bisher nicht mehr aufgetaucht ist.
+
+auch nochmal vielen dank an die paar engel die diese 74h dienst an den vortraegenden durchgefuehrt haben.
+
+was ich auch beachtlich finde, was hier jetzt anscheinen auch gerade statt findet, dass es 18 Freiwillige gab, die 42 vortrage von deutsch nach english und teils auch von english nach deutsch uebersetzt haben.
+
+vielen dank dafuer.
+
+wieiviel platz wir hier dieses Mal insgesamt im vergleich zum letzten jahr eingenommen haben in qm kann ich jetzt nicht genau sagen.
+
+aber ich glaube das war im vergleich zum BCC doch sehr entspannt oder?
+
+eine absolute neuerung in diesem jahr sind die chaos patinnen und chaospaten das sind leute sich bereit erklaert haben sich um leute zu kuemmern die zum ersten mal hier sind und sich eigentlich garnicht so richtig trauen, weil es hier soviele neue eindrücke sind, so viele Menschen und soviel Technik
+
+um denen die scheu und die angst zu nehmen sich hier auf dem kongress zu bewegen
+
+insgesamt gab es 12 autisten die anderweitig garnicht gekommen waeren und das hat wunderbar funktioniert
+
+die zahl hier unten war auch wieder falsch hat man mir gesagt es waren ueber 30 chaospatinnen und -paten.
+
+Es gab einfach ein sehr gutes feedback, die autisten waren offenbar sehr happy mit der sache und ich hoffe das wird im naechsten jahr ausgebaut
+
+es gab einzelne projekte von denen ich auch was erzaehlen kann weil sie mich entsprechend mit infos versorgt haben
+
+das chaos macht schule projekt hatte ca. 100 teilnehmer in diesem jahr wo sie im Grunde zwei Stationen hatten, eine Bastelstation, wo sie sachen gebastelt haben
+
+das richtet sich vorallem an kinder und jugendlich die sich fuer hacking interessieren
+
+das chaos macht schule programm wurde hauptsaechlich von ERFAs mannheim, essen betrieben hier auf dem congress
+
+viellen dank dafuer, dass auch die jüngsten Teilnehmer hier ordentlich betreut werden konnten.
+
+ueber die seidenstrasse brauch ich glaub ich nichtmehr soviel zu erzaehlen, dafuer gab es dedizierte talks
+
+insgesamt gab es über 1.4 km Rohr und 14 Stationen
+es gab min. 500 kapseln, d.h. das sind die zahlen die durch zaehler registriert wurden, aber es gab auch noch ein paar schwarzkapseln
+
+z.b. eine mate flasche als Kapsel verwendet wurde
+die Glasflasche war voll soweit ich weiss
+war so schnell dass sie in einer kurve nicht der kurve folgte sondern einen neuen bottledroppoint erzeugte
+
+klingt vilelleciht lustig aber wir koennen von glueck sagen, dass da gerade niemand im weg stand
+
+wo wir gerade bei der seidenstr. sind: wir wuerden euch bitten wenn ihr damit gespielt habt auch mit aufzuraeumen
+
+bitte helft mit abbauen nehmt euch gerne was von dem rohr mit fuer euren garten, aber lasst die Staubsauger hier.
+
+die seidenstrasse ist tatsaechlich eins der wenigen objekte die nicht vom cch abgebaut werden
+
+zwischenruf: garnicht wir bauen ALLES bis auf ... selber ab
+
+stimmt aber da bin ich noch nicht
+
+auch ein neues projekt auf dem 30c3
+
+Die Matekalypse trat ein an Tag 2.
+
+wir sehen links natuerlich in der typisch gelben farbe die club mate kaesten, die sind alle leer
+
+wir haben eine liste mit dingen die ausverkauft waren
+
+an tag 1 waren 1000 gsm sim karten ausverkauft. das ging ziemlich schnell.
+das design war so gut, dass die weggingen wie warme saemmeln
+vielen dank an die leute die sich die muehe gemacht haben diese sim karten nicht nur funktionell sondern zu verfügung zu stellen sondern auch einigermaßen ansehnlich
+
+an tag 2
+
+ein lkw kam aus bremen ok
+
+am tag 3 waren die gabeln alle. wer von euch hat so viele Gabeln gegessen?
+
+ich hab hier völlig das gefühl für die wochentage vertloren. auf jeden fall ware es ein wochenende
+
+wie ihr euch vorstellen könnt, die shirts und pullover sind auch sehr schnell leer gegangen. wie ihr euch vorstellen könnt, sind die .. sehr beliebt.
+
+aber vorallem sind auch die armbänder ausgegangen, weil wohl niemand mt so vielen teilnehmern gerechnet hatte.
+
+die flora-power-versorgung wurde dann durch kleiner LKW sichergestellt.
+
+es gab eine coffee ecke, wo man sich mit kaffe auseinander sezen konnte, einfach mal kaffee mahlen und so. Das war eine nichtkommerzielle Veranstaltung. insgesammt wurden hier insgesamt 10kg kaffee verarbeitet, die dort gemahlen wurden durch dieses fahrrad dort gemahlen wurden. es wurden also insgesammt 1000 espresso hergestellt.
+
+es fehlen leihtassen
+
+das cert verzeichnete 75 fälle, ganz generell, da gibt es keine aufschlüsselungen ich kann also nicht sagen wieviele pflaster oder so verteilt wurden. Es gab auf jeden Fall sehr viel mehr freiwillige, die sich daran beteiligt haben.
+und wir können von glück sagen, dass es nicht zu irgendwelchen schwerwiegenden zwischenfällen kam,
+
+das poc vertzeichnete 2577 nebenstellen, diesmal deutlich weniger dect als gsm
+
+son' DECT netzwerk oder GSM netzwerk ist auch nicht mal eben aufgebaut, insofern vielen dank an das POC team
+
+das wireless netzwerk dieses jahr bot eine möglichkeit sich mit benutzernamen und passwort anzumelden um sich da eine verschlüsselte verbindung zu holen.
+
+insgesammt gab es über 5000 
+
+wir hatten auch eine security honkhase vielen dank für deine dienste.
+honk ist aberr nicht überall, und deshalb gab es auch fälle von kriminiaität aber auch sehr wenige und darüber sind wir auch sehr froh, dass wir hier bei 9000 teilnehmern so wenige fälle von krominalität haben. und das waren dann auch leute von extern 
+
+insgesammt wurden zwei kinder gefunden.
+
+wir haben ansonsten noch dinge die ich gerne loswerden möchte punkte für die ich nicht jeden einzelnen ne slide gemacht habe. aber lasst - wie auch schon im letzten jahr - und anders als im bcc - die tische im hackcenter stehen. das cch sorgt für tische und stühle, also lasst di ebitte da.
+die seidenstraße hab ich schon gesagt, muss abgebaut werden, also seid so fair, wenn ihr damit gespielt habt, baut sie mit ab und helft mit
+
+es gibt schon seit 
+es wird eine Afterparty ab um 21 in der Lounge geben.
+Der zugang ist von außen
+Dann gab es noch eine sache, die ich persönlich traurig finde.
+und zwar haben die herren ray und zac zum letzten malk ihr hackerjeopardy durchgeführt. dafür wollen wir danken, das ist immer ein besonderer Event gewesen.
+
+auch der Aufruf noch mal an euch, das haben zack und ray auch gesagt, wenn ihr euch im stande fühlt den event fortzuführen, dann meldet euch und es gibt nächstes jahr auch noch ein hacker jeopardy.
+
+
+nutzt bitte das system, was wir für die ganze kongressverwaltung genutzt haben um feedback abzugeben. seit dabei ehrlich es ist wichtig zu wissen woran die speaker noch arbeiten können. 
+nehmt euch die zeit. es ist nicht immer nur die negative kritik gemeint.
+schaut euch die talks an und gebt auch mal 5 sterne wenn es euch gefallen hat. 
+
+dann kommen wir jetzt nochmal zu einer slide wo die ganzen namen drauf stehen bei denen wir uns besonders bedanken wollen
+
+wau holland, steffen, andy, ron, tim, julia (die leider nicht heir seiin kann heute), c. die ganze crew die alles aufgebaut hat seit einer woche. Und allen engeln die hier rund um die uhr zur verfügung standen um es allen leuten recht zu machen. 
+
+und nochmal ganz speziell für diesesn kongress, die engel waren oder sind der  wichtigste teil dieses kongresses.
+wir hatten mediaengel, damit die presse zufrieden sind.
+wir haben engel gehabt für den verkauf der tickets, für jeden immer und alle da waren. die auch beschimpft wurden, weil sie zu viel gemacht haben??? 
+vielen dank für die arbeit in dem großen gebäude an die engel.
+
+
+in diesem jahr haben wir ein sehr viel größeres contentteam gehabt. Aus über 330 submissions zu filtern wer vortragen durfte.
+
+danke an evelyn für die tollen grafiken, die wir wahrscheinlich alle schon auf unseren desktophintergründen haben und auf unseren neuen t-shirts.
+
+vielen dank an das cert, was man hoffentlich nicht braucht. aber es ist gut zu wissen, dass sie da sind.
+
+
+vielen dank an den noc und das noc helpdesk. die schnittstelle.
+sie haben uns gigabit internet bereit gestellt und dafür gesorgt, dass wir überall netz hatten.
+
+das poc habe ich vorhin schon erwähnt. vielen dank. die arbeit am poc headdesk.
+
+natürlich ganz neu die seidenstraßen operatoren die die 7000 meter rohre hier verlegt haben und für den betrieb deren gesorgt haben.
+
+auch die setupcrew hat seit über 1 woche große arbeit geleistet und auch währenddessen.
+vielen dank an die partycrew in der lounge.
+
+und an andy für die flugbuchungen der speaker.
+
+danke an und applaus für die chororga.
+julia, c., danny und starbug
+
+
+was soll ich sonst weiter sagen. wir sind hier eine große Community die sich getroffen haben.
+für leute die noch nie hier waren. es war total super, dass diese neuankömmlinge so cool aufgenommen wurden. die chaospaten haben da sehr geholfen, das war eine tolle sache.
+ich denke das wird die weiteren jahre auch so bleiben.
+neue leute die sich einbringen und was für den club tun. 
+
+holoclaus ist leider dieses jahr von uns gegangen er hat sehr viel für den congress getan. 
+Für holo claus einen besonders dicken applaus für seine arbeit dieses jahr und in den vergangenen jahren.
+
+auch das konzept mit den medienengeln wird weiter ausgebaut.
+die werden auf die presse losgeschickt damit wir dort gut vertreten sind.
+wir haben hier 100gigabit internetverbindung gehabt. während alle drumrum sich mit 16mbit abmühen müssen.
+
+das ist eine absolute neuheit. Vielen dank an die organisatoren.
+
+und in diesem sinne möchte ich euch danken dass ihr hier wart und mit gemacht habt. danke und wir sehen uns auf dem 31c3 danke und tschüß
+

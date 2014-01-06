@@ -1,0 +1,441 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Disclosure DOs, Disclosure DON'Ts
+Pragmatic Advice for Security Researchers (en)
+Nate Cardozo
+
+saal 6
+
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Angel: Ok, this is Nate, he will do a talk about like responsible disclosure 
+
+and what to do and what not to do if you find some kind of security vulnerabilty in something. 
+
+So give him a warm round of applause.
+*applause*
+
+Nate Cardozo: *taps the microphone*
+This thing is on. Ok. Awesome.
+
+Thank you.
+Thank you for having me.
+
+This is my first time at CCC and I am very excited to be here. 
+
+So we are the Electronic Frontier Foundation (EFF). I will start by saying a little bit about who we are and what we do. 
+
+We are a non-profit digital civil liberties group, 
+based in the United States in San Francisco California.
+
+There are about 15 lawyers and we have a total of about 50 staff.
+
+We do free speech, privacy, users rights, 
+innovaters rights, we fight for a sane copyrights system,
+
+we fight for a sane patent system. 
+We do legislative activisim in the US, in Europe all around the world.
+
+We write blog posts and pertinent to this talk we represent coders. 
+
+I am part of  the EFF's coder's rights project. The other major contributor to the project is sitting right in the middle of the room. 
+
+We work to protect the rights of coders, security engineers, developers, everyone building a safer internet. 
+
+There are a lot of laws and regulations and difficult egos involved in the pieces that put together, that comprise the internet. 
+
+And we work to to help security researchers, coders, developers navigate all of those pieces. 
+
+This is, as I said, EFF's first time at CCC, but this isn't our first time we do this kind of work. 
+
+We at EFF have been helping coders do what they do for very long time. 
+
+I've been doing it for not quite as long, as most of many of the people at EFF, including some of the people in this room. 
+
+But as I said this is not my first security conference and I know a very small amount, but I do know something speziellabout what I'm about to say. 
+
+Hopefully. Fingers crossed.
+
+The theme of this talk is: "One size does not fit all". 
+I put it in the abstract, and I'm gonna say it a bunch of times.
+
+What do I mean by that? This talk is titled: "Disclosure DOs, Disclosure DON'Ts"
+
+I did not title it "Responsible Disclosure", I didn't title it "Vulnerability Reporting"
+
+I'm not gonna make any moral judgements, about wether you disclose, about how you disclose, 
+
+if you disclose publicly, if you disclose privately, if you participate in a bug bounty program.
+
+All these choices are yours to make and not mine to judge.
+
+Okay, the biggest disclaimer of the night: I am a lawyer, I am not <i>your</i> lawyer! 
+
+Unless you already have me as your lawyer, which I don't see any of my clients in the room, but it's possible.
+
+But I'm not your lawyer. I'm not going to give you legal advice in this talk. 
+
+The biggest reason for that is, when I give you legal advice, it has to be in a confidential situation.
+
+This is not confidential, this is being streamed – hello! – online
+
+so, it is not possible for me, to give you legal advice in this environment. 
+
+However, feel free to contact EFF: info@eff.org, and my e-Mail-Address will be at the end of the slides: nate@eff.org.
+
+It's pretty difficult. 
+
+For help finding a lawyer, EFF … it's possible that we could be your lawyer,
+
+but we have a very long list of very good lawyers, who do this kind of work. Sometimes even for free.
+
+EFF does all of it's work for free and some of our cooperating attorneys do that work for free as well.
+
+So if you need a lawyer, you're not gonna get one right now, but I can help you get one.
+
+As I said, this talk is not gonna be me judging you. 
+
+What you do is your business and it's my job to help you do, what you do, 
+
+better, more efficiently and not get in trouble for it, hopefully. 
+
+Also, what this talk isn't: I'm not gonna give you a formulated[?] approach to disclosure. 
+
+As I said, the theme is: one size does not fit all. 
+
+For each security vulnerability, there's going to be a different perch to reporting it 
+
+and there's all sorts of reasons, why that's true.
+
+And of course, this talk will not be legal advice. I'm going to try as hard as I can, to not give any legal advice, 
+
+I am going to let you ask questions … I've been sick for a while and my voice is not going hold out for an hour,
+
+so there's no way, that I can talk for a full hour. So I will let you ask questions.
+
+If you ask a question, that calls for legal advice, I'm very sorry in advance, I will not be able to answer it.
+
+At least not on stage.
+
+Disclosure. Okay, what is disclosure? You found a vulnerability in someone else's project. Now what?
+
+What is a vulnerability? You hopefully have all a vague concept of what a vulnerability is.
+
+I'm not gonna really get into it, but they can look … they can take different forms.
+
+All the various types of vulnerabilities, that you might wanna disclose, it could be a customer data leak, it could be 
+
+something <?> a buffer overflow, it could be a DNS poisoning attack. 
+
+All of these are vulnerabilities you might wanna disclose. Anything, that looks like a vulnerability 
+
+and hopefully these dos and don'ts will give you some inkling about how to disclose anything you find.
+
+However, if you wanna sit on the vulnerability, if you wanna keep it quiet news for yourself, 
+
+if you wanna sell the vulnerability on the open market, then this talk is not for you and you don't need my advice.
+
+See the title of this talk, which is "Disclosure DOs, Disclosure DON'Ts". I will talk about disclosure.
+
+I will not talk about, I will not talk about sitting on a vulnerability or some <???>.
+
+The first question to ask yourself: What's your goal in disclosing the vulnerabillty.
+
+The first goal which many people have, is they wanna fix all the things.
+
+If you found a vulnerability your goal in disclosing it, might be to patch that vulnerability.
+
+This is probably the biggest reason, that people disclose vulnerabilities.
+
+Probably the second biggest reason is, because you wanna publish or present it. 
+
+You want to publish a paper, give a talk saying, "holy crap, GSM encryption is broken and I proofed it and here's how“
+
+And that leads to number four: you might get famous doing it. People have gotten famous doing it.
+
+And, that's great. 
+You might get paid, some people actually have gotten paid
+
+and I will talk a little bit more about that, but there's a questionmark at the end of that one.
+
+All of these goals are great. I'm not here to tell you, which one is better than any of the rest.
+
+For the rest of the talk, however, I will try and focus my various points of advice for various dos or don'ts on various goals. 
+
+Some of them obviously will have broader application than just one. But some of them will really be focused on just one of those goals or another.
+
+Okay, No. 1, and this is the most important. Disclosure DO: Remember that developers are people too!
+
+Computer are machines and software runs on computers, and you can think of software as a machine …
+
+But the people who design the computers and the software that runs on them, are people.
+
+And they're like you, more or less, and they have all the faults and flaws and egos, that people have. 
+
+Specifically that hackers have. Because if someone developed a DNS system and you're a DNS hacker, 
+
+the person who developed the DNS system is also a DNS hacker and she might be more like you than you think.
+
+What does that mean? Many of the problems that the security researchers that we've counseled at the EFF have run into, 
+
+might have been avoided, if they had taken the title of this slide to hearts. Developers are people too.
+
+What do I mean by that? As I said, developers have egos. Developers often are cooperations who face
+
+stiff bottom lines. They have money to win or to loose, based on what you're going to tell the world.
+
+Or maybe what you're going to tell their biggest customer. Or maybe what you're gonna publish at DefCon or at CCC.
+
+How you tell them that, might really piss them off. It might really endure them to you, and it might do anything in between. 
+
+There are ways of telling people that their product sucks in word other than "your product sucks".
+
+So, don't say that! At least not at the beginning.
+
+Disclosure DO: Do your homework! One of the things that we've noticed over the years is, that …
+
+a lot of people in our business don't necessarily have lot of patience. 
+
+If you discover an open port on a hospitals patient database, you might just e-mail the system administrator
+
+we'll just say, that you can find their e-mail address and say: "look, I was able to get on your database 
+
+and download all the social security numbers and all these patient records."
+
+Take a step back, before you send that first e-mail and do your homework. 
+
+Okay. Is this an activision or is this an intel? What do I mean by that?
+
+Is this a company that has a history of sueing the crap out of people? 
+
+Or is this a company that has dealt with security vulnerability reporting many times in the past and is well adversed on how to handle it?
+
+Again, is this the first time, the company has received a security vulnerability report?
+
+You probably won't be able to tell that of hand, but you may be able to tell that just from looking. 
+
+Is this Facebook? Has Facebook received any security vulnerability reports? Yes. They  receive lots.
+
+They know how to handle that sort of thing. 
+
+Is this a really small medical device manufacturer. Have they received a security vulnerability report? 
+
+Probably not, they might not even be thinking along the lines of security. They might say: 
+
+"why would anyone other than a doctor ever try to communicate with a heart implant?"
+
+Google is your friend here. 
+
+Before you send that first e-mail, before you click submit on that first form, google the problem, 
+
+google to see if this is a problem that anyone else has discovered in the past.
+
+Is this a known vulnerability that the company has six bug tickets open for?
+
+Is this a company that has a bug bounty program? Google is your friend.
+
+Okay, now this is related back to the very first: Find a person to whom to disclose.
+
+The closer you can get to the very person that developed the product with the vulnerability, the better.
+
+Why? Because you want, whoever you're talking to understand WTF what you're talking about.
+
+If you e-mail Verizon tech support and say that … I don't know … 
+
+they're leaking IMSI numbers on some sort of SQL database that's open; you can get with a GET command
+
+the tech support person is gonna say: "Huuh? What you're talking about?" 
+
+So you wanna find someone as close as you can to the engineers on the team, 
+
+that developed the product that you're actually looking at. 
+
+Why? The closer you get to the product itself, the more likelyhood that
+
+A) you're taken seriously and 
+
+B) you'll be taken less seriously in the way that "uhh, hackers", right? 
+
+You don't wanna come across as an "uhh-hacker", you wanna come across as an "hacker".
+
+like as we would understand it here. The kind of people who put up 
+
+a system of vacuum tubes to send messages around a conference center 
+
+and not the kind of people who break into banks in the middle of the night to steal credit card numbers.
+
+Finding a person is more homework. 
+
+This is again, why you don't just submit Verizon tech support. 
+
+If it's an open source project: great! You should be able to find the person's e-mail address 
+
+and probably pictures of their cats online. 
+
+And finding, whoever actually developed the product should be easy. 
+
+If it's a commercial product, this is weird but but LinkedIn can actually helpful in this situation.
+
+You can search on LinkedIn for "security engineer". If it's a big company, maybe they'll have one.
+
+Maybe someone that you know knows someone at that company.
+
+That would be awesome.
+
+One of the things that we found is: Even if you don't know anyone at the company or team
+
+finding an in in the company will both get you taken more seriously  
+
+and make it less likely to scare the crap out of that company.
+
+Scaring the crap out of company is never a good thing even if what you found is scary.
+
+You don't want to scare them needlessly. 
+
+Disclosure DO: Make a good first impression.
+
+The first contact will be the most important and hopefully will set the tone 
+
+for the rest of your interaction with the developer. 
+
+That's why you don't want to send an e-mail titled: "Your project sucks. 
+
+It's leaving all iPhones opened to having their contacts databases, uhm, scraped"
+
+like Snapchat, for instance.
+
+You want to ease into it: "Hello, my name is so and so." Or if you not gonna give your name: 
+
+"Hello my contact information is so and so and I have found a security vulnerability 
+
+in your products that, maybe, you would like to help them fix."
+
+How important is the issue that you have found 
+
+
+-> ca. 15:10
+
+You might help them fix.
+How important is the use ue found.
+Your first contact should give who every is reading it should give him an idea of what it is.
+
+Don't threaten! It is a terrible idea. it is just bad. If you first language is not that of the developer be really carefull. Be sure you dont use ideomas.
+If you first language is not that of standard user interaction. Maybe get someone who knows how to do that. If it is is three in the morning and you are on 7 mate...
+
+Dont make a ... that is really bad. Dont make it sound like an ultimate
+
+If they want to pay, they will. You demanding it wont do it. Offering your help is fine. 
+Do not offer to keep quite in exchange to anything money or anything.
+If you do over to keep something private ...
+It is simply not a good idea. This is no responsible at all.
+Don't say o much to soon. There are maybe time.
+Lets say this is thor and you found a 
+You might want t
+If it is a possible and you might found a way in 
+It is not a good idea to tell all the people
+
+You might need a laywer if you
+if you clicked to something that might
+
+Tons of potential legal issues. Some of them might 
+Copyright culd be a significant problem
+If you did something 
+You will want get as is said earlier get a lawyer
+
+If you discovered a bug 
+Otherwise if you found a ...changes are you don't get paid for it.
+If there is no bug programm. It is not a good idea
+Bug Bounty don't. Who recognized this. 
+Allowed him to post in 
+He submitted the bug to facebooks 
+
+But they ignored him. So he posted on Mark Zuckerberg wall.
+So they fixed the bug. He didnt get payed.
+Facebooks bug bounty programm
+
+If you are going for fixing the thing.
+In this context you should not be sure about this.
+
+If i where him i would resubmit the bug
+
+Okay. What if you now gone beond all the 
+Sometimes this goes hand in hand with all the things
+
+Let me pause for a second.
+
+Oh yeah people...they were often post 
+Just because it is a standard
+
+Okay, getting back to publishing...
+
+Making the entire world know it.
+
+That is a desicion you should make early enough
+
+I am not going to judge you
+
+If you disclose first.
+
+Maybe there is no opportunity
+
+However if you disclose the 
+
+...
+
+Okay there were a group of MIT student who submitted a talk to 
+
+
+...to talk in this piss hell out of Boston teams not an organization
+ I'm familiar with security they're not… It's exiting Intel and paste this is a transportation they don't necessarily think about these things in security researchers and when these appointments for light one of the things which think might have bought this title was oh my God these kids or can give people a step-by-step on how to get recently what's what so what I say that I didn't know whether this was a do intentions to look what type of attention right this is an important decision for you need to make it you need to actually make the decision decision you need to think about whether pre-civil rights for life is going to piss off then it will get you people come to talk 
+if you're DJ D and you submitted topics as DJD have something to say or to come to if you're rented MIT student and you submit a talk with this rain in MIT student say it was going to need to get this aligned everybody's fingers so think about what you're putting your abstract about talk title to get just enough attention of the right time and try me you do not take that the company that you're going to teach people
+
+Think about how the title reads all of your audience Price for Company potential lawyer's current employers conference covers 
+
+Are you really going to give you step-by-step instructions on how to get recently right when you get this was a pretty bad too is a sentencing thing to think about Disclosure.
+
+Okay now this discussion and when I'm stalking at the front about about goals this comes down to you decided to ... present maybe you've already disclosed the fuller ability to the company meeting on disclosure to release a proof of concept if you want to give you.
+if you decide it's really super proof of concept really slow that is enough for someone of your level of technical ability to understand the polar ability you want to release enough so that they know what the fuck you're talking about and not so much the script kiddies can run with it on 
+
+if you have discovered the fuller ability in Pandora analyzing to see you all copies of MP3s all the songs that they do they need your proof of concept snuck into your browser plug-in baby 
+
+I'm considered tool uses consider whether the proof of concept is doing something to advanced state-of-the-art means I'm warm weather at something that's just to let people get free shit to the free somewhere like rights kids were actually told people I'd appreciate it were going to advance the state of air cards. 
+for on for proof of concept think more about releasing your proof of concept..
+..for the kiddies. The kitties don't need your help.
+
+I don't does not living room to be judging they don't open is a
+ the latest of her better ways of events instead of your insecurity and releasing a browser plug-in that will let you screen is a card transactions because that doesn't leave inand security text is the exact opposite I'm even though it is a perfect working proof of concept and it doesn't help
+
+Okay that's all I have, my voice is amazingly pulled up and I'm ready to go for questions 
+
+you can always e-mail: info… and I promise that someone will read that 
+

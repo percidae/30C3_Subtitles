@@ -1,0 +1,103 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk 'Console Hacking 2013' are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Console Hacking 2013
+U Fail It
+@comex, 
+
+Alright, good evening and thanks for attending this talk. So as already mentioned, that's ... and wie'll be talking about Wii U..
+As some of you maiy know, we used pretty much just 
+we had a pretty good run on the Wii itself because the sec architecture remained
+So the first thing e did back thehn with twiizer ..
+ then we used a pair of tweezer on the .. ot be able to dump code on .. and back then the probably most prominent bug is that they used a string compare funciot to comapre a .. tuhs rendering them completely useless. And what we deid in the end was .. the homebrew channel which is pretty much the .. and we'd like to [applause] port it over to the backwards comp mode on the Wii U and there we have .. We had a pretty good run on the wii, let's see if we can do it on the wii u.
+ ..
+ at 730 MHz codenamed broadway and on top of that it has a SoC that contains the rest of the hardware codennamed Hollywood .. and there's the old GPU called .. also used back in the GameCube. .. does all the securit. We nicknamed it .. Let's take a look at what they changed for the Wii U. The most importante changes are marked in red. .. On top of that they also upped the freq to 1.2 GHz. then they added .. it looks like a .. and if you're interested in that, theer's another talk on .. There's still the old .. and the memory can be repuropsed as some really fast .. this time the SoC is called 'the latte' because they want to .. we renamed the securiy..
+ There's also the software side. Teh games running on the Broadway .. on the wii u they learned a little bit from the past. they run .. it does real process separation, memory management, .. doing its own part of the security. Now on teh wii the security was done all on the starlet .. this is still true for the Wii U so they have two perps to take care of the security. .. it's a lot larger, we called it IOSU .. original one. Then games and software can be loaded from the disc you inserted .. but the RSA sigs are only checked .. as soon as you gained the mem file system, you are able to run your own custom codes and .. .. One interesting thing about hat is that ..features real backwards compatibility. .. call this the Virtual Wii. .. all it does it pretends to be a Wii and .. we ran this even before the launche and figured out that there wasa anew cosnsole mode .. around we could see the hashes of certain files stayed the same .. is already in cache. This means that the wii backwards compatibility mode .. then switch back to wii mode and it's running mostly the same hosoftware.. .. if you just lookd at any kind of function.. Just to understand at which ponit we .. It would chainload .. against a hashed store .. .. and only at that point is the powerpc is enabled. before that only the broadway was .. and then IOS will reload and the powerpc will be resett. .. the powerpc is only running the games itself. .. we just know that it doas end up running. .. if you boot a game, it will not boot directly, but .. this is odd, because it should be working mostly the same. .. we never get code execution. .. And there are also tow new encrypted binaries .. it really feeds those encrypted binaries in that powerpc. .. we figured out that the espersso which is the powerpc with 3 cores .. os they added an additional layer of security .. but this means that there must be some code running that does all of this .. 
+ So what i just mention it checks .. So this is how the chain of trust actually looks like. tHeres an additional step for the boot rom .. What we can do now, we can break into IOS. .. So we can check what is happening when the bootRom is running. .. Which makes sense. On top of that, the image is decrypted in place .. and there's a third thing that is a litttle bit odd. .. as the very last thing when the code is running. But this means. But if we can observe .. while the boot rom is running to trick it into doing something .. then it jumps to the decrypted image. So if you take a look at that decrypted image, you will see that the very beginning .. so the bootrom is running at full espresso mode. .. it will run the Wii nandloader which will only then downgrade .. and decrypting an image takes quite some time, cause .. a few MB large. So what we can do is we can race it: we reset the powerpc .. as soon as ti changes, you'll write the decrypt the instruction with your own code.
+ This is a classic time to check the time fuse. The result is you .. on top of that you're still in virtual wii mode .. still a full espresso mode. .. you can just bring up the two additional PPC cores and use them. [applause]
+ Now what this means, this isn't even an exploit, it's a design flaw. .. As I mentioned, you can just use them as an oracle to decrypt binaries. .. and get your full decrypted binaries on a silver platter for you. .. it doesn't hide any kind of code you shouldn't be seeing, it's just a minor nuisance. .. Obviously, it's no fun if we stop here. We know there's a bootrom, so we want to dump it. .. the problem is that rebooting takes a .. so we've been trying to build a remote agent from a PC which is always what we've bee noding with a device .. .. This is pretty much, it's pretty nice cause it cuts down on your developing time. .. But those are gone now. So we started with something we call LOLSERIAL [applause]. the picture pretty much shows what it does. .. you can turn it on and off .. Serial over the power line. It's really slwo, it's only an output, but you can. .. GHETTOHCI this is a really, really questionable HCI device .. it can only also send only one type of message .. .. and you have the serial console. But it's still very slow .. So let's our final solution, which is the GPIOGECKO .. .. Most importantly, the warranty is finally void [applause]
+ As I mentioned, we want to dump the bootrom. .. For those of you who are not familiar with PPC, .. to disable the boot rom. .. So can we just use the same approach to .. dump the boot rom? turns out that that certainly doesn't work .. .. In order to understand why this didn't work, we're going to cheat and explain how .
+
+
+[applause]
+markus:
+This is gonna be interesting. So we're interested in looking at mostly memory management. .. what the data is in ram, the physical ram chips .. because the wii u is not a cache coherent system, .. ..  .. So let's set the stage first .. .. .. ..
+
+There's no MMU setup yet, so .. .. .. 
+
+[sorry, markus is just too fast for me to type anything sensible. :-s]
+
+..
+But there's a hole [laughs in the audience].
+..
+But what happens if we wait a little bit?
+..
+we can still read it. [applause] So this happened 8 days after the release already. ..
+..
+And then, we can profit. [applause] So, what happened? Well, the PPC crashes if we do a very long period ..
+..
+[applause]
+But it's running, it's running, but something screwed up really bad. ..
+..
+But drunk is good enough [applause] ..
+..
+And we have our keys. [long applause]
+..
+So that was 11 days after the wii release.
+..
+
+[applause]
+next speaker (name?)
+According to the paper that .. pulled up, .. How to pwn wii u mode. For vWii mode .. theres' the hardware, all that. But that was all able to go so far. In order to pwn wii u mode, we have to od it like any other console, which is to treat it like any other console. .. Well, you go after the webbrowser [applause] because just about just about anything uses webkit, webkit is LGPLOS, .. but we can look at the changelog and see how old is this. .. we have a huge menu to select from. The last changelog entry from the OS version of WebKit .. is from 2011 from october so it is a year and a day.. in theory there should be a lot of vulnerability. How do we actually find those bugs? Lots are reported, but .. once the bugs are old enough, the bugs .. but the bugnumbers are mentioned in SVN-commits with unittests for what used to crash [applause]. So all we have to do is grep the svn-log and .. those are the interesting ones. .. this is the first time i've done ti. to nintendo's credit .. That doesn't mean that exploitation is actually easy. There's lots of things that we don't have. .. We don't have that. Structure and vtable layout .. and there's some amount that you can get from the source code .. and like the wrong function will be called but we don't really know what's going to happen there. .. So although it's certainly possible, i mean, once they used a webkit version, nintendo pretty much guaranteed that we would get code execution. You could consider this a serous flaw .. Even if WebKit is going to be vulnerable .. Now, in a good and well designed security weather the .. So, you really should try and make this as hard as possible, and they didn't. .. And then we get a look at the Cafe OS in IDA .. So how does it compare to the old Wii OS? .. Another reason to do this, there is kernel enforced data protection So on the wii it was just re-write execute.. With a special exception for the webbrowser [applause] .. but it's somewhat paradoxical. So, downsides, or missing th
+ings: no aslr. It was 2012 when it was released, so there's no ASLR. .. This isn't exactly a security measure or some kind of mitigation, but it means that it wasn't properly audited. .. The ps3 also had no exectude and no aslr, but i think the new ones are better on than that. .. The cafe-os uses dynamic linking .. In fact, it almost uses ELF, the binaries look like ELF, except there is some gratuitous differences .. but it's close enough, so I guess they get credit for that. So benefits are function names are visible. For reverse engineering of Wii .. but those were closed and those were out of date for the wii U.. And, this is a bit of a historical note, but I'll be quick, for the Wii, there was eventually a port of Linux .. It's hard, because you have these random registers and .. Anyway. So. While marcan was doing all that stuff with reset that he mentioned, because once he got the keys he dumped included.. so since it was pretty easy to end up reading data from the file system .. to get to decrypt the PPC kernel and be able to see what is in it and turn it into a white box rather than a black box .. I decided to try to dump it with a .. Most of them just returned errors and did something predictable, some of them froze .. basically it was a strict read from the kernel without doing any kind of check .. so I printed one byte at a time and very slowly I .. no matter where I tried, I could not get any text. And there's a reason for that. As mentioned earlier, .. .. But the kernel did the opposite .. you just can't dump it. One thing I'm not sure whether this was meant as security or they just run out of secure registers. .. And I got all this nice stuff in IDA. This was useful for a few hours .. it was fun. [laughs]. Quickly on IOS which is running on ARM. .. So I tried to blindly exploit the IOS userland .. /dev Unix-like interfaces, .. from there I tried to exploit a different module which was only accessible from within IOS .. and my Wii wouldn't turn on. You 
+know, I wasn't expecting that. .. Oops, your Wii is bricked. Sorry! So I had to sit out for a while until I borrowed somebody's elses Wii U and I promised I would not try to do anything like that again.. .. .. So that's pretty much everything, except for one thing. [applause]
+
+[markus again]
+..
+[applause]
+..
+[applause again]
+..
+Also, apparently they use Cygwyn. [laughs]
+..
+This is where we are today. Thank you very much. [applause]
+We don't have time for Q&A, but we are back there ..
+Thank you! [applause]
+
+
+
+
+
+
+

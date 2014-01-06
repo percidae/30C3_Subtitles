@@ -1,0 +1,49 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+X Security
+It's worse than it looks (en)
+Ilja van Sprundel
+
+18:30 
+saal 1  (hall 1)
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Alright, I'll think we're about to get started. Please take a seat and make sure the usual announcements: nothing blocking the aisles, no cables no bags nothing else so nobody trips over and we can actually empty the room if we have to in an emergency.
+With that I would like to introduce Ilja, he's the director of Penetration Testing at IOActive Most of you probably know him. He's been looking at the X.org code, the X Window system code and the things he found there. I'm sure it's gonna be pretty interesting ??? before. Please give him a warm welcome.and let's hear what he has to say about it.
+
+Thank you. So my talk is gonna be about X security and the subtitle is "it's worse than it looks" - pun intended. So I am... as Dave just introduced, I work for IOActive, I'm the director of Penetration Testing, I run Pentest, lead Pentest and to Code reviews and basically break stuff for fun and profit.
+In short, my talk is gonne be, I'm gonna do a small intro, I''m gonna talk about security of X clients, ''m gonna talk about security of X servers, and then I'll have a sort of slide at the end where I'll sort of be like "How bat is it really and is there anything we can do about it?".
+
+
+
+

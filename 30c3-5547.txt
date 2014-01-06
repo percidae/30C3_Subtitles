@@ -1,0 +1,218 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Turing Complete User
+What can be done to protect the term, the notion and the existence of the Users? (en)
+olia lialina
+
+
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+"Its all a mistake. Im just a compound video program  " background monologue from Movie Film Tron
+
+opening
+
+
+Hello! Most people say that the problem exists between user and chair. 
+Olia will tell us all about it, please give applause
+
+Thank you very much. I will try to be loud and quick. 
+I am a net artist. I work online since 1995.  I also teach art and design.. I also write about the web of the 1990's.  I write about digital folklore.
+
+When I say digital folklore, people think hacker humor. But this is not so. Other elements and culture that ermerge through users ... application. 
+
+I mean user culture. And this time frame when I say starting from the 1990's . 
+This is to distinguish from ..
+
+I am also the co author of the digital folklore reader.
+this book is dedicated to the users.
+
+Do you believe in users?
+
+This comes form the legendary film Tron , 1992, "This is all a mistake I.
+I work at savings and lone, no you can pal, I have a check on Tevo rates.  Great a nother religious nut.  I say welcome freiend. I dont know what I am doing here.  Do you believe in the users. Yes, sure, if i dont have user.. " 
+
+Let's fly now to 2008 and listen to Norman.  The father of human centered design.  ...And all other things about how things should be designed.
+One of the horrible things we hear is,... user.  I would like ot go on a crusade to call them.. people.  We test people.  We design for people, we dont design for users.
+
+So Norman does not design for users.  Over 25 years between Tron and this speech given in 2008.  25 years of this term being degraded.
+This is used with negative connotations. If we ... recent years.   for example Monovich ... and one of the main theoristicians ...
+
+How do we recall a posisiotn ...
+
+Another Meneray (?)  athor also writes... introduction to her book User is a outdated term.
+... and interater is engaged.
+
+Edward Taft said, only two inducries call their customers users, drug dealers and companies. (?)  
+
+Users ae not customers.  
+
+Talking about connotations like someone who is not important or somoone who is addicted.
+I was happy to find text written by Raymond Williams for expalining and eutomology of words to the general public.  Explains keywords
+
+The long reveolution by Williams also talks about cfonsusmers.  If we were not consumers but users...  we need to know how to use things and what we are using them for.
+
+This is a very importatn explanation for the word user. For someone who uses...
+The software and it industry and service provdiers dont...
+
+They need customers and user who are bots that they gently call people.
+A yea ago Jack Dorsey says, If I ever say user again please charge me $114 .  He didn't say this in this glitter.  I allowed myself to show in fan art. so future generations can see this.
+
+Another reason, is computer paradigm ...
+Again, here we are Ron Dorman, the compute rof hte future should be invidisible.
+He said that in 1990 , why dont interfaaces work?  they dont work because they should vanish.
+We live in the future, computers are still distinguabshalbe , but no longer something you sit in front of anymore.
+Some companies , put this prediction in the present tense, like apple did a coulple of years ago , we believe technology is invisible when...
+
+These are people not useers.  This is experience but not interface.  If you read announcements of the conference, and in it in general, these words cease to exisit.  They are replaced with other ones.
+
+The field itself, interface design got a new name  ...
+
+The users are addressed as gamers and everything else is a epic win.
+This is the same tatctic we see here.
+
+The word user stays on the way of the computer, to completley come invisible. it destroys the illusion of computer ness.
+We need to take care about htis word because invisible user is .. 
+The user should stay visisble.  If we use this word then the two classes of peopole.,  developers and users are not there any more. and this is how they lose their right .
+
+The right to better sotware, the right to delete and recover the files and the fundamental right to see the computers.
+
+I wrote an essay. What can be done to protection the notion of the Uswser?  What can be done to stop Norman crusade.
+
+What do we know about the user beside the conception that it is no good to be one.  One is that users were invented before the computers. NOt after and not parallell but prior to computers.
+
+IMportant texts about computers are the history of the user.
+Englebart, Kay and Spark were imagining usersd first of all.
+
+Also, user from scientists who are hands are free , Englebart idle.. (disconnected)
+
+
+What is really important the users imagination. This image is always projected on us.
+The constant is that the user is always busy with something else.
+A good book on interaface design, how to think about the user.
+Users are those who are busy with something else. Users are not going to spend any thought on the computer, they are delegated in repetative tasks on the computer . 
+
+This delegation for the user is the most important things.  This automation and delegation are required and enjoye.d
+All apspects of our life are computerized.
+I suggest in this essay to see another mode of the user. another picture.  the user , the general puspose user can wirte a articel and lay out an excel document and tweet and uploade images without flickr and have affairs outside of online dating service, they can shave in front of web cam without 'shave me ' ap.  They can ... without using justin Beibers app.  
+
+Whatever name I chose for user, the main thing is that I mean, the user can achiever her goals without respect to the primary goal of the software of the device.  Ther eis nothing that one computer can do given enought itme and memory.  There is nothing one user can do given enough time and respect.  This is important to understand that one of this being general purpoase user is an automative user experiencew.
+
+What does it mean for the software industry?  does it mean that to proivde this experience, that industry does not have to adjust their tools.
+
+Demanding ambigous softeare is one of the things that users can do. To go further to think aobut our rights and how we can protect them..  There is a platform where you and I can do and demand rights now.  This is the form.. I demand the right to...  Your name appears in comic sans, which is important to me.  This is not  a perfect discussion system at this moment.  But we have a beautiful home button and when you click on it, your home page , all these users rights ar elisted at this moemnt.  
+
+They are on a different level of collaboration at this moent.  You can see that something can be called fundamental rights .  
+Ussers are convinced that a good computer is an invisible computer.
+I mean that computers should be visisble.  and to see it is a pre condition to ask what is this computer doing.
+I borrowed this from data manifesto by frank karlitschek
+
+You can see, the part free sotware should 
+User would be more compatiant in a free software world.  
+We should go to another level of preceived levels and demans.
+Another demand,  to particiapte in society without having to use a particular device or cooprate software.
+
+To not have my system obsolete.  
+To no have my computer interupt me.
+To discconnect, to securley delete my history, to securly delete my files, the ability to log out.  There is so much about the right to privacy that humans, people, that citizens should have and we should deman privacy as humans, but also as computer users.
+Then you can talk about privacy on another level.
+To get revenu and to get data in source format. to read source code.
+The right to see the URL , to have a real keyboard, to start where I left off, to reply all
+All these are suggestions of capri of users.
+Essential freedoms of users.
+The main thing here is that the thought is provoked.
+What I can do and what the user can do.
+what I dont want to give away and what ...
+The right to undo.  The last thing I want to say.
+This is still something that stays there. We should really fight for it. For 3 reasons
+1. the undo is not about many comments that are designed ambigious app
+2.  a border between the real and virtual world. in reall life you cannot undo
+3.  historical significance, to undo in 1996 was conceptualized when computers where started to be used by people who did not program them. the naive user. the right for them to make mistakes.  there was an understanding that one user can do that another one cannot undo.
+
+Please contribute and thank you for your attention.
+*applause*
+q: Cory Docktrow concerned about the word user.  udience or reader as the user instead.  the person actively using the system. I thought your essay was very exciting and i wanted to ask ifyou are familiar with a site "creating errors".  by Hill (?)  He looks at errors that occur in computer systems, and evaluates those.  Have you seen this?
+a:  no, i have not but I memorized the title .to refer to
+
+q:  I think that a user interface and security are two different part of the same spectrum. And you are talking about two difference intereces/users. State ex..... If you ... for example as the right to log out. If people use cookies they dont...  maybe there can be an explicit mathematical model if interfaces are merged.
+a:  i dont see this contradiction. or what you are trying to differeential. the users involvedment and ambiguioity .
+q: i think this ambiguity can only come up if you have a simple interface, you either press or not press, you dont have confusion with the user, you dont need rights. in regards to this rights
+a:  but why do we have this button then?
+q:  well you can , ... wihtout having contradictory states, like widgets that dont confuse users. i think. maybe we talk about this later?
+a:  yes.
+
+q:  what the relationship between interface and how we veiw the world through the development of knowledge and object and reality in general.
+a:  you mean what ethics they have on user?  they are huge impact of the interface.  If you open Justin Bieber thorugh this app, and see the world through this app, it is a small an pitiful world.  The answer is, huge impact. there should be a lot of consciousness of the creating of the software.  
+
+That is the end. Thank you.
+* applause*  
+
+
+some demands are outragoeus, coming from bad experience with software.
+
+e.g uploading a gif which becomes a jpeg
+
+<reads slide>
+
+of course as citizens we should demands right.
+as users whe should the demand to log out
+
+there are some rights which are not quite discussed,
+
+<reads slide>
+
+are this essential freedoms?
+
+the main thing here is that the thought is provoked.
+
+what was delivered to me as usability feature and what i don't want to give away.
+
+the right to undo
+
+three reasons to fight for undo:
+- 
+- undo is a clear border in between the virtual and the real world. in real life you can't undo
+- sentimental, historical significance. appearance marks the arrival of real user
+
+
+Q&A
+
+- i wanted to recommend your essay to the audience. [..] i wanted to ask if youre familiar with a site named "creating errors" 
+
+- i think that a user interface and [..] are two parts of a spectrum. [...] if you have stateful interfaces lots of the problems listed do not come up. 
+
+i don't see this contradiction, i'm talking about ambiguity. i'm talking about decisions, you're talking about 
+
+you still can have a useful interface while reducing its expressive power. you could build a library of ui widgets which don't confuse users.
+
+
+i wanted to ask, what do you think of the relation of interfaces
+

@@ -1,0 +1,245 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Thwarting the Evil Maid Attacks" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+they also face a fairly unice problem
+black bag operations need physical access someway. picking a lock etc. 
+many different ways you can do it.
+its great to have a carpenter because you can cut through dry walls.
+
+how many have worked in data centers that didn't have steel wall?
+
+you'll trigger the inside sensor
+there are many ways to do that
+
+your average activist doesn't have the education on physical security
+
+another example is online gamers
+a poker player for example would play online, left his laptop and it was compromised at a tournament
+
+it was not the first time and has a purely profit oriented motive
+
+another thing is: if you don't have the tools to get in. you can do something like this.
+just grab the doorhandle from the inside.
+
+what i'm pulling from here works with lever locks and can be shoved under the door.
+
+i have to give one of those to star bug
+
+checking to see whether the door is locked, measuring the distance putting it under the door and ....
+1 2 3 pull the handle and i'm in
+
+another class of users we are about and are at risk are jornalists
+who are journalists? really anybody these days
+
+there have been journalists who have gone to prison to protect people from being compromised
+
+you basically just arrest them and you image it and you go back with malware installed and...
+they are usually not very rich so if you take their equipment they are really worried
+
+there is no evidence if it has been tampered with you can pressure your boss to get a new laptop
+
+both your personal physical safety is at risk
+
+you find one of the and do network analysis and find all the people they talk to
+
+in warzones in middle eastern countries they find people and impersonate them after finding there network while imprisoning them
+
+governments have solutions but government security is certainly not bullet proof
+they have long relied on physical security to keep their computer safe.
+you can only use high level security in a sciff
+basically a room with metal to shield...locks. super expensive, you can't really buy them
+it's a big deal. they have them at embassies.
+
+they will not be subjects to search because its illegal, but private citezens cant do that
+they often have armed security etc.
+
+the fundamental thing is: all of it is very expensive. they have a pool of travel laptop which are used if you want to leave the country, because you cant use your other laptop. you also cant do that as a private person.
+
+quick question: who travels to work with their laptop.
+a lot of people do! (look at people raising their hands)
+
+they do cool stuff with the travel laptop, like physical inspection xray etc. after getting them back, especially after they were in a high threat environment. they have so much money to build their own procedure, and the employees are so consistent and persistent in executing these systems
+
+problem: its all super expensive and doesnt acutally work
+
+theres a man named john falle who makes lockpicks for public market, he makes this classified tool, i dont think it was every seen in public.
+you can see it in the lockpick area later.
+
+what this tool does: it has thin wire that slides...
+its difficult to see in the video
+
+you can see the top pin spin and you can feel that and train to pick locks in 30 seconds and come back later and continue with another pin because if they dont change the pins you can do one pin at a time if you only have 10 seconds
+
+we want to show the public what tools are available, this tool is 10 years old, there is much more now
+
+the government spends a lot of money even to go after a single target.
+the us got a gift from russian and checked whether there was a mic in it. and it turns out there was a pieces of medal in it, that if you radiate it from the outside it turned into a microphone. and they actually put it up.
+just imagine what they can build now after all the years.
+
+the government have so many employees, they have insiders that accidentally or on purpose dont comply with the rules.
+
+the us commerce secretary went to china and did most things right, but accidentally left a laptop. the problem is: they have to be right all the time.
+
+we have all these attacks, but they are really not all that great.
+
+well the seals...not this seals, the others. they come in different shapes and shizes.
+
+i'm just gonna read this right here:
+...
+unlike introsion and burglar alarm seals do...
+if it looks like the wrong color you dont eat it, thats the job
+the seal does not need to ... physical entry. it is supposed to be broken, so its not a lock.
+
+certain products use barrier seals, they are part lock part seal.
+
+any of those different factors if you can't check for these...
+
+turns out: physical seals also really suck
+theres an event at defcon where people check how fast people can defeat seals.. people use solvents for different materials like plastic, and they are over the counter.
+
+it doesnt take a long time to defeat seals.
+
+average time to defeat them is 1:30 minutes. we teach this.
+its not really expensive. some are...
+
+there is another problem: users are lazy.
+seals need to be checked by the used.
+we have the analog of ssl keys in the browser...people are too lazy.
+
+its unlikely to build security like that with lazy users.
+
+it'd be nice if a cloud service could check that your laptop is secure. if you could prove to them you are safe. there are some devices that try to do these. that are devices in small safes.
+problem is: they are 20000 dollars each...if an activist would try to buy one. tehy probably wouldn't get one. or they would get a replace package that cannot be trusted.
+
+theres also smart cards which are great. problem they dont provide enough physical protection for this threat model
+
+also trusted computing...its inaddicuate. it was designed to do DRM to keep people from privating, but not for protecting a computer from an attack. it insufficient and not a great solution if someone actually has physical access.
+
+you need machine verifiable and repeatable tests.
+whats different between these two pictures?
+whats changing now? can you see it?
+
+this is called blink detection and it makes it easier to detect stuff like this (discovered by astronomers)
+so where do we go go from here?
+
+someone shouted?
+
+check this bock if its secury: yeah you know how well thats going to work.
+we made the seal a 2-factor authentication.
+we could do ssl cert and all sorts of stuff.
+it works great uses cheap seals and cell phones and everyone can use it to protect in different situations.
+
+to disable a port you have to disassemble the machine and put seals...
+its to tell you that something has happened.
+maybe just putting a pen in a certain stuff and actually photograph it.
+if someone doesnt place it back, you will see someone was there and changed it
+just make sure its not a fan blowing it away.
+
+but then you have other seals around just as distraction.
+if you meet someone clear and clean and check it, but make sure to put seals everywhere afterwhere.
+
+if you send items to a warzone put seals on package to make sure they havent been tampered with, sort of like a crypto protocol for real items.
+
+there are so many ways to temper with something if you don't have precise ...
+temperevidence is the enemy of cheap manufacturing.
+
+we try to warn people in advance before something bad happens down the line.
+
+there is research:
+a major area is policies.
+computing devices that are designed for this, without DMA etc.
+trusted computing technology.
+
+it turns out if you combine all that with seals you actually get pretty good 
+
+the seals we're using are not really desgined for this.
+a lot of the seals are designed to be inspected by humans visually.
+
+maybe other kinds of things rather than visual. i'm sure there are other areas of research.
+
+so to conclusion:
+new tech solutions are needed.
+theres are a lot of amateurs and asome professionals but not enough to walk around to walk around and teach everyone.
+also its slightly complex and you may need help to get started
+
+anyway: that our talk.
+
+we have time for questions, please line up at the mics. we also take questions from the internet
+
+Q: story about physical access you havent heard of. i work at robotics company that runs on interns and researchers that come and go. one of interns was over for semester break, did great work. decided to get him back. pulled his physical access but NOT the vpn keys.
+he gets back for first day of second term but has no physical access.
+pops into VPN, gets ssh onto a robot and gets the robot to open the door from the inside
+A: you wanna hire him.
+
+Q: we checked this: there was no logs of what robot he ssh'd into
+A: great story. a lot of companies don't link their VPN to ssh.
+if you don;t have access control log and robot access log, thats a problem
+
+Q: are you aware of open source hardware sec. modeling
+A: there are 4-5 projects to do from DNSec people doing raspberry pie that focus on ... a good way to do ... design is to focus on 
+yeah there is some interesting work in that area that will be open source.
+
+Q: could you show again the slides where you compare the two photographs because i couldn't see the different
+A: i'll point at it, it's that scres. look at it on your own screen, you will see it there.
+its a minute detail. if you only go by taking notes, you wont see it.
+
+Q: will you mind elaboration on what kind of protection can be achieved using physical ...
+A: devices with unique 
+we had two changed batteries and when you swapped them, you could easily that things have changed. similar to the stickers. you need to do the blink test.
+
+we have paint seals also, theres also the array of fiber cables.
+whenever there is randomness in physical production. we can't do it with chicks, because we don't have an electron microscope in our cellphones...well soon we will.
+
+Q: how does it actually work in practice, if you have different lightning condition and mobile device in different place?
+A: you turn the shades down and you put your cellphone in a solid position where you lock it like press it into the wall and then you get a reproducable result.
+you can put registration marks to make this process either.
+
+theres a product in iphone store, but the problem with that is they want you to hold it in place, but you cant do that as a human. just put it on a table where you can press it against.
+
+Q: how can you make your own seal, what would you be looking for in a good seal.
+A: easily... but its not gonna break easily. nail polish, put it on your screws. with glidder. impossible to replicate.
+there are different attacks. conventional seals can be compied pretty easily. just put a new one on there. thats a threat.
+
+nail polish is cheap and its pretty too ;)
+
+cheap crappy stickers as well.
+
+theres also time decay stickers, the color should fade away. the system will know where the color should be at a certain time. thats also a good thing
+
+Q: paper at princeton about pieces of ordinary paper, they are very physical distinct, and a scanner can differentiate between. thats scary because a company can have an id for papers like ... 
+could you actually use pieces of paper and woodfiber withing them.
+A: yeah sure. but having the tools for that is unlikel, its about being practical.
+you could def. have a 30$ lense for the came...actually we will look at it. send us the paper as an email please. thank you.
+

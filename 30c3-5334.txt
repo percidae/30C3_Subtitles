@@ -1,0 +1,610 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk 
+
+RFID Treehouse of Horror
+Adrian Dabrowski
+
+are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+... there are many pitfalls... our next speaker will ...
+
+Welcome to the rfid treehouse of horror
+first a short overview i will show you some ... systems there are a lot of these systems. in austria, but probably in ogther couhtries too
+then ill tell you about my crusade about hacking a city-wide access-control system
+
+So, let's start.
+
+In austria we have a lot of these centralized access control systems
+Wiener einheitszylinger 2000
+
+
+so its the venice..
+from the time when everything sounded cool when you added 2000 to it
+this is actually actually the  key used by the fire bbrigaeds to open all the backyards  parkingspaces and and post. 
+if you need a parking space or need to deliver something, this is the key to get
+there are other interesting keys acually the relevgtions ion the key is you do 
+lyou are not forced to use a padlock that accepts that key
+they will break your other padlock open
+
+use a padlock you 
+
+also you're not allowed to use a padlock ... hte sec level is too high
+
+basically everyone uses this one
+other interesting ones is this one for electrical cabinets. 
+like with other systems theere is some time of application
+permission creep where someone aggreagets permissions over time or actually all kinds of soltuions
+keys tend to aggregate additional use cases
+so actually this key was specified somewhere in the 60th
+and int
+and it used indoors and outdoors
+
+only for authorised personnel
+
+vor circuit-breatkers, for gas, for heating...
+
+so basically some of the power-grid componanies started to use another key now... can get a key to access only the circuit-breakers for their level own circuit
+
+but basically for all other biuldoings in vieanny you use that key.
+
+there is a third interesting key, the Z/BG key, this key actually is very interesting, it allws you to enter almost all residential buildings. in vienna
+the story behind this is there was a time
+the caretaker needs to be available in daytime and the caretaker would open tjem. 
+
+let's install small cylinders  bypasses the door incercom system and opens the door
+So also thiws key is used for garbahg collection because in vienna garbage is collected...
+
+Actually this key.. costed like 150 or 200 eur on the black marked. .. in recent years. the price has fallen to
+it costed like 10, 15 or 20 euros.
+
+
+it has become very popoular actually
+additional key like keys before got this key some are official users
+like fire brigades and emergency services or garbage collectioner
+the newspaper 
+advertising distributors
+makes the decision
+
+They wanted to deliver the newspaper to the front door... it became very popular on the black market.
+Since 2006 there is a new way to secure your frotn door
+
+If you have the z key or the pwoer k, you dont need any other key
+
+if you get in a house and turn out the power i think people will come out there selfes
+
+so it's terrible insecure, and since 2006 there is a new system, it's called "BEGEH"
+ using chip rfid cards, trying to addres the shortcomings, blocking lost and stolen keys, all the things they are supposed to do
+its all the sings that they are supposed to do
+the new system allows caretaker distinguish between different user groups
+
+allows the caretaker to distignuish between different usergroups. 
+if adervertisment is allowed in the house or not
+it was introduced in 2006 and
+last year it was about 9000 installations in vienna
+it should have gone about now 10.000 isntallations
+other citizens in vienna
+mechanical keylock is used in wide parts of
+
+and since the last year, it was expanded in other cities than vienna And since last year they are expanding to other cities in austria.
+
+Mechaniclall keylock has been used in Graz.. all over eastern part of austria.
+
+So these aere some of the claims the manufacturer makes.
+Maybe it's a little bit small.
+
+First they say it's unclonable. 
+second ..
+startet 
+
+thy started a big marketing campaign against the old mechanical system
+however fun fact. they are a 100% subsidiy of company who invented the mechanical key in the 70s
+they invented the mechanical key in the 70s
+so when this electronical key system was installed I was like Challenge accepted
+
+[applaus]
+
+Later it even became my diploma thesis.
+So, Now a small detour.
+
+I had no idea about RFID systems
+
+and depending on how fay you get back in the history
+Show you first how RFID works because RFID works its not a standard but concept
+
+the second world war 
+Everyone who studied electrical engineering, please look away
+Because its really over-simplification of the thing.
+but i wanted to show
+[applause]
+its for those people who have no idea of electrical engineering. 
+
+these RFIDs rely on.
+
+These datas. If you're in daily life you'll find 150 125 khz tags and . mhz texts 
+basically it works like this let's think of a transformer, you probably know it from high school.
+
+if you attach alternating current.
+
+
+basically you know, if you attach AC, it transports power over a magnatic cut lonk
+
+so ähm in the second picutrue you see if i close the skript..
+
+the second thig is that next you can transver data ...
+thte she scond thing is how can i trasfer data back ...
+
+this is done mostly by … modulation
+
+basicalliy if you a... 
+
+you can transfer power back to the primary coil
+
+because of these uses <you have a completely different downlink protocoll than different uplink protocol a 
+
+however you have fouur properties...
+
+… I have something like an air transformer..now you have a very. bad coupling....but it's enough to transfer little bit …data? …over airlink …
+
+So you can make some kind of ..tags.. very very damp... you usually find in burglary...
+
+Some kind of EEprom... functions...
+
+
+
+
+encode or encrypt the data chankle or wireless smart cards
+
+to specify the transport layer, just a I
+It's very little device 
+
+Wireshark-style traces... dependign on the options.
+You probably already heard on ccc lectures in the previous years
+
+which costs 250, 300 euros-.
+
+low freq and high freq tags... for what i have needed for my project.. whole bunch of code
+
+so I decided to make my own simulator
+
+and the thing is, a chaper expolit is a better exploit.
+because everything you have something like it's academmically broken
+But you need somethingk like
+and every manufactrorer make it its kind of security
+if it's costs that much to break our system and secure system that is less vauluable, than the cost of an attack, nobody will do it.
+so, you have to find very,very cheap ataacks,
+to circumvent this things. 
+so lt s make a small detour about rfid systems i encounterd in vienna.
+for example there is this nfc ticketting system by vienna linie
+and basically you can touch a phone on a sticker and
+funny thing about this one you I often get asked about what's the diffrence between NFC and RFID. 
+is it the same because most people use it interchangeably
+so actually RFID and NFC is a higher protocol and a
+
+So like http on tcp or other protocols.
+
+so i can buy this tickets an the funny thing about this sticckers is -- don't get distracted by all the bubbles --
+here the 25, bubble, basically they use mifrare cards and .. for page memory on sectors. 
+and lthe last memory is like the access control with all the keys and the access control permissions
+and the funny thing is, when they were writing the tags, they hat da off by one error.
+they started writing the securiity page always in the next sector
+so revealing fristly the secret key and secondly
+so you can use it like a dead letter box, you can leave messages for your friends 
+[applause]
+another thing is this coffe machine you'll find in austria in universityes and airports, 
+Office buildings, they have this electronic purse which is based on mifare 
+actually when carstren YXXX and i went around five years ago,
+how crypto one works and how you can break it and it was two minutes for me to see what's on this token, 
+jthen i just added one euro to it and made a difference and i could write any amount of money on this tag
+very interesting, about 5 years ago, thex had no way of disabling this or having a new system
+I will come to this in my conclusion later on, actually, it's a very hard problem on how to desiggn an update path. 
+also they use some kind of key that is derived from the unique id...of this cards so either you brake this key or you use …
+actually i have not found any oflfine counter measures like ... 
+at least once a week  they connect and refill it, and blacklist the cards, that don't fit into a .. check. 
+just to make sure I have not used.
+
+thaa
+
+by pure chance you can program it...that way that it produces the same signal than an original chip would produce
+i dont comply atmel devices... you just have to put your original key there and then your rewriteable atmel chip there and then it's copied.
+erm, also confronted with the ..
+uid based systems the property building managemetn often states ist not so secure
+but it has one certain feature, that is ... and its very convenient ... peaople use it to use
+
+you have 64 bit key space
+
+
+so i thought interesting, is it really like this?
+
+… and searching would take hundreds of years
+
+Is it really that secure? I looked at a key system that works basically like at my university
+
+it's for technical laboaratories, tech. .. labs, .. access control database
+
+and basically it is a little bit small,
+and then i make some very easy statistical analysis by making a histogram of this
+when they are produced they are numbered one by one
+
+on the x axis and you see almost all the kys are in one range so i zoom in and I see they bought like five badges of cards and when they're produced they're … one by one
+
+so basically htat's somwhow ineffectivce wan you are blocking the UUID, 
+and with two up and down you have 98 perscent probability ...
+when you just take a new id it's one off up or down, you have 90 % probability of finding another unique id
+
+
+you buy in a hardware store, it's probable the numbers are not that small ,and you get a card wich...
+
+beacuse obviously they also bought these cards in batches. 
+so manufactures of this card should really do is randomize these keys ... at least randomize it.
+
+
+This sniffing device... he uses only a basic... adapter
+
+at least randomize...
+nice project, made by milos meriac, he's done a lot of talks recently on CCC 
+
+this is possibly because the modulated daata is in the range of 4khz
+
+
+sampling theorm so you need at least 8 khz, maybe 16 khz
+sample it with your audio card. but this is just a sniffing device
+i wanted to build something  -- as a side project of my talk -- it's not finished yet
+
+the idea was lets build a device that sweeps through an id range. 
+and it should be cheap. i should only take a phone
+
+actually I wanted to present it here but it wasnt finished by now. 
+because you have no return channel because you are not syncronized with the sender 
+
+you only have to guess the carrier frequency within one percent. 
+
+to a amall circuit to modulate and configure it ..?
+
+but ill probably realese it in two or three weeks
+and the rest should be down in manchester...
+ I will later talk about why these insecure system will not go away that fast.
+so this schould circumvent most of these home market systems.
+because even if you look at this blook diagram there's this analog frontend.
+
+
+even with so simople hacks like this
+there is this analog frontend
+
+i forgot to mention something at the previous slide here.
+however, as i show you later, its not that complicated because the manufacturers want to make cheap
+
+you have to make an analog frontend, for those RFID readers.
+
+just rely on those very simple circuits and dont mess around
+
+
+but almost non on how to build tags, as I will show you later, 
+so lets get back to the BG system. 
+so first step is reconnaissance. i need to get a door unit.
+
+and I also don't own real estate that could be upgradet to the new system
+i don't want to steal oupn something on my appartment
+so i contacted the genereal distributor but they told me its only sold by
+but they can name me some wholesame distriubutoer or some distroiubutor partner
+and if the refereanc I'm coming from this general distributpr the wholesale detail distributor partnes actually sold me some. 
+And i adressed that a little bit.. i want to upgrade my building.. i even got a little...
+
+actually i asked, if ounds a shop that...
+
+but then there wasn't 
+so now I had this hardware device, took it apart looked at it it had som components, a texas intstruments.
+for the rf frontend, so i built a very small sniffer
+
+and yeah ,you see thate is a small, so called envelope detector,
+
+and I could start this is a oscolloscape traces some bitse here appearing. 
+out of the signal there above, basically its just a diode and a low-pass filter
+so actually you can start decoding some bits and these parts are bawes on ISO 15XXX
+so the next thing was how to get real user cards. so.
+i mean ok, for example, i could start as a volounteer and...
+
+but these sticks by me and you, baybe i know some organisation...
+and he can borrow me a card, but I don't know so
+i can not do this either
+and very expensive, tehy start at 2000 euros.
+but when i have the money...
+this is a picture of ski gates
+a reader that's 25 cemtimetsr in diameter it has tis very big battery pack on it
+and small extra memory and went to my post office. 
+and really for about 5 euros i could convince them to send them this parcel back home to me.
+[applause]
+so while it was in transit back to me it simply recorded keys 
+(applause) 
+Also i didnt trust the austrian post very much so i put a very large battery on it
+i dind't know how long it takes them and it worked on the first drive.
+I had some ... I had a key sampling. 
+So therefore I could show that anyone could get samples of keycards...
+without knowing anyone or investing a lot of money.
+just what would happen if someone found this parcel like suspicisous and reported it to the police or something like …
+I would probably have been woken up by an anti-terror squad
+so thst's why i put this note in the parvcel, "look, this is my oohnie numer, his is an experiment"
+[laughter]
+hoewer it didn't happen. So the next thing i built a small sniffer and
+and i want to extend it to an emulatoir and do some testing, some snuffing 
+with the door opening unit, and actually it was an interesting thing becasue programming is such a thing is tricky.
+because you have keep the timing exactly with the oscilloscope
+because the city scope ... you
+the bits thats' coming or the demodulated signal. 
+actually its the modulated signal and then I have to demodulate it 
+and actually you start by interleaving different loops
+you recieve a bit, and you try to decode it. 
+and then also do the checksum calculation while youre receiving
+and because afterwards when the request ends you have no time to 
+and also for sending I've misused two PWM generators on this really cheap micro controller. 
+that like triggered themselves so  the one triggers the other and the otter way round
+and it was quite a nuisance but actually i could then use this for systematric tests 
+and UUID emulation and card replay attacks. 
+and i designed it a way tis is my prototIype
+with the you can see there is the manual door opening unit
+and these are the antennas one stacked on oanotehr and the whole set cost less than 20 euros
+I can briefly show you how it looks like it's actually quite simple
+and the analog frontend isnt't acutally hard
+and I've never studied electrical engineering, here you have
+but basically you have an ... you rectify it...and you have an output transistor here
+and an input buffer and that's everything and you feed it in your micro contrroller and  write your program and that's basically it.
+with all the testing equipment I now had I could build a model of the inner working
+so a bit like this flow-chart showing how the  checks are because it is kind of weird how they acess the cards
+and all it as some kind of brute force detection so i could...
+but at the end I could analyse what different cards there are and how they supposedly works
+So basically there are four types of cards, there are user cards
+with encrypted data on it, there are a few sectors on it with reserved sectores
+there are this master card, ownership card and programming card, you need this programming card together to make configuration changes to the configuration of the device
+And then there is something the user cards are like ten groups
+and there is an elevent'h group that is called Baucard, and a former that is called test card
+which using the internet wayback machine from the vendors homepage, 
+And the interesting thing is the first sector is unencrypted, it just has some kind of checksum
+and the second and the third secor are somehow encrypted on the RFOID
+of the card. however the baucard only uses the first sector. 
+so its completely unecrypted - for what reason ever
+so actually the main findings are the baucard and the manufactor assumed that the RFID is unchangabe and not duplicable
+and not changeable. so that's the wrong assumption that they've made here.
+So I did some basic tests and brute-forcing, but they didnt do much
+so now it's time for some evaluation, after all it's my diploma thesis
+so I went like to one hundred and ten house entrances in vienna and tested it.
+(great applause)
+So basically 92percent of residential houses use either the old mechanical key or the new electronic or the old mechanic key
+and i .. the ... out ofthis.. to 9X% se this electoinic variant
+so actually I was able to transfer the baucard to an old electronig skipass. 
+(appplause again)
+and 43 percent of the installations could be opened with this ski pass
+so what yould be more Austrian. than this skipass?
+the cost for these attacks is like 2 euors deposit in the ski resort of your choice
+Also i mad a small android app to reprogram ski passes
+(laughter and applause)
+i must say that the android RFID/NFFC passes are (bad)
+So now as I said, 43% could be opened with a reprorammed skipass and 90% with a card simulator.
+Wahts with the 7 percent rest, I was not really sure
+bacause it was like.. maybe the lock is broken or somethig i tested for this.
+also it was quite funny because I was afraid of going around and testing at these entreances
+So i made up some kind of cover story so i got this workers jacket to look like some kind of technician but actually noone cares
+(applause)
+but actually no one cares
+[lauthger]
+so as I already said the card emulator could be build for a little less than 20 euros.
+
+you have to produce your own pcb...
+
+it shows that you can actually circumvent the new system with almost the same amount of monexy that you circumvent the old mechanical system
+so no additional sceurity at all actually
+Another funny thing i found on their homepage ...
+and didnt mentioned the blacklisting feature
+there are different variants of this lock, the one called basic
+costs like 300 euros
+and there is a 600 euro variants that has a blacklisting feature
+and you have to buy this additionaly, have a annual fee fo this blacklisting feature. 
+And this is a picture from their facebook oage showing where they update their blackllist
+(applause, laughter)
+so, if you read the contract now, you want to ... that ther is only one blacklist update per year included
+so actually if you have this premium lock 
+and you pay for their updates, the stolen key
+and you don't know all avout the stuff i told you about in the last few minutes 
+this key still has a value because maybe it gets blocked a year later
+also the basic devices dont have a blacklist features
+
+common, no, it's 2013
+there are like gsm modules for 20 30 dollars
+you could build in one in every lock
+ok...
+so, just for the blackbox analysis for the BEGEH,
+key system the 4 main points are circumventing the cost of material. are more or less the same like the mechanical system there is no additional security
+there is no practival security offered
+inappropriate card, assuming the UID is fixed and not vulnerable
+the basic design is somehow broken and also their default configuration...
+later they changed it, and also that the blacklist feature is once  per year, that's redic…
+however, customers should not expect any significantly higher security of the new system than the old system. 
+and act careless or sth like this the other question that probably comes to your mind
+why will this crappy security solutions accompany us and have such al ong lifetime
+why all this things that we shows are broken that don't go away
+and the first answer is: users dont care.
+rs and marketing of the comapnies
+and everytime you present an attack that cost 10000 euros the company will say. 
+just protect things that are less valuable..and noone will use this attack. isnt safe
+tha attack is ... and save.
+the other thing is the other (?) sample with the coffee machine.
+this is a prime sample, also this one. 
+vendors somehow didnt realise they need to build in an update plan
+and in software like everyone of us it's clear
+whenever you have a security solution you are in an arms race with the dark side of the world
+so you need some kind of update mechanism and update path
+an, ok, you can not make an online updateing of hardware code that easy
+however, for example blacklists could be updated via GSM
+and also like with the coffee machine
+if you designed that electronic purse to be modular
+and to have an update plan that when you decide to change your card format you first replace your reader modules
+and then step by step you replace all the cards in the field and then you switch to the new format
+if you build this in from the very beginning then you have a chance 
+to do it. otherwise you will face severe. costs 
+and this is something buyers of the system should be aware of
+that .. an yould ask, what is the supposed lifetime of it.and what's the … upgrade it
+no security seoltuin lastes forever. 
+actually there is a nice example with pay-tv cards in germany
+ in germany which have beed proken multiple times l, live pay tv cardse heard ways thy
+… for several years …
+learned how to do it
+and you need a way to change the lifespan of the securoty soluting stays unbroken for a longer time...
+there is some
+aa little bit
+also the other thing is, that like i mentioned bveode, like the application creep, 
+
+that solutions that are in place this is designed for other things
+
+
+and you should always be aware that they are not up to the high security you will expect.
+so to jump sum up. ...
+[applause]
+so why am I doing this, Why am I doin this?
+in generally, security is not verifiable, only falsifieable
+if you have a new security solution you have to go through a number of . verify?
+you can assume a certain level of security
+erm, and also it.. i think it's very important to use cheap exploits that are practical
+otherwise vendors will claim some kind of practial security
+to mention. so my last words aere the cheaper the exploits , the better
+i hope you had a lot of fun, build cheaper exploits
+and build cheaper exploits..
+[applause]
+serve at ...???
+now for the questions, the first question wilyes, I have informed the vendor of this system. 
+
+thank you for this very entertaining talk, and 
+if you have questions please line up for the microphones
+while you do that we have one question from the internet. 
+okay ähm, i dont really know if you had it,
+i dont really know.. what happens with the BEGEH system when you dont have any power
+have a power shortage or doesn't have any power? -- then you have to use the mechanical jkeys
+for the emergency services won't get in but normal user, appartment oweer. 
+owner of this building gets in because he has the mechanical key
+MIC 1 please
+hi, i would ask one questing, in france we have the same this system,
+since 1970s so porbably old now. 
+and for these keys.. there is a restriction...
+so this kind of keys could be used after  ..... pm
+so maybe some of, Id' like to if you uncovered some of these.
+mitht  be some... ???...
+so you.. this is a theory of thos 7% of hte ssytems
+in france this is how it works. 
+the premium variant of the system acutally provides clock-based-
+so maybe this was the case...
+there wrere a lot of old systems that don't work like this
+thanks for dioing the exploit - what was the companies reply?
+thanks for doing this explooit, was was the reply from the companies?
+it sounds like a „typische österreichische Lösung“ (the „typical austrian solution“). 
+i informed the cert team
+and like i wrote one page of who i did this exploit and 
+what are the other card systems they could proably switch to. 
+how the probably could make it
+they don't believe this was an independent researcher. they think that it was someone from a company
+and the company 
+so that is challenge accepted for me, so I will try to repeat, the the .if your.
+is your research and theses available in the TU bibliothek. Yes, its available.
+
+(applause)
+MIC4 plaease
+cant you just emulate these cards with your cellphone or do you need the ski pass. the chip in the andriod phone 
+
+yea, this chip you receive in the android 4.0.4 and 
+a
+and until the very last android veriosn it wasn't enabled.
+youse psi again and can not emulate the system...
+
+so, not with the chip that is used in the android phones
+mic 7 up there please
+thank you very much for this great... yea..
+
+erm.. what i wanted to ask is you used 125khz systems
+and you mentioned the long range readers that are available. 
+do you know about long-range-readers for 13 mhz systems
+well, the 125khz system where
+the BEGEH systems works on 13 MHZ ,
+and ah yes, actually I found a company in germany that sells them, starting at 2000€ 
+
+ther are some physical constraints that the rulke of thumb
+you only get a distance like one and a half of the diameter of the antenna. 
+and the second thing is there is a hard physical limit
+because of theis agnetic oulling only waoks in the so-called near filed of the antenna
+so when you move out of mju feet there are several models to calculate mju feet. 
+but ...
+another question from our signal angel:
+so while the commercilally avail. ROFID bebugging eare so expensive, is this monopoly or ,..
+it's basically, it's not the componnetns, I'm sure it's not the componnents.
+its basically design work and becuase your prices on the market are determined by what they pay and not how much it costs
+your prices at the market is determed by what the customers ...
+so, you have this developer tools, and the company is like2will you want to develop this system.
+okay i need something new equipment with and I could have atechnician work one month on it. 
+or I could have work a technican work for like one month on it
+or i can buy something for 10k EUR
+
+so for them, maybe 10000€ is acceptable
+we have time fro two more questions from mic 1
+Hello, i wanted to ask you some different question
+i want to ask a different questions - fright at hte beginning you showed picures of keys
+
+yea,
+and i'm wondering, what the acualy keys are, 
+especially the third key you shoed, looked like maybe 5 pin or something, so it looked like an 
+analog treehouse of horror. I have this picture of...
+
+there is probalby
+i mean the old physical keys and locks
+so if this is the actually key, yes it is. 
+
+This basically...??
+so this is lockpickers heaven
+i didn't show the backside, so it's not enough to make a key out of.
+I wouldn't trust that.
+
+(applause)
+acutally there is a nice controversy whether it is legal
+copy this key, mechanilcal keys, but it's probably a talk for another 15 minute.s
+but i wrote about it in my master thesis.
+
+thank you Adrian Dabrowski, oplease give him a warm round of applause
+
+[applause]
+whijle 
+
+
+
+
+
+
+
+ 
+

@@ -1,0 +1,237 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "My journey into FM-RDS" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+[Applause]
+Thank you.
+
+Sorry about my macbook pro.
+So, my name is Oona, i'm a signals hacker and electronics hobbyist, and I do this thing only for hobby. And let's see my slides here.
+
+Some of you may remember my blog or have read it. And you may have seen this one, that I also made - the dialup diagram. This talk is not about that, just to give you some context.
+
+Okay, so, into the story: One night in 2007 I was listening to my radio just an FM channel and some music going on. And I was looking at the spectrum of course on my PC while doing that. And I noticed, I see the audio, just normal, then above the audio, at about 19 kHz something weird is going on. There is a persistent sinusoidal tone.
+And something, looking like sidebands, on both sides of it. And I wanted to find out, what could it be up there?
+Actually I have some Audio on my other computer: [Audio: rds-mixdown.wav]
+This is just a radio channel played, and I'm shifting the frequencies down to here, what it sounds like up there.
+Now at the moment it just sounds like a very piercing tone of 19 kHz. That's the tone, and I'm not actually hearing just yet whats around that.
+Let's turn it down a bit further.
+Now this is one of this sidebands that you are seeing there.
+I'm also now filtering out the music to make it clearer.
+It sounds very periodic, so it means it could be data of some kind. And it also brings up the memories of those modem sounds.
+So, I started to investigate this matter a bit further.
+I knew already that in the FM signal there is the RDS data, and its used to send to car radios the station name and the program currently running on it and also some other information like alternate frequencies [AF on the slide] that this channel is broadcasted on, CT which is clock time, and something else, information about other programs and other frequencies and the program type, radio text, traffic announcements, and something called TMC or Traffic Message Channel.
+So I thought, could this be it?
+So I downloaded the 200 page RDS Standard, or RDBS, as its called in the United States and started to do some analysis.
+Actually I spent nights reading this, and many times I fell asleep reading it. [*laughter*]
+If you suffer from insomnia, I suggest you read something like this.
+And, what I found - well it was very well documented, the protocol, there was for example this diagram about an example receiver for RDS.
+There's all the parts out there:
+The FM signal is coming in, the audio is taken out, and we are mixing it with some frequencies to get out the RDS signal and all that stuff.
+So, well using this information I wrote an decoder in Perl. Everything must be in perl [*clapping*] Thank you.
+And I came up with this. Its showing a lot of the information going on on the frequency. And whats special about this is only being decoded from the signal you were hearing on the 19 kHz band.
+And it turns out this is actually an error in the working of my radio. Because I dropped it on the floor when I was moving, and it started behaving weirdly.
+And I - it was then when i got this weird signal on the 19 kHz band.
+And it turns out that the stereo decoder in my radio has somehow started not to filter anymore the stereo signal, which is near the RDS signal.
+So this is actually being decoded from the audio, from the line out of my radio. Nothing else was involved in this. But then, well, its a bit noisy, its near the 16 bit quantisation noise limit of my soundcard.
+So I was thinking of better ways to decode it with less noise. And I started to look at my radio - the schematics of my radio and I found there is actually a decoder circuit for RDS that it uses to display the data on the screen, just the station name and updates its clock.
+And unlike in todays receivers the RDS chip is actually on its own chip and its not a one-chip-wonder receiver.
+So I found the 4 pins that I needed for data, clock signal and ground and just a quality bit, that I'm not actually using.
+And I did some ugly soldering work because I didn't want to remove the RF shielding from this chip to hook some cords to the decoder chip.
+And then I used my soundcard to sample that. Because it happens that the voltages that soundcard is using are very close to the logic voltages of [?][IC's].
+In the 1 to 3.3 volt range. So I actually used a sound card to sample the logic coming out of there.
+And its 1 kbaud so its not even very fast.
+And this is what I was getting - at first.
+Well, it looks like some bits, kind of.
+Then after some filtering and resoldering this is what i got.
+Red is the left channel in the soundcard that i hooked up in the clock signal output.
+And green is what i hooked up to the data signal.
+And its very clear that the data can be decoded with no errors from this.
+Afterwards I also made a raspberry pi version of all this, so the perl code is actually running on my raspberry pi and displaying it on an little lcd next to it.
+But then - okay this is fun, I can actually see more than my radio is displaying there.
+I can see the radio text, I can see a numerical code for each station so I can log the stations and I only need to decode the number to know what I'm listening to.
+But there was something more on the frequency.
+I was getting an application - some application running there that I didn't recognize right away, but reading the standard it became apparent that this TMC that is used it these car navigators to just send information about traffic jams and construction works and things like that.
+And of course, for the fun, I had to see whats going on there.
+Now it turns out that in Finland the RDS signal is encrypted, for reasons of commercial stuff.
+I mean its a business model, they encrypt the signal and they sell the encryption keys along with these navigator devices and what they tell about the encryption in the standard - they actually tell everything about except the keys there. But one sentence especially caught my mind there:
+"The encryption is only light, but was adjudged to be adequate to deter other than the most determined hacker." [*laughter* *clapping*]
+Yeah, and obviously for hacker this is like an challenge [*laughter*] so I got to work.
+It was textually documented, there was no encryption diagrams or anything like that, but this is what i came up with: It's a pretty simple cipher. The location is a 16 bit database reference to a database of locations that can be obtained from the manufacturer of the navigators.
+The keyspace is 16 bits, and different parts of the key are used to like parameters for the different operations in this cipher.
+It's an easy enough cipher to be used on paper also when cryptanalyzing it I made some tests on paper.
+So, how do I begin? I checked I can't just brute force it - knowing nothing about the transmission. So I made some assumtions:
+The bandwidth is very low, several hundred baud, so it must be some kind of filtering with this locations.
+I was thinking, it could be that they are sending only the locations - I mean only the annoucements that are near the transmitter like 100 miles range or something.
+I looked at the location database, that I by the way obtained by telling the manufacturers that I'm an engineer and I want to do some tests and maybe some development of RDS-TMC-Software - and now I have the database.
+So I started mapping, actually listening to the annoucements. I took one announcement and I figured out that one announcement is used for several days in an row - actually several weeks, because when there are roadworks on it could last for months, weeks or something. 
+So, one day, I get the announcements and I get the key-ID, which they are sending in cleartext - thats how they signal which key is in use today, because its a changeing key scheme and there is a different key for every day.
+And then they send the encrypted location.
+So I listened for several weeks in a row, documenting the encryption key id and the location and then I just bruteforced through the whole vast 16 bit keyspace to find all the keys that decrypt into locations that are near the transmitter.
+And eventually I came up with all the keys. And here they are - and because wouldn't want to get into any more trouble with this, well, yeah, I ended up finding all the keys.
+And here is a prototype receiver I wrote. Its receiving the messages and showing a little map of the announcements.
+So then I published this in a blog, and I got an interesting reply from someone who is involved in developing this:
+"Sad to request, but can you take this offline? It is kind of our service you hacked." [*laughter* *clapping*]
+I had promised in the beginning of my blog post, that if anyone of the involved parties requests to take this offline I will take it offline.
+But of course, there are, well, my definitions of an involved party are quite strict.
+And I replied by requesting just the same message, but signed with their cryptographic signature and preferably I could fetch their public key from under their company domain.
+And they never replied, so the blog post is still on. [*laughter* *clapping*]
+And actually while this conversation was going on, it was of course being copied around the world, in cryptome also, so there was no point in replying anymore.
+So yeah, this is the first part of my adventure into RDS-Subcarriers.
+
+Then I head an rumour when presenting about this:
+That the Bus-Stop-Displays in Helsinki also receive their data about the next buses on the RDS-Signal. So I started to look a bit more in the applications, but there was nothing in the application list about bus stops or anything else than TMC.
+For reference these are the displays I am talking about.
+So they are displaying the busnumber and the minutes and where it is going and it's updating live. And these are battery-operated and they are not connected to anything by wire. So there must be some kind of a radio protocol. But yeah, this was a nice clue.
+So i started googling about this - there was not very much information about it, except for the finnish communication authorities internal magazine.
+They were telling about all kinds of - sorry about my finnish text of course - they were telling about all kinds of everyday radio signals, and they confirmed my guess ,that its being transmitted on the FM radio...
+And they even told the channel, but that's all they told. They were just telling it's being transmitted on "YLE 1" frequencies. No protocol. Nothing about RDS.
+So I fired up my other radio, which can do a larger spectrum. Which is of course the realtek rtl-sdr, packaged in an aluminium tin here. [*clapping*]
+So I demodulated the "YLE 1" station signal on a bigger bandwidth.
+And here is what I saw. On the left is the audio, here is the obnoxious tone you just heard. 
+Here is the stereo seperation signal that tells the relation of the left channel and the right channel.
+Here is RDS where it actually should be, but for some reason it was aliased to around the pilot tone on my older radio.
+And this fourth harmoninc of the pilot tone contains obviously some data, on a very wide bandwidth comapred to the RDS. What could it be and how could I ever find out?
+Well, it's centered around 76 kHz on the demodulated signal, the composite signal.
+So I started by googling for 76 kHz, and I found something called DARC or "Data Radio Channel". It's not to be confused with RDS which is the Radio Data System of course.
+These are 'very' imaginative names.
+I found out that it is a very much more complex modulation scheme.
+It uses QPSK which is a four phase modulation scheme.
+Well I'm not a engineer, I'm not an DSP specialist, I am a DSP hacker, but I don't know much about demodulating QPSK. So I decided to treat it as an FSK signal, because that is possible with QPSK. It is suboptimal, but it works - I can get the data out.
+
+The upper part is the DARC signal filtered.
+Here is the DARC signal using two band-pass filters that are on 76+4 and 76-4, superimposed in red and blue, like an FSK. And here is just blue minus red, or the other way around, which is actually binary data.
+So I had to treat the error correction and error detection, and it was very complicated.
+And I had to write general CRC subroutine in Perl because I had to deal with such large numbers that I couldn't use just integers - I had to actually use string magic. So I'm actually concatenateing strings of ones and zeroes. And using this kind of general CRC routing for calculating the error correction and detection.
+So, this is DARC and I actually getting packets out, but I have no idea what the packets mean.
+So I started looking for any human readable data out of there, because there is no documentation about this.
+For example, this was one type of packet that I've found: RUSKEASUO BRUKAKÄRR, that means something for finns - that's a place in helsinki, where the bus 23N happens to go.
+So I figured this could be a packet telling something about, just generally about buses.
+And actually I went so far as to label all the fields in the end, because I collected so many of them.
+And I found out, the system is sending one of these packets to every display once a day. So it's updating the information about all possible buses that are passing this bus stop today.
+It's using such low bandwidth that updating all the displays takes one day.
+Then I found  another type of packet, with no actual strings. But I found definite references to the above packet.
+And I found this is the packet used to update the minutes information in these displays. It's being sent very fast, 3 times per minute, to every display.
+It contains minutes for 8 buses per packets, and information about whether they are actually GPS located or if it's a guess based on time tables.
+And I used all this information, I had a functional goal: to build my own display, because the tram stop is 200 metres from my house, and I want to know when the tram is actually coming. Because this information is actually the GPS located information.
+So this is what I built: [*applause*]
+Its just a basic HD77480 display controlled by a Raspberry Pi, decoding the signal from the RTL-SDR.
+For some reasons I blogged about it and it became very popular in Finland, in Helsinki especially, and there was an news article about it. And a representant of the bus company was saying that "OK, she can decode the signal, but transmitting will be difficult. " [*laugther*]
+I haven't actually done it yet. But he was saying that it's difficult because you have to shout louder than everyone else on the frequency. And even then it becomes mangeled, because it becomes a mix of those two signals.
+I don't think he really knew what he was talking about, because there is something called the FM capture effect. That if you send stronger than another FM transmission on the same frequency, only the stronger signal becomes captured and the weaker becomes actually attenuated.
+That is a very useful phenomenon.
+Right now I am actually in the process of making my own display updater.
+[*laughter* *clapping*]
+Possibly for showing all kinds of funny stuff on the displays. Someone at the bus company actually donated one of those displays to me after this, so I have something to test it on. Because obviously I'm not going to transmit any high-power signals with this ever.
+But right now, I'm building it. The only problem that I'm having right now is that my soundcard that I am using to generate the signal fully digitally of course is to slow.
+The DARC signal is 76 kHz, so i need at least 162 kHz soundcard, i mean DAC, to create my analouge signal.
+I only have a 96khz soundcard right now, so I only can generate the stereo signal.
+Perhaps in the future, that will be the next project.
+
+Thank you.
+
+[*applause*]
+
+Well, thank you very much, oona, I think we're all impressed with hacking a radio, I never thought about this opportunity.
+Now we have time for questions from the room. If you want to ask questions, could you please line up at the microphones right here.
+In the mean time, let me ask our signal angel if he has a question from the internet. Could you tell us please?
+
+Yeah, so the internet wants to know:
+Is there any open hardware radio receiver that you can recommend for tinkering at home?
+
+-> Yeah, the RTL-SDR is a very good piece of hardware.
+I think i have one of those with me right now, I mean the one I showed with the Hello Kitty tin around it. I've using a tin to attenuate any local interference. But its just a DVB digital tv stick some wise guy on the internet found to be possible to hack and tune to any frequency from 30 to 1.700 MHz. And it's very useful. Doesn't go higher than that, doesn't go lower than that, but it is a good start.
+
+Okay. Questions from the room?
+
+I've just a bit of input on the transmitter thing. There is a project that uses the raspberry pi DMA controller, where you can use to send signals at about 140 mHz on the GPIO pins, so maybe that could be used.
+-> Ooh, thanks for the [???]. That will be very useful. I've been thinking about the GPIO but it's unfiltered of course.
+The raw DMA controller output gets dumped on one of the GPIO pins. As far as I know it's good enough to transmit FM stereo audio.
+-> Okay, yeah. It would be worthwhile testing with RDS first maybe. Thank you for the tip, yeah, it's very useful.
+
+So maybe we could buy them at the next congress, right? [*laughter*]
+-> Could be, could be...
+
+Go ahead plase.
+
+Thanks for the interesting talk, i've two questions.
+You said Q-PSK as FSK by a simple trick. How much less quality do you get? 3db, 6db, what is it?
+-> I'm not sure about the details, but well it just crossed my mind that you can do it. It's actually MSK but its a sort of an Q-PSK signal. So its a minimum shift keying. And essentially its being generated in the transmitter as FSK, but thats a special form of FSK, so thats why it can be decoded as FSK.
+
+Okay, and a brief second question: In the picture where you took the signal from your digital radio, it was a Sangean ATS 909 or what radio you used? I've got one of those and I was wondering if I could pick up the signals in there as well.
+[...] -> The Radio is a Sangean ATS 909, I've modified it a bit, you can take a look if you want.
+
+Any other question from the internet? Oh, our signal angel has nothing, then lets go ahead right here please.
+
+Have you considered what [...] going to be beyond transmitting the signal. What are you going to be next challenges you're taking out? Are you going to look at other wireless services that are around there in terms of utilities, because traditionally there are many.
+-> There are many, yeah, it's an very interesting world. And I'm actually listening to serveral signals at the moment in my home right now.
+Mind telling us a little glimpse?
+-> There is the local taxi company that is using the frequency range from 40 to 70 mHz, they send information about next clients and also locating all their cabs, and I'm trying to decode whats it's about. Perhaps I'll make a map of all their cars.
+-> Of course there is also TETRA. Not many people know that TETRA is not encrypted, it's usually encrypted, but not always. And many applications in TETRA are in clear text. You can listen to it, if you really want to.
+Which sort of teases me now to ask a question: What's the legal situation for you in finland when it comes to decoding such transmissions when they are not encrypted.
+You have the right to remain silent.
+Yeah, you don't have to answer that
+-> Well, I believe that it its legal to decode them. I don't care if it's not [*laughter* *applause*]. Yeah, of course, actually making an [...?] would be illegal if its an high enough power.
+[...]
+
+Okay, over there. Let's go, please?
+
+Could you maybe elaborate a bit about the bus stop packet contents, so currently they are not encrypted, is there any signature to verify its an legit packet?
+-> No they aren't using any encryption or signature overhead, because its so an low-banded channel. So you can spoof it. I guess it should be trivial. Actually the are some types of packets that I don't know the meaning of. But they are non changing, so they obviously can't be anything [...?] or anything like that.
+
+Okay, go ahead please.
+
+I wanted to add some information on the situation in germany: We have two types of radio stations, the public radio stations broadcast RDS that are unencrypted, so if you get the RDS data, you can get the raw location codes.
+And the TMC messages are usually sent by private radio stations. The fun thing is, that you get both the unencrypted location codes and encrypted location codes. So if you listen to two radio stations in the same area, you can actually cross-correlate these and try to figure out the key.
+
+And the other thing I wanted to say: If somebody is just interested in RDS, there are relatively cheap usb sticks that will do all the decoding for you.
+-> Yeah, FM Radio sticks
+
+
+Is there any book you can recommend in getting started for processing of digital radio transmissions.
+-> Well, I've read a few chapters of the - I don't know the name actually - but the DSP [?] guided commerce[?] - The engineers guide to DSP, It's a blue book, thats all I know. Its freely available online, try it with google. 
+Thank you.
+
+
+Any more questions, or from the internet?
+Nothing right there.
+
+Well, Oona, thank you very much.
+That was a very interesting talk, and we're look forward to having you again here next year with more signals.
+
+[*applause*]
+
+Thank you very much for borrowing the laptop, don't forget to pick it up here.
+
+
+

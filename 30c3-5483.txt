@@ -1,0 +1,353 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Europe, the USA, and Identity Ecosystems are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+This is Cristophe Englemann, hes the speaker today, a round of applause
+
+So you might start
+
+thank you to the organizers for having me
+It's an honoer
+htnka you for coming after a log night
+I hope I can manage to catch you attention
+some ideas, descriptions about digital ID polices currently shaping up in europe and the US
+
+Let me introduce myself
+I work at the univeristy of ..
+and have been studing history and culture of authentication media
+
+you may have seen my talk two yeasr ago, on (same)
+my talk basically is in 2 parts.
+first a recap of my last talk
+to understand the dynamics and things taking place.
+
+I will go into them in the second part of the talk
+
+Let's start with a recap
+whats in a name
+I showed that the rise of the modrern state is linked to the sterilization of the naming of the poeople
+
+the format which has emerged The name surname system
+
+It was talked about on the first day, naming and the burning..
+In the developed world we have seen the.. of the modern nation state
+
+The steriliz. of the modern naming system was a slow porcess, taking a couple of hundred years to com to bear.
+
+names are not a matter of choice, people are not free not to have name
+nobody knows anybody who has no name
+everybody has some sort of registered name
+those names are referencing the body of an individual
+for the history this pesky problem of linking identifier  like surname b.day to certain body have been called the gap between body and document
+
+Its an issu trying to be drealt with by biometrics.
+like signatue, descritpitions like hari, height body
+
+When i say to govern is to adress  what the state is trying to address is an indivuduals body
+
+I..
+if you get an identity in a nat state it's some sort of paper,
+starts with birth certificate which is mandatory, 
+you can't enter a territory from whithicn without being registered.
+
+There is a copy inthe register which proves you have document and is valid
+
+..
+the second part is important. what happend in the 19th century nat states monopilized these registries
+
+it is the nat.state that maintains these registers, in germans its. ..
+In the US and england is similar institutions
+the difference between europe and anglosaxon contrises is the importance. and .. welfare state..
+
+existing id systems are built on paper based bureaucracies.
+they are all hybrids by now.
+the history is linked to the history of the availabilty of paper
+we have a new media regime where people conduct business on internet.everything i will talk about is how one tries to ... and create digital entieties
+
+by roughtly the 1980s the developednations had a situtation, where 1st wirld courntries had registreation, and .named. and people neatly adressable
+paperward well organized.
+The internett happened. looking bad, what I do now is basically going back to the 80s and 90s
+when the media change took place
+the internet happened, if you look back when internet became widespread you could see that in the 20year history in between you could see attepmts to create digital identities for. 
+
+equivalent to the name surname system, mking them adressable and gicing cpacaity to governdigitaly
+
+first whve the intertnet became a phenomenon
+clipper chip and signaturegez in germany
+i will explain the intitatives now
+
+in the mid90s a social political and pehonomenon. people conducted their lives online
+in both eu and the usa govt drafted regulations for names for the individual 
+I will focus in germany and the us limited time
+
+in 1993 the clinton admin , and al gore proposed the national info infrastructure, 
+one of the first serisous attempts tocreate digital identities for..
+
+it was referred to as the information superhighway.
+part of this was an ambitios crypot proposal, ..
+via DSA and DSS. 
+
+
+this is the proposal for digital signature standard.
+This is the exrow standard which gave rice to much controversty
+
+Anyone know about th clipper chip
+it is important to know this history to put what was is happening to day in context
+
+some revelration by snwoden shows policy influenced by the failure of this intitative.
+
+this chip to be implemented in all telephones.
+chip had two functions, allowing encrypted comms. and lawful interception.
+there was an officially acknowledged backdoor built into the crypto in this chip if a ewarrant was issued they could eavesdrop on the comms done by these devices
+keys would be held by gomvnt insititus
+ililte know a scecond chip called capstone, supposed to be simple men computers.
+besides encrypt and decryt online communication ad would hav impl the digital signature staneadr
+
+this is one of the devices that contained capstone.
+it was sold on the market and it was implemented in some military context
+cpastone was suposed to impl. digital signature.s
+NIST has been developing dig sig to proived a way of sending ..
+when people talk about clipper, eavesdropping and basically bugging telephones
+
+the proposal the administr made had a wider scope, besides LI, this porgram also envisioned digital ID for US citizens based on offiicial cryptographic system provided by the govmnt.
+
+in this case byt the NIST and the NSA, 
+the nsa ws publically pardt of this program
+and .. the algorithms used.
+this ilustrates some of the events ahppeinin today
+NSA acted in the open saying we need encrypted comms for our citizens.
+at the same time we need to intercept and control those comms.
+It was a proposal, it was? a lar that was encated
+It would allow secure comms on one and hand lawful interception ont he other hand
+
+few people liked this idea it was one of the formation. .. of the Elect Front Foudnation EFF
+
+So evnetually the whole thing fell apart and never came. 
+
+A well funded and high level attmpt to create digital ID that fell apart because of the way it was set upt
+
+at teh same time in germanby
+
+The helmut kohl administration tried to implement their own digital id scheme
+it was dicussed first part of the 90s 
+
+very lateduring his tenure.teh administr. enacted the ?DK?
+the signaturegezets, created the digital equiv of a signatuer and a public key infrastructure.
+teh gmnt would create and maint. the root institurtions, and hold teh root key from which it would have to be derived.
+
+somewhat naively teh DE govmnt expected a widespread use of signatures, 
+for e-govmnt and healthcare and other welfare state provisions.
+basically di not happen at all
+german gvmnt continued to promote their digital id solution ..
+
+from .. quite a bunch of pilot programs .. 
+
+so in other words by 96 the german govermnet had decided that rolling out signatures is a en essential policy 
+despite setbacks and variousl administrations since tehn it is still teh vision of the german government.
+this is basicall last decade.
+
+in teh us not much happende. after the clipper chip and 911 otehr things were more important and .
+nobody wanted to touch this market, and from teh gvmnt perpsective the ability to identify people  in a legalese manner still remained.
+there was no large scale policy approache to providing digital id
+by mid 2000 most eur contreies proposed some smart card system, tehy have identity cards and treied to transistion to smart cards.
+and use them to implement digital identety solutions.
+This was one of teh main policy areas of the red green coalition by. ..
+signaturegezetz included some changes made ... 
+It makes unrealistic assumptions on the req for digital signatures.
+the trust centers, like Deut-Telek needed 
+The EU criticezed this and it had to bechanged inthe german signaturegezetz
+It's called the neue personalausweis. 
+Some PR agency did research and found electronic had connotations that make people suscicious. so neues personalausweis. was ..
+
+the perosnalasuwaeis which you see here, is teh ID card every german is expected to have.
+most germans have. you have to have passport or ID card, 
+moste have this card, becasue its used fairly ofte.
+The legal prereq. of electronic ID cards, when enacted in 2001 in sthe socalled anti terro law when tehey used teh impact of teh 911, they said we need idendeitfication to find digital terrorists and it was a good chance to enact it
+
+the actuall rollout took place since 201? 
+in another 10 years all german citizens should have on in their pocket.
+containsa  chip and a digital key..
+It can be linked bakc to the root at Bundesnetzagentur that has oversight of PKI in germany
+people have those things but do not use them
+there is neglible uptake of usage of this .. card.
+it is important that this rollout takes place and govermnent maintains this stance.
+another legistraoin of reg green schluter pasesd.
+GKV for modernization of health insurance.
+part of famous agenda 2010 of welfare reforms.
+more... than the personalausweis.
+you see article.. iths not listed think it is artikle 5.
+this law mandated that every gera would get sucha a card
+elekt gesundheitskarete, elekctring. 
+germany has helathcar since 1982, welcom after maerica.
+this card is the frontend of an amitious e-health infrastr. including elect health record for every individual, wich if it comes to fruuittuion, would be teh ebiggest.. worldwide
+there are 25 million out there.
+
+the important part is the digital signature on this card is compatible with the signature on teh neuer personalasuweis, you can use them ... in certain parts of teh system
+
+again here is the issue it was mandated to be up and running by 2006m and rollout only started 2 years ago, and e-health is not out.
+the health community feared teh transparent patient. 
+te infrastructure is an interesting approach to dealing with the privacy issues. 
+teh gmnvt drops 250 billions into teh health care and has no good way of tracing where the money goes.
+the medical communiy has slowed down implementation if this system and trying to prevent becoming more transaprent than it is today.
+the third part of the foremnetioned projects fof teh Schluter administration was..
+..
+parts off them go back to this report by commision for modenr sevices in labor market, the hartz kommision, led to teh hartz4 ..
+
+It says signaturekarte on here. 
+the usual welfare statue issues, among this in 2002 they have signaturekarte
+the welfarestate is used as a medium to implement digital identity, 
+next to univeral healthcare we have univerasl unemply insurance. as part of this employers have to report the hours and.. of the .
+the system to do this has ben named ELENA. elektro. enteltnachweis.
+
+some job cards if you start to look around
+basically a card with systems using existing PKI form teh other cards to function
+
+did not come to bear because of reposistyr, there was considerable political oppsoition 
+expect new proposals in 2-3 years on how to reforwm. this and a new digital infrastructure.
+between 2001 and 2010 reougt we have new wasy to create digital Id
+to use teh welfare state as a vehicale to create a PKI and have a situtation were people have to use this infrastructure. 
+In the US there is nothing publically visible.
+there is a little bit of debate, going on,.. ocmpeting systems for ID federation. some companies like microsoft taking a very progressive stance, but nothing much happening on teh government side.
+
+at the same time what happens is teh rise of social media, facebook , google plus and so forth
+and teh smartphone changes what boruce sterling called stacks, ... 
+very few actors based out of teh US able toprovide identity services.
+we are entering teh third wave since 2011. 
+it is almost 2014 now, x years since the clipper chip.
+20 years of failed attempts, 
+tehere is no real uptake, systems are complicated.
+still I would asser that the nation states have not given up their vision fo creating public key crypto identities for their citiziens.
+let me skip a bit
+i sapre you decl of indep. of cyberspace. an interesting note on id which has ben invalidated by current developments.
+
+...
+the acronum is nstic?
+
+In a way itsa regeime of responsibilization? of society and delegating thorny issues of .. into societey
+the  (nation state?).. takes part and is an important stakeholder. 
+you see 
+
+
+[reading slides..]
+
+So i read those quotes because it contains important policy directieves whic differs from what teh EU is trying to do
+
+the gomnt role is important and it should keep some hands off approach. 
+so far the problem statement.
+how should in the US .. ecosystem come to bear.
+In europe teh state issues you some crypotgraphic credentioals which enable you to identeify yourself only,
+the us takes an diffrennet approact. the id system can only be built by the priavte sector.
+
+the us gmnt encrourages teh private sector aforemnetioned stacks amazone google and so forth .
+the gmnt pledes support and supports privacy and civil liberties of teh individuals.
+
+currently teh debate on how this ecosystems is suspposed to be built takes place in ID ecosystem steering groups
+the membership is implressiv a long lsiet
+also everyone you wouldnt expcet like ACLU EFF and so on
+
+also another important point in relation to the NSTIC there is something interesting going going on related to where the identity is generated and who controles that.
+the nation stated ha monoploly....
+in the NSTIC it's hard to find out the actual role of gmnt issued credentials like birth cert. and so forth.
+thers a footnbote on page five. 
+what is ther true idnetity, you will find no defintioi of crypto lingo
+and plain explanation of nonpersonal idnentity. 
+
+this is teh importan part I believe.
+
+It does not explicitly address ID issues in the offline world. 
+[reading slide]
+what are identity source documents, like true id it is not defined in the .
+I believe what this actually means what the gmnt actually says. I do not want to scandalize this, that the gmnt basically remains teh entity that will issue source documetns for identities. 
+might be birth certificates ro similar
+all it does is invite teh interestd in to how to generate identites that makes authentication and.. possible
+
+..
+we are almost out of time
+jump to europe EU, third wave the indicator if it happening is proposal of ... 
+electronid ID and transaction in the internal market
+EC in 2012 floated this document how to unify existing electronic id systems.
+germany has a sophisticated ID system.
+other have similar systems, france asustria scandinavian countries.
+these systems are mostly incompatible and not facilitating inter european transactions bases on teh ID these systems give.
+what COM/238? attemts is harmonization of existing identity systems, applicaple lawas and making thenm compatible
+the EC does not say you need. this, if you have a system, it needs to be compatible with other europeean sustems. 
+there is an importand industry aspect to this, it's amrket of 500 million people
+and business compete to proivde the necessary hardware.
+
+There is not much intersting in COM 238 except the security lever the german systems would provide would not be maintainable if thies propoasl come to bear.
+it would lower it.
+thank you.
+
+we have 5 minutes for Q and A.
+some question the interet. No questions. 
+
+mike 2.
+Q: NSTIC comment do you understand why it was created that way
+the person appointed had no experience and it was delegated to NIST, they had a project related to smart grid, they had the notion of private public partnership copied int ot he . 
+..
+they wroute the spec for PKI. to understande this system, you Tim Brock? NIST publications. 800-63
+explains governments role. and what to to to fulfll diferent roles. 
+you have identity provieds and 
+...
+none of these trust rings are in use. 
+for themselves as the US government .. 
+
+Shorter quesitions please. we w
+MIke 1
+one thing that is imporatnt to see the difeerence when someone makes an activity in the web it is not the person it's this card, we should keep in mind its not a good idea to chip an individual from birth to grave. how do you think about making identities a more temporary things
+Like I need a taxi I call a taxi. for a temporary time.
+temporary ids that do no last you whole life.
+
+
+Govermnet has this idea of life .. and lifelong adress of an individual
+so creating temporary IDs is a gmnvt context not feasible.
+how to solve this problem the desire of temporary identities and nto fixed and govemrment needing that is difficult
+
+I guess one last very short question...
+Q:
+I'm the first pseudonyms member of the NSTIC group.
+one off the key differences it that the US has no national ID.
+the true name has been a major topic 
+right now in the NSTIC we are discussing terminology and taxonomy and if tehre is a list of things we could learn from ..
+
+A:
+not off the top of my head, but maybe later.
+
+Q:
+too much id could be a threat to privacy and you create a class of menschen not having identity. 
+
+Every id infrastr. whther paper based or digital differntiates people without and people with 
+identttiteis.what sans papier or san.. would mean in a digital infrastructure. 
+
+
+

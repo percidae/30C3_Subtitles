@@ -1,0 +1,54 @@
+Dead man edition (30.12., 4pm, Saal6)
+
+Der Sprecher dankt den Engeln und den Technikern.
+
+Der Titel klingt etwas martialisch, es geht aber nicht um die Show. Die rohstoffe unserer Geräte kommen oft aus afrikanischen oder sonstigen Krisengebieten.
+
+- Kondensatoren: technische Definition, Physik, Größe der Kondensatorflächen
+- meiste Kondensatoren werden "gewickelt" gebaut >> zu groß für Handys >> Trick: eine der Platten wird als "Schaum" ein gebaut (geht nur mit Tantal) >> größere Oberflächche >> größere Leistung
+- Tantal ist für die Handys sehr wichtig, v.a. für Kondensatoren
+- kaum Recycling
+- Herkunft Tantal: v.a. Australien, brasilien, Zentralafrika
+- Mitte der 2000er Jahre deutlicher Anstieg in Nachfrage, ab da auch Afrika immer wichtiger, mittlerweile die wichtigste Herkunftsregion
+- Hier im Vortrag: v.a. DR Kongo (95.000 Tonnen in 2012, geschätzt; 12% des Weltbedarfs)
+- Australien/Brasilien: industrieller Bergbau >> Waldsterben/Abholzung
+- In Zentralafrika keine so großen minen, eher handwerklicher Kleinbergbau
+- Im Kongo ist der Abbau ein wichtiger Wirtschaftszweig, viele Arbeitsplätze (ca. 6-stellig)
+- Tantal liegt im Boden als Columbit-Tantalit (Coltan) vor
+- Kongo ist zweitgrößtes Land in Afrika (Größe und Bevölkerung), Rohstoffe v.a. im Osten
+- weitere wichtige Metalle: Wolfram, Gold, Zinn >> gleiche/ähnliche Problematik >> "3TG" Metalle; auch Kupfer u.a.
+- warum Kongo? >> billige Arbeitskraft, gute Qualität, evtl. auch Konkurrenz China-EU/USA
+- Lage im Ostkongo: mehrere Kriege (Ruanda, Uganda, Bürgerkrieg seit ca. 20 Jahren), Armut, ethnische Problematik, Milizen, Rebellen etc., Regierung im Osten relativ machtlos; viele Menschenrechtsverletzungen (z.B. Kindersoldaten, sexuelle Gewalt, Kinderarbeit, Sklaventum etc.); auch Armut motiviert Gewalt; Korruption >> sich selbst stabilisierender Teufelskreis
+- UN-Mission: gewisse Verbesserung/Stabilisierung
+
+- ab  2000: Untersuchungen der UN >> Bericht: illegaler Coltan-Abbau, Rebellen profitieren; Verstöße gegen OECD-Richtlinien bei 85 internationalen Firmen, 5 Firmen aus Deutschland; UN weist sozusagen Verbindung zwischen Coltan-Abbau und Finanzierung des Krieges nach
+- Beschwerden gegen diese Richtlinien müssen beim Wirtschaftsministerium eingereicht werden (in Deutschland) >> Interessenkonflikt
+- Konfliktmineralien: Mineralien, die zur Finanzierung von Konfliktparteien eingesetzt werden
+- Klarstellungen: Krieg im Kongo ist nicht per se ein Krieg um Rohstoffe; Mineralien sind nur Einnahmequelle (eine von vielen); es werden (wider Erwarten) i.d.R. keine Waffen von den Coltan-Einnahmen gekauft (v.a. aus kulturellen Gründen); Waffen kommen aus dem Ausland (Deutschland drittgrößter Waffenlieferant der Welt); es sind auch nicht alle Minen Konfliktminen
+- 2009: enough-Project (US-Projekt zu Zentralafrika): recht simple und eindimensionale Botschaften ("your mobile phone fuels war in Congo " etc.); unterstützung durch diverse Hollywood-Stars >> sehr erfolgreiche Kampagne >>, Gesetz (Dodd-Frank Act, Sect. 1502) 2010
+- Zusammenfassung Dodd-Frank Act: börsennotierte Unternehmen müssen berichten (nur berichten!), wie sorgfältig sie darauf achten, beim Mineralieneinkauf keine Kriegsparteien im Kongo zu finanzieren; Schaffung des Labels "DRC conflict free", falls keine Kriegsfinanzierung >> macht intensive entsprechende Recherche der Firmen zu Zulieferern etc nötig >> erste Berichte ab 2012, insgesamt ca. 6000 Firmen betroffen (Schätzung); Problem: hohe Kosten, verlässliche Informationen selten; aus "conflict free" wurde sozusagen "congo free" (prophylaktisch gar kein Bezug von Mineralien aus dem Kongo mehr), Regierung erließ zeitgleich (2010) kurzzeitiges Abbau-Verbot >> Arbeitslosigkeit, steigende Gewalt (Verdienst als Soldat), Steigerung des Gold-Schmuggels u.ä.; Finanzierung des Konfliktes nicht wirklich verändert (alternative Einnahmequellen); außerdem leiden auch konfliktfreie Gebiete unter dem Entzug der Nachfrage
+- Aber auch guter Effekt des Gesetzes: "due diligence" Initiativen; Einteilung des Coltan-Abbaus in "upstream" und "downstream"; wichtiger ist der upstream-Bereich; Beispiel: solutions for hope; Zertifizierung der Rohstoffe/Produkte als konfliktfrei; Protokollierung der Menge und Identität bei Abbau, Transport, Ankunft; Transparenz schaffen; aber bisher nur kleine Mengen und absolute Transparenz/Sicherheit besteht auch hier nicht
+
+- fairphone: kleine Firma mit dem Ziel, ein "faires Smartphone" anzubieten >> Kooperation mit solutions for hope und anderen; aber nicht ALLES Tantal und Zinn ist konfliktfrei und die anderen Rohstoffe sind überhaupt nicht konfliktfrei zertifiziert; auch Problematik mit Kinderarbeit usw. (>> "fair"phone?); andere Firmen aktiv in diesem Bereich: NAGER IT, Motorola, AVX, Kemet, HP, Foxconn, Phililps, Intel >> hier und da kleinere Ansätze/Erfolge, aber nicht flächendeckend
+
+- Stand der Dinge: konfliktfreie Produkte sind normalerweise nur konfliktfrei, da die Rohstoffe sowieso nicht aus dem Kongo kommen (sondern aus Brasilien, Australien etc.)
+
+- EU 2013: Initiative zu Konfliktressourcen, aber starker Lobbyismus der Industrie; Ziel_ kompatibliität mit Dodd-Frank-Act; Nachweispflicht bei den Schmelzhütten (und nicht Gerätehersteller); ggf. Verbindung zu Entwicklungsmaßnahmen vor Ort
+-Forderungen von NGOs: u.a. rechtlich verbindliche Verpflichtungen zu Sorgfalt bei Rohstoffbezug
+- was kann man tun? mail an fairIT@fiff.de; kauft faire Elkos; Unterstützung der Organisationen in diesem Bereich
+
+- Fragen:
+1. Wäre es nicht sinnvoll, bei Elektro-Bastler-Läden konfliktfreies Zinn u.ä. anzubieten?
+Antwort: Hersteller in der Pflicht
+2. Gibt es ähnliche Initiativen für recycletes Material bzw. Prozess des Recyclings?
+Antwort: recycling wahrscheinlich eher wenig problematisch
+3. Verschärfung der Situation durch ROHS-Verordnung bei Zinn?
+Antwort: Zinn-Bedarf durch Verordnung deutlich gestiegen, Vorteile für Menschen (kein Blei-Abbau), aber auch Anstieg der Einnahmen der Konfliktparteien steigen durch höhere Zinn-Nachfrage
+4. Macht es Sinn, im Kongo zu kaufen?
+Antwort: Ja, wegen Kosten und weil im Kongo Menschen davon leben.
+5. Anmerkung: Kauf/Verwendung von fairphones sorgt für persönliche und mediale Aufmerksamkeit für das Thema Fairness im Elektro-Bereich
+6. Initiativen zu Tantal etc. nur in IT oder auch in anderen Bereichen?
+Antwort: andere Industrie-Bereiche hier nicht aktiv.
+
+
+

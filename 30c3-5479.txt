@@ -1,0 +1,160 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+
+ 
+Building a safe NFC ticketing system
+(en)
+bughardy, Eagle1753
+saal 6
+
+12:15    2013.12.29  
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Hello
+Here I am Mattheo Colloora
+he is mattheo..
+
+how to build a nfc
+
+here you can find all the details about me
+we are both sutdents i am sudying technology... he is studying computer engineering...
+... what are we dealing with today?
+tags. they are ... designed by ...
+we are also using an nfc shield ...
+i want to show you some facts and figures
+it is a eeprom memory ... arranged in 16 pages.
+here we ... as you can see the fist block of 10 bytes ... serial number... constant, ... serial number makes unique each tag ... as its own uid numer... two check bytes... not so importoant.. .proram by the manufacturere.. you cant change the field.
+
+... just two bytes.. each number is a ...
+you can make read-only... of those log bytes... as you can see there are three squares... are used for read-only...
+... we will see later how this.. log attack..
+if you are gioint to wirte sth on this..
+.. you cant turn back into... it wont  be locked forever.
+
+the most important ... the otp, made of four bytes... the only security function... something like the log bytes
+and in the transportation system it is ysed for storing.. .if you consider... the data you wan t to wirte on ... if it is by defauls you have four bytes .. zero...
+... why it is useful.. you can use it for storing a number...
+then we are looking at the section of data.. you can read or write... 48 bytes where to write on.
+
+as regards the transportation application... the validator machine ide... can be stored here.. because it is a readble and writable sector...
+
+some pros and cons...
+it is cheap, if you think of using it for a transportational system … wirte tickets.. i will personylly buy it
+if i want to make a 15 wirtes ticket.. when you turn all the bits to 1 ... the ticket is expires.
+the cons
+there is no hardened encryption.. you have to make your own.
+... it could be vulnerable to one of those attacks
+
+so what about those vulnerabilities
+publishing in 2011 ... they are not stored in the otp but in th data sector
+how to proceed
+you just write the dump... when it was new or fresh... it is hardly applyable.. so it is very simple to exploit.
+this one, the lock attack... if the stamp machine does not chek... you just have to turn the bit of the otp to ... it fails.. you have the same numeber left... have fun with you ticket for life..
+... debpends on the transportation system
+... it checks if there are writes left. lets stamp it... tries other stuff... fail... no feedback way .. the machine doesn not konow..
+
+if you have a multiple write ticket.. if you have a five rides ticket...assum eyou know where the time of the last stamp is stored... data sector is readable and wirtable ... so you can validate your ticket without changing the number of rieds left.
+.... this is very good...
+the last attack... assume thaqt the time stamp is encrypted... anything that is not unique.... using a key you know.ö
+the ponint is you can ... just stamp one and share... still valid... if you dont use..
+
+lets come to the conclusion of the theoretical attqack
+... then you have to check the state of the otp not to the lcok attack case... is one or zero.
+for the time attack you haveto...
+for the replay attack ...
+... so then you will go on...
+
+
+8other speaker, the sample lib
+
+The sample lib its just a simple ... lib
+... each ... should be used... I uses ... just checks if ticket is... readable or writalbe.
+the power function...
+...
+
+these are the basic funktions... and they are not enough
+the encrypted aes function.. .which will be written... i use the unix timestamp... for each ticket your e stamping... just some bitconin from...
+with a strong key of ..
+vald-or-net ... reads the sector of the ticket... as you prefer.. use the same func as before
+otp_check()... useful in all cities i found... there is a lock attack in flores and several other cities in the us... just check if the otp_check bit is set to one... just a sample function
+
+I ... so you can have a maximum ... depens on your...
+remove_rigthts just changes your sector... form 0 to 1
+then it checks the 0 left if the ... goes right.
+
+let me say if you have a five rides ticket... you always have five rides...
+why its not secure... all the sc features are on... 
+rfid practicing ... by the bus or wahtever you want..
+
+... 
+this could be enough secure... in a little town like mine... in hamburg, turin, milan, ... you should writhe the uid so you can...
+... so you always know ....
+... update the enc for the stamping machine... then say goodbye th that machine..
+
+an arduino one with a .. shield.. we will update the sample.. and also the other.. to work with.. it usually works.. ok .. just a sec...
+
+lets try the first example
+those ... time and basis.. just to encode.. i will thank everybody... i dont like to congratulate... lets try.
+
+this is our plan... ticket... i hope it works...
+if i ... the ticket is still valid... this is our transport ... ticket... 
+
+(laughter)
+
+what?
+
+I .... thats right. yes. now it worked.
+you can see ... the number of rides left... stamp the ticket.. the func... first of all... he checks if its valid or not... then the otp... the rides left... removes ride and ... times.
+
+example to read what is on the ticket... just ... read all the pages on the ticket... as you can see the otp is .... if you transform it in binary... then there is the enc timestamp... and just on e last thing... i fyou use the arduino you should use a clock... so thats the only problem with the arduino
+
+so if you have any questions
+we want to implement these libraries.. donation... let us know if you find any bugs... anything... thank you
+
+(applause)
+
+questilns
+Did you consider the threat of the cineses clone...
+thats why i called... enough secure... you have a uudi list ... random odr .. uid you can make it unusalble.
+thats why its enough secure, not completetly secure.
+... last year on ccc presented... we want to do meeting...
+
+one final question
+you're encryption the uid and timestamp with the same key all the time
+uid is always the same all the time... why it is the same all the time...
+...
+you have two cyphertexts enc with the same key...
+... we can speak about it after.. .out of time...
+
+
+

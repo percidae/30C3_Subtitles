@@ -1,0 +1,180 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Introduction to Processor Design
+(en)
+byterazor
+
+
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Please welcome ..
+Hardware and process anf FPGA's and brings with him lots of computer security. Held a lighting tak today on ...
+
+Has given similiar talks at similiar events.
+Will describe processor core an dhow it oworks and why someone would write a processcore himself.
+
+How the porcessor internals and hope to give a demonstrtion on how a backdoor can hide and explooit a linux system.
+
+Okay. can everyone hear me?
+I am amazed at how many people are here.
+I am a reseerach assistant here at the university.
+
+My spare time I like to program FPGA and hacking and with perl linux and last but not least but I like to do rowing
+You can contact me afterward by uising this contact information
+A handhout is avail on my home page , later in the talk this handout might help. to see some simulation i do on the slides.
+
+i will start with some small intro about what you need to ,write your processor core and what the fucntion an dprincilepl about processor core.
+presentation about very small processor core that i wrote in netherlands hack camp
+also an arm core that is written by friend that boots linux
+and a conclusion by what i have show you
+this is just a introduction. i will not talk about piipleining performance or ..
+The first thing you can ask is what requirmeents are to build a processor core.
+what do i need to do it home
+you need a fpga.
+
+fpga bots are avail for hack community.  here is some i have worked with. they are cheap to expensive. the bottom is mabye 50 euros and the top right big one is maybe 10,000 euros.
+
+so, we start with the small one. and what you always need is a serial cable for debug. you always need debug and very important. no other way to get debug code out of the core 
+
+you need logic analyzer and connec tot lots of pins and is hard but if you do not get enought debug code  (connection out)
+
+look at slides and you can see what you need to for cores.
+
+what you needs is some info on proeccesor design
+how do you write porcessor core. what do you need?
+first of all , the processor is never running alone
+you always have RAM and other memory and other device to output or input your data
+in this case we are just talking about .. infurstructure
+in the data and RAM you have serial device connecto to the memmory fIO and data bus.
+the other artchitecture is the data and ... RAm are different ram.s this is mosre secure.
+
+you can see that ... the proc always has very fast storage memory so it can calucate very fdast and does not need to access ram at any time and can poresecute an instruction.
+
+this is a .. set of proc . there ar enot many insturaction. if you look at the instruction set of the arm core or the proc core.  these are just the essential instructions to get the core running
+why i give to you ;this? i will explain later
+in the handout you can see this instruction set
+at the top, the LE instruction, with this inst you can load the immediate.. into the register file of the proc core file.  its just a way to get the .l. into memory
+you add registrars in the proc core and save the result into another proc core
+there is a ... destination and operand 1 and operand 2. this is just a addition
+another insturciton we need is a jump 0 instruction.
+at the bottom you se eit is jumping to another address int he source/adseembler code in the ram
+if the last operation has recieve a 0 value
+if you add two value and the result is 0 then you jump with 0 to another address
+the last conneciton i will explain is a jump instruction and the code execution starts from then uon.
+we start will a very small C program. it is very small without paremeters.  we just want to add a 5 and 6 and save the result in the result variable with a forfloop
+the next step , everyone needs, is running the compiler. wer will compile wiohtou optiotiomization
+if we didnt the compiler code will be empy
+if hthere is no output the ocmpiler would just ouput nothing
+the first line in the C code is mapped to the first line in assembler code
+we just load the first in the register..
+the wone here
+not register 1 but register 0 we load the 5 in ti
+we load the nexgt rgister into
+(disconnect)
+
+
+so the loop is just we add the , register, the safge with the addition with the register one, reigster 3 is the result variable that we difined at the beginning.  after that we increment  , the first opperant to another rgisster so we can verify it without losing the paramenter.
+
+we have to add 0 to another register. this variable in reg 5 we subrtract by 1 and in the end if we have 0 in the last operation we jump to end. if not the last subtraction we start the loop again.
+
+thats what the compiler does is inputs the c coade ouptputs the c....
+
+if we use RAM we would lose the...
+
+(disconnected)
+
+The next four bits and opperand 2  an the space left which is left in
+the next imediate upcode and result and the immediate value whcihc is just 16 bits.
+you see that the operant 1 and opeand 2 is in fixe dpositions.  when developeing the proc core.  
+
+some instructions do that.  for the fraction we will use the updcode on the slide, this is just some binary representation of the insruction.
+i started with the first instruction and counted down to some value.
+the next step you have to assembel it. you have to create binary code form the numonics that you creaee..
+
+you have to create the RAM image in the core to get it running and jump there and strat executing these instructions.
+i start with 0 and everytihing follows donw. the address is at the front and if you rmember the upcode is for hte immediate insturction sand the registar 1 is the result and you put the immediate 5 in a bianary representativion in the imediate field
+
+you normally have byte addressing in th eproc core and you have to pick the most important
+i upt every word into wevery address, so you dont have to think about  that
+
+RAM .  you have to htink about it a bit.  if we put an address into the RAM it selectes 32 bits and not 8 bits.  if we put , thre ic operation signal high then we put i low so we can write it to the RAM
+
+you can select which word you want to write or read from .  the last signal is to just if you want to save power.  so you can deactive the RAM so you can stop using it
+
+this is the .. of the core. this is created the instruction set architecture. this is reponsible to fetch the .. from the RAm and 
+
+if the jump is actually used
+it even with the adress register for example if yu want to read from you have to read from but its not important for us
+
+the fetch decoded unit 
+the operand one value is put to the register file then the operate to then the file register
+
+then we have the alu... comining with xor...
+the alu gets the actually operand from the registerfile because ...
+
+...put these values to the alu ...
+
+TOO FAST
+
+We only want to save the register if ...
+
+But thats not what we want. ... 
+
+All these controll signals go into the control unit and the control unit decides what to do and selects the correct outgoing signals. ...
+It is always implemented at a state machine and you can see ... 
+We stay with the Moore implemantation
+
+We jump to the decode stage. In the decode stage we put the right signals... If we have a jump instruction ... we have to check if the opcode is zero... jump to the actually instruction.
+
+Now we come to a small simulation. .. The simulation is also in the handout so you can better follow these slides. ... We want to load... Because the program counter is set to zero. ...You can see nothing happens at the moment here. ... We want to enable the RAM. And... the opcode is at the moment shift left because we have nothing to decode. Next we decode the load instruction we have just decoded... jumps to One. ... And in the next step we we are doing. In this state we excecute the actual instruction. The ALU is putting the 6 and the ..
+
+Just have some more slide but i am running out of time. ... I switch to some more interesting instruction... In this case we have and actually add. We load an add.. The is an zero. It is not very interesting. It is actually an load...If we switch to the decode stage, register zero and register two are selected... And the control unit knows that is not a jump so it can put the right signals... the operand one is zero, operand two is six, so the result is six... And the control unit is saying to the register file that is actually... Now we come to the actually implementation... for simple teacing purposes. I always give those processors so they can learn from it. ... you can see here...
+
+Which opcode is actually loaded and decoded...
+In the decode stage it is a bit different. We do not require the RAM so we can disable it... This is actually the complete implementation. ... On evey clock tick if we have a load enable we save to the register file... and everything is fine. Now i wanted to do a small presentations. This processor core is running ... i have a self-written ...i have to think about an instruction set..
+
+So now.
+Just using Minicom. I have to select a specific seial values. And now i have to program the FPGA. You see just a simple output. My Rasberry Pie can do that faster...
+So and next i want to show you is. I didn't thought about how to collect the right slides. Yeah. The next processor i want to present is a partial reconfig. system....
+Its has a full LMU...
+
+I hope i have to select another baudrate. So you want the the whole bootprocess. ... You can see here the arm... not very fast... so now we have to wait for some seconds. I can ping the ... running on it. I think this will require one minute or so.... no available unter open source ... currently not sure if we are able to open source it... we do not own a liscence to open source.... our department is able to... available for the community. I hope. Yeah. Its running a Debian Linux. The CF card is very slow... i want to show you this processor core is just writte somewhere. If you add some lines of code the ... if you look here there is some backup code... 
+
+Please do not use the pc at this register. ... We jump from normal user mode ... so we want be interuppted by the operating system... i just put it here. I just log in. ... As a simple user. You can see i am not root. ... See what kind of ARM it is. Now i can just run the backdoor. ...identity of root. Normal no work... disable all interupts... If i wanted i can change every password and everything else.
+
+Jump back to my slides. I have just some minutes left. ... To nervous to find it. I have to go to all my slides... Security consideration. I showed you how a backdoor is implemented... check if a feature is available... check everything. This wont work. Every... Some backdoor could be implemenated... if you remember.. the NSA...of these systems... And you want, cannot, find against it in software because it is in hardware...
+
+We can get independent from the major processor ... share it with friends. You can add... Use it and everything is fine. So everyone can write his own processor... I want to motivate everybody...
+Thanks for the attention. Questions.
+
+
+

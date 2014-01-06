@@ -1,0 +1,269 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+Kein Wortprotokoll!
+
+was wir in .de hatten, werden wir vorraussichtlich in eurpa bekommen
+
+
+vor über 30 jahren eine weise entscheidung getroffen: das ende-zu-ende prinzip - zu den nutzern, rasunehmen aus den zentralen architekturen des netzes
+
+das heisst, daß jedes protokoll etc. genutz werden kann, ohne dass jemand in der mitte entscheidet, was möglich ist
+
+vorher brauchte man z.B. lizenz oder viil geld, radio und fernsehen bekommtn kontrolle ...
+
+
+ende-zu-ende prinzip ist das, was wir als netneutralität kennen
+
+das lief eine zeit lang ganz gut
+irgendwann vor 10 jahren gab es erste anzeichen, daß es nicht immer
+
+tim woo arbeitete bei einer firma, die packet inspection hardware herstellt, weil die intelligenz in die mitte der netze verlagert werden koennte und ISPs in die lage versetzen koennte, management zu betriben, umzurouten, wegzuschmeißen priorisieren
+
+er beschrieb wie es war und wie es sein sollte, eigentlich war es bisher ein fachdiskurs
+
+wollen wir telekommunikationsunternehmen erlauben, was die machen wollen, oder nicht?
+
+kernfrage ist, ist das Internet ein öffentliches gut, oder nur eine kommerzielle infrastruktur
+
+wollen wir als gesellschaften telekommunikationsgesellschaften einfach erlauben
+
+wir sagen klar: internet ist oeffentliches gut, Basisversorgung
+
+was machen telko-anbieter? sie diskriminieren ganz gerne
+
+eine definitin bei der enkettekommission gibts 6 definitionen wo eine ungleicheit stattfinden koennte
+
+[koennt ihr ja lesne]
+
+wir haben eine menge beispiele in den letzten jahren gesehen, wo telkoanbieter 
+
+kaum jemand liest allg. geschaeftsbedingungen
+
+tmoobile und vodafone sind (negative) vorreiter
+
+wir haben mal gefragt, wie p2p definiert wir
+
+"Computer zu Computer Verbindungen"
+
+Strenggenommen verkaufen sie Superflat - und Internetnutzung ist verboten.
+
+rechtlich ist es zumindest verboooten, Vodaphone koennte allen Nutzern das Internet wieder wegnehmen, weil ist ja eine Verletzung der allgemeinen Geschaeftsverbingn
+
+
+[spezielle deals] Telekom - Spotify -- da gabs auch ein bischen Aufschrei, Regulierungsbehörden hatte nichts auszusetzen, Konkurrenzdienste von Spotify wurden benachteiligt
+
+was man kaum kennt bei e-plus "kostenlos" zugang zu facebook
+
+
+jetzt haben wir verschiedene stakeholder in der debatte
+
+telkoanbieter
+netzwerktechnologiehersteller
+
+Drei Gründe:
+1. Gewinne steigern, legitim, Kapitalismus und so.
+2. Unerwünschte Inhalte aussließen, #zensursula war eine debatte, in anderen ländern p2p gesperrt, three-strikes .. man sieht auch, daß sich unternehmen bestimmte regeln geben bestimmte inhalte auszuschließen um kinder nicht zu stören
+
+Das erinnert uns eher ans Fernseen
+
+3) Anwendungen ausschliessen oder blocken, um netze besser zu sichern. das sollte nur sehr begrenzt passieren
+
+II die anderen sind alle wir, die davon profitieren, blogger, etc.
+
+III Nutzer
+
+
+Unterlagen der dt. Telekom 3/4 ...
+
+Idee war flatrate abzuschaffen, managed services einnzuführen "Überholspuren"
+
+Auf einmal ging die telekom in die Offensive "das machen wir jetzt"
+
+Das normale Internet solle immer noch existieren.
+Alte Debatte war: Bestimmte dienste werden diskriminiert.
+Neue Debatte war: Überholspur. Größtes Risiko war, daß Google & Co. das zahlen würden, wenn sie locker aus der Protokasse die Überholspur zahlen könnte, z.B. Blogger jedoch nicht
+
+Im April hatten wir die Debatte, der nun scheidende Chef der Telekom kam an und sagte das sei doch schon alles von der Regulierungsbehörder geklärt.
+
+Ein Cou der Art "Einen Teil des Internets nennen wir jetzt Fernsehen" -- Regulierungslücke entdeckt
+
+Alle stellten fest, Dt. Telekom startet den Versuch durch die Mitte zu laufen, seitdem wird diskutiert: Geht das, geht das nicht.
+
+Teil des internet soll altes internet sein, neues Teil dann die Überholspur.
+
+Das möglicherweise auftretende Problem: Dann gibt es Transportdiensteklassen, wir sind der Meinung der Nutzer sollte am Ende entscheiden was priorisiert durchkommen soll, und was nicht.
+
+Und dann kam jemand uns sagte wir machen das schon bei t-mobile (spotify), dann ---
+das war nicht unsere debatte, die drosselung, viel wichtiger war die debatte bei den managed services
+
+"75 gb, voll super", dann wurde ausgerechnet, was eine 4-köpfige Familie verbraucht.
+
+
+Was Telekom & Co. vorhaben ist das Internet nicht als Internet zu verkaufen, sondern sie wollen irgendwelche Pakete schnüren, die man auch vom Kabelfernsehen kennt.
+
+[Diverse Petitionen] Bisschen Medienaufregung hat man eingeplant, hat Lobbystruktur, interessierte niemanden.
+
+Dann lud die Dt. Telkom zur Jahreshauptversamlung in Köln ein, dachten wir- Super, gehen wir hin. Stadenden dann 9 Uhr morgens vor der Tür mit Pressekonferenz vor unseren plakaten. Dann liessen wir ein schönes Banner herunter.. "Wir spielen jetzt mal ein bischen Greenpeace". Damit haben wir's auch irgendwie in sämtliche Nachrichten geschafft.
+Mit 15-20 Leuten kann man schön Medien hacken, war leider nicht ganz so nachhaltig.
+
+Dann fing die politische debatte an, bundesregierung unter druck, weil sie jahrelang nichts gemacht hatten
+
+diskriminierungsfreie datenleitung muss gewährleistet werden -- streit um auslegung
+
+Was ist mit der Wkipedia, was ist mit freien Softwareprojekten, können wir noch gleichberechtigt kommunizieren mit den großen?
+
+Dan kam Edward Snowden. Damit war die Netzneutralitätsdebatte durch neue Verordnung "verloren"
+
+Bundesnetzagentur überlegt, ob sie zuständig sind.
+
+Und jetzt haben wir einen Kaolitionsvertrag: Ganz viel zur "Netzneutralität".
+Es ist eigentlich ein Desaster.
+"Wen die von jedem Geld verlangen, dann ist das ok
+Netzneutalität soll nicht für Mobillllfunk gelten
+Man verbietet nicht managed services, sondern sagt das Internet dürfe von solchen Diensten nicht verdrängt werden
+
+Das wird demnächst unser Verkehrsminister regeln.
+
+
+Kommen wir zu Österreich, wir haben NN unter die Luoe genommen, alle Parteien waren dafuer dass das eine tolle sache sei, in wahlkampf ud koalitionsvertrag -- im koalitionsvertrag nicht mehr vorhanden.
+
+es gibt in einigen ländern gute gesetze die gut funktionieren
+
+slovenien und die niederlande sind zwei gute beispiele
+chile war das erste land, was ein gesetz verabschiedet hat,
+norwegen hat eine freiwillige selbstverpflichtung, ein ISP hat sich schon verabschiedet
+
+bei den USA nur im FEstnetzbereich
+kolumbien und südkorea ausnahmen im mobilbereich
+
+frankreich, belgien, deutschland, brasilien ...
+
+am spannendsten die EU.
+
+Wir haben sowas wie Endkampf, bisher hat es aber noch niemand mitbekommen.
+
+Wie der aussieht hesst das, das wir die längste Zeit Netzneutralität in Europa gehabt hätten.
+
+Zuständig ist Nelie Kroes
+
+Schauen uns an, was sie seit 2009 gemacht hat, wir waren hoffnungsfroh
+mai 2012 .nl mit gesetz zur netzneutralitaet nach 6 konsultaionen auf EU-Ebene, wir haben uns beteiligt, gemacht wurde das gegenteil
+BEREC umfrage in Europa kam raus, 20% festnetz 50% mobilfunk bereits betroffen
+Blog Kroes: "making sure you get champagne service if that's what you're paying for"
+
+UK hat gezeigt es geht, Netzneutralität gesetzlich festzuschreiben
+Mai 2014 ist die EU-Wahl, knappe 9 Monate um mit dem Proposal fertigzuwerden, im Wahlkampf wird in Brüssel nicht wirklich gearbeitet, Abgeordnete sind daheim Wahlkmappf machen.
+
+Schlesste Entscheidung war in 6 Moonaten- Da waren sich alle einig.
+
+Es zielt darauf ab, den gesamten Telkomarkt in Europa als einen Binnenmarkt zu sehen.
+Wie es in den 80er Jahren in den USA passiert ist, Profiteure wären die wirklich großen Länder, die kleien werden untergehen.
+Wir sehen in den USA was das für desaströse auswirkugen hatte: Höchsten Preise
+
+Wahlzuckerl für Abgeornete endgültige Abschaffung von Raominggebühren- was nicht gesagt wiird, daß telefonieren teurer wird weil kleine Laender Geld zurückholen müssten
+
+{Liste Kritiker BEUC EBU BEREC ERDRI, ..}
+
+3 Hauptkkritikpunkte
+Internet-Sperren "um eine Rechstvorschrift oder einem Gerichstbeschluss nachzukommen ..." in Österreich verletzt das zu stalking, zigarettenschmuggel, urheberrechtsthemtig... die Möglichkeit ALLES zu sperren.
+
+Allein das Erschweren von Straftaten im Internet kan nein legitimer Grund sein, Dienste zu blockieren.
+Rechtsfreier Raum, keine richerliche Entscheidung
+
+Nach der Verordnung ist als "specialized service" so ziemlich alle möglich
+Was versucht wird ist, daß man Symptome von solchen Diensten zu erschweren versucht und nicht das Problem an der Wurzeln angeht
+
+Folien der Telekom gefunden, die über Evolution des Business Modells im Inttternet sprechen. Genau dieses Prinzip, so eine 2. Spur einnzufüren, und das Zwei-Klassen Netz wurde noch nie so wunderschoen zugegeben.
+
+Assured Service quality
+iMan wird als Provider dazu gezwungen, so einen doppelten Bodn einzuziehen, als Pflicht netzweit.
+
+
+
+Zweiklassennetz wird Pflicht.
+Wir sind in der ersten LEsung, kommission hat veroeffentlich, parlament muss beraten. hardliner und oraming-zucker 27. februar ist abstimmung im ausschuss, die nächsten 2-3 monate sind die entscheidenden monate, ob wir netzneutralität weiterhin in europa haben werden
+
+eingie läender stellen fest, das das auch gegen nationale betreiber gehen koennte
+
+obwohl rat blockieren koente
+
+eine im arlament getroffene entscheidung ist extrem schwer zu revidieren
+
+http://savetheinternet.eu
+
+Abgeordnete anrufen! Mit denen reden! Sagen, daß es nicht okay ist, das Internet auf diese Art zu töten.
+
+zwei Workshops noch auf 30c3
+
+
+Q: inwiefern routerzwang
+Q2: gibt es anlaufstellen für einzelklagen gegen routerzwang?
+
+in verordnung transparenzverpflchtung, daß ISP Zugangsdaten offenlegen muss
+Deutschland is irrelevant, weil man nicht weiss, -- Koalitionsvertrag kann man jeden Satz irgendwie umdrehen und es kommt das Gegenteil dabei raus
+
+Meint ihr es koennte in europa auch passieren, daß man lokal nur noch einen anbieter lokal verfügbar hat
+kann sein, daß wir rigendwann nur noch ein kleines oligopol haben
+
+chef der österreichischen regulierungsbehörde hat buch geschrieben "konkurrenz zwischen Trägerbetreibern" -- Mobilfunk keine Ersatz sondern nur komplementär
+
+Q: Es wurde argumentiert, Netzneutralität sei ein öffentliches Gut - das hieße eigentlich verstaatlichung, was wieder Zensurmöglichkeit gibt: Was ist die 
+
+Das ist die KErnfrage der Debatte. Es hat öffentliche Züge, daher kann man es nicht der Gwinnerwartug der Konzerne überlassen
+
+auf lange sicht funktionale trennug, netz verstaatlicht und der Dienst, der strom, "das ip" kann es vom anbieter geben. wie es auch im strombereich sinn macht, zentrle infrastrukturen zu führen, bei netzneutralität dauert das noch
+
+"Ihr könnt machen ,was Ihr wollt. Aber bitte schafft uns INTERNET (LTE,...) ran". Wollen wir uns damit abfinden flächendeckend LTE zu haben, oder wie in den Niederlanden es als geselschaftliche Aufgabe zu sehen, das Internet auch ueberall hinnzubringen
+
+Q: Macht es Sinn "Grundrecht Internet", ist das die Zukunftsdebatte, de wir da führen müssen?
+A: 2xJa.
+
+Q: Im September hast Du Dich noch für managed services in Brüssel eingesetzt, setzt Ihr euch dagegen ein, ode ist das noch notwendig?
+alle dienste werden ueber IP ausgeliefert werden, bei VOIP für Notfalldienste gibt es gewisse sinnvolle Anwendungsfälle. #Ausnahmen
+
+Q: Was sagen andere Gruppierugen wie Content-Anbieter, .. worauf solten wir uns reduzieren, auf welche Forderung?
+Sozialdemokraten kreigen Rückendeckung von Contentanbietern, weil sie damit ihre Marktposition für alle Zeiten zementieren können.
+
+
+Zentraler Anlaufpunkt ist http://savetheinternet.eu
+
+[Applaus]
+
+
+
+
+
+

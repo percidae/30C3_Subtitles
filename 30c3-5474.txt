@@ -1,0 +1,100 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recruit as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles. 
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+I hope you're all here because you like history and numbers because we're going to be involved in that. I'm planning to speak for 40 minutes, half of which will be about the history of my topic (...) First of all, I want to tell you a bit about myself. I studied Japanese studies. I decided to go into history for my doctorate, which I'm doing right now in Vienna.
+
+When it comes to history, esp. history in Japan, I'm mainly interested in 20th century, WW2, Japanese-American, Japanese-Soviet relations. About history there was a German historian called Leopold von Range who was considered (..) He said the work of an historian should be to tell history as it actually happened, which nowadays is considered a little bit dated, (...) called the strongest narcotic of the 20th century. When working with sources you can never be 100% objective. Every historian, as objective as he tries to be, always makes choices about who he wants to be, knowingly or unknowingly. Because everybody has a certain background/experiences/beliefs and treats what he finds in his historical. ... accoridngly. I'm basically doing research in how historians do work with their sources -- metahistory. ... I'm using WW2 as an example because it lends itself to this kind of research. (...) 
+
+First of all, let me tell you a little bit about Richard Sorge. Born in 1895 in Baku, then part of Russia. His father was mining engineer. Mother was Russian. Grew up in Berlin, moved to Berlin in (..). He went to school in 1914, being a German patriot, he went to war. Wounded twice. Came into contact with communist ideas, became communist. Had joined the comm party when he got his doctorate. Gifted speaker and agitator. In 1924 he was recruited by the communist international organization, was invited to Moscow, and later at some point during 1920 joined the red army, doing intelligence. First major assignment in Shanghai working with spying. 
+
+In Tokyo Sorge was very successful setting himself up under the cover of being a journalist. He also joined the NSDAP to get access to Tokyo's german community. The thing about Sorge is that he was not ... a spy. Spies are inconspicuous, not drunk all the time and not sleeping with other men's wives. Had an affair with the German ambassador's wife. Still managed to stay his good friend. Sorge was very well-known in Tokyo. everybody knew him, liked him. Women liked him, men liked him. he became a good friend of ambassador, who shared with him German reports coming in from Berlin on hiighly ... 
+
+Worked with Ozaki Hotsumi who had access to the higher ranks of the Japanese government. got information from the PM's advisors, who turned this on to Sorge. A very workable quid-pro-quo situation going on. Sorge's organization, codenamed "Ramsey", is considered one of the most successful HUMINT operations. They wanted to find out in which direction Japan wanted to expand, north or south. Sorge's group was able to predict and report to Moscow not just in the fall of 1941 Japan actually was not planinng to attack north, but going to the US, but also the exact date on the attack of the Soviet Union in June 41. I've called them WW2 hackers because of what they did. by giving this info to Moscow, Sorge et. al tried to hack the outcome of WW2. Some historians consider them to having been incredibly successful in that, some say they were irrelevant, because Stalin didn't want to believe the reports. Called Sorge an unbelievable little 'going-to-censor-myself'. For this talk I'm not going into details on Stalin's reception of Sorge's reports. (...) accidental interception of Sorge's reports by the Japanese secret police. Instead I'll talk about the crypto. [smalltalk about disinterest in crypto].
+
+fact is, on June 1st 1941 the red army in Moscow received this telegram from its far-east (...).  [Reading Russian]
+
+"Berlin has informed its ambassador in Japan Ot that the German attack against the Soviet Union will start in the second half of June" this was sent by ... to Moscow. 
+
+Introducing Max Clausen. German. Grew up in poor conditions. wanted to be a mechanic. Joined the army in 1917 and through a stroke of luck he was taught to be a radio technician. Developed communist leanings, turned communist and used his knowledge that he got in the army to become a radio comms engineer and he learned encryption for his work in the communist party in Germany and later in the soviet Union. In the late 19.. he came to Moscow and made a name of himself for what he could do as a radio tech, later turned to Tokyo. He survived. I can go into further detail later. In 1935 Clausen arrived in Tokyo, were to build a radio transmitter/receiver. was not allowed to carry any tech equipment at all. His only instructions were to use a wave-length between 37 and 39 meters for transmitting, between 45-46 m for receiving. He was to build a transmitter and receiver from parts he could get in a Tokyo radio shop without drawing attention to himself. Could not buy ... without police....
+
+The transmitter he built consisted of a wooden panel size of a laptop. Used two vacuum tubes which could be mounted/unmounted, making it very portable. Fit it into a box. 
+
+The receiver he used was a simple ham radio. Used microphones instead of speakers to make it portable. He was able to set up his whole set in 10 minutes. always working in wooden houses on 2nd floor, attaching an antenna to the roof. His receiving antenna was only 1m. He had some rules, always used densely populated areas. Always used wooden houses. Always two-storey houses. 
+
+He was able to receive the Soviet far-east 2000km away. After the war he explained how he built it. Athmospheric conditions always best around sunrise/sunset. (...). Moved his places of operation. 
+
+Jap secret police was on the case several years. They knew someone was receiving somethung somewhere. Couldn't make out what the information meant. The things they could intercept looked like this [numbers]. (...) "Who could get any farther than Korea?"
+
+Police wrote down the numbers, intelligence couldn't figure out what they meant. With  this message actually says is "DAL. THE SOVIET FAR EAST CAN BE CONSIDERED SAFE FROM A JAPANESE ATTACK. RAMSAY". I'd like to walk you though how this [numbers] became [that]. It was uncrackable. The secret police only found out how the messages were encoded by stumbling over Sorge's group by accident, asking them what they were. Messages always in German. Messages always started with DAL, then message, then RAMSAY. Sometimes messages longer than example. That was what Clausen started with. He gave every letter in English a number. Vowels got single-digit numbers, consonants (...)
+
+Words got encoded wiht these numbers. Put numbers into blocks of five. I'm sure everyone in here could crack that code. Letters always have the same numbers, so you can derive where the e's are and where the I's are. We need a second code; a book cipher. We need the book. The sender and recipient needs to agree on a book. Statistical book of the German reich. Very inconspicuous. Sorge was a businessman, (...). Book consisted of pages and pages with charts full of numbers. Pick a page, any page, with a table of large numbers. Page 193. We pick a line, 7, from the top, and column 5. It's 113. And to confuse us even more we pick the last number: 3. And we write the first five numbers under the five numbers of the alphabet code. We add these. [this cannot be subbed.]
+
+The recipient needs to know what page we used, so we take the page number (193), the line and the column, add this to the fourth block of numbers from the top and (...) and we put this on top of the message. OK, so 51833 is the result of this plus this somehow.  [unsubbable math thingie]. So it's page 193 line 7 column 5. We do this in reverse and we get to "The soviet far east can be considered safe form attack".
+
+And of course we do this without a computer, but with a paper and pen. Guy could do 500 of these blocks in an hour. Also needed a way to describe when the next time [hands hurt :(]
+
+You're lucky today because I tried to upload this alphabet with th ecorresponding numbers and give you a little homework. This alphabet and the book is all you need. You nede to have the pagenumber, line and column, that's all. Couldn't upload it. 
+
+Q&A:
+
+IRC: "How did they know when the transmission started. Did they send the transmissions at a specific time?" 
+At the end of each message they had this simple code telling when they would transmit again. The person at the other end would then stand by and listen. If the conditions were good they would just do it at 1500. And to make sure that it was actually the right person, they had this DAL code that meant Sorge. 
+
+"How long would it take with Google scanning all these books. If you picked one book, how long would it take if you used a similar principle, how long would it take to crack?"
+Anyone?
+
+"I just want to thank the speaker for this very intersting talk on analogue crypto?"
+
+"Who came up with this code? Sorge himself, Clausen or the Russian military intelligence?"
+Russia. Not which book to pick, but they came up with the crypto. Sorge did the crypto himself up to 19... Sorge did the encryption and gave the cryptograms to Clausen at first, but then Sorge had a motorcycle accident that made it impossible, taught Clausen.
+
+"If the first letters of the messages are always the same, they make the same mistake as in ENIGMA"
+Yes. With analogue crypto you have to find a middleway between convenience and security. If too safe it will take too long to encrypt.
+
+[missed question]
+In the early years he spent in Japan there were also other contacts. In some cases there were also other people contacting the Soviet embassy which was a no-go. at first thye had other means of communication, like you see in spy movies where htey exchange suitcases etc.
+
+IRC: "Was this book cipher already known and is it still actually in use?"
+It was certainly used beffore. not sure about the soviet union, but it was certainly used in other cases, especially in Russian history. Sorge was not the first who this was invented for. As for whether it is still in use.... Well, who still uses analogue encryption? [chatter, I didn't get it]. Children do this of course, because it's fun.
+
+"At least up until the eighties this kind of cipher was still used."
+
+"Why didn't they use permutation?"
+I'm not sure if there are any sources out htere on this early time of the Sorge ... which instructions he got. some sources have been published in the 1990s after the Russian archives were pubished. After 2000 in the era of Putin a lot of archives have been closed again. I haven't come across anything from this era as to why they picked one instead of anohter.
+
+[long-ass explanation about crackability. not sure there was a question]
+
+"How did they come up with this  substitution? Common letters got short numbers, the rest were between 80-90. Why?"
+[dropping out...]
+

@@ -1,0 +1,421 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk 5376 "Do you think that's funny?" are supposed to be created  
+  
+Link and further information can be found here: 
+  
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Please start here
+
+lizvlx:
+Well hello,
+sorry that took a little bit. 
+I'm using the wrong stuff apparently not Microsoft so I'm really sorry.
+"Do you think that's funny" that's the title of this talk because this was a
+question we got asked quite a few years ago by a reporter wanting to discuss a project that we did and I thought it was the stupidest question I have ever been asked and I have loved it ever since because obviously this shit is not funny at all.
+So because it's about art-practice under anti-terror laws.
+I'm not going to give this theoretical talk now,, so you're fine it's about practice.
+I'm gonna show you a set projects and focus on kind of the implications of anti-terror laws on the project, on the production of the project most and foremost and also some other projects obviously have been produced before all this crazy ass laws have come into effect.
+So let's just get started. 
+And of course in the end I'll be doing a Q&A. 
+So a short introduction for us, I mean almoust talking us means
+ubermorgen.com so that's me and my partner hans[?]
+So we started in the 90s and
+in the 90s it was really great, 
+I really love that because there was nothing happening on the net really
+except for the crazy boring shit and we all thought it was so cool.
+It was just really nerdy but nothing else.
+
+Obviously I started working in net-art, in 1995 that was a really great time because nobody cared what you did on the net,
+not because there was no audience there was a huge audience.
+
+The net was still not a dot com rearm so it was fine, you could just do whatever you wanted to there's a little footnote there
+because we did you know few problems but it was nothing major.
+Also because there was no laws in place the really had an effect onto European citizen
+being kinda hassled by the CIA, basically local police
+didn't really want to help out the CIA so we were fine at the time.
+In the early 2000s dot com had totally run over the net which is fine obviously but not only and
+we have to get used to lots of people bugging us for doing what we did.
+
+[... Small part missing due to video problems]
+
+... Spider crabs that were moving in to finish see space
+and figured "what they don't have any any identity on them?
+Or what's the problem?" this but this newspeak
+I mean obviously that's a lot [?] you know all the enemy combatant bullshit and so on.
+
+But this newspeak is really interesting if you listen to it and its real problem
+if you choose go along with it because it alters your speech it alters your mind.
+So we did this project on oil and it's all about this.
+I hope this is not to loud.
+
+*Video Playing*
+*applaus*
+
+This video was based on a marketing campaign by diesel.
+It was called be stupid.
+I don't want to add to that, but I'm sure some of the people in here have bought a diesel product
+so be proud of yourself you're officially stupid.
+
+I was asked to also persent some projects that some of you might really know but some of you might know, to give you more of a context of our work I'm gonna pesent Vote-Auction.
+Vote-Auction was a project we did in 2000 and we usually produce seals for a projects, not logos, because we're shurly not dot com if we are anything we are an authority, so we need
+a seal right that gives you authority.
+
+So in 2000 it was a platform for buying and selling votes for the presidential election in 2000 Gore against Bush. 
+
+You know the one that bush didn't win, but took home anyways.
+*laughting*
+You laughing, it's sad isnt it.
+But then maybe, I mean so much good came out of it so we should be happy.
+It'd be a lot colder probably if Gore had won right he was all into the climate shit and so on.
+That was the website.
+We originally got it from this american called James Baumgartner who was an art student in the states. 
+He started doing it as a thesis project, but he got contacted by FBI and such
+pretty early on and didn't want to pursue the idea anymore.
+
+And art mark who is now [...] was really good then
+brought him over to us and we took over and made it a bit bigger I guess.
+
+Basically you could just sign up as a voter and just put your vote on sale and as one would be interested in buying a vote you'd only be able to buy the votes from a whole state, to make it more easy.
+
+The price of a vote in different states veried a lot.
+We had an enormous amount of subscribers I don't know precisely because we had a
+randomizing engine in the back obviously and we got into serious trouble with this project
+
+With any kind of governmental agency any OJA in the States and always made specially little websites for them you know with IP filtering and they got their own websites.
+
+Also the Germans were in there as well [...] always contacted us I mean the server on a Wednesday at about 11 and always searched through the same pages. It was really easy then you could just give them something they really liked as a website and some DOS-software that would download in the background and you know stuff like that that really worked fine. 
+I'm gonna show you a little video again, because we got this feature on CNN for the project.
+This is really bad quality because it is from TV.
+I'm so sorry. 
+
+*Intro music playing*
+
+TV-Host: In just two weeks the citizens of the united states will elect their next commander in chief. But could that decision be rerouted over the Internet? A website engineered halfway around the world is offering a [...].
+Today on Burden of Proof: bidding for ballots - democracy on the block
+Other Host: This is Burden of Proof.
+
+lizvlx: I just need to interrupt a few times. 
+This was on prime-time US CNN, right in the midst of the elections and we were really lucky that we got so much news coverage this was not because we're so awesome in doing projects this was because we just touched a topic that lots of journalists wanted to talk about but they didn't have a specific issue.
+But if you present them with the specific issue they have something to talk about so they did.
+We got about ..., I don't know how many people we reached about like 200 to 400 million people this was like really all over the place they even discussed in russia and their parliament. 
+And we got our in a servers hacked.
+And Janet Reno who was than you know somebody was on our ... 
+And we got sued by so many people for either you to false promise, consumers laws
+or election fraud.
+I need to point out that it's perfectly legal to sell american votes in Europe.
+*laughting*
+Vote-Auction is also a big case for lawyers all over the place is was one of the first cases where people really noticed:
+Oh internet and national law are really bad together just don't mix.
+They served us court papers onto our like Nokia communicators like faxes 30 pages which obviously doesn't fit on a communicator
+And on the phone: *miming to be on the phone* You know I need to serve this to you.
+which was ridiculous.
+Still they couldn't shut down because we just had ...
+We where aware that if we kept on doing this project we would get you know authority would be getting more and more interested in us so we bought new domains because the turn up the one domain we put in the new domain which gives you newsstory so that was fine. 
+In the end we were running on IP address, but it was all out their so it was fine because we had the CNN coverage there was no problem.
+We had no terror laws at the time so we were not terrorists we're just doing voter-fraud
+We are not even doing it we are just providing a platform.
+I'm not responsible for any user. That's what dot com says. 
+You gotta bring democracy and capitalism closer together that's where we were sane.
+
+*searching for a photo*
+Yes that's him that was no one of our first providers.
+
+TV-Hostess: ...which along with Vote-Auction.com was named as a defendant in a lawsuit in Chicago
+in Los Angeles we're joined by internet law professor Stuart Beagle[?] in
+TV-Host: And Sacramento Califorina we're joined by William [...]
+lizvlx: He's an asshole
+TV-Host: Chief counsel to the California Secretary state, where I'm from
+and here in washington Melissa Stratton constitutional law expert ...
+that's my favorite picture
+I mean look at that.
+I mean for me the project is also a very complicated way to produce video art you do this whole project and then it gets filmed by CNN right
+yeah
+*applause*
+If you wanna see more of the video, pretty much all of the videos are available on Vimeo.
+Look for the ubermorgen channel.
+They are way too long for forty-five minutes and don't have that much time
+*singing* du di du di du
+more screenshots of the guys
+yeah that's the lawsuits
+*applause*
+I started doing paper sculptures at the time.
+What are you supposed to do with it?
+It's very expensive you know, this is from a show we just did at the Carroll Fletcher Gallery in London, Oxford Circus high-scale good shit.
+But obviously is not so much fun at the time
+But because I come from a [...] family I cannot be bothered really.
+Now on to something completely different.
+This EKMRZ trilogy. EKMRZ obviously means e-commerce.
+I don't like vowels apparently.
+These are three project it's called
+Google will eat itself
+Amazon noir
+and the sound of Ebay
+Google will eat itself maybe some of you know ...
+That's the seal again
+Google will eat itself is just a very easy scheme for a problematic network maybe.
+We just participated in the google-ads program and made money with that and with the money we made, we bought Google shares hands Google will eat itself.
+We didn't do it on a huge, big scale, because we were not so interested in that anymore after doing stuff like Vote-Auction.
+So we just it is more as a conceptual piece. 
+I think at this scale that we did it would have taken us like something like 300 million years, to buy the whole of Google.
+But then maybe it'd get like really cheap in the meantime so who knows.
+For this project also still no terror laws then it wouldn't be coverd by that anyways.
+But of course nasty letters from Google and we got you know blocked on Google, which is great.
+I once got disqualified from a conference that was awesome, I really liked that.
+If you get a lawyer's letter from Google that's fine, because we all know you can't talk to Google.
+There is no phone number, you know. You can know someone who works at google, but officially you can't talk to them.
+So there's nothing they can do to you really.
+
+Because they can only send the letters, but not react again because they don't want to be bothered.
+You can just make a news story out of it. We closed the project we made about 400.000€ and it's still sitting there.
+It's kind of a fund thing and it's google to the people.
+But it's not doing anything because money shouldn't be doing anything
+
+The next one was Amazon Noir.
+Which was basically just using the look-inside-the-book-function of Amazon to download whole book you know just search for lots of terms and then recombined the book.
+They look quite measly afterwards, but it's all about the content, who cares.
+That project got kinda interpreted as if we were focusing on free books and information for all.
+We're not interested in ..., we are not activists. 
+I may be an actionist.
+But I'm not an activist.
+I don't have a political agenda.
+I don't say this is good at this is bad, I just might find some things interesting.
+We sold the software to Amazon because they didn't like it.
+So we sold the software to Amazon in the end and made some money with that.
+*applause*
+And the last one of the trilogy is called the sound of Ebay.
+I just really wanted to do a project with teletext imagery, because it's just looks so great.
+My mom still uses it, but then my mom used to be a programer, I guess that explains it.
+This is a lyrical project it makes music with your user data.
+I'm not gonna play music, but I'm going to show the images, because I love them so much.
+I mean it is just the best parts of teletext obviously.
+There is one person, who won't talk to me anymore
+after I have done that.
+She thinks it's porn.
+It's really pixels, I mean come on, if you see porn in this shit, you're sick.
+I mean seriously.
+*applause*
+Yeah.
+I'm gonna jump trough that because we don't have enough time I think.
+No we are good.
+
+There is another set of projects I we did this are actually the once I like doing most because this is where I get to do some coding.
+I love coding in Pearl and I will never code in anything else.
+I don't need that ruby shit!
+
+Basically this is IP Nick.
+We learned with Vote-Auction how important the seal is, because we got all these legal letters with lots of seals.
+Texas internet attorney and shit like that.
+So we got our own seal: the Internet Partnership for No Internet Content.
+Sometimes we would get asked by different entities, companies and whatever, you do fake banners and shit like that and they want to take it offline.
+Usually when you talk to big companies, and you want them to do something they tell you I'm not sure you know,
+I'm not the one right person to talk to, i need to send you to someone else and it never get solved. 
+So we just mirrored that and whenever someone asks us to take some information of our servers, I say you know you need to speak to a different department.
+Because that's really complicated, I made this form. That is the universal content and or domain removal form.
+It's very complicated.
+This is not what it was like in the beginning.
+It's like when you transfer domain.
+You need to sign all that and fax it and not with all of them but some of them.
+You just need to put lots of bureaucratic barriers in there.
+You really want to get the shit solved but there is just so much paperwork, that you got to fill out.
+But the other people who want to get the stuff offline and all the departments.
+The shit just never get solved.
+
+And then I coded and basically it just works like that you can just put in any domain and it just creates a legal document its fine.
+The wording is just fine and [...] injunction or whatever.
+Then you just send it out.
+We didn't automise it, because we didn't want to be the ones to blame in the end again.
+
+We figured the user can send it out by themselves you know we're not going to be the clowns.
+Take on your own responsibility.
+You just send it out.
+If you have a legal document that says this domain im-so-cool.com is supposed to be taken offline because engaging in child pornography.
+I guess lots of provideers will take it offline.
+In the beginning not to do anything wrong.
+So this worked really well.
+Again I think it's important to use stuff that comes back to you.
+In form of legal papers in this context you make something else out of it.
+
+And also it just cuts out the middleman again.
+You don't need a lawyer, you don't need a court you just need your own court papers that's fine.
+The next one I did was the Bank-Statement-Generator it's a weird account statement
+You just enter a starting figure and you enter some other shit and you name and bla and so on and then you enter how you wanna feel when you get the statement.
+*laughting*
+Pretty much everyone has the same deductions: 
+You go to a&m[?] and you do some Amazon.
+I don't think you can ever really get high numbers, but you know it's from suicidal to toltal mania.
+That's what you can kinda decide for yourself how you wan to feel.
+We were really broke at the time and I remember I was sitting at home and opened letters from the banking and it said you're indebted and i felt really bad.
+And then I figured why am I feeling bad because of ink on paper. 
+This is really crazy.
+This is what I allways say this is just pixels on screen and the other one is just ink on paper.
+
+Especially because we're not talking about personal letters we're talking about letters that get send out by servers that are signed by people you can't talk to a person about them.
+That's not what constitutes a letter this is fucking newspeak.
+So if you react to anything that's get sent to you by server with an emotional reaction something's wrong with you you know.
+
+I put this in here because my daughter Billie really loves it and it it is Clickistan.
+
+We developed this project for the Whitney Museum of American Art and it was bit of a hassle.
+Clickistan it's like a javascript kick game.
+But we couldn't release it right away because they were concerned about the wording.
+I couldn't use the words Muslim, fundamentalist and terror.
+I did not put them in any special context these words.
+There was this one screen that said: 
+Are you allergic, vegan, Muslim or ... I don't know whatever.
+It's not a political project but there was no way they would release the project with these words in that
+I figured okay I'm really bad with getting censored so that's not cool. 
+I proposed to them if it were ok with them if we just took these words out and instead put in variations of the word censor.
+And they were like: Oh that's fine.
+*laughting*
+I thought no not really but I'll go ahead.
+So yeah it was fucking crazy
+I'll show you the video.
+It's an online game but you not gonna play it now but you can watch the video.
+
+Well this is like a small project we did feels like at least 10 years ago.
+This is what we call a web-painting
+
+I mean you can read a bit for yourself.
+We just took the text and pretty much everything else from a website called
+iris scan and just exchanged words to make the content and the message a bit more clear.
+We have not used this in a performative way yet but if we could ever find a [...] to do that I would
+gladly set it up on a conference you know, an airport and just see if people are going to participate it's just the small moment you can go to your own private room if you want to.
+By the way that's what you call affirmative approach versus critical.
+Alanohof the Alano Ranch this is a really small project we did a few years ago.
+Its just a regular fake site.
+It's about this fake farm in Tirol that produces organic meat from these hounds.
+So all very well.
+We just produced it for this Association, a club in Tirol that just said can you do something that will
+give us a title page on our Newspaper.
+
+It's really just a fun project break
+We got into so much trouble because of this project.
+*laughting*
+We had five different times police standing in front of our doors at home.
+Its sunday evening it's in the evening I'm by myself because my partner just went to Sofia [...]
+And this knock on the door, and it's these two police guys.
+And i look at them and go you're not here for Alanhof are you
+and they are like 
+*deeper voice* yeah 
+I'm like what the hell it's been like 4 years since the project and they are still coming.
+I don't know if it's because of the dogs.
+It's not a cat.
+You know we know don't ...
+*laughting*
+If police contact you and you are like:
+no its a fake site they are like fine.
+And the first two police people that contact you were like okay that's fine, actually it's interesting [...] and so on.
+They really made us put in imprint in there otherwise you know we could have paid as much as 20,000€
+And they were like if you put the imprint in now you only pay like 200.
+We are not paying 20,000€ for a freaking dog.
+We paid more than 20,000€ for doing the whole Vote-Auction bullshit, but not for a dog.
+Tötung von gesunden Hunden 
+killing healthy dogs
+We should have put up that were only killing sick dogs
+Mea culpa
+Now onto something a lot more serious.
+This is a project that's very close to my heart it is called Superenhanced
+We started doing this in about 2006 to 2008 
+This is important for me for various reasons, also because of the talk that's going on right now obviously all the time we all being listen to and so on.
+I don't understand how anyone could not have known that i seriously don't because we all know that anything that's technically possible will be done. 
+We know that from ourselves.
+Even if it's very often only very little because we are technical incapable.
+But there was something else on the agenda and there was you know the issues of enhanced interrogation, torture taxis[?], supermax prisons in the States
+*applause*
+I understand that you know don't say anything mean about cats on the Internet.
+We all bow our heads to the gods.
+Also a newspaper got behind it and there were some dog hating forum totaly loved this site.
+I mean they made police people drive to the about address that we put on the website.
+It was this local police guy who knew up front that there was no farm there
+and we read all the court papers and it says I went there and there is no farm and no one around knows it.
+
+We had to pay money for that because there was no imprint on the website in the begining.
+*laughting*
+
+This was not a problem early ...
+I mean this is a fake site.
+I personally don't really understand I mean I do understand but I still don't understand why there's this huge uproar now about you know that NAS bullshit, but there was never any of that big uproar when it really got to people being imprisoned.
+And this is where the real terror laws started happening.
+No nothin I didn't hear anything.
+We did this project ...
+this is just image material from our research.
+I did like half a year research on this project and then I programed the superenhanced generator together with a friend of mine
+
+It's basically an interrogation software because it's always the problem in interrogations who is to fucking blame if anything goes wrong
+so we did a software so the software is to blame.
+So you can only follow your orders and everything's fine so basically it just runs you through and in if you don't answer properly you get into trouble.
+So that's not fun I'm so sorry we used this in a few performances in Palestine I think.
+We went to Israel and to Palistine.
+The performance in Israel didn't work out because the people we got as volunteers
+they just totally fucking chickened out.
+
+What do you do in the biginig you through a bit water into people's faces or whatever
+as an enhancement rain.
+Versus the people in Ramala they were fine.
+they were all really experienced 
+100% of the people that were there for our talk had experience in being detained I mean really detained.
+About 50% had been more than once.
+This is the system graph of the generator and more images sorry to spoil your party.
+I'm looking for a specific image.
+If you want to read a good book read this book by Murat Kurnaz
+Just read it.
+It might not be a nice Christmas present but use it for Easter time somebody get nailed on a cross their.
+We work together with the
+this guy Chris Arendt who was a guard in guantanamo and he lived with us for two months you know so we could do more research and talk and block with a hands-on approach that's we like and he's kinda okay now
+he was in a really bad state then but I don't feel bad for him because I feel bad for the victim not the perpetrator
+I'm sorry Chris he knows that.
+That's a set of photographs we did with our kids. 
+People find it offensive.
+Billy allways laughs about it.
+That's her little sister Lola.
+
+That's a grown-up person and that's a funny thing too I mean these pictures I found on a backup of my iPhone
+and I had never seen those pictures before.
+I know my research I had not seen those pictures before and when I had to go through my backup I find all these pictures of guantanamo courtrooms I found that really strange.
+It was very helpful.
+There's more to show obviously but there's not so much time.
+I'd just like to say one thing before we kinda end this:
+If we always talk about these issues of privacy and so on please bear in mind that this is a first world problem
+The southern hemisphere does not suffer from you know being spied on all the time they suffer from not getting any fucking attention so just bear that in mind. 
+That it's kind of a luxury problem that needs to be discussed obviously
+Second forget crypto because crypto is elitist.
+I'm not saying don't do it all.
+Obviously it's something that has to pursue but if you try to find a solution for the situation now
+its not gonne be crypto because nobody can fucking use it.
+And then to all these engineers of the internet, all this sysadmins with so much power
+and lots of intelligence very often in the brain, but so little education.
+So little amount of books you have ever read, so little knowledge and so much responsibility please
+read a book read a mother fucking book 
+*applause*
+Maybe not the Allgemeinbildung for dummies that i saw on the train last week but something like that.
+We need to close now. We were running a bit late but.
+
+How much more time do we have?
+So I rather stop now we have time for some Q&A.
+

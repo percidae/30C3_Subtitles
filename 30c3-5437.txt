@@ -1,0 +1,341 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Plants & Machines
+Food replicating Robots from Open Source Technologies (en)
+mrv, bbuegler
+Saal G
+
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+https://events.ccc.de/congress/2013/Fahrplan/events/5437.html
+lecture: Plants & MachinesFood replicating Robots from Open Source Technologies
+
+
+
+Thank you very much - we are very honored to be here.
+It's a quite fresh image doing field research.
+
+But it's actually this garden where everything started out.
+
+So we thought, there are some solutions.
+
+So we made a little rendering. It was planned to be a cubic meter for our little garden.
+
+In the middle we planned for a pump. 
+
+this shape is so expensiv.
+
+So we wouldn't do it anyway. There was this nice little party.
+
+So, that day we adapted our plan a little bit.
+
+We set immediately out to have this plan.
+
+And even a little plan for what we wanted to do with the elctricty.
+
+We asked the guy from the machinen room
+
+And basicely we have all our technik here and you are not welcome.
+
+This place was actually a garage.
+
+We could practically do whatever we wanted.
+
+We made it fit eventually.
+
+So we thought, maybe we thought we should scale it down a little bit.
+
+But then about a year ago. We went shopping and we got ourselves some heaters for the garage.
+
+So this is basically it.
+
+It consists of a water reservoir.
+
+One thing we did, was to put fish into the water reservoir.
+
+This way microorganisms can
+
+With this kind of system you would not have to balance fertilizer
+
+The aquaponic system contains a closed water loop.
+
+So the water gets pumped up from the fishtank to the growbed.
+
+Plants take up the nitrate and return the clean water to the fishtank.
+
+And it's then connected to some relayboards that are a switching pump heater.
+
+The Arduino could be considered the autonomous nervous system.
+
+And the RAsperry Pi... The RP also gives you an interface to the settings of your garden.
+
+One little problem we had, ...
+
+Like switching lights on and off.
+
+You have just have put a clock inside the Arduino.
+
+And so when this number is reached the timer compare vector gets called and triggers your function.
+
+This could really be a robot you have at home. And actually it was really going well.
+
+ONe problem with our approach (because we wanted it to be easy handable).
+
+So it was very very wonderful for the teamwork. Always one person would have to hold it up and the other person would do the gardening.
+
+We figured with one sip type you...
+
+We were quite happy with the system.
+
+We started with Kresse and
+
+Then we thought we can do this much better.
+
+We came up with this plan to putting the bot back into botanics.
+
+By not stacking it on top of each other...
+
+By giving the water reservoir its own Arduino.
+
+But before we wanted to put lots of lots of technik inside ...
+
+Running this system felt really like printing food.
+
+But yes, but the rack had to be engineered.
+
+And a sensor on the right-hands-ide.
+
+If you really want to engineer a cute garden, 
+
+We even added a humidifier and said 
+
+It turned out the humidifier was too much for our cables.
+
+And we added a pH sensor. We wanted to find out more.
+
+There are so many little tweaks.
+
+With less oxygen they swim higher.
+
+But we were always really really aware to give them high quality life.
+
+One thing when designing such a system - you have to make sure everything is water and airtight.
+
+Made out of metal that is not stainless steel. There is danger that you get toxic substances...
+
+Or could even harm you when you eat the plans or fish later on.
+
+This was watertight.
+
+But we ran into a problem.
+
+And of course when we said we want to make this a full blown system.
+
+We did not realize that in the end it look like this.
+
+This is the data that gets sent from the Arduino to the Rasperry Pi.
+
+As we said before modularity
+
+And to be able to take of the top very easy.
+
+But still there is lots of cables.
+
+When you start building things, you gather experience.
+
+So, this was not so elegant, as we mentioned. But on the other hand very very expensive. We thought this is not what we want.
+
+And we thgouht the first one was really much nicer.
+
+We keep the modularity of the second one but keep the ... of the first one.
+
+We took a few tubes and used gardening Steckers - for making the boxes airtight.
+
+And we also invented the double molex steckers.
+
+And we were really happy when we came up with this enormous bot. It had an off-switch...
+
+So we have improving pictures for the happyness of the fish. But the guy in the shop said, they are extra dirty.
+
+And there was this message that hit us: basically we never expected to come up here.
+
+Lets try it again and make it really beautiful.
+
+We started a kitchen process
+
+Because we voided so many warranties on the way there.
+
+We never liked the water heaters.
+
+So we started to design our own heating things.
+
+Which we would fill up with really lots of silicon. Which was really expensive and not food save either.
+
+So we done it again.
+
+And we put it into an aluminium pipe...
+And put it into a plexiglass pipe.
+
+One thing we still had to figure out the feeding of the fish.
+
+But when we calculated the ...
+
+So we decided to do it in one day.
+
+So in this bot we have automated feeding now.
+
+And of course the wiring is also much more organized now.
+
+the hardware stack stayed the same as in 
+
+We are actually trying to design a Rasperry Pi board.
+
+But still.
+
+So we are very used to adapting very rapidly.
+
+It's good that we are late.
+
+This was the moment when we thought...
+
+He loves interfaces and really takes time to make code look nice.
+
+We thought
+
+So, I ask him up here and give you a little demo.
+
+Hello I'am Dex.
+
+The guys said something about technical difficulties.
+
+This is a Mac - I don't have a Mac.
+
+I can do the demo for myself.
+
+This button - I guess.
+
+Yes!
+
+I have the screen down there right.
+
+How can we make these three boxes someting one can love.
+
+We needed a face for this thing.
+
+I made an ASCII face.
+What we learned so far.
+
+If you have a face, you have to make it blink.
+
+The bot does it's own AP, it runs in backup mode.
+
+The first thing it asks: what's my name. You can name it.
+
+To acutally build the bot.
+
+For now we have this and the prototype interface.
+
+Did it blink? 
+
+It will blink hopefully here.
+
+Come on.
+
+Ah, here. Ok. This is this. This is another iteration. This is the interface we have now. 
+
+It just started up.
+
+So, how do we start with this. We have to set a point.
+
+For now we have the Capsicum Chinese
+
+You can then set reference values...
+
+For example this CApsicum chinese needs a reference temperature...
+
+The bot will try to either heat or not heat to 30 degrees.
+
+The fan spins up to get more air in.
+
+So, we have, we will implement a feature where you can tell the bot 
+
+Yeah, then you have the light intensity, the soil temperature and of course there is heating and everything.
+
+It's like the delay from the sun to us is seven minutes - here it's a bit shorter.
+
+Now we can also flood.
+
+At some point it hopefully floods...
+
+and it stops.
+
+So, this is what we have for now. And what I wann have is some kind of botnet. Where the bots can exchange information on how to grow the plants.
+
+Hopefully next year, or in the coming year, we will be able to release the software.
+
+Perhaps we could make a collection of public data.
+
+This is our big hope.
+
+We are very hoping.
+
+Or if you play music,
+Or have a Geiger counter.
+
+Thank you very much for your time. We sadly have to leave.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

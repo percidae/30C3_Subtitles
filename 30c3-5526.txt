@@ -1,0 +1,640 @@
+nWelcome to the Subtitles Pad, nice to see you here!  
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+How to Build a Mind
+Artificial Intelligence Reloaded
+Joscha Bach
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+Joscha's gonna talk about artificial intelligence
+
+have fun
+
+Thank you. Im Joscha
+
+I studied philosophy and computer science and
+i say, it's very normal in this field
+
+My main goal is to get as many of you engaged as possible …
+
+Why should we build AI
+
+…
+Where should you start?
+
+
+I think we shouldn't do AI just to do cool applications
+
+But most interesting question that is for our culture is
+how does the mind work
+
+the answer to this very important question has to be given in the framework of artificial intelligence
+
+
+It's qute familiar to physics
+
+You can simulate it and run it and test it this way
+
+and the details of that implementation
+it doesn t
+Many of my friends are philosophers
+
+We as computer scientist, we do.
+
+
+so you might be looking at birds or feathers..
+
+whatrs the level of airodynamics..of the mind
+i think it's information processing
+then normally 
+psychologie would be
+and unfortunatelypsychology had an accident along the way
+accident on the way
+at the beginning of last
+helmholtz beautiflul experience..
+
+and pretty much at the same time we had psycho analysis
+psycho analysis is not an actual scien
+
+Ad this is not how physics works, you need...
+
+But we cannot do it alone
+
+Okay, now ther is big ethical question.
+Is it not super dangerous to have some other on this planet
+I would say that intelligence on itselve its not
+This makes us social, this makes us interested on straightful 
+But rather its 
+...
+its going to be.big organisations, government.
+these will have goals taht
+
+they are already the main player on..
+the big dangerouses are already there
+
+and the big dangerous of ai are already there
+so i dont think that AI needs a simulator... and i think that ai is a big ...
+
+it's a big culture project
+the first question that comes to my mind is..it fair to say that minds are computational systems?
+and if so what types of..
+
+descartes suggested that we have baisically two types of things
+other one is physical stuff matter 
+this is Res Extensa
+mind must be given 
+we have to have minds to
+mind seems to be somehow given (to Descartes at least)
+they must be independant
+and everything that we expericne...
+and mind ..
+which is i think the dominant theory today
+and in our culture the prevelant view is
+it is something that you dont find in china or japan
+
+the 
+its rout
+
+In dualism
+
+game success but the real thing is outside of this domain
+who wrote this wordl of warcraft
+he iss noct the only one who has root rights
+he is a hacker, he is a cracker
+
+[applaus]
+he tries to game us out of our metaphysical 
+now of course we are all good
+at least in public and science
+
+without this guy with root rights
+maybe tehere is no such thing as a soal
+
+people are
+
+tith menas 
+also this mechanical perspecitve is
+Liebnitz describes this well, "imagine that here is a machine and this machine is able to think and perceive
+
+and you go inside and see what happens and sou see just parts puching each others
+its in con
+and what he meant by that is
+just parts and levers
+
+pushing at each other
+perception and what depends on it is unexplicable
+
+this is what leibnitz meant
+according to leibnitz
+now as computer scientists we have ideas about machines
+f
+machines that can bring forth thought, ideas, experiences and perception
+an idea of turing in 
+basically you can emulate computer with other computers
+
+run bla in bla
+does provide computation
+lets define a minimal .. receipie to compute
+this rewrite head will ..
+and can again read them
+whenever it reads them
+
+sequence of characters on the tape
+everything to action with left right action
+leave state
+
+is able to perform
+find limits of that
+ideas of showing limits of that
+
+Turing has shown that this thing is able to 
+physical realation of this turing machine
+turing machine is a purely mathematical 
+but tis machine triggers basically the same critisism
+
+the turing machine could be realized in many different mechanical ways
+
+could even come up with a 
+clever arrangements using cats mice and cheese
+
+and you could ask yourself
+intrinsic powers 
+
+biological nuance
+
+any way if you have.. next year we build a truring machine from cats mice and cheese
+I don't know what the arrangements of cats, mice and cheese 
+these guys are a little bit eratic
+next year dont bring bottles for the dseidenstraße but some cheese
+if we just instead take all of hamburg
+
+stack it with the 
+4kms high
+imagine we cover hamburg in solid cat mice and cheese flip flops maybe..
+[applaus]
+so of course its an intuition
+and dont think that..
+thats the big problem of phiolosophy
+
+
+where are very often working with intuition
+In computer science its different. It doesn't matter what the audience thinks if it runs
+in your first semester you are going to point aut...
+there is a mistke on the blackboard
+same thing in philosophy just doesnt work this way
+Anyway the turing machine is a good definition because
+it leaves people with this intuition
+its kind of linear
+nor parallel in..
+Even tough its infinitely lage and infinitely ...
+
+lambda computation computation without wheels
+it has the scary greek letter in it.
+Actually i think its an accident that it has a lambda in it
+super scary to people who are not mathematicians
+copy and paste with simple strings
+
+
+And 1937/1936 things were 
+when he typed with with his typewriter
+typesetters replaced the trianlge with a lambda
+there you go, there you have your lambda
+
+what we casice
+
+cut the argument and paste it
+And as a result you get this. Here replace all the y's with ab
+
+that's all there is , this can be nested
+we can take abritrary sequences of these symbols
+
+So we have a programming language and Basically this is lisp. it's very close to lisp
+
+[applause]
+
+funny thing is that the guy whoc came up with list didn't think it would be a proper programming language
+He said you cannot really use this for programming, but
+it has kept on,... anyway. we have shown that the turing machine can compute labda calculus
+Which means they have the same power. The set of computable functions …
+
+Since then we have found many types of computational variations
+
+mathematical proofs can bem computable
+all of these approacehes have the same power
+The ideo, all the computational … have the same power is the … thesis
+We dont know abaout the future, so we cannot prove that. We dont know ...
+But eveything we found so far and everything we probably ever find has the same ... power
+
+this kind of defines our notion of computation. It also includes programming languages
+can use python to compute a turing machine and use a turing machine to calcultate python
+Graphics are going to be a gizmo …
+we can take neurons and produce .. models
+
+they are computationally expensive but it works
+
+we can simplify them …
+we could use crude simplifications
+apply some 
+
+
+associative learning 
+it's turing complete
+weak computationalism: "the ideas that minds are computer programs
+
+
+
+into mental representations using using this program
+thinking, feeling, dreaming 
+in such a computer program. this is the idea in computationalism
+
+In fact you can go one step further to strong computationalism
+
+the universe doesn't let us experience minds
+Information is something very simple, you can define it mathematically.
+We can measue it in yes/no decisiions in Bits 
+there is according to strong computationalism the universe is basically is a pattern generator…
+can be explained by the fact that the universe seems to be able to compute. that is to produce 
+we get a new kind of ...
+not the idealism 
+but rather computationalism
+
+computations are primary
+Okay a lot of people do not like the idea that
+which was a phycisist.
+
+The brain uses quantum processes to produce conciousness
+the quallity of understanding and feeling possessed by human beeings is something that cannot be …
+how can quantum processes do it
+
+but it;s possible
+
+I think what he basically does here is that he perceives as mysterious and … and tries to 
+Shrous one mystery in the other
+
+So I don't think that minds are more than touring machines i think that minds are less than touring machienes
+it's actually much more troubling than that
+
+all real computers are constrained in …
+
+they cannot compute every computable function
+the turing machine will have finite tape and will have finite steps in can cumculate in a time
+
+And the thing is
+There is no set of mumbers N and M for the tape lenght 
+the lambda calcus
+and the same N and M or the simmilar N and M for the lambda calculus
+
+Those that we can compute efficiently
+
+Some problems are unsolvable in principle
+Some problems are unsolvable in practice
+In these problems there is the idea of
+finding the key for the encrypted text
+And then there are non-decideable problems. Problems where whe cannot find out
+problems where we can not find out with a formal suystem whether the answer is true or false
+because we can show how
+
+
+
+but here is a test quaestion
+if you choose one of the following answers randomly
+what's the probability that the answer is correct?
+
+
+
+
+How difficult is AI
+It's a very difficult question
+We don't know
+but we do have some numbers
+
+The cells in the cortex are organized into circuits arrangend into cells of 
+
+and even lower long range connectivity and the brain has a very disticnt architecture
+
+very different functional purposes
+
+
+And the layout of these individual neurons the neuron types
+
+
+all defined in our genome, of course. And the genome is not very long. The humen genome project fits on a CD-ROM, it's 775 MB
+computation complexity of definiting a human being is less than microsoft windows
+only a small .. of that codes for 
+I'm not just a philosopher or a dreamer its beacause I'm a Software Developer
+I know it's impossible to say when you are done without a full specification
+We all know the shortest computer scientist joke:
+"it;s almost done"
+
+We never know whne its done
+Even if we have a rough direction and I think, we do, it … how long it will take…
+A question of whether to take small incrimental progress
+
+And some part of that big question of how long
+
+We had information theory by claud Shannon he captured the idea what information is
+Describe the world as systems and systems are made up of 
+Enditities and relations between them and along these releations we have
+feedback
+dynamcial systems
+killed by second order cybernetics by this matterane stuff and … turned it into humanity and then died???
+
+most of them went into articial intelligence
+
+
+
+then the Idew how we can …abstract… networks in distributed systems
+
+parallel distribution processing
+and then we have to movements of automatic
+self directed, goall directed sustems
+and Those of you who have 
+very easy read, interesitng
+most of the important criticisms
+most of teh important answers to the most important criticisems and it also 
+the turing test
+
+to judge the ability to engage in meaningful discourse.
+which includes creativity, and empathy maybe, logic and language, anticipation memoy and so on. the Idea of AI …darthmouth conference … in 1986
+came up with lisp 
+more famous for writing the …
+logic and language
+
+story comprehension
+for the projects of using computer scrience to understand the mind
+Marvin minsky coined the term Artificial intelligence
+
+Claud shannon was this information theory guy
+They had the funding nad had this good time
+which gave them the idea that AI is done very soon
+In 1969 Minsky and .. against the ide of .. networks
+they won. the argument they won.
+but
+
+wrote a small booklet a
+
+it was wrong
+most people did logic based systems
+
+In the meantime people .. world is basically logica expressions
+
+descrive the world as logical systems
+only did robotics in the future
+mental representations of how the mind works
+
+
+And at the moment AI is 
+statistical methods to better machine learning
+it's very useful
+a very different question on how to understand the mind
+if you want to go to the moon you have to shoot for the moon.
+
+So there is
+aartificial general intelligence or biological inspired cognitive architechtures
+
+is to use information processing
+the tools that we need to do that we have to build architectures we can test
+we have to have universal representations
+and not just models to do taht
+
+We have to have universal representations, which means
+which means the represnations must be distriubuted
+
+both distributed and symbolic
+
+So we need to do language and planing and 
+and we need operations 
+And we need operations over these representations it's probably semi …
+
+we need some kind of universal motivation that is something that directs the system to … creativity
+to do all the interesting thinks you wanted to do
+
+and maybe we want to inderstand emotion
+so we want to understand  universal . representations that give us … planning and reflection … and … language and all this interesting things.
+
+and planning and reflection and language 
+
+
+and tehy should also be able to retranslate … to perform actions
+and maybe we also want some feedback between the actions and perceptions 
+has a name that is called an "environment"
+
+This situation model is present we also want to memorize past situations
+This protocol memory  as part will contain things that are always with me
+ascribe to myself
+declarative memory and proceedural memory
+
+Right now I'm in the frame of giving a talk if i would take a 2 year old kid the kid would interpret the situation different than me
+This frame extends into the future horizon. I know, my talk will be over in about 16 minutes.
+I also have plans, things I want to tell you
+
+And if i gerealize this i will find that i have longterm momeory, a world model and a mental stage
+
+I need some kind of action selection that mediates between perception and action
+
+And the demands of the system should create goals
+
+We are not born with our goals obviously, I don't think I was born … to give this talk.
+
+There must be some demand in the system which enables me to 
+Have  a biography hat has this goal ot give this talk to you
+
+and so lets come up with a set of demands.
+
+Some of these demands will be physical, like food, water
+
+Hot and cold
+Then you have socaial demands.
+
+The demand for affiliation that we get 
+
+
+whichs is colled honor or something
+
+And then we have cognitive demands and these cognitive demands are competi… aquition.
+we want to learn, we want to gain sckills
+It's good to learn a musical instrument
+we want to reduce uncertaintly matimacians are those people who have learned they can solve uncertainty.
+and then we find new uncertaintly
+so for mathematicens, mathemaits is an unending source of pleasure
+
+[applause]
+what if you are studying mathematics in germany and you are not gvery good at it
+You become a teacher
+
+[laughter]
+
+And this is an very unfortunate situation for 
+
+And most people in our culture are ... with mathematics
+which is a very bad thing, so peaople avoid it
+
+Nayure has had to pull some strings and levers hernently 
+So there 
+and of course 
+
+Emotional modulation and affect
+How is it possible that a system can feel something
+
+and the answer that i found so far is, that 
+feeling (affect) is the configuration of the system
+the state of arousal taht we are in
+
+the respolution level
+therse two together 
+we are living in a very different and dynamic environment
+mybe we need to interact with other people
+maybe you are in stressful situations
+
+
+and we conceptualize ourselve as ... and this means
+this is what it means to feel something, this difference in configuration
+
+out corrent extimates of competence 
+
+
+
+So the affective state is ...
+
+Higher level emotions 
+emotional content
+this gives you a very simple architecture
+
+I would like to shamelessly plug a book
+Its called Principles of Synthetic intelligence
+
+So it doesnt give you 
+
+The first one was in Java in 2003 with realy simple xml files and so on
+The new one runs in the browser and was written in Python
+
+This gets us back to the question is it one big
+is it going to be incremental progress
+
+Whole, testable architecture
+
+Universal problem solving, motivation, emotion and affect and so one.
+Hundres and hundreds of PhD theses
+it's doable but it's going to take a long time
+we realise that we can test it 
+
+and that out initial idea was wrong
+what should you do if you 3ant to get into AI
+
+basical methodoly , programming language
+software development, test driven development
+probabilistic approcehs, kalman filters
+
+graph theory, hypergraphs
+So do it for fun, its really fun
+
+
+
+Then you want to look at things
+you want to look at multiple implementations
+and you want to look at
+
+I don't think that you should stop there
+
+We need to learn more about linguistics, we need to learn more about..
+
+philosophy of mind
+study cognitive science
+
+So what should you be working on? Its one of the 
+inheriance and polymporhpy , how you can
+partial representation
+each time if I say, I have a hosue with 9 stories
+
+How we can implement this?
+And of course we want to implement time
+time
+certain space
+physical loops and uncertain loops
+
+
+Next thing perception: 
+Top down- it's driven by what we expect to see
+we actively checkk for stimuli in the environemnt
+
+and this bottom up top down process 
+and we can adapt the given environment
+
+and it's useful already
+Categorizatioon:
+you want to have
+what they mean by these categories
+Pekanise in the one and cats in the other
+Whats the difference between cats and dogs
+but if you suggest it to me
+
+We dont want to have specific solutions, we want to have general solutions
+Organizing mental representations 
+
+Sociality
+interpreting others
+Personally properties: how can we understand and test it further
+Attention
+How can we direct attention in mental resources
+
+Persistense: How we can 
+Benchmarl problems: how to drive a car, and how to play soccer
+and chess playing toasters
+But actually we want to have a system that is forced to having a mind
+
+tasks that enforce universal problem solving
+
+Last but not least it needs to .. funding
+something that people can understand and interact in
+
+So this is the bunch of the issues that need to be .. adressed
+
+and this means for my imediate scientific career
+and for yours
+
+You'll get a little bit more information on the home
+
+You can also send me emails if you are interested
+
+[applause]
+
+We don't have any time for questions
+
+Unfortanelty we are  
+
+
+
+
+

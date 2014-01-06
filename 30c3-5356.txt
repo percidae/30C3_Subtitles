@@ -1,0 +1,118 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Firmware Fat Camp" by Jaap-Henk Hoepman    Saal 6
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+We came up with a system for duration of each signal.  Signal for 1 and 0 's and we gave each a system.  We didn't know radio so we wanted help form the community. The reason this is not working is because of us and not becasue of others.  
+
+The frequency is leveling out now.  (discussing the frequency and connection problems)  Everything is duct taped down.
+The beagle bone is transmitting .
+"dont move your finger lets try to transmit something"
+ Lets restart this one more time.
+ Its really cool when it works 
+ 
+ {hums jeapardy theme song}
+ 
+ 
+ So now see how the frequency looks nice and stable, i will try not to move my finger...
+ Look it works!!  *applause*  wait for it. wait it. no one breathe.
+ 
+ That was asci art .  Its now unicode art. *laughter* we need ...
+ its supposed to dump asci art of the rocket
+ this thing is transmitting.  
+ thanks for bearing with us.
+ omg my powerpoint just died.
+ well... 
+ so arbitrarily we thought we would use one (?) thousand on and off cycles per bit.  
+ its not changing when i do this which is really critical
+ so hold on, i can do this.
+ So we wrote our messages in a format of prologue of 1's and 1's and 0's  and then encode the packet length. and then we () the data. which is supposed to proetect against data.
+ for each nibble, if we have one bit flip it gets corrected, if we have two it doesnt 
+ so sometimes this works and sometimes...
+ so our data comes in the () hand code
+ the new world issues we were dealing with, we were doing the bit flipping and cpu and the () were of irregular duration. this is a scientific drawing
+ all the bits were of difffent design. 
+ it stopped again.
+ wait.
+ better? yes!
+ ok. so we have the idea of sample drift. which if it goes wrong it can go really really wrong.
+ a low level bit ...
+ if you know radios you would be able to understand and deal with this
+ we were hundred cycles per bit which is () bytes per second. it think i can talk faster than that.
+ I brought 1500 cycles per bit which is () per second.
+ there is clearly an off and on pattern.  there is something better, you could use shift keying , or you can do make improvement to the protocols so that the sample drift each bit arrives in tact and you can do things in the kernel to make things less irregular
+ if you use egio you dont run this into this problem.
+ it works on the bugle phone lets see if it works
+ reality won here. 
+ (audio out)
+ ............
+ 
+The arm sock ... () sets its baudwidth appropriately.
+You can actually overclock this clock 4 times so you can send data really fast.  The () clock is.
+All you have to do is send a string of characters to do the bit wire and if you do that fast enought you have the ..
+this is () baud 4.8 kilohurtz signal.  This is what you get if you send u. if you set it to the baud rate this device supported than you can get... but if you clock it 4 time then you can get () 1.8 transmitter .  You can use that device to transmit radio signal and ... 
+If you wanted to send the fastest signal  or th eno character then you would could 1.8 megahert speed.  The harmonic ...
+That works. And other antenane and device (travis goodspeed paper) the arm computer with a () attatched to it , you can have user interface 4 out of 5 of the cat5 cable can be used for high data rate.
+We hope with the code we put up the community will go out and do more research.
+
+Automatic Binary Structure Randomization - phd paper...  
+Automi means your device has all these features and things within that you dont need.  *many acronyms listed* You can take the things out of the firmware. ONe good example of that is the lawful interecept.  All these device have lawful intercept code  in them but they dont necessary need them.  you can take them out. you can take it out of the firmware. once you take the uneneccsary code out of the firmware you have a space where you can use for whatever you want to use. what if you used code and moved that code around in that.  Randomization of the binary structure. 
+
+What binary randomization does in a .. functionary manner. Im going to show youu some alogos that will do.  You find the code tha correspond to the php server and you remove it. you find the holes and split the ole sand relocate them over and over again. you r noat chaning the functionality but you create jumps and bunch of lbocks.
+
+Other functions outside of the server, serve x, lib x and lib 1, you cant remove this code because other parts of the server will break. but if you look look at other place, you can remove the code..... and you have to make sure the fucntion return code ....you can take out the code and data byusing this graph traversal.  
+You can absoltuely refer where the ... we can see where the htpp core can address..
+
+Binary structure randomization is basically.... 
+taking one basic block and adding two and adding ajump inbetween. that performs the functionality and ...
+then you can swap basic blocks
+you can do this whether they ar eequal in size or not. 
+they look different but they do the same thing
+running 12.4 ios. router running... without the web server or the ssh server. 
+*presenter is showing router manipulation*
+I am enable on the router I am going to try to ..
+the router booted up and switches and if you want to show http and show server status is would show it is working even though the code is removed.  
+i want to show you. we did this for ssh skinny sip etc.  here is some quantiative date about how much ios and cod eyou can remove (?) based on the steps of recurrsion.  This is a recursive alogorithm.  The deeper you look the more code you should be able to remove. 
+
+This makes sense because you put the debugging message at the top of the server, not at malox (?) . you dont have to remove data but if you want to remove code the deeper you go then you will find a place to stop. When you combine mulitlple pieces into one then you remove more code then if you just used one. 
+
+thats it. thats my talk. this stuff works . *applause*
+
+q: when you reraange the lbocks of code in firmaware. would that be applicale in normal binaries. 
+a: yes. there are other feature like the 64 base that does this randomization that you wouldnt be able to get on this device.  If i had 64 base and ( ) on this router then  this is designed specialcifically for legancy based devices. 
+
+q:  how do you deal with virtual mthods or indirrect jumps?
+a:  there are always corner cases. the thing is you dont have to remove every piece of code or the entiry of the code or remove the rest of the basic block. if you have a jump that goes to another basic block you can keep the .... ? 
+
+you all have time to get to jeapoardy
+
+

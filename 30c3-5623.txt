@@ -1,0 +1,935 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words!  
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Amtliche Datenschützer: Kontrolleure oder Papiertieger" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[X] German  
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Herald: Jetzt kommt der Talk von Peter Schaar zum Thema Bundesdatenschutz
+
+*Applaus mit Jubelrufen*
+*Stuhlschiebegeräusch*
+
+Herald: Ich denke mal, Ihr alle kennt Ihn - unseren ehemaligen Bundesdatenschutzbeauftragen. Und er wird uns jetzt ein bisschen was darüber erzählen,
+wie das alles so gelaufen ist.
+
+Peter Schaar: Ja, vielen Dank. Ja.
+*Applaus*
+
+S: Ich freu mich natürlich riesig, dass ich hier sprechen darf, das ist ja glaube ich das so ungefähr das größte Publikum das ich jemals hatte ...
+*Gelächter im Saal*
+S: ... und ...
+*Applaus*
+S: Ich habe sogar das Gefühl, dass da ein gewisses Interesse da ist.
+*Gelächter*
+
+Ich hätte mich gefreut, wenn auch während meiner Amtszeit diejenigen, denen ich da meinen Rat erteilt habe - oder versuchte meinen Rat zu erteilen- immer interessiert gewesen sind - ich hatte nicht immer den Eindruck.
+
+Insbesondere in dem letzten halben Jahr war irgendwo die Leitung unterbrochen.
+
+Als es ja darum ging, dass was wir so allmählich gelernt haben was Nachrichtendienste so tun ein Stück besser einzuschätzen.
+
+Da gab es Leute, die sagten - das ist ja heute hier auch schon zur Rede gekommen - Was für ne Affäre? Da ist keine Affäre! Und wenn da eine war, dann ist die beendet. 
+
+Andere sagen, alle Vorwürfe sind vom Tisch es gibt keine massenweise Ausspähung von Deutschen auf deutschem Boden.
+
+Das waren alles sehr interessante Äußerungen - und dann passierte etwas, was irgendwo mit der Mobiltelefonie zu tun hatte - ein Mobiltelefon ist dann doch abgehört worden, so das dann ...
+
+*Gelächter*
+
+*Applaus*
+
+So das zumindest eine Aussage nicht mehr stimmte, nämlich dass sich diejenigen die so etwas machen, an deutsches Recht halten.
+
+Und als das rauskam, musste man natürlich auch fragen, waren dann auch die anderen Aussagen alle richtig - obwohl man es ja schriftlich hatte.
+
+*Gelächter*
+
+Als ich hier eingeladen wurde hat mich Constanze Kurz gefragt, ob ich denn bereit
+wäre, über die letzten 10 Jahre als Datenschutzbeauftragter was zu erzählen.
+
+Dann habe ich gesagt, das ist so langweilig wie eingeschlafene Füße. Ich erzähl' eigentlich lieber etwas über sozusagen das Rollen- Verständnis von amtlichen Datenschützern und über das was sie vielleicht können und das was sie nicht können.
+
+Ich bin da ja jetzt frei, ich gehör' ja jetzt wieder zur Zivilgesellschaft seit dem 17. Dezember und insofern kann  ich natürlich jetzt über die amtlichen Datenschützer herziehen.
+
+*Gelächter - Applaus*
+
+Was ich ...
+*Gelächter*
+... was ich aber natürlich nicht machen werde.
+
+*Gelächter - enttäuschtes "Ohh"*
+
+Wir wollen über amtliche Datenschützer sprechen.
+
+Das ... ich weiss garnicht, wie ist dieses Bild eigentlich dort in meine Präsentation
+gelangt.
+
+Ich kann das gar nicht verstehen - also ich - mein Verständnis war das nicht mit den Stempeln.
+
+Also als amtliche Datenschützer ging es uns eigentlich nicht darum irgendwas auf
+irgendwelches Papier zu stempeln.
+
+Aber irgenwie ist das Image der Datenschützer manchmal ein bisschen bürokratisch.
+
+Und bürokratisch ist ja nicht das, was man sein will und deshalb hab ich auch nochmal
+ein anderes Bild geholt.
+
+Das ist ein Papiertiger. Das hat mir viel besser gefallen dieses Bild, weil es ist
+einfach viel netter.
+
+Andererseits entspricht das nicht so ganz meinem Verständnis auch, so ein der Papiertieger der hat ja eines nicht, er hat ja keine Zähne und er kann auch eigentlich nicht so richtig 
+jemanden wehtun.
+
+Mit den Krallen -man sieht das hier so auch- ist es auch nicht weit her.
+
+Also insofern hab ich mir überlegt, das ist doch vielleicht nicht ganz das richtige Bild.
+
+Ja, Überwachung? Kontrolleure? Vielleicht sind wir Kontrolleure?
+
+Aber das es diese Form von Kontrolle ist, ist eigentlich auch nicht die wir alle mögen -
+aber damit haben wir uns zumindest auseinanderzusetzen.
+
+Und jetzt ... jetzt komme ich sozusagen zu einem Bild, wo ich mich dann wirklich identifiziere. Ja, also man sieht ich hab jetzt auch mich entsprechend gekleidet, um
+dem zumindest ein bisschen ähnlicher zu sehen.
+
+Meine Frau sagte, da sieht man die Krallen auch nicht. Ja die sind unter Wasser
+
+
+
+Meine frau sagte mir als ich das gezeigt habe, die krallen die sieht man da auch nicht
+
+Immerhin ist es kein Papiertiger, der würde nach gewisser Zeit auch untergehen
+
+
+
+Ja was sind wir denn eigentlich als Datenschützer?
+
+Da will ich so'n bisschen weiter zurückgehen: das symbol oben links kennen die einen oder anderen, das ist das symbol der Vereinten Nationen
+
+Diese allgmeine Erklaerung der Menschenrechte sagt, dass die Proivatsphaere geschuetzt wrerden muss
+
+und zwar vor Eingriffen oder ??
+
+
+das thema datenschutz war damals nicht im vordergrund, weil it im heuitgen sinne
+
+das war ja damals noch gar nciht vo
+rgedacht, die ersten computer gab es zwar schon, aber sie waren, was datenverarbeotungskapazität anbelangt lächerlich
+
+
+
+
+geenueber dem was wie heute jeden Tag verwenden. 
+1966 wurde auf ebene der VN eine weitere rechtsgrundlage geschaffen, auf die wir uns als datenschützer -- wir alle, alle die wir uns uauf datenschutzrechte berufen können,
+
+
+das nämlich Niemand in seinem
+und dass jeder den Anspruch hat auf rechtlichen Schutz 
+Datenschutz ist eine Menschenrecht.
+
+das dürfen wir nicht vergessen, wenn wir uns fragen, worum geht es eigentlich
+Es geht nicht un irgendweine buerokratische norm, die uns aufoktroiert wird
+
+nein! es geht um ein zentrales recht, ein recht, das unveräußerlich ist, das interntational gilt
+übrigens sehr inzressanr: viellicht hatd er ein oder andere das ja mitbekommen:
+
+
+Am 6 Dex. hat di e Voll versammlumf eine Resolution vorgeschlagen und zwar zur uebrwachung
+
+die wurde vorgeschlagen von der bras und deutschen regierung
+
+die entwurffsfassung war noch etwas schärfer
+was dann angenommen wurde istd ann etwas weniger shcarf
+der schutz durch überwachung nicht nur durch internationales recht
+
+sondern dass es sich um ein internationales recht handelt
+
+
+denn erinnern wir uns ans die rechfertigungsversuche der us-asminiatration
+
+darum ging, die Rechtmäßigkeit der Praktiken der NSA zu rechtfertigen
+
+Prseident obama hat gesagt in seinr ersten reaktion, in seiner ersten ölffentlichen reaktion
+man solle nicht beunruhigt sein in den vereingten staaten, denn im wesentlichen würden ja nur die ausländer überwacht
+
+Diejenigien die sich nicht regelmaessig inden vereinigten Staaten aufhalten
+das schon diese Aussage selbst nciht richtig war wissne wir jetzt
+
+denn schon im großen umfang wurden telekommunkationsdaten abgeschöpft
+und zwar auch die inneramerikanische kommunikation
+
+
+worauf ich aber hinaus will ist dass der hinweis der amerikanischen behoerungf uns ueberhapout nicht beruhigen kann
+
+man halte sich an dsa eigene recht
+denn wir sind durch dieses amerikanische recht nciht geschütz!
+
+wennwir im internet unterwegs sind
+
+dann schützt uns das amerikanische Recht nciht
+
+
+selbst dann wenn die daten in detuschlanf gesporeichert werdem schutztun uns das amerikanische Racht ncht
+
+vielleicht das deutsche recht, wie effektiv das ist, darüber kann man diskutieren
+vielelichtd as deutsche Recht wie effektiv das ist, darüber kann amn diskutieren
+
+dass man Menschenrechte nicht territorial begrenzen darf
+dass man sie nur inländern vorbehält
+
+sondern dass das Menschenrecht eben ein Menschenrecht ist, das universal ist, und das universal auch durchgesetzt werden muss
+
+1981 haben wir die erste verbindliche regelung zum datenschiu bekommen
+nein
+es war der europarat, der eine Konvention zum Datenschutz verabschiedet hat
+
+
+Seit einigen Jahren begehen wir den Datenschutztag am 29. Janurar
+
+So auch in diesem Jahr, da finden alle möglichen Aktivitäten statt
+und wenn Sie in diesem Bereich selber aktiv werden wollen
+vielleicht machen Sie selber was zum 29. Januar das ist der internationale Datenschutz tag, nicht nur auf Europa beschränkt
+
+1995 war der nächste Schritt, wieder von Europa ausgehend, diesmal von der Europäischen Gemeinschaft oder Europäischen Union
+
+Damals hat man eine verbindliche Datenschutztrichtlinie verabschiedet. 
+
+Diese Richtlinie muss von den nationalen Mitgliedern umgesetzt werden
+wenn ich richtig gezählt habe, haben wir inzwischen 29 Mitglieder der europäischen Union
+
+Kontrollstellen das hört sich so'n bisschen unhandlich an
+
+aber ich weiß nicht, ob Datenschutzbeauftragter sich besser anhört
+
+wir haben also in ganz Europa in allen Staaten Datenschutzbehoerden[?]
+seit der Umsetzung dieser Richtlinien
+allerdings -- und damit haben wir es immer wieder zu tun -- stellt sich die Frage, ob diese Kontrollstellen die Kontrolle so wahrnehmen, wie sie sie wahrnehmen sollten
+ist eine Begrenzheit dieser Richtlinie zu Tage getreten
+
+Deise Richtlinie gilt nicht fuer Behoerden von Polizei, Staatsanwaltschaften Gerichten und
+und schon gar nicht für Geheimdienste
+
+Das heißt, wir haben zwar einen europäischen Rechtsrahmen, der beschränkt sich aber
+soweit er verbindlich ist, auf diese Bereiche der wirtschaft
+
+Aber immerhin  wir haben ueberall in Europa Datenschutzgesetze
+Wir haben in Europa mehr als 29 Datenschutzbehören
+
+Wir haben einen europäischen Datenschutzbeauftragten
+
+in Deutschland haben wir 16 eiegntlich sogar 17 Landesbehörden für den Datenschutz
+
+Bayern hat zwei, einen für den öffentlichen, einen für den nichtöffentlichen Bereich.
+Dasu komm ich nachher vllt. noch einmal
+Diese Datenschutzrichtlinie sollen ueber ...eingriffe ...
+
+z.b. soll sie die Befugnis haben, die Sperrung, Löschung oder ? von Daten
+
+oder das Verbot einer Datenverarbeitung anzuordnen
+d.h. es gibt durchaus deutliche ?
+
+inwieweit die umgesetzt werden dazu komme ich spaeter
+
+Im jahr 2009 wurde das Recht auf datenschutz auf Europäischer Ebene geadelt zu einem Grundrecht-- in Deutschland war es das schon vorher
+
+Obwohl Sie, wenn sie ins gg schauen, keinen Artikel finden, der die Ueberschift "Datenschutz" hat
+
+Aber das Bundesverfgericht hat schon? in seinem sogenannten Volkszählungsurteil, 
+
+diejenigen, die wie ich schon nicht mehr so jung sind, werden sich noch daran erinnern
+ein Grundrecht auf informelle selbstbestimmung
+
+das sich einerseits aus der menschenwürde ergibt,
+und anderererseits aus dem Recht auf freie Entfaltung
+und diese grundrecht ist bei uns direkt anwendbares Recht
+
+und es darf nur eingeschränkt werden aus wichtigen gründen und soweit das auch verhältnismäßig ist
+soweit das überhaupt verhäktnismäßig soit
+
+Das machts also einene riesenunterschied ob eine recht ein grundgesetsz ist oder ob es in einem einfachen gesetz steht
+
+oder nur in einem einfachen gesetz steht
+wenn man also die rolle der datenschutzbehörden vor diesm Hintergrund betrahchtet
+
+dann muss man sagen: ja die datenschutzbehördern, die dsbeauftragten sind zur gewährleistung des grundrechtsschutzes da
+das ist zumindest unser Anspruch
+
+Das haengt villeicht auch in eienem stuekc damit suzmm aen dass gewiisen mechanismenan nicht gewawehrleistet sind
+
+nicht so gewährleistet sind, wie man sich das wünschen würde
+datenschutz ist ein verbindliches europäisches grundrecht könnte man ssagen
+
+
+die einhalt ung der datenschutzbestimmungen muss durch unabhängige datenschuutzbehörden überwacht werden
+und diese kontrollstellen müssen entsrpechen eingruffsmöglichkeiten haben um diese um zu setzen
+
+das heißt: das sind die zähne oder Krallen des Tigers, die gebraucht werden
+
+D.h wir haben eine ein bisschen komplizierte 
+
+der bundesbeauftragte für den datenschutz und die informations? (also das, was ich vorher war) 
+ist für die datenschutzrechtliche kontrolle der bundesregierung zuständig aber auch für die ?wirtschaft?
+
+Während die oeffentlichen stellen der Laender und die nicht oeffentlichen Stellen ppolst telekommunikation von fern landesbehoerden kontroollliert werrden
+
+außerhalb des bereichs Post- und Telekommunikation von den Landesbehörden kontrolliert werden
+
+viel entscheidender ist die Frage: sind die dsbehörder überhaupt unabhängig?
+
+dazu gibt es ein paar entscheidungen, die ganz interessant sind:
+
+
+hat sich der euro gerichsts hof mit der angelgenenheit der datenschutz zu bschefatigen gehabt
+und zwar wiederholt, eine Entscheidung betraf Deutschland
+
+eine entscheidung betraf deutshcland
+
+schon 2010 entschied der eugh über eine klage
+gegen die mangelnde unabhängigkeit der landesdatenschutzbehörden
+
+damals waren die sogar noch im Innenministeriumsterien eingegliedert
+
+rechtsaufsicht heißt, das letztlich die regierung bestimmte rechtspositionen gegen sie durchsetzen konnte
+
+und: es bestand auch eine dienstaufsicht, also der diesntliche alltag, wie der dienst zu verrichten war
+
+das war , das wurde dutrch die jeweileinf ministerien festgestellt.
+
+der eugh kam zum ergebnis, dass diese vorgaben nicht mit der europ datenschutzrichtliche vereinbar sind
+weil nämkich dann genau diese abhäöngigkeitsbverhältnisse bestanden
+
+was danach gemacht wurde, dazu komme ich gleich
+
+zunächst mal ein kurzer hinweis auf ein zweites urteil:
+2 jahre später ginge s um die unabhäüngigkeit der östereichischen datenschutzkkomiiscion
+
+und auch dort hat man festgestellt, dass dieses öseterreische datenschutzkommmission nicht unabhängig ist
+
+D,h,. unabhanegifkeit hareisss *pause* 
+keine organistorische abhängigkeit von irgeneinem ministerium
+
+
+Personalhoheit das sind die wesentlichen aspekte
+
+in den bundesländern hat man zähneknirschend die datenschutzgesetze angepasst
+
+Das, was bemängelt wurde vom europäischen Gerichtshof ist beseitigt worden.
+
+insofern ist man auf landesebene dieser entscheidung diesem urteil gefolgt
+Nun wäre es ja eigentlich normal, dass man auch auf Bundesebene folgt, wie man das zum Beispiel in Österreich auch getan hat.nun wäre es ja eigentlich normal, dass man auc auf budneseben folt, wie man das in österich getan hat
+
+
+sondern auch eine datenschutzbeauftragte, die unabhängig ist
+
+
+ich finde es auch bemerkenswert, dass hier der Fortschritt aus Europa gekommen ist
+
+
+Das bedeutet, dass Deutschland auch gleich mit unterlegen ist bei dem zweiten Urteil.
+
+Ich muss sagen, ich kann mich darüber nicht ärgern.
+
+
+was ist beim bundesbeauftragten geschen? Nichts. Und das ist eigentlich ueberraschend.
+
+Nichts! Und das  ist eigentlich auch sehr überraschend
+
+
+Ja, die Urteile betrafen ja wirklich Landesbehörden.
+was jetzt die bundesebene anbelangt, dann würde man das selbstverständlich umsetzen
+
+Aber da das ja nur die Landesbehörden betrifft, sei das ja nicht so bedenklich.
+das intressante ist ind em zusammenhang auch das der status des bundesbeauftrgaten auch gegenüber den post-und telekomunternhemn fortbestand
+
+d.h., dieses Problem tragen wir mit uns herum, und
+
+
+ich habe nateuerlich den koalitionsvertrag der großen koalition gelesen und das steht bestimmt was drin zum datenschutzbeauftragten
+
+pustekuchen! Nichts, kein Wort steht dazu drin.
+
+
+wie im übrigen auch zum datenschutz nciht sinderlich viel im koalitionsvertrag drinsteht
+
+Dass man sich dann aber danach dafür einsetzen will, sie zu ändern.
+Wäre ja gut, wenn man die Entscheidung des europäischen Gerichtshofes abwartet, bevor man sie umsetzt.
+Denn der Generalanwalt beim EUGH (Applaus) hat festgestellt, dass die Richtlinie die vor dem Eintreten des Vertrages von Lissabon gültig war, nic guelttig ess [?]
+
+Nicht mit dem Vertrag von Lissabon, nicht mit dem Recht auf Datenschutz in der europäischen Grundrechtecharta vereinbar ist.
+Das entscheidende ist doch:
+Brauchen wir wirklich eine solche nicht anlassbezogene Überwachung von Personendaten[?]
+
+(Applaus)
+
+
+Interessant ist auch, dass bei der Diskussion bei der
+
+gerade diejenigen die für die Vorratsdatenspeicherung eintreten, wir müssen das umsetzen, was 
+
+Sonst könnte ja auch ein Bußgeld Deutschland blühen [OOOH]
+
+Ich würde mich freuen, wenn man die Grundrechte ernst nimmt, wenn man auf die Vorratsdatenspeicherung verzichtet.
+
+Und wenn man die Datenschutzbehörden staerk auch wenn dazu jetzt keine europäischen Datenschutzrichtliine erfolgt
+
+Lassen sie mich ein paar Worte noch sagen zum Thema: Gebiss (also, ich habe meine Zähne).
+
+Das ist jetzt eine persoenliche Botschaft – Details werde ich dazu nicht nennen.
+
+Was können die Datenschutzbehördern? Können die überhaupt jemandem wehtun?
+Die Landesdatenschutzbeauftragten können seit einigen Jahren einiges machen;
+sie können zum Beispiel Bußgelder verhängen            [gegen wen?]
+
+300.000 ist nicht so richtig viel
+?... kumulierte bußgelder ...?
+das kann dann durchaus schonmal wehtun
+
+Jedenfalls war das, war Lidl ein Unternehmen, das massiv gegen Datenschutzbestimmungen verstoßen hatte,
+und diesen Unternehmen hatte nun um zu vermeiden Betriebesräte einsetzen zu müssen nach dem Bundesangestellten-Gesetz
+
+das Unternehmen so strukturiert, dass es ganz viele kleine Lidls gibt. Es gibt nicht nur ein Lidl, sonder ganz viele, und die Datenschutzbehördern haben das dankbar aufgegriffen und gesagt, na gut, dann gibts jetzt auch ganz viele Bußgelder [Applaus]
+
+Aber sie sehen: auch bei Datenschützern sind Resten von Kreativität vorhanden.
+
+Ich finde, das ist ein ziemlich weitgehender Eingriff, den die Landesbeauftragen da haben
+
+und der kann rechtswidrige Datenverarbeitung nicht untersagen, aber: er kann die BNetzA darum bitten. Aber das reicht nicht aus:
+
+wir brauchen wirksame.. Methoden zum Durchsetzen von ...
+
+es gibt einen Entwurf der EU-Kommission, das Parlament ist darüber hinaus gegangen, dass Datenschutzverstöße
+
+mit bis zu hundert Millionen Euro oder 5% des Weltumsatzes bestraft werden können.
+
+Das heißt natürlich überhaupt nicht, dass jetzt sofort 100 Mio Euro für einen Datenschutzverstoß verhängt werden, sondern
+das sind sehr schwerwiegende Datensschutzverstöße
+Es geht ja nicht darum, Herrn Schäuble oder anderen Finanzministern da geld in die Kassen zu spülen
+
+und ich finde, das ist ein entscheidender Punkt: dass die Datenschutzbeauftragten nicht einsame Rufer in der Wüste sind, sondern dass sie auch Zähne zeigen können.
+
+Letzter Punkt: wie ist eigentlich das Verhältnis von Datenschutzbehörden zur Zivilgesellschaft?
+
+Ich denke, eines muss klar sein: die Datenschutz-Behörden sind nicht Teil der Zivilgesellschaft
+sie sind offizielle Behörden, sie sind Aufsichtsbehörden, sie sind Kontrolleure die d
+aber sie haben den Auftrag Grundrecht zu schützen dadurch dass sie Behörden oder ??? kontrollieren
+
+Sie haben also ein durchaus anderes Verständnis als der CCC oder Datenschutz-NGOs
+
+Sie schreiben auch keine Gesetze, das ist ein Missverständnis, 
+ich habe Anfragen bekommen, auch nach meinem Ausscheiden,
+warum bestimmte Dinge nicht so laufen, wie man sie sich eigentlich wünschen würde
+
+Da würde ich sagen, ich bin ja auch unglücklich über manches, aber als Kontrolleur kann ich nur das machen, was im Gesetz steht.
+sie müssen auch die andre Seite hören,
+
+Datenschutzbehörden müssen die andere Seite immer sehen, sie müssen auch gegenteilige konkurrierende Interessen mit im Blick haben.
+
+Und ich rate Ihnen: Lesen Sie mal Datenschutzberichte!
+Überall können Sie sehr interessente Erkenntisse daraus gewinnen.
+
+Das ist eine Quelle (ein Quell?) auch für die Zivilgesellschaft für Argumente, für Fakten, die man sonst so komprimiert nirgendwo aufgeschrieben sieht.
+
+
+ich bin ja gar nicht mehr dabei. Sie beteiligen sich an der öffentlichen Debatte.
+
+Lassen Sie mich zum Schluss kommen: Datenschutz halte ich für viel zu wichtig, um ihn den Behörden zu überlassen [Applaus]
+
+Und insofern glaube ich auch, dass es auch eine Zusammenarbeit, mehr als eine friedliche Koexistienz geben kann, außerhalb der Sphäre des Datenschutzes. Vielen Dank! [Applaus]
+
+
+Irgenwas muss ich jetzt richtig gemacht haben...
+
+Fragen und Antworten:
+
+Es stand vorhin auch auf einer Folie, 
+
+die Frage ist: Wie wird sichergestellt, dass die Daten auch wirklich gelöscht sind?
+
+
+PS: Daten gelten dann als gelöscht, wenn sie überall gelöscht sind, auch in Backups
+Daten gelten dann als geloeshcnt, wenn sie in der Reihe, wenn uebralle auch backuos geleotsch sind 
+sodass man sagen muss, die Latte für das Löschen hängt ziemlich hoch.
+ob es dann geschieht ist eine andere Frage
+
+und natürlich ist das Thema Löschen und Vergessen ein riesiges Problem
+
+als Rechtsvorgabe git es das und gegen Amts?? kann man das durchsetzen
+
+inwieweit man das gegen Nachrichtendienste wirklich durchsetzen kann, ist eine andere Frage
+Als sie erinnern sich, jedenfalls die deutschen Teilnehmer, die rechtsradikale zelle nsu aufgedeckt wurde
+
+gab es Löschtage in verschiedensten Landesämtern für Verfassungsschutz und Bundesämtern
+und wie wurde das begründet? man sei ja an datenschutzregeln gebunden
+
+weil ich mich mit strengen Datenschutzregeln beim Verfassungsschutz ja gar nicht durchgesetzt habe
+
+Datenschutz ist nach wie vor wichtig,
+aber er wird immer schwieriger durchsetzbar.
+
+Danke fuer 10 Jahre gute Arbeit 
+[Applaus]
+
+So, die erste Frage: In Anbetracht der Sichtweise Ihrer Nachfolgerin, glauben Sie, dass eine Befürwortung der Vorratsdatenspeicherung mit der Rolle eines Datenschützers vereinbar ist?
+
+[kann ich nichts zu sagne]
+
+kurz zwischendurch fuer die die nachrucken setzt auch
+jetzt von der drei;
+Sie wollten nciht soviel von den letzten 3 Jahren amtsszeit erzählen,d ass ei so langweilig. ich glaube gar ncith, dass das so langweilig ist
+Wie kann man sich die Praxis vorstellen, wenn die Landesbeauftragten mehr Hebel hatten
+
+haben Sie sich Zähne Ihrer Kollegen ausgeliehen, um zuzubeißen?
+
+Das ist sehr schwierig, weil wir ja unterschiedliche Zuständigkeitsbereiche haben.
+
+und es gibt sogar immer noch Bahnbeamte, vor die wäre ich ja dann zuständig
+
+Nein, so kann das leider nicht gehen, das macht die Sache nur zäher.
+wir hatten tatsächlich Konflikte mit der Bundesnetzagentur als es um die Frage ging, müssen Telefonunternehmen als es die Datenspeicherung noch gab, 
+
+es gab dann allerdings Rechtsstreitigkeiten, sodass dann letztendlich zumindest die Telekom diese Daten rausgegeben hat.
+auch der Weg ueber die Öffentlichkeit ist ein Weg den ich durchaus gewählt habe.
+
+Generell ist die Frage, wieweit ist das eigentlich so gesehen problematisch, die Datenschutzbehörden werden ja von ihren jeweiligen Regierunge bestimmt.
+
+dass möglichst in derem Sinne handeln
+
+Wie weit ist aus Ihrer Sicht dieser Handlungsspielraum im Sinne Ihrer jeweiligen Regierungen zu addieren, ,,.. wie viel Spielraum sehen Sie da denn.
+
+
+Wie im übrigen auch beim BVerfG. Es ist nicht die Regierung alleine, sondern auch das Parlament, das da wählt,
+
+
+Abes die Merhheitsverhaeltnisse soeigeln sich da weider, aber wie soll man das leosen? auswuerfen ofer experten benennen?
+Ich bin da eher skeptisch bei solchen Lösungen. Aber es gibt zwei Aspekte, die da ganz wichtig sind.
+
+Da wäre mir eine Regelung wie beim BVerfG lieber, die werden für zwölf Jahre gewählt,
+zumindest für die erste amtszeit schwebt über einem immer das DamoklesSchwert der nicht-wiederwahl
+Das ist der eine Aspekt dabei. Zweiter aspekt ist es kommt darauf an, den Staenschutz
+
+unabhängig zu machen von fachlichen ... weisungen. Darauf kommt es an.
+
+
+
+Wieso gab es eigentlich keine Konsequenzen über die Staatstrojaneraffaere
+
+Also, ich ja jedenfalls dem Bundestag darüber einen Bericht erstattet, und aus irgendwelchen Gründen ist der ja im Internet gelandet; ich darf jetzt nicht sagen, ob das der richtige Bericht war... (Lachen)
+welche Konsequenzen das zu ziehen sind in Bezug auf
+
+So eine Beanstandung ist aber nichts weiter als eine formalisierte Kritik, zu der sich das beanstandende Ministerium äußern muss.
+
+Nein die Beanstandung ist nciht berechtigt.
+
+Ich würde mir das sehr wünschen.
+
+
+Herr Schaar, Sie sind ja jetzt erstmal fertig [PS: Fix und!]
+
+Als erstes habe ich vor, ein Buch zu schreiben, und zwar über die Hintergründe der Snowden-Affäre.
+
+
+Dann halte ich auch den eine oder anderen Vortrag
+Hier beispielsweise.
+
+Also da kann ich jetzt nichts zu sagen, das ist ein Beitrag, den wir zur Kenntnis nehmen müssen.
+
+
+Es ist meines Wissen so, dass auch eine Beschwerde vorliegt bei der Kommission, die auch diese Stellung des Bundesbeauftragten betrifft
+
+Sind die Datenschutzbehörden denn nicht vorwiegend ein Placebo, um sagen zu können, wir haben jemanden, der sich darum kümmert?
+
+
+Das ist natürlich ein Riesenproblem, dass man sagt, man hat ja jemanden, der sich darum kümmert. Das ist aber bei allen Institutionen so, das ist beim BVerfG so,
+
+das spricht aber fuer ein system in dem der Datenschutzbehörden Befugnisse vorenthalten werden
+
+Deshalb brauchen Sie sie!
+
+Bei der IP-Datenspeicherung bei Flatrates wurde bei auch von Ihrer Behörde auch gesagt, das ist okay so, die dürfen gespeichert werden.
+
+Sie sagen, das steh im Gesetz so drin, aber
+Da steht drin unverzüglich zu löschen
+
+auch im Gespräch nit den Provider zu welchen Zwecke die die Adressen speichern
+
+Für welche Zwecke sie diese Daten speichern, und es wurde glaubhaft versichert, dass ohne Möglichkeit zu temporären Speicherung schwere Sicherheitsverstöße nicht festgestellt werden könen.
+
+Das war mit unserem Verständnis mit der Rechtslage vereinbar
+
+insofern kann maninsofern kan damit unzufrieden seinn man 
+
+wir meussen recht auslegen udn dabwir müssen die andere seite hören, wir könnens nicht so machen, wie wir's gerne hätten, und dabei auch 
+
+
+Herr Schaar sie wollten uns zu Ihrer Nachfolgerin nichts sagen, aber sagen Sie uns bitte ...
+
+was würden Sie Ihrer nachfolgerin mit auf den Weg geben, was sind die wichtigsten Brennpunkte, die zu bearbeiten sind?
+
+Die europäische Datenschutzreform ist im Augenblick die entscheidende Baustelle.
+
+Das europäische Parlament hat sich zusammengerauft mit einem durchaus beachtlichen Ergebnis aber der Rat, der ...
+
+Aber der Rat, der Rat der Minister der Regierungen, hat sich festgebissen und leider ist es auch nicht, so, dass Deutschland da hervorgetreten ist
+
+2. Punkt: Beschäftigtendatenschutz, da lese ich im KoaVertrag, wenn sich 
+
+ich kann überhaupt nicht verstehen, warum die Bundesregierung das nicht in Angriff nehmen will.
+Weil man, wenn man in diesem Bereich, in dem IT-Bereich, und mit IT zu tun hat 
+Und das sind wir im Prinzip alle, nicht nur die, die hier sitzen, sondern auch alle, 
+
+
+das muss ganz dringend begrenzt bwerden., Der dritte punkt ist wie gehts weiter mit der geheimdiestmlichjen 
+Der 3. Punkt ist natürlich die Frage, wie geht es wieter mit der geheimdienstlichen Überwachne
+
+Vielen Dank ich denke wir werden das hier im Auge behalten
+
+Mich würde ja interessieren, ob er glaubt, dass der Datenschutz besser durchgesetzt werden könnte, wenn er rechtlich von der Konkurrenz durchgesetzt ewrden könnte.
+
+Das kanns eigentlich nicht sein, wir brauchen klare gesetzliche Regeln, es gibt auch
+es gibt auch den Vorschlag, den Schadensersatz bei Daten missbrauch zu ändern
+
+aber wenn das gestellt wird gegen eine staatliche Aufsicht 
+
+und das führt auch dazu, dass diejenigen, die nicht informiert sind, .... dann leer ausgehen
+
+wenn man vom Datenschutz als menschenrecht ausgehlt,dann brachen wir klare vorgaben
+dann braucht man auch klare gesetzliche Vorgaben
+
+Herr Schaar, was würden sie davn halten, die funktion des DSB im Justizministerium zu verankern?
+Naja also am liebesten wär's mir, wenn das in gar keinem Ministetiemum verankert wäre
+
+Sondern als oberste Bundesbhörde wie der Bundesrechnungshof keiner rechtsaufsicht, keiner dienstaufsicht unterliegt
+dass da keine autonomen Entscheidungen 
+
+man könnte sich auch vorstellen, das ans Parlament anzugliedern
+
+
+als BDSBeauftragter, unterliegen sich da nicht einer datenschutzpflicht...
+
+
+Insoweit würde die Verschwiegenheitspflicht und daran werde ich mich auch hlten, selbstverständlihc, aber alles was öffentlich diskutiert werden kann werd ich auch ansprechen.
+
+
+
+also dwir haebn ja , ich fuehre ,,,, 
+Wir haben eine Entscheidung des BVerfG, die schon einige Jahre zurückliegt, ich glaube 2010 hat das BVerfg die Vorratsdatenspeicherung für unzulässig erklärt
+seitdem haben wir keine Vorratsdatenspeicherung in Deutschland
+
+der Generalanwalt beim europäischen Gerichtshof hat vor zwei Wochen ein Votum vorgelegt, und dieses Votum besagt:
+die Vorratsdatenspeicherung widerspricht dem Vertrag von Lissabon ueber die Grundrechtscharta
+
+und demenstprechend muss die VOrratsdatenspeicherun überarbeitet werdne, ewnn der europ GH diesem Votum folgt
+schon im Jahr 2014 der eugh seine meinungswinfung 
+
+und daraus kann man ableiten, denke ich, was dann mit dem deutschen Datenschutzgesetz besteht
+
+Auch nach Auffassung des Generalsanwaltes der europ Komission rechtswidrig ist ejtzt umsyzeten
+
+
+
+Welche Folge hätte es denn, wenn der Beauftragte, die Beauftragte gar kein Interesse daran hat, den Datenschutz auch durchzusetzen?
+
+Ich mach das jetzt mal politikerlike: 
+
+bei allem was ich gesagt habe, dass ich Datenschutzbehoerfe gut finde, zum Beispiel USA. wo es keine solchen strukturen gibt
+
+Ich stelle fest, dass wir dort eine sehr starke Bürgerrechtsbewegung haben, und ich habe sogar den Eindruck, dass sie stärker ist als das was wir hier haben in Deutschland
+
+und dementsprechend sage ich: der Ball ist da bei Ihnen
+
+
+inwieweit die Datenschützerkompetenzen in den Geheimdienstbereich hineinragen
+
+also, theoretisch überlappen sie sich nicht, praktisch gibt es sogar Lücken, das heißt es gibt die situation, das weder ein parlamentarisches gremium noch die datenschutzbehörden gewisse sachverhalte auflklären können
+
+Diese verschiedenen Kontrollgremien müssen besser miteinander verzahnt werden
+
+er sei dagegen, dass der BDSBeauftrage sonne Art übergeordnete Kontrollbehörde ist
+
+Wichtig ist, dass man die Datenschutzbehörden zu haben?
+
+das Problem der parlamentarischen kontrolle abgesehen von der Geheimhalt und ist doch, dass sich dort immder die parlamentarischen Mehrheitsverhältnisse widerspiegeln
+und das bedeutet, dass jedgliche uneabghaengigkeit von vorteil waere. 
+
+
+Hätten Sie Ihren heutigen Vortrag auch halten können, als Sie noch im Amt waren? Und zweitens: Wie ist das Verhältnis von Datenschutzbehörden und Sicherheitsbehörden?
+
+
+Vielleicht hat der eine oder andere schon einen Vortag von mir gehört.
+
+Zweiter Punkt ist: Ja, der Datenschutz im Sicherheitsbereich ist von Bedeutung, auch dort muss das durchgestezt werden
+
+Wir haben Kontrolleure, die sicherstellen, dass spaltbares Material nicht weitergeben wird
+
+Das läuft auf internationaler Ebene. sowas brauchen wir für Datenschutz auch.
+
+Sie hatten erwähnt, dass es für Datenschutzbeauftragte die Möglichkeit gibt, rechtswidrige Datenschutzverletzungen zu begehen zu untersagen.
+
+Wo ist der unterschied zwischen rechtswidriger Datenverarbeitung, die ja durchs Gesetzt schon untersagt ist, und einer expliziten Untersagung?
+
+Unter Androhung von Zwangsgeld in Höhe von Blablabla musst du die ... einstellen.
+
+Das heisst, diese rechtliche Vorgabe ist sozusagen der Rahmen
+
+Und diese Verfügung ist ein ganz konkreter Schritt zur Durchsetzung.
+und das bussgeld ist sozudagen eine Art Strafe
+
+Sie haben angesprochen das Arbeitnehmerdatenschutzgesetzt. Aber was ist mit 
+
+
+was ist mit Datenschutz für Arbeitslose,. erwerbslose
+
+Gib uns alle deine Daten, sonst sitzt du nächste Woche oder nächsten Monat auf der Straße?
+
+Als die H4-Reform auf den weg gebracht wurde, wurde das zu einem wichtigen Thema.
+
+
+aber ich ahbe praktisch keine unterstuztung erharlten von der Pokjlitik dabei.
+
+Das ist sozusagen das Prinzip, nachdem das gewährt wird, und da ist man sehr sehr weit gegangen.
+<Meine Versuche das oeffentlichen zu thematisieren sind zienmlich gescheitert
+
+Ich fand das sehr interessant, welche Daten schztze
+
+Zum Beispiel das Kontenabrufverfahren, oder die Konto-CDs 
+
+
+Beim Theme Alg-2 war die Unterstützung minimal.
+
+und das ist eine politische Frage, die man politisch diskutieren muss, das ist eine sache, ewo man 
+
+da hat man da irgendwo als Datenschutzbeauftragter auch keine Möglichkeit, da irgendwas zu bewirken, wenn weder die Öffentlichkeit noch der Gesetzgeber das als wichtig ansieht
+das tut mir leid, aber das ist leider so gewesen.
+
+Q: wir haben ja immernoch die situation das wir im Prinzip ein sehr starkes Datenschutzrecht in Europa haben. In den USA ist das nicht so.
+
+Aber die Frage ist ja auch: Wir haben immer noch diese transatlantischen Abkommen, wo Daten unmittelbar in die USA fließen oder Zugriff aus den USA unterliegen
+
+Wie sieht es da mittelfristig eigentlich aus? Gerade wo sie Datenschutz in europa anfängt zu harmonisieren?
+
+A: Ich denke, das ist eine sehr umfangreiche Frage, ich versuche da mal, ein zwei Komplexe anzusprechen:
+der erste punkt ist 
+Hier spielt das sogenannte Safe-Harbour-Abkommen ein wichtige Rolle.
+Aber diese Prinzipien sind deutlich niedriger als das europäische Datenschutzniveau, aber
+
+dass als angemessenes Datenschutz anzusehen ist, dass insofern Datentransfer in diese Berecih als anzusehen ist
+
+Allerdings, und das finde ich jetzt sehr beachtlich:
+´durch die Veröffentlichungen der vergangen Monate ist klar geworden, dass 
+
+
+leider hat die europaeische kommission als ganzes sich da noch nicht so richtig zu geäußert aber durch die ... sehe ich da ...
+bei diesen Einzelabkommen sind gerade von den USA viele ... zugesagt worden:
+zum Beispiel Fingerabdruckraten oder dna....
+
+Deutschland hat auch als eines der ersten Ländern ein solches Abkommen unterschrieben. 
+
+das müesste man entsprechend kündigen, wenn man das will
+
+Dritter Punkt sind die Abkommen, die zwischen der Europäischen Kommission und den USA geschlossen worden sind, ... abkommen und das SWIFT Abkommen, wo bestimmte Daten ... Die Kommission hat meines Wissens das noch nicht gemacht.So wie es jetzt ist, kann es sicherlich nicht bleiben, wenn man sich einigermaßen treu bleibt.
+
+Eine weitere Frage zum zweiten Punkt:
+Gibt es wenigstens die Möglichkeit, das BVerfG für sowas anzurufen?
+es ist ja ein völkerrechtlich verbindlicher Vertrag und das hat mit dem Hamburger Senat zu tun, das hat waren die Grünen
+Damals waren die Grünen ja im Hamburger Senat, und die haben verhindert, dass die Hinterlegung dieser Urkunde hinterlegt wurde, aber 
+
+Es ist in sofern etwas schwierig, ob man da jetzt noch was gegen dieses bilateralabkommen machen kann.
+
+Q: Können Sie ein Land nennen, in dem Sie die Arbeit des Datenschutzbeauftragen besser läuft als in deutschland?
+
+A: Zum Beispiel hat Spanien staerkere Durchsetztungmechanismen. Ich koennte mir durchaus vorstellen, dass man in Spanien ...
+
+also zum Beispiel hat Spaniene staerkere durchsetzungsmechanismen.
+
+Da könnte ich mir vorstellen, dass man vom spanischen System durchaus profitieren könnte in Deutschland.
+
+Da könnte man sicherlich auch etwas abgucken, aber ich habe keine Behörde, von der man sagen kann, das ist jetzt das Ideal.
+
+
+Q: Übermorgen tritt das neue Gesetzt in Kraft, die europ. Datenschutzrichtlinie [PS unterbricht: Nein]
+
+A: In Östereich gibt's da ein neues Gesetz: ja.
+Q: Nicht auch europaweit?
+A: Nein.
+Q: Dann würde ich nicht mehr hier stehen.
+Der Ansatz ist falsch.
+ALUHUT!!!!!!!!!!!!!!!!!!einself!!!!!!!!
+
+A: Dieses Statement lassen wir glaub ich einfach so stehen.
+
+Herald: Er hat es uns in der letzten viertel Stunde sehr einfach gemacht, einen Riesen Applaus Bitte!
+*Applaus*
+*Applaus*
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Aus der Spracherkennungssoftware, live nachgesprochen von mir...
+
+Der wurden einst seine Truppen Kaiser jetzt kommt der dann geht es nach seinem Sinne eines Datensatzes
+applaus ich denke er streng bei Attentaten Unternehmer eigenes damit beauftragten Ermittler des Semesterzellen wie das Eislaufen es wird als den einzig ich freue mich natürlich hieß es beim enables ähnlich dass es wir sprechen darf das ist der Glaube ich sei ungefähr das koste Publikum dass sie jemals hatte er wolle nicht angesagt sogar das Gefälle. Das Einlesen der SEDAS ich werde mich gefreut bei einer Anzeige diejenigen den ich mein alter Zeit aber das gesuchte Männer ZM im Endeffekt gewesen sind gerade nicht einmal den Eindruck PS an meinem letzten ein Jahr Wales in einem ungebrochenen
+Als Damm gegen das als sie eine nächste gelernt haben das Nachrichtendienst des und ohne Einstieg in das einzuschätzen der gab es Leute gehen sagten sich der Stamm zur Erde gegraben was Weihnacht der Deister kleine Und wenn eine Badegäste behandelten anders sagten alle Vorwürfe sind vom Crash es gibt keine massenweise Aussperrung von Deutschen auf deutschen Boden dass man alles sehr interessante Äußerungen dann passiert etwas Was was jeder Mobiltelefonie zu tun hatte er ein Mobiltelefon worden ist dann doch abgehört worden sei das dann eine wenn ich das sich diejenigen D dieser dass man sich ein deutsches Recht halten und als das Ausgaben musste man natürlich auch fragen wandern die Annahmeaussagen eine rechte Eckeromane schriftlich hatte er B als ich eingeladen wurde hat mich ganz Danckert gefragt ob ich denn allein während über die letzten zehn Jahre als Datenschutzbeauftragter zu erzählen habe ich gesagt das es so langweilig wie eine schlagkräftigste der der nicht lieber etwas über das Einverständnis von amtlichen Datenschützern und über das sah sich leicht werden oder nicht keien bin jetzt wieder frei gehört zur Zivilgesellschaft in insofern kann ich jetzt über die amtlichen Datenschützern erzählen weiß ehesten
+Als ich aber natürlich nicht man werde in dem eine Band die Datenschützer sprechen der ersten ich weiß gar nicht wie die SDSB eine Präsentation gelangte Steiners gar nicht verstehen Einverständnis war das nicht mehr Testaments als amtliche Datenschützer die Nissans eigentlichen nicht darum Ende etwas auf. In Lech ist Papier zu stempeln aber in mir ist das MS der Datenschützer ein bisschen bürokratisch unbürokratisch ist er nicht das was man sein Wille und das Seil habe ich nochmal ein anderes Bett geholt das ist ein Papiertieger das hat mir viel besser dass sein weil es einfach vielmehr der anderseits entspricht das nicht so ganz meinem Verständnisfahnen der PC Gerade eines nicht zehn E und er kann auch nicht so recht t. e. m. langen Weg schon weil sie das sie an den Rhein ist das auch nicht weit her seit seiner jeweiligen das ist vielleicht nicht ganz das richtige Bild S Überlagerungskontrolle der Armee leitete der Kontrolle der aber die Gefahr von Kongresses ein ich auch nicht die MLN aber damit am Janssen ist als einander zu setzen alles kann mich sozusagen zu einem wählt womit ich mich wirklich ehrgeizige Ziele der alte Mann CS Samicha außen entsprechende <um an dessen Ende zusehends richtig gelungen ist mir das nicht meine Frau Sagt Linie um die keien sieht man dann auch nicht diesen unter Wasser alleine in es ist ein Papiertieger der geringen ebenfalls nach einer gewissen Zeit untergehen die Aktien werden eigentlich als Datenschützer warum überhaupt Datenschutz kurzem haben wir das eigenartigen Cecil Sion an die sich mit diesem Thema beschäftigen der Riester ein bisschen weiter zurückgehen des Symbole um längst kennen die meisten das ist Symbol der Vereinigten Nationen dieser eins Nationen haben in diesem Jahr die Allgemeine Erklärung der Menschenrechte verabschiedet dieser Allgemeine Erklärung der Menschenrechte F gesagt dass das Privatleben geschätzt werden solle und sogar vor Eintreffen oder Beeinträchtigungen das Themadatenschutz war damals nicht im Vorder
+grund das ist ja weil eine C in ansonsten der Datenverarbeitungsteppiche Datenverarbeitung wieder ganz alltäglich auseinander setzen weil er damals noch gar nicht vorgedacht die ersten Computer gab es schon aber sie waren was ist die Verarbeitungskapazität an den geradezu lächerlich was das zweite angeht wnen oder dem was wir heute verwenden 1966 wurde er auf der Ebene der Vereinten Nationen eine weitere beide Rechtsgrundlage geschaffen als Bilanz als Datenschützer nicht mehr die Datenschützer alle die sich mit dem) und sein Nickel oder Grundrechten beschäftigen berufen werden das ist der internationale Pakt über bürgerliche eine politische Rechte an sagte sie ist der internationale seinen Zivilrechts sagt wieder alleiniger sein einziges 17 der Sack 9 bis 7 Peter der erste Massakern in einem einer Erklärung der Menschenrechte ausgeführt wird das nenne ich niemand willkürlich einer rechtswidrigen eingelassen in sein Privatleben in seine Familie In seine Wohnung ausgesetzt sein darf und dass jeder den Anspruch hat aufrecht im Schatz Datenschutz ist ein Menschenrecht also wird seinen wenn deren AP dass der sie nicht vergessen werden wir uns fragen worum geht es einen lässt es geht nicht um irgendein Nähe bürokratisch enormen die Wollens Auftaktrede wird wurde die die Unternehmen davon abhalten wollen gute Geschäfte zu machen oder die Regierung führt sie ja zu sagen nein es gehe jetzt um ein zentrales echt ein Leck das unveräußerliche ist das international eingehend übrigens sehr interessant rechter dass der eine oder andere ja mitbekommen in diesem Monat an 18. Dezember an die Vollversammlung der Vereinten Nationen eine Entschließung angenommen zum ThemaÜberwachung die wurde vorgeschlagen von der brasilianischen und deutschen Regierung damals sozusagen den Auslastung sei weiters Jaffa dass das ein Yen am Wadenbein dasjenige schaffe ich finde es erstmals, dass man sich daran erinnert das Datenschutz nicht nur zwei Überwachung nicht nur durch nationales Recht garantiert 
+werden muss und kann sondern dass sich um ein internationales Recht handelt der Lage ändern wir uns angelegter Bildungsgang zu eins z.B. der USA Mindestrente Administration als darum gehen die Rechtmäßigkeit die Rechtmäßigkeit der prächtigen der MSDE zu rechtfertigen Präsident Urban A hat gesagt in seiner ersten Reaktionen seiner ersten öffentlichen Reaktionen man solle nicht korrekt sein in den Vereinigten Staaten einem wesentlichen Würden, Januar die Ausländereber acht diejenigen die nichtselbständiger in den Vereinigten Staatenaufenthalten lassen diese Aussage selbst nicht richtige Wahl müssen wir jetzt in einem großen unvereinbaren Mediadaten der Telekommunikation aber sehr M W auch die inneramerikanische E Merck Kommunikationswaffenlager in Aussehen ist das D das daneben weist der amerikanischen Behörden ein altes sie ist ja an das einzige ächzt und überhaupt nicht beruhigen kann denn wir senkrecht dieses amerikanische echt nicht geschätzt werden ja im Internet unterwegs selbst wenn er dient dem Nutzen bei den diese Daten genutzt werden nur die Daten auf amerikanischen Serben gespeichert sind dann schätzte Angst das amerikanische Recht mich selbst dann werden die Daten in Deutschland gespeichert werden jetzt ans das amerikanische Recht nicht vorab Ausstellung vielleicht das deuts sehr wie RTL wird darüber kann ein diskutieren Arbeit findet sich die Tendenzzusammenhang dass wir ein gemeinsames Verständnis in dieser Weltgewändern dass man recht der Menschenrechte nicht der Täter er die Grenzen darf dass man sie nur in Ländern formell dst den eigenen Staatsbürgern dass das Menschenrecht Adenauers sondern dass das Menschenrecht ein Menschenrecht SA an Taiwan ist und universalen und universale auch durchgesetzt werden Mos 1981 haben wir die erste verbindliche Regelung zum Datenschutz auf internationaler Ebene bekommen es war der Europarat der eine Konvention zum Datenschutz verabschiedet hat dieser Europarecht Konvention Wurde, am 29. Januar neunzehnhundertein 80 ve
+rabschiedet und seit einigen Jahren wie gehen wir den internationalen Datenschutz sagte Magerl, 21. Januar soll auch dieses Jahr stattfindende ein Signal auch viele Aktivitäten statt Maine sie diesen Bereich aus selber aktiv werden möchten erlangte ich denn auch gleich lang sie selber etwas an 29. Januar das ist der internationale Datenschutz Tag nicht auf Europa beschränkt 1995 Mark der nächste Schritt wieder von Europa ausgehend wieder von Europa ausgehend Gegner von der Europäischen Gemeinschaft ausgehend Damals hat man eine verbindliche Datenschutz Richtlinie verabschiedet diese Richtlinien muss durchgehen nationalen Gesetzgeber umgesetzt werden wenn ich richtig die Zeltlager haben wir ja jetzt mittlerweile 29 Mitgliedsstaaten in der Europäischen Union und in ein gibt es Datensatz bis 16 Uhr eines gets acht Kontrollstellen E ihre Aufgabe ältester die Richtlinie in völliger Unabhängigkeit war Zinnemann Kontrollstellen gesellt sich sein bis 700 amtlich an Klassikerdatenschutzbeauftragte sich das SAN werden wir haben Eisen in ganz Europa in einer europäischen Staatendatenschutz Behörden seit AP Seiteumsätzen diese Richtlinie er allerdings um damit haben wir es immer wieder zu Ton stellt sich die Frage ob diese er Kontrollstellen ihre Aufgabe Vo Van EM wie sehen Sie wahrnehmen sollten gerade im Zusammenhang mit der Enns Norden Veröffentlichungen ist ein begrenzter dieser Richtlinie zutage getretenen diese Richtlinie der Ex nicht der die Behörden von Polizei und Staatsanwaltschaft nicht stellen und schon gar nicht für Geheimdienst der d.h. Wir haben zwar eine europäischen Rechts an dieser Rechtsamt beschränkt sich aber zu weit verbindliche ist auf die Bereiche der Wirtschaft und Bestehen der staatliche Datenverarbeitungsn. D in den Zuständigkeitsbereich der Europäischen Unionverein aber im einnehmen wir haben überall in Europadatenschutzgesetz in diese unterschiedlich sind wer an einer Rohkamm 1.20 Datenschutz werden wir haben einen europäischen Datenschutzbeauftragt
+en und dann Vorfelder Wales Systeme sind wie die Bundesrepublik acht Datenschutzbeauftragte der unterhalb der Ebene des Zentralstaates in Deutschland haben wir 16 Uhr das sah das 17 Landesbehörden die sich an den Datenschutz kümmern warum 17 Bayern hat zwei nämlich ein Fan in Athen ein für die nichtöffentlichen Bereich dazu komme ich nach diese Datenschutz Richtlinie sei über wirksame Einlenkens Befugnis sehr verschieden z.B. Sei sie die Befugnis haben die Sperrung an die Löschung an die Vernichtung von Daten oder das Verbot einer A Datenverarbeitung anzuordnen sei's das Gehen durchaus deutlich Vorgaben die sich aus dieser Richtlinie ergeben inwieweit die umgesetzt werden dazu komm ich etwas steht der im Jahr 2001 wurde das Recht auf Datenschutz auf europäischer Ebene in einem Grundrecht in deutschen weiß das schon vorher obwohl sie wenn sie in das Grundgesetz Scharen darf keinen Artikel finden der überschrieben ist mit Datenschutz aber das Bundesverfassungsgericht hat schon Ende 1918 der Jahren in seinem sogenannten Volkszählungsurteil diejenigen die wenig dann nicht mehr so ganz jung sind werden sich daran vielleicht erinnern an damals schon ein Recht auf informationelle Selbstbestimmung festgelegt ein Grundrecht auf informationelle Selbstbestimmung dass sich einerseits aus der Menschenwürde erklärt und andererseits aus dem Recht auf freie Entfaltung der Persönlichkeit dieses Grundrecht S bei uns direkt anwendbares Recht und das dachte nur eingeschränkt werden aus wichtigen Gründen und nur er sei nicht einmal soweit das verhältnismässig erst um an der Wellengrundrechte oder vergleichbare Rechtsgüter zu gewährleisten das macht bei sein Wesenunterschied auch Anrecht ein Grundrecht S oder oder nur in einem einfachen Gesetz steht wenn man also die Rolle der Datenschutz Behörde vor diesem Hintergrund der acht jetzt dann muss man sagen ja die Datenschutz Behörden die Datenschutzbeauftragten sind zur Gewährleistung des Grundrechtsschutz es darf das erste Maine ist unser 
+Anspruch auf uns das jeweils gelingt ist eine ganz andere Frage des hängt vielleicht auch ein Stück damit zusammen das bestimmt der A Durchsetzung des Mechanismen nicht so gewährleistet sehen wie man sich das Menschenwürde Datenschutz ist ein verbindliches europäisches Grundrecht könnte man sagen die Einhaltung der Datenschutzbestimmungen muss durch unabhängige Kontrollstellen Datenschutz Behörden überwacht werden rund diese Kontrollstellen müssen entsprechende Eingriffs Möglichkeiten haben um das durchzusetzen d.h. gerade der letzte. Das sind die Zelle aber die keien des Tigers die gebracht werden ich hatte das eben schon gesagt wir haben eine etwas komplizierter Kontrollstruktur in Deutschland das ist jetzt mal sein bis sie nach ist aber das schade der gar nicht sich nach es auch ganz kurz der Bundesbeauftragte für Datenschutz einige Nation 2/2 also das was ich vorher waren Ehe ist für die datenschutzrechtliche Kontrolle der Bundestrainer zuständige aber auch für die Kontrolle der Post und Telekommunikation und Unternehmen während die amtlichen Stellen der Länder und die sonstigen nicht öffentlichen Stellen an die Unternehmen außerhalb des Bereichs Postentelekommunikation kontrolliert werden die in Bayern die Sonderregelung ist ein Vetorecht erklärbaren das Mandat nicht wollte dass der öffentliche und nichtöffentliche Bereich durch eine Behörde kontrolliert wurde auch das Dabeisein letzter Schluss S weiß ich nicht möchte ich nicht damit ihr nun weiß ich auch nicht in entscheidender ist die Frage sind denn die Datenschutz Behörden überhaupt unabhängig und dazu gibt es einige Entscheidungen die ganz interessant sind seien vier Jahren das Datenschutzrecht als ein europäisches Recht haben hat sich der Europäische Gerichtshof mit der Frage der Unabhängigkeit der Datenschutz Behörden auseinander zu setzen zu gehabt einer Entscheidung betraf Deutschland und sah schon 2010 in zehn der Europäische Gerichtshof über eine Klagewelle gegen die mangelnde Unabhängigkeit der Land
+es Daten werden dann als radikaler als den Apenninen Schutz Ministerien einige ihr Zielunterlagen der unzulässigen Fachaufsicht es wurde eine Rechtsaufsicht über sie ausgehend Rechtsaufsicht heißt das letztlich die Regierung bestände Rechtspositionen ihm gegenüber durchsetzen, der und es bestand auch einen Dienstaussicht AP der dienstliche eilte er bestimmte Vorgaben wieder Dienste verrichten bat das waren durch die jeweiligen Ministerien festgelegt darunter Esche Gerichts aufkamen zum Ergebnis dass diese er Vorgaben nicht mit der europäischen Datenschutz Richtlinie FAQ zu vereinbaren sind weinen lässt den a. diese Abhängigkeitsverhältnis sie bestanden was danach gemacht wurde dazu komme ich gleich zunächst einmal ein Hinweis auf ein zweites Ottey zwei Jahre später ging es um die Unabhängigkeit der österreichischen Datenschutz werde und auch dort hat man festgestellt dass diese Estai geschehe Datenschutz kann es ja nicht unabhängig S zwei sehen in das Österreichische Bundeskanzleramt eingebunden waren und dort auch eine unzulässige Dienstaussicht sei das Sache aus Sicht der Aufsicht ausgehend wurde d.h. Unabhängigkeit heißt keine Weisung durch eben brechen Ministerien oder Kanzler einen der keine aber nie Sato Rische Abhängigkeit von einem Ministerium Personalhoheit das sind die wesentlichen Aspekt der was danach geschehen in den Bundesländern Atman zähneknirschend die Datenschutzgesetz angepasst die Landes Datenschutz Behörden sind weite unabhängige das kann man sagen das was denn einige wurde vom Europäischen Gerichtshof ist beseitigt worden insofern ist man auf Landesebene dieser Entscheidung des Gerichtsurteils gefolgt neun der ist ja eigentlich normal dass man auch auf Bundesebene folgt wie man das z.B. in Österreich getan hat die nicht seine Datenkommission der Datenschutz Kommission sowie Sie besteht bis morgen wird SAP Nummer Aage nicht mehr geben sondern eine Datenschutzbeauftragte die unabhängige es Applaus ich finde das richtig dass seine Schlussfolgerung
+ gezogen werden das als ich bin es auch bemerkenswert dass jeder Fortschritt aus Europa die Kommunist interessanterweise ist auch bei den Österreichischen Platz an die deutsche Bundesregierung der österreichischen Bundesregierungsweitsprung als sogenannte Streitkräfte das bedeute das Deutschland auch gleich mit unterlegen ist bei dem zweiten Urteil immer sein Ich habe mich darüber nicht der Albert A aber was ist beim Bundesbeauftragten gesehen nichts an das es eigentlich ja Überraschend ja die Urteile betrafen Januar die Landesbehörden wenn man dann auch noch ein unter denen sich abbekommt was dem Bundesebene ab gelang dann würde man das natürlich Umsätzen aber da das ja nur die Landesbehörden Betreff sei das ja nicht sehr bedenklich und und wollen die Grundsätze ganz genauso gelten das Interessante ist in den Zusammenhang auch das D der Staatsschutz des Bundesbeauftragten trotz aller Mängel auch gegen Iva den Telekommunikationsunternehmen und Postunternehmen Fortbestand d.h. alle dieses Problemen tragen wir mit uns darum Grundig hat natürlich den Koalitionsvertrag der Große Koalition gewesen und habe die Dach der Städter bestimmt etwas Trend zur Unabhängigkeit der Datenschutz werden und spezielle auch des Bundes Datenschutzbeauftragten oder der Bundes Datenschutzbeauftragten jetzt wissen Postweg Ohren nicht Kanada stehe dazu drehen wir im Übrigen auch zum Datenschutz nicht allzu vielen Koalitionsvertrag Trend steht außer dass sie vor als Datenspeicher Richtlinie jetzt umgesetzt werden soll das man sich aber dann danach dafür einsetzen will sie zu ändern wäre ja eigentlich gut wenn man die Entscheidung des Europäischen Gerichts aus über diese fast Datenschutz Richtlinie abwarten dem Anziehung setzt denn der Generalanwalt beim europäischen gets Orff hat ja das gestellt das d. Richtlinie zur fast Datenspeicherung Dia vorher Inkrafttreten des Lissabon vertrage erst beschlossen worden ist nicht nicht mit den Vertrag von Lissabon nicht mit denen Grundrecht auf Datenschut
+z in der europäischen Grundrechte Kater vereinbarte ist erst seit einem politischen Bereichs zu diskutieren Einbrecher eins Weidemann vorgeht aber das Entscheidende ist dort waren wir wirklich eine Seiteanlass nur selten massenweise Speicherung von personenbezogenen Daten ich meine nicht Applaus
+Interessant ist aber in das seines darf das Jahr bei der Diskussion über die Verrats Datenspeicherung gerade diejenigen die für die vor als Datenspeicher eintreten wir müssen das Seiteumsätzen dass alle Opa kommt sonst könnte ja auch ein Bußgeld Deutschland blühen interessant S dass dieselben Leute exakt dieselben Leute er sagen aber die Datenschutzrecht Linie müssen wir nicht Wort für Wortumsätzen der Nähe ist das nicht ganz logisch das eben nur der Mond wenn ich werde mich freuen wenn man die Grundrechte er Angst mehr ins wer die was seine Scheidungsverzicht der Hand auf europäischer Ebene die Datenschutz Behörden stärkt und aber ohne dass es dazu eine europäische Gesetzesänderung erfolgt in
+Lassen Sie mich ein paar Worte zum Thema Actebis sagen also ich habe meine Zähne nach aber das ist jetzt eine ganz persönliche Botschaftsdetails werde die allerdings auch nicht mehr an aber ja was können die Datenschutz Behörden eigentlich können die dann überhaupt dem einem Veto ein Mehr manchmal schon die Landes Datenschutzbeauftragten kleinen Sie denn zum Beispielbußgelder verhängen biszudrei 100 000 € man kann sein 300 000 € ist nicht so richtig viel verglichen mit Milliardenumsätzen und Gewinnen den bestimmt Bereich gemacht werden aber immerhin ist aber schon Fällen den Landesbeauftragter L, je der Bußgelder verhängt haben das kann er durchaus schon mal Betonblättern Palast den ich dabei in weißen Kahn liege sie erinnern sich der große Konkurrent von einer dies Jahren der alle schon einige auf dich auch Mehr vielleicht nicht alle aber jedenfalls Wahlrede ein Unternehmen das massiv gegen Datenschutz Bestimmungen verstoßen hatte er und dieses Unternehmen hatte in Uhren umzuvermeiden Betriebsrente FRA einsetzen zu müssen nach Themen an das Gesetz in die das Unternehmens Ost und der das ganz viele kleine Gides gets Gewicht eines seiner ganz viele kleine wieder an die Daten werden an das U fordert auf getroffen und die Datenschutz Beamte nahmen das aufgegriffen und jeder kleinen liege ein Bußgeld aufgebrummt SA aus
+Eisen sie sehen auch bei amtlichen Datenschützern senkrechte von Kreativität noch vorhanden
+Gelächter
+Ja rechtswidrige Datenverarbeitung davon gesagt werden das finde ich ist ein ziemlich weitgehender Eingriff in die Landes der Auftrag der haben ich habe ganz bewusst gesagt Landes beauftragte denn was kann in der Bundesbeauftragte gegenüber den Postentelekommunikation Unternehmen machen keine Bußgelder verhängen und er kann auch nicht rechtswidrige Datenverarbeitung nicht untersagen aber er kann W oder Siegansehen der Bundeswehr sagend Uhr darum wetten das reicht nicht aus wir brauchen wir endlich wirksame Methoden zur um zur Durchsetzung vorne Datenschutz Vorgaben kommt wenige Jahrzehnte der gerne Frage dränge so. Das Europäische Parlament hat ihr zur Einsender Seitenvorschlag entwickeltes gibt dazu ein Entwurf der Europäischen Kommission das Parlament es darüber hinausgegangen es solle der auch die Möglichkeit geben das Datenschutz Verstöße mit beste Uhr 100 Millionen € oder fünf Prozent des Weltjahresumsatzes zu ahnden geahndet werden Ich fände er Applaus
+Ich finde das ist schon eine etwas andere Hausnummer als die maximale M 300 000 € er über D die deutschen Datenschutz Beatle Laden ebenfalls ein Bußgeld verhängen kann deshalb natürlich überhaupt nicht das 100 Millionen € bei einem Datenschutz Verstoss verhängt werden das sind sehr schweres schwerwiegende Datenschutz Verstöße Bensaid was aber geschieht dann tut das richtige wehe uns geht ja nicht darum kann Schäuble oder anderen Geld in die Kassen zu spielen sei man deutlich zu machen das man auch anders kann und ich finde das ist ein entscheidender Punkt dass nicht die Datenschutz Behörden oder Datenschutzbeauftragten einsame Rufer in der Liste sind seinen Ahnen dass sie entsprechend auch Zähne zeigen keinen meine sehr verehrten Damen und Herrn Gern ich komme ich gar zu meinem letzten Punkt
+Wie ist ein nicht das Verhältnis von Datenschutz werden zur Zivilgesellschaft Kaiser ich denke er eines muss klar sein die Datenschutz Behörden singt nicht Wirklichkeit der zivile Gesellschaft sie sind offizielle Behörden es sind aus Sichtbehörden es den Kontrolleuren aber sie haben den Auftraggrundrechte zu schätzen Dade ich das sehen Behörden und nicht amtliche Stellen kontrollieren Sie haben also durchaus ein anderes Verständnis als der CCCF worden oder Datenschutz im Tier aus aber gleichwohl nicht ausschließt dass meine Bestände reichen die Dinge sehr innig Siege oder auch zusammenarbeitet sich Schreiben auch keine Gesetze das ist abermals ein Missverständnis sage er immer wieder solche Anfragen bekommen auch jetzt noch nach meinem Ausscheiden warum bestimmte Dinge nicht so laufen wie man sie sich einig Menschenwürde leicht bin ja auch unglücklich über manche es aber als Kontrolleur kann ich nur das Durchsetzen was im Gesetz steht ich keine Gesetze nicht ändern müsse nach die andere Seite hören das ist ein ganz wichtiger rechtsstaatliche Grundsatz einigen Ski Owen eine Bresche grob eine Lobbygruppe für den Datenschutz kann sehr einseitig sein Datenschutz Behörden müssen die andere Seite ist sehen Sie müssen auch gegenteilige konkurrierende Interessen im Blick haben das gehört zu dieser Konstruktionsaktion aber gleichwohl sie glänzte Transparenz sorgen ebenfalls soweit es wnen sie nicht an formelle geheim Adens Regeln gebunden sind und ich rate Ihnen lesen Sie mal Datenschutz Bericht der der Landes Datenschutzbeauftragten des Bundes Datenschutzbeauftragten der Kollegen an Kollegen in den anderen europäischen Daten Schneider aus Australien aus Kanada überall Kansy sagte indes Selters an der Grenze der ausgeliehen das ist eine Quelle auch für die zivile Gesellschaft für Argument der Befragten dem andern saßen zur Cannes prämiert und kompetent nicht aufgeschrieben sieht unter beteiligen oder wir ich bin er gar nicht mehr Datei wer dabei C beteiligen sich auch an der
+ öffentlichen Diktat der ich finde das richtig dass nämlich zu dem Schluss kommen Datenschutz halte ich für viel zu wenig DP umsehen Behörden zu überlassen Applaus
+Das habe ich als schon gesagt als ich Datenschutzbeauftragte waren ich finde das sollte er unsere Maxine seien und insofern habe ich auch das ist so etwas wie eine Zusammenarbeit mehr als eine friedliche Koexistenz ein durchaus eine gleichgerichtete er Aktivität geben kann innerhalb und außerhalb der Sphäre der öffentlichen Datenschützer vielen Dank
+Applaus
+AADAKP seiner MA auch Lauda Applaus ZLB
+Mann aus weitere Applaus
+Seiner weißen zentrale aber wenn ja Danke Leute er
+B ja gehen da hatte ich ehrlich gesagt noch nie ein deut was muss ich jetzt richtig gemacht haben'.
+Erscheint sauer wir haben noch eine Fragerunde Mengefragen stellen möchte die Nikos stehende unten die Fragen stehen die Runden wir möchten als werden alsdann dementsprechend aufrufen kann der Anleger eins
+Den Dank bestand vor nach einer Folie die Veranlassungsdatenschutz zu lassen ist eine der Kompetenzen in Zusammenhang mit der Veröffentlichung des Gallien kann ja Sedas dass der Ghalis an das hat das Daten gelöscht wer schon werden es wurde per forderte kommentierte aber es gab natürlich Backup Swiss sagt die Löschung der die selbstlose waren wieder denn eigentlich sicher gestellt das Daten wirklich gelöscht werden dann auch Firmen seitigen Jagdbett Abs einen Mann gelten Daten gelöscht seit seine Daten gelten dann als gelöscht wenn sie sozusagen in der Reihe der in steigenden Verwendungen überall auch bedarfsgerecht sind und zwar nicht mehr lohne es seiner risieg eilig sodass man sagen muss die Latte für den er schon ein ziemlich hoch also dass es darüber muss man sich unklar seien wie das praktisch durchzusetzen S darüber gibt es viel Streit denkt sie z.B. an das deutsche erstmals Burda SAP das erst seit kurzer an eine Datenschutz Classic bereitet der Löschen Messung ermöglicht habe es dann geschehen ist eine andere Frage und natürlich ist das Thema löschen unvergessen von digitalen Daten ein riesiges Problemen angesichts der Tatsache L das Datenbelege kopiert werden keien als rechts Vorgabe gibt es das ging über den ständig verantwortlich sind kann man das sich auch durchsetzen inwieweit man das Gegenüber Nachrichtendiensten durchsetzen kann ist eine Anfrage er manchmal wird ja das fand ich sehr interessant diese Lesch uns Vorgabe auch als Vorwand den Namen und sich nicht auf die Finger schauen Sie lassen sie erinnern sich vielleicht die deutschen Sektion ist die Deutschen keine mahnt einem Rennen als diese rechts terroristische Zellen. SU aufflog gab s. der Star der in verschiedenster Ende Landesämtern für Verfassungsschutz an Bundesamt für Verfassungsschutz und wie wurde als Begründer des es sei ihnen eigentlich sein dass mein Jan Datenschutz Regeln gebunden sein Recht darf ich habe den übrigens widersprachen den Abgrundebene Attentat sei die Destillation weil i
+ch mich ja mit Stricken Leistungs Wege Ellen Weg nicht Staatendatenschutz der gar nicht eingesetzt hatte und was sinngemäß Zwolle da wurde gesagt man mit dem er einen Gefallen tun wollen als is a g. das nicht sage ich mal aber ich finde Datenlöschung ist nach wie vor ein Thema aber es wird immer schwieriger durchsetzbare sei nur dann wie in The eins bis zwei Fragen aus dem Internet, Mai Frage e. r. n.
+In Weiß dankte er für zehn Jahre guter nach Arbeit
+Applaus
+Sie sind ein guter Mann
+Zur die erste Frage in Anbetracht des Sicht weißen ihrer Nachfolgerin Dengs sie das einen Datenschutzbeauftragte sich mit der Befürwortung der vormals Datenspeicherung vereinbaren lässt
+Als ich werde mich hier zu meiner Nachforderung nicht als sei nicht mit dem Nicht ich bete dafür um Verzeihung und Tischtennis Prozessen deut für die die Nachrichtenbesetztzeichen A Blabla damit das saßen ist die gefällt wird ED die erst von der Bereich
+Sie hatten anfangs gesagt sie wollten nicht so viel oder generell etwas über die Jahre ihrer letzten Arbeit erzählende Ich Lancer langweilig ist das gar nicht wie kann man sich die Praxis vorstellen wenn sie nicht diese Befugnis wenn die Landesbeauftragter für Datenschutz sie mehr der Befugnisse hatten als hat in haben sich f. dass die ZelleÄra Kollegen ausgeliehen und Sutter weißen das ist es sehr schwierige Lage unterschiedliche Zuständigkeitsbereich erhaben es gibt nur ganz wenige Bereich sehr wobei die Behörden sieben Landesebene um Bundesebene gleichermaßen zuständig sind da nicht Argwohn mehr nach ehemalige Beamte er in private Unternehmen tätig sind in San die Baden da gab es früher Bahnbeamte und es gibt sogar heute noch Bahnbeamte er für die werde ich dann immer noch zuständig bei der Landesbeauftragter er aus Berlin für den wirtschaftlichen Betrieb an die Angestellten zuständige erst nein so kann das leider nicht gegen das macht die Sache mit sehr an wir hatten tatsächlich Konflikte mit der Bund setzt einen Tour als ich z.B. um die Frage gehen müssen Telefonunternehmen als ich die fast Datenspeicherung nachgab die gespeicherten Daten den Betroffenen geben weil es ein Auskunftsrecht Geld dadurch gesagt das Mausgesicht sehen ich habe die Europäische Kommission gefragt ob sie das Nase in die haben gesagt die ja das Auskunftsrecht gilt auch für diese Daten die Bundesregierung bei der Auffassung das geht nicht dementsprechend weiß nicht möglich meinerseits einerseits die Unternehmen zu verpflichten aber die Bußgelder Androhung diese fast Daten herauszugeben es gab dann aber allerdings Rechtsstreitigkeiten sodass letztlich zumindest die Telekom solche Daten ausgegeben hatte also das war eine diesen Problemen ansonsten bedeutet Dash man immer wieder bohren Mos Überzeugungsarbeit leisten muss auch der Weg über die Öffentlichkeit ist ein Weg den ich sicherlich in dem Zusammenhang gewählt habe
+Kurt 102 die nächste Frage einer
+Generell ist die Frage Datenschutz werden werden jetzt an den jeweiligen Regierungen gestemmt wie weit ist das problematisch werden Datenschutzbeauftragten von einer Regierung gestellt werden bestimmt werden das Sehen deren Sinn der Handel wie weit ist aus Ihrer Sicht diesen Gestaltungsspielraum alle an die Diskussion über den a. Datenschutz beauftragte außen vor gelassen wie weiteste gab der Spielern der Bundes Datenschutz Behörden im Sinne ihrer Regierungen zu regieren zu agieren inwieweit sind sie an das Gesetz gebunden Digest Irans den sie dabei
+Der erste Punkt ist ein Dilemma eins das ist meiner Sicht nicht lösbar ist da ersten letztlich die politischen mehrheitsfähige sehr viele bringt auch beim Bundesverfassungsgericht d.h. es ist nicht die Regierung alleine seiner das Parlament was wäre jetzt aber diene als eine spiegeln sich dann wieder Ich sehe darin auch wirklich keine Möglichkeit davon abzuweichen das ist ein Stück problematisch aber dieser Mann ist anders machen sei Mannes aus Wörtern Sam eines Daten der Auftragen diese auszuwählen ich bin daher skeptisch bei seinem Lösungen aber SG zwei Aspekte die ganz wichtig sind einmal betrifft ist die Frage der Angstseiten da denke ich dass diese Regelung die wir haben auf Bundesebene mit den zwei Amtszeiten oder Wap diesen Wiederwahl Möglichkeiten fragwürdige erst dann wären ja eine Regelung wieder sie da Bundesverfassungsgericht haben lieber nur gesagt wird die werden für zwölf Jahre die werden können nicht wiedergewählt werden zumindest für diese erste amtsszeit schwebt über einen als Betroffenen als Amtsinhaber das Damoklesschwert der nicht Wiederwahl das ist der eine Aspekt der Wahl der zweite Aspekt SS kommt auch darauf an die Datenschutzbeauftragten wirklich unabhängig zu machen und nicht abhängig zu lassen von Personalentscheidungen und eines Ministeriums oder von fachlichen oder rechtlichen weisen das Dach es nicht geben nicht Mais Möglichkeit des aber nicht als ganz essentielle
+Applaus
+Zur die nächste Frage bitte wieder aus dem Internet
+Dann nämlich eine Frage das dem Täter kamen dieser nämlich keine Elbe so gab es keinen Konsequenzen 80 das reale Affäre als sie im Amt waren
+Ich habe dem Bundestag einen Bericht darüber erstattet auffälligem wegen auf a. auch immer auch Rechner wegen auch immer ist der Die Internet gelangt obwohl es freilich die Stände da ich kann dazu nichts sagen auch das erste echte Bericht waren aber Applaus
+Aber die Abgeordneten sind darüber informiert worden welche Konsequenzen daraus dann zu ziehen sind in Bezug auf die Gesetzgebung welche Konsequenzen daraus zu ziehen sind auf die behördliche Prag Shelleys kann ein Datenschutzbeauftragter nicht entscheiden leider kein Hinweis zu Durchsetzungsfähigkeit gegenüber öffentlichen Stellen gegenüber öffentlichen Stellen können die Landesbeauftragter die Bundesbeauftragten Beanstandungen aussprechen das ist vielfach Geschehen Aachen diesem Fall sei eine Beanstandung ist aber nichts als eine Form eines sehr dicke zählt zu der sich das beanstandete trete er Ministerium f. Als sein muss wie ist das wieder beiden an das Ministerium wieder passiert diese Dancer nun ist nicht berechtigt da kommt damit auch darüber diskutiert inwieweit man immer an der europäischen Datenschutz Reformen die Datenschutz Behörden auch gegenüber öffentliche Stellen besser durchsetzen möglichkeiten bekommen sollte ich würde mir das wünschen
+Applaus
+Zur dann betr nochmals für die die gerade den Raum betreten haben wir die die dass die Gänge aus bitte G das interne Ras besetzt deuts Ende sind noch Plätze frei werde die ANSI zweiter
+Haschassisen der jetzt erst einmal sehr artig
+Sextant
+Und haben sich auch einen ganz guten Ruf erarbeitet mich würde interessieren wie werden Sie diesen nutzen was ist jeder Agenda 2014
+Werde sich das Sonde zur Dasa erzählen sie es aber nicht weiter A als erste S habe ich vor ein Buch zu schreiben und sei aber die Hintergründe das Norden Affäre er auch über den Umgang bei uns damit auch über den technischen Umgang dann habe ich ich sage das jetzt ganz deutlich ehrenamtlich ein Vorsitz an einer aller kleinen Europäischen Akademie über Informationsfreiheit den Datenschutz übernommen unterhalte ich auch den einen oder anderen Vortrag vier beispielsweise
+Applaus
+Auch das mal sie mache ich er a. auch
+Zur dann bitte von der zwei
+Zur österreichischen Datenschutz Kommission eine kleine Ergänzung mit einem kleinen EOGH urteilte wollen die Österreichische Datenschutz Kommunen festgestellt wurde das sie illegales wenn sie nicht frei agieren kann an den zufolge ätze Datenschutz Behörde und formierte wird in Österreich gab es den Fall das über 350 erste ein Marktforschungsunternehmens Anklagen äußert Patientendaten weiterverkauft haben die Datenkommission hat diesen Fall mit Bericht von heute an Standard einer österreichischen Tageszeitung eingestellt und es ist nicht aufgrund diesen Fall erstere Furchen dass die Datenschutz Kommission als zahnlose Papiertiger mit der Datenschutz Behörde innerhalb jetzt auf geht's
+Also dazu kann ich jetzt nicht sagen das ist ein Beitrag in der alle zur Kenntnis nehmen Essener vielleicht Bedauern
+Dann bitte die drei
+Wissen sehen von einen anhängigen Verfahren gegen die Praxen ist Zustellung des Tischtennis Bundesbeauftragte Bundes Datenschutzbeauftragten vom Europäischen Gerichtshof
+Es ist meines Wissens zur das auch gegenüber bei der Beschwerde eine Beschwerde vorliegt eine Kommission die genau diese Stellung des Beauftragten betrifft meines Wissens es die aber noch nicht bei die Ehrung G hat die landet das kann aber aus seine erste schon bei der gegangenes ich habe da nicht der letzte stand ich gehe davon aus dass sich wenn sich dabei nicht ändert das sich das ist eine von Mengefragen Kommerz
+Dann die
+Nächste Frage ersten Internet
+Die nächste Frage gehe ich habe sind die Datenschutz Behörden nicht vorwiegend ein Plazebo und sagen zu können wir haben jemanden der es sich darum kümmert aber sie werden hat komplett ignoriert wenn es um staatliche Interessen geht
+Erstmal würde ich sage Plazebo die zahnlose Tiger es nicht so ein großer Unterschied dass es natürlich ein Riesenproblem dass man sagt man hat der jemanden dass ich komm kümmert das da eine gewisse Beruhigungseintritt das ist aber natürlich bei einem Rechtsstaat Institution zur das ist auch beim Bundesverfassungsgericht zur sodass man sagen muss das spricht eigentlich nicht gegen diese Institution sondern gegen ein System bei den Datenschutz Behörden diese Durchsetzungsbefugnis vorenthalten werden deshalb brauchen sie
+Applaus
+Zur die nächste Frage dann bitte von der drei
+Bei da die Datenspeicherung bei Flight Welz wurde soweit ich weiß auch von ihrer Behörde besagtes die Provider das von einer darauf von sieben Tagen gedeutet wird teurer als und die angesehener davon im Gesetz steht dass sie das sowas nicht machen sollten darüber des Senders zur geduldet unerlaubt das Apis gespeichert werden wodurch die sehr Atman Geschichte erledigt gewesen wäre
+Sie gaben das steht in so angesetzt seien darin steht unverzüglich zu löschen unverzügliche ist ein aus deut aber unbestimmt gar Rechtsbegriff bei dem an bestimmen muss was es bedeutet wie waren in das Situationen uns ging nach ein Bild zu machen auch ein Gespräch mit den Weilern für welche Zwerges sie diesen Daten speichern und es wurde glaubhaft versichert das ohne entsprechende Möglichkeiten zur Zentrale erklärte der Speicherung extreme Sicherheits Verstöße er nicht aufgedeckt nicht entdeckt werden können das waren nach unserem Verständnis mit der Rechtslage in Übereinstimmungen des Bundesgerichts auf da diese Praxis übrigens für unrechtmäßige erklärtes wurde mag sich der Lich erklärt dass diese Position dem eine Behörde sagte eingenommen hat der Rechtslage entspricht insofern kann man damit unzufrieden seien aber das ist sein. Das ist sein. Um ein Santander hat man unterschiedliche Sichtweisen man muss die andere Seite gehören man kann ich Nissan wieder das gern hätte man muss es recht auslegen und dabei die ebenfalls auf bestimmte Ergebnis sehr akzeptieren wir es nicht so recht die Kassen allerdings hat es dazu geführt das faktisch die AP address Speicherung bei vielen Unternehmen sehr Stadt eingehe Schränke wurde das muss man dabei Aussehen
+Sie dann
+Muss zur dann die eins bitter
+B. H Chase wollten zum ihrer Nachfolgerin ja nicht sagen aber seien sie so freudigen schaffen sie ein bisschen unsere Sinne was würden Sie er mit auf den Wegen wurde würden Sie sagen sind die häufigsten oder die Klassisten Brennpunkte die es zu bearbeiten sind
+Also unabhängig von dieser Personalentscheidung liegt das wenig auf der Hand dass die europäische Datenschutz Reformen den scheidende Baustelle Moment ist da die Kommission der Europäischen Kommission einen Vorschlag der recht ambitioniert S auf den Tisch gelegt das Europäische Parlament hat sich zusammengerauft nach einer sehr in Trauer intensiven und kontroversen Diskussionen bin ich mit einem beachtlichen Ergebnis aber der Rat der Minister der Regierung hat sich festgebissen in Dallas des zur dass Deutschland da auch nicht zu den treibenden Kräften gehört die für einen Erfolg dann wäre eine klare Positionierung der Datenschutz Behörden in Bund und Ländern erforderlichen zwei Der Bund betrifft den Beschäftigtendatenschutz Dali sich im europäischen Koalitionsvertrag dann möchte meine Beschäftigung Datenschutzrecht Ansage fasse man sollte vielleicht auch ein diese Regelung dieser europäischer Ebene gibt kein ß. eines ein europäisches Regelung State gehen dann bleibt Rahmen für ein beschäftigen Datenschutzgesetz ich kann überhaupt nicht verstehen weshalb die Bundesregierung das nicht in Angriff nehmen will
+Applaus
+Der Beschäftigen Arbeitnehmerdatenschutzes wenn ich ein ganz wichtiges Thema denn Weimann wenn man in diesem Bereich im IT Bereich aber auch mit einer zehn Beschäftigte ist an das sind wir im Transit alle und sei nicht mehr Didier sitzen und sondern auch diejenigen die gar nicht technologisch sehr orientiert sind dann ist man der Überwachung auf der heimischen Überwachung sehr schnell und der Stadt ausgesetzt das muss ganz dringend begrenzt werden denn die diese beiden Felder sind für mich jetzt entscheiden wenn er trete. Ist natürlich die Frage wie geht es weiter mit der geheimdienstlichen Überwachung es ist dann richtig dass der BND wie die NSL im Ausland sich nicht an rechtliche Grenzen gebunden fühlt das kann aber nicht auf Dauer aufrecht erhalten werden
+Applaus
+Wenn wir an Menschenrechte ist Datenschutz Verständnis haben
+AG
+Und die vielen Dank wir werden das ja alle behalten
+Da geht ja jetzt bitte die nächste Frage aus dem Internet
+Ich muss gerade mal wie überlegen sich sehr anders formuliert es lesen vor wies diese herkommt mich würde interessieren ab Gassektor der glaub das Datenschutz besser durchgesetzt werden kann wenn er wettbewerbsrechtlichen Konkurrenten verfolgt werden könnte
+Da ja das ist der generell diese zivilrechtliche Aspekte ich bin bei zivilrechtlichen Datenschutz wir singen kann skeptisch einerseits würde dann Datenschutz zum Bestandteil von Wirtschaftsrecht von wenn sich dann eine Allianz bildet von Konkurrenten die sich gegen Datenschutzrecht werden an das nicht durchsetzen wollen dann ist die Sache im Grunde genommen nicht wirklich zu begrenzen das kann es ein dich nicht seinen gebrannt la gesetzliche Regelungen wie Paar nach den Vorschlag sowas wie den Daten der Schadensersatz bei Daten Espa zu verbesserter ich habe nichts dagegen aber wenn das gestellt wird den Eimer der einer Datenschutz Aufsicht inhaltlich das für falsch das würde in trotz sie bedeuten dass man im Prinzip des solange Datenschutz Verstößen hinnehmen muss bis man dann vor Gerichtrecht erhält das kann ein ich nicht Sinn der Sache sei das führt auch dazu das diejenigen die nicht einer schier zehn nicht leicht Connex sind die nicht die Power aufbringen vor Gericht zu gehen und dann im Allergien das kann es nicht sein Ich bin der Auffassung wenn man vom Datenschutz als Menschenrecht aus geht dann brauchten wir auch klare rechtliche Vorgaben nicht mehr auf nationaler Ebene
+Applaus
+Seiner mal ganz kurze Bitte an alle die in den Rande zugekommen sein setzt Zeichenblatt nicht intern gab ich den Gängen nicht der den traten stehen dank der
+Ulms werden nach Blabla dann erst die drei
+Haschassisen sie davon halten das jetzt in die Funktion des Bundes Datenschutz auch der Auftrage ließ die Tennis dehnte vereinten
+Am liebsten wäre es mehr wenn das in Dhaka einen ins deren verankert werde
+Applaus
+Sondern als oberste Bundesbehörde wie der Bundesrechnungshof in keiner Rechtsaufsicht keine Dienstaussicht unterlegt und auch nicht in den Personal der bei einer anderen Behörde eingegliedert S N als das keine ausgenommen Entscheidungen möglich Sender keine dass sich das auch vorstellen das an das Parlament anzugliedern dass es beim eines Landes Datenschutzbeauftragte zur das ist wäre sicherlich auch eine Alternative Nitrit beste Möglichkeit wäre das seinen anderen Ministerien zu geben zur dann bitte die vier
+Um auf ihr Projekt das Buch zurückzukommen als Bundes Datenschutzbeauftragte A unterlägen Sie da nicht einer Verschwiegenheitspflicht B Dach diese Verschwiegenheitspflicht erwähnt werden wer bestimmt was sie sagen können und wie sie es sagen durften
+Richtig ich unterliege der Verschwiegenheitspflicht wir haben allerdings ist ja gerade das dies Norden Geschichte angelangt mit einer sehr weiten zwei zugänglichen Datenlage zu Tons soweit ich mich eisern
+Gelächter Applaus
+Auf ein Fraktion BC die öffentlich sind wir natürlich auch keine Schweigepflicht aber ich kann mich natürlich von einem hölzernen Dampferverfassungsschutz Abi in dem Bericht der insofern würde die verschiedene heizt Verpflichtung gehen den dann werde ich mich auch ein Gesetz verständlich aber alles weiß öffentlich diskutiert werden kann werde ich auch öffentlich ansprechen
+Dann die
+Zur danach eine Freilassungsinternet
+Wie schätzen Sie die nächsten Schritte hinsichtlich der fast Datenspeicherung in Deutschland bzw. Europa ein auch bezüglich dem zeitlich Neuzeit ist der Lage ist er Einschätzung eines Österreichischen Juristen nicht verzeiht 1017 mit einer Neufassung des Gesetzes zur rechnen
+Also wir haben ja ich möchte das einfach nach meiner Erinnerung rufen der meine Entscheidung des Bundesverfassungsgerichts die schon einige Jahre zurück Licht der Arbeitszeit 1010 hat das Bundesverfassungsgericht die fast Datenspeicherung für unzulässig erklärt seitdem haben wir keine vorerst Datenspeicherung mehr in voller in Deutschland wir haben auf europäischer Ebene ein Verfahren das derzeit anhängige S der Generalanwalt beim Europäischen Gerichtshof hat vor zwei Wochen ein Votum vorgelegter dieses Votum des sagt die fast Datenspeicherung widerspricht dem Vertrag von Lissabon der Grundrechte Schatten und dem entsprechend muss die Richtlinien überarbeitet werden wenn der Europäische Gerichtshof diesem Votum Volk entscheiden wird also sein als nächster Schritt wie entscheidet der Europäische Gerichtshof das kann ich nicht prognostizieren auf die zeitlichen Abläufe Sinn nicht ganz klar aber ich gehe davon aus das schon im Jahr 2014 möglicherweise schon in einigen Monaten der EOG habe seine Meinungssendungen beenden wird unser einem Ergebnis kommt davon hängt es letztlich abbreche Schicksal dieser Richtlinie nehmen werden daraus kann man denke ich was weiter mit der deutschen fast Datenspeicherung Gesetz basiert das was den Koalitionsvertrag steht das habe ich hier schon kommentiert das halte ich nicht für sinnvolle eine Richtlinie die Außenbahn auch nach Auffassung des Generalanwaltes beim Europäischen Gerichts auf Europa wie trägt S umzusetzen
+Applaus
+Wir haben sogar noch etwas Zeit
+Eine Sache noch
+A dann bitte die vier
+Ja Herrscher eine Frage habe ich dann doch und Abgangs unabhängig von der Person des Bundesbeauftragten für Datenschutz welche Folgen hätte es denn wenn der Beauftragte oder die beauftragte ihn da kein Interesse daran hat den Datenschutz durchzusetzen
+Also die Frage kommentierte ich jetzt nicht
+Ich machte das jetzt mal Politiker leitet
+In einsam an die durch besagter vergleichbare Strukturen so nicht gehen kann ich stelle fest das jeder hat eine sehr stage Bürgerrechtsbewegung haben die sich den Datenschutz Thema angenommen hatten ich habe sogar den Eintritt dass sie in bestimmten Bereichen stärker ist als in Deutschland Und ich fände die gest Sylvie Gesellschaft diejenigen die sich für den Datenschutz einsetzen kann einen Das große Bedeutung völlig unabhängig davon werde es Bundes Datenschutzbeauftragte er und das macht diese Person an dem ich dein sei nicht der Ball ist dann bei ihnen
+Applaus
+Dann bitte die drei
+Hallo Mengefragen S inwieweit sie finden dass die Aufgabenbereiche des Datenschutzbeauftragten auf Bundesallee Landesebene und die der Geheimdienste Koordination sich überlappen und inwieweit es die Datenschützer Kompetenzen in Kollaborationsbereiche hinein reichen sollte
+Die Rietig überlappen sie sich nicht praktisch gibt es sogar Lippen d.h. es gibt die Situation dass weder ein parlamentarisches Gremium noch die Datenschutzbeauftragten des Bundes oder der Ländern bestimmt der Dinge aufklären können das eilig führte Tage unverantwortlich an das muss dringend geändert werden zweite. S diese Plänen Kontrollprämie an müssen miteinander besser verzahnt werden das Interessante ist das dem Bundes Innenminister Friedrich der Geschäftsführung der damals ein Ja gesagt hatten es sei dagegen das der Bundesstaaten Schutz. Ragte so eine Art über Kontrollbehörde wird habe ich auch nicht gesagt voreilig auch jetzt nicht wichtige S dass man die Möglichkeit die Datenschutzbeauftragten haben vor Ort in abhängig zu sein stärkt das Problem der parlamentarischen Kontrolle abseits der Geheimhaltung der die Tätigkeiten weitgehend unterlegen ist das die in den parlamentarischen sie nennt sich immer die Mehrheitsverhältnisse wieder spielen und das bedeutet dasjenige Unabhängigkeit von Vorteil wäre er an dementsprechend finde ich die DS sei es über einen Bundes Datenschutzbeauftragte oder die landete dann des Datenschutzbeauftragten oder auch über ein unabhängig in Wehrheim Dienst beauftragten die zu stärken finde ich gut
+Applaus
+Dann die nächste Frage aus dem Internet
+Hätten sie ihren heutigen fordert auch halten können als in Aachen Amt waren und wie kommt es an wie es der S das Verhältnis zwischen Datenschutz Behörden und Sicherheits Behörden
+Als sehr dichtes halten können ja vielleicht endlich die ein oder andere Formulierung an das gewählte aber im Grundsatz schon
+Applaus
+Habe ich im Übrigen auch gemacht leichter hat der ein oder andere schon ein Vortrag beim nie gehört zur unterschiedlich ist das nicht zweite Punkt ist Jahren diese Datenschutz Kontrollen Sicherheitsbereich ist von entscheidender Kontrolle das muss gestärkt werden da muss ist Durchsetzungsfähigkeit geben auch dort brauchen wir Menschen rechtliche Standards die über ein Territorium hinausgehen Anda müssten die Datenschutz werden auch tätige werden wenn wir zu einer internationalen Rechts auf Normen auch für diesen Bereich kommen das ist ein ganz Lagern hat der Weg dafür muss man sehr Kämpfen an brauchen wir auch so weiß was in anderen Bereichen auch haben wir haben auf internationaler Ebene Dini Waffenkontrolleure wir haben Kontrolleure die feststellen das spaltbares Material nicht weitergegeben wird das Laster internationale aber so was brauchen wir beim Datenschutz auch auch
+Applaus
+In der es nicht entladen und dann würde ich die wnen würdig
+Selten erwähnt ist gibt eine Möglichkeit für die Landesbeauftragter rechtswidrige Datenverarbeitungsteppiche Arbeiten zu untersagen wollte Unterschied zwischen rechtswidriger Vereinerweiterung klar und eine Untersagung das erscheint mir ein wenig komisch Uhr ist eine Unterschied
+Mehr das eine ist der allgemeine Grundsatz Wasser lab des Senders verboten ist das andere ist eine gezielte Verfügung unter Androhung von Zwangsgeld von bla musst du bis zur Men sonst erzielten oder ab sofort die Datenverarbeitung einstellen das ist ein Wesenunterschied das eine ist die Durchsetzung von Recht den Vorgaben des anderer sämtliche Vorgabe selbst wieder Canyon Wasser lab dessen was verboten S diese Rechte in Vorgabe sozusagen der Raben was die Grundlage des Handels S an diesem Verfügung ist ein ganz konkreter Schritt zur Durchsetzung um das Ganze sozusagen und zu machen und das Bußgeld für eine seiner Artstrafe dann wird es sozusagen komplett
+Vielen Dank
+Ende der volle die einst
+Sie haben angesprochen dass Arbeitnehmerdatenschutzgesetz Jahr wichtig aber was ist mit Datenschutz für Erwerbslose für Sozialleistungen Bezieher wie kann es sein dass wir quasi vor die Wahl gestellt sehen gibt uns alle deine Daten die Band sehr private Daten teilweise zur Sitzung nächster Woche auf der Straße wie kann es sein dass der Datenschutz sie gegen die Existenz gestellt wird abl
+Applaus
+Das Thema gekleideten ich bitte Insasse beschäftigen mich schon sehr lange er als dieser hat ihre Waren auf den Weg gebracht wurde wurde dieses Themazahlen richtig großen Thema ich habe mich dafür eingesetzt dieses System anders zu gestalten aber ich habe praktisch keine Unterstützung bekommen von der Politik der weil es gegen eben darum Mehrwertpatienten kommt also Arbeitslosengeld zweiter muss sämtliche andere Einkommensquellen Geländes Gegenstände persönliche Verhältnisse offenlegen das ist sozusagen das Prinzip nachdem das gewährt wird und dass man sehr sehr sehr weit gegangen meine Versuche dass er öffentlich zu thematisieren sind ziemlich gescheitert bis auf den einen oder anderen kleinen Absatz in eine preiswerte die ich fand das sehr interessant ich kann es uns an welche Datenschutz den öffentlich er nun an werden oder das konnten Abrufverfahren oder die konnte Daten CDA wo ich auch datenschutzrechtlich auch tatsächlich da gedenke äußert habe gab es eine breite Unterstützung für derartige Datenschutz Bedenken beim Themaarbeitslosengeld zwei haz vier Valiente Stützung minimal insofern haben der Gesetze zu wenig mehr das dann passt die im Grunde Bienkopp doch sehr weitgehend gerade die Empfänger von bestimmten Sozialleistungen zu gestern an Sozialleistungen Split sie anmachen und das ist eine politische Frage die man auch politisch diskutieren Muster hat man dann irgendwo als Datenschutzbeauftragter keine Möglichkeit etwas zu bewirken wenn weder der Gesetzgeber noch die Öffentlichkeit das als werfen dass es ein großes Thema versteht das tut mir leid aber das ist leider so gewesen
+Dann bitte die zweite
+Wir haben immer noch die Situation dass wir im Prinzip ein sehr starkes Datenschutzrecht in Europa habe aber sehr wie auch Grade vorhergesagte minus als das nicht zur da es diese Bewegung deutlich was sie weiß ja aber die Frage ist ja auch werden immer noch diese verschiedenen transatlantischen Abkommen wollen unterschiedlichen um Fängen und Mengen die Daten von Europa ein Fahrer in die USA fließen oder unmittelbaren Zugriff der USA unterliegen wie weit kann man sich dagegen überhaupt noch wären wie Weizen diese Abkommen aus Dante trächtige Perspektive überhaupt bildlich unanfechtbare wichtiges damit die festige aus Maine sich das Datenschutz Niveau in Europa zur H eindeutig zu harmonisieren
+Ich denke mal das ist eine sehr sehr umfangreiche Frage ich versuche Mai zwei komplexer das vielleicht drei in dem Zusammenhang anzusprechen der erste Punkt ist der alltägliche Datentransfer das Spiel das sogenannte er es selbst aber Abkommen eine große Rolle setzt aber heißt das Unternehmen in den USA sagen dass sie sich zu bestimmten Datenschutz Prinzipien bekennen aber diese Präsidenten deutlich niedriger zu Saarow PS I Datenschutz Niveau aber die Europäische Kommission hat dem Jahr 2000 akzeptiert das Wasser Sunday neben einem es ist ein Schutzniveau anzusehen ist so dass der Datentransfer in diesem Bereich insofern stattfinden kann allerdings an das finde ich sehr beachtlich durch die Veröffentlichung der letzten Monate er ist klargeworden es amerikanische sich als Behörden auch auf diesem Weg des Zugriffs auf Server und Information die in den USA sind sehr viele Daten die dem europäischen Recht auch unterliegen und die auf diesen an der Basis dieses Abkommens übermittelt worden sind Zugriff haben Angaben ich der Auffassung das entsorgt werden diese Entscheidung ihr nicht mehr angewendet werden darf an das dieses Abkommen unbedingt revidiert werden muss bei La die Europäische Kommission sich als Ganzes noch nicht sein Recht dazu geäußert von Seide sei Europäischen Parlaments sich da viel Unterstützung für diese Forderung
+Zweite. Es gibt eine Reihe von Abkommen die von amerikanischer Seite mit Europa beschlossen worden sind uns war einerseits mit einzelnen europäischen Staaten andererseits mit der Europäischen Union als ganz es bei diesen Einzelabkommen Sinn gerade im Bereich von Strafverfolgung viele Informationen der in amerikanische Seite zugesagt worden zum Beispielfingerabdruck Daten DNA Daten Deutschland hat auch als eines der ersten Länder ein seines bilaterales Abkommen mit unterschrieben diese Es habe ich seinerzeit sehr Stadt und der kritisiert A. Das müsse der Mann dann entsprechen kündigen wenn man das will Dritter. Sind eben diese Abkommen die zwischen der Europäischen Union und den Vereinigten Staaten getroffen worden sind für Gas Datenabkommen an das sogenannte Swift Abkommen nur Daten über die Finanztransaktionen die USA gehen hier hat das Parlament das Europäische Parlament bei letzteren jedenfalls gefordert dass das auszusetzen ist die Kommission hat meines Wissens dass man nicht gemacht insofern kann es sein dass der Europäische Gerichtshof sich damit beschäftigt zur Semantik die Situation sei es so wie es jetzt s. kann es sicherlich nicht bleiben wenn man sich einigermaßen treu bleibt
+Applaus
+Nur eine kurze Frage zum zweiten konkrete Smith ist eine gibt es eine Möglichkeit das Bundesverfassungsgericht bei sei das einst auf
+Dabei müsse man Charlene weites jetzt noch mögliche ist das ist ein Verfolgungs eine völkerrechtlich verbindlicher Vertrag Blabla damals waren die Grünenjahren Hamburger Senat in hatten zusammen mit der CD Uhr an die abend verhindert das zehnter Legung Urkunde für die Ratifizierung dieses Abkommens hinterlegt wird das muss innerlich einstimmig vom Bundesrat genehmigt werden aber sie waren da nicht mehr in der Regierung und dann SS durchgegangen danach es ist insofern etwas schwieriger Ich weiße der Banda jetzt noch etwas gehendes bilaterale Abkommen machen kann
+Herr Schah Kansy ein Land nennen bei dem sie die Umsetzung sei sie die Arbeit des Datenschutzbeauftragten besser finden als in Deutschland oder haben sie ein Vorbild in diesem Sinne alle den Vorbildern es immer so eine Sache in ich finde wenn man seine Art Rosinenpickerei hat vor nimmt dann könnte man das schon machen z.B. hat Spanien stärkere durchsetzungsfähig eines neuen also das könnte ich mehr kein kann man sich vorstellen von den spanischen System zu kommentieren in Deutschland wir haben in anderen Staaten teilweise sehr viel besser Reihe ausgestattete Datenschutz Behörden da könnte man sicherlich auch etwas abgucken aber ich kenne keine Behörde da würde ich sagen das ist das ideale da muss man glaube ich insgesamt in Europa auf ein Hohnstand kommt deshalb halte ich diese er europäische Datenschutz Reform für so wichtig
+Die eins
+Dann stellen 2000 bzw. übermorgen tritt das neue Gesetz in Kraft die Datenschutz Richtlinie die europäische Datenschutz Richtlinie am 1. Januar 2014 tritt das neue
+In Österreich ist Aidid ist eine neues Gesetz
+N auf europäischer Ebene
+Nein leider nichts wäre schön
+Ich würde nicht ihr stehen wenn die Gravitation eines Uhr wir leben heute er eine Villa Park mit dem 100 Blatt la Plata ABB AAA AAP Nummer fünf in den WT A Blas
+Selbstdarstellung
+B B. Aber der und der Es ist aber ich Ansprechpartner SBB in Bericht hieß es einst etwa das lassen wir so stehen
+Dann die Heerschar sie haben mir Fallemannschaft in der letzten Viertelstunde sehr angenehm gemacht
+Anwesen Applaus wer an Schah
+

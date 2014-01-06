@@ -1,0 +1,144 @@
+&&&  transcriber note:  the screen went blank mid transcribe, I just continued... &&&
+
+
+[Script Your Car!Using existing hardware platforms to integrate python into your dashboard
+Felix "tmbinc" Domke]
+
+
+We didnt not succeed in a few days time.  
+Fortunatly Uboot is a ..
+The trick you used when you wanted to annoy your friend and she wouldnt give the password... you just ...
+
+. However, it doesnt work and theere is no RFD
+
+We can use uboot to dump memory over the serial port and then we do a n unpack thing and then we have the 
+
+we can boot the real boot of S.
+It has a real distrubtution and it has bash and everything.  PassVD to change the pass to waht we know. There are some harward tricks on the device.  Tehre is something at the bottom that looked suspiciously like a sd card.
+So I cadded the sd card and yes it works and then I boot from there and it is even eaisier.
+The sim slot, rquires the device to tell it to use it and it searches for phone, it seems you can reconfigure this to use this.
+
+They use this for film storage and you can .....  i dont have the firmware upgrade so i can only see the binaries doing this.  
+
+MIcro B on the one sid eand A socket on the other side. And then you can just put in any usb device.
+You can easily change this to ethernet.  Technically once you do that you can close the package and connect it to the outside  word.
+
+So we need to work the steering wheel, the car etc.  Now, I swas a bit naive and I was hoping for a CAN demaen that would ....  there was no such thing.
+
+When I send a cann message on the bus i could not see antying on the Linux side. 
+
+It abstracts all this on a very high level.
+ DAP is what you use on the dashboard of th car.
+It gets sysnchronized against the devices on the bus.
+It is a well designed way of providing volume.
+
+"engineering is in da house"  [ BAP slide]
+It was hard to find anything more tehcnical than this table.
+
+One or more cann messages 
+
+...
+
+I had to reverse this . ON the left you can see CAN messages , multiple way to see can messages. 
+
+I dont know the names for all these. ONe of these messages is the current screen content.  So we can see if the phone is booting or soemthing. we need to write something in this protocoal that show me what it is doing.
+
+shows slide
+(applause)
+
+here is the serial output
+here is the fancy tool
+here is the fancy camera
+here we see it booting
+it is going through some boot loaders
+now it is loading linux
+we see the emoluated screen
+it is not piexelatied but that is how it looks in the car
+it is slightly fast when boot from flash
+
+USB to CAN, lots of cables, different lengths of wires, and here we are.  It now booted and tries to go to my phone.
+I can abort this and then I will be in the main menu.
+It is basically a simulation of the car.
+You can go to the menu and do what you would do in the car.
+The buttons are there on the steering wheel.
+
+*applause*
+
+Thank you for the camera. that is important (shows video of camera)
+If anyone wants to see this  *loud applause*
+you can just come in here and look at it.
+
+We see that UBUS is used very extensively.
+They are just posted on the EBUS.
+We see key presses, blue tooth events, all this communication works over dbus.  we dont see CAN messages.
+It may be possible to debug f12x or ...
+I try to build a communication on the dbus and came up with this  *laughter*
+there is no way to show this  really, but ...
+these send messages to generic display which handles menus and scrolling through the menus.
+but the screen data is just a bunch of message ID's.  Which localizes these into basic ...
+
+It is not the EAP [?] protocol but ..
+
+Adding python at this point is easy, if using a sd card, put debian root python on it.
+Basically, 
+
+Converts into screen data nad formalized into ...
+When I push a button on the steereing world then it updates.
+When I press a key then the thing is just confused, so we have to fix this.  some more lines of code that shows logical screen and then we can handle the screen presses ourselves
+
+(demo of this, slide)
+
+
+I will log in with the passworrd, i will go into my debian root, ....
+*applause*
+
+Um, so I started the script that overrides the menu and shows my custom menu over that protocol.  I cant show you in the car but I can promise it works if I put this back in the car.
+
+*applause*
+
+So, this allows us to write something that works in the car.  YOu shouldnt use it to use it while driving but in theory you could.  
+You get the gps data from your gps so you can write , I dont know, bad things and good things.
+I want to propose this as a alternative, you can easily buy the hardware and put it in your car and you have  (I paid 200 eu or so, not too expsensive)  so you get all the hardware.
+
+some people put pc in the car and all the sudden the next day your battery is dead.  with this , it give the shutdown signal and if it doesnt shutdown it will shut down.  This will not do anything harmful to the car.  It will not disrupt you frm driving the car.  I tmay disrupt your phone use.  YOu can send message and reroute messages, there is no security in this.  The cars are designed for safety and not really for security.  This is not designed for security.  by default this will not do naything bad.  It will fail gracefuylly, it will send error messages.
+
+Thereotically, you can connec to the..
+
+[shows post]  
+I build an adapter that ....
+
+based on instruction i found on the internet.  The instrument failed... all the belts and airbags engages.  *laughter*  the car was wrecked, the insurance company found about ... the custom cabling... it was expensive experiment.
+
+I dont think this could happen,  I dont think you can train the bus to the powertrain like this guy was doing.  Its up to you if you want 
+
+this bludetooth in the car has access to the microphone, the speaker, etc.
+Short physical access to car is enough. you can deploy the bug you built yourself.
+It is very hard to detect, because you would have to dump the flash and see if anything has changed.  It dont know if this is just for the tinfoil hat people or... but someone could example could read google maps and pick up the gxt to pick up... there are many things you can do with this... but htis is just phython.
+
+i will update my code and python code. so you can get. they are not there yet.
+
+Thanks for listening. 
+
+*applause*
+
+
+q: is the hardware used in this system for a hardware emergency call similiar to this?
+a:  i would hope they are not using the linxu that has to boot before the call.  I would think they would use something  more hard.  If the boot fails to mount in this, it just fails to mount.  
+
+q:  Flux and ? ask if the linux device could be used to access the microphone and used for spying and etc.. and also steering wheel control
+
+the microphone is very easy.  very easy to upload that over 3 G.  getting access to the power train canvas, i don't know.  if you rreprogrm the 9?)  I dont have a firmeware upgrade, if you send the powertrain messages, then it could work, but you have to do it on purpose. 
+
+
+q:  you say you saw the position data unit.  the data is sent via CAN to phone.  
+a:  In that rooted graph that I have, I just.. on the DBUS ... messages based on CAN messages, there is nothing that would take this message.  I dont know why it is there.
+It is the reposition data .  These devices have a technical problem or something, then you can send that to someone.. currently this is not being used.
+
+q:  if you have a help line, it will call that particular company.  can you reprogram that number to a new country
+a:  you can reprogram that number.  i have not programmed it .  unit number 77... i dont know the details but I know that someone has done it.  the software 12fx pulls it and then programs it.
+
+
+
+
+
+

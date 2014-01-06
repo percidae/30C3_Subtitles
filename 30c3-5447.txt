@@ -1,0 +1,210 @@
+Welcome to the Subtitles Pad, nice to see you here!  
+   
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words!  
+  
+ It is also possible to change the main writer during the talk when fingers become tired. 
+   
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles. 
+   
+Thank you very, very much for your help!  
+   
+percidae (Barbara) from the VOC team  
+------------------------------------------------------------------------------------------------------------- 
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen!  
+   
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden.  
+   
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden. 
+   
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen.  
+   
+Vielen, vielen Dank für deine Mithilfe!  
+percidae (Barbara) vom VOC Team  
+------------------------------------------------------------------------------------------------------------- 
+Here, the subtitles for talk XY are supposed to be created  
+   
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+
+The language is supposed to be:  
+[ ] German  
+[ ] English  
+(the orignal talk-language) 
+-------------------------------------------------------------------------------------------------------------
+This is the script for our talk. Since it was a conceptual talk and very tight in terms of time scale, it is very tightly scripted and should match the spoken word pretty exactly. Some ad lib's especially at the beginning and end not included.
+Also Q&A session not included
+--------------------------------------------------------------------------------------------------------------
+Policing the Romantic Crowd
+ 
+1.  Introduction
+ 
+ANNE:
+Croeso i chi gyd. A warm welcome to you all in Welsh. That’s us, in Aberystwyth, 20 kilometres north from Europe’s only test centre for military drones in civilian airspace.
+And we’re also 50K north of the town where Manning went to school as a teenager. So, we’re at the periphery of Europe, but right at the heart of some of its major debates. A perfect example of Deleuze’s and Guattari’s theory of rhizomatic non-hierarchical entry points into culture. And actually in our talk we’re going to try to bring some of these entry points and knowledge domains into creative apposition.
+ 
+So our title is Policing the Romantic Crowd – and amazingly, all three elements of it came together spectacularly in London earlier this month.
+SLIDE - UCL
+This was the scene in London, where thousands of students were protesting against police presence on university campuses. Richard was especially pleased to see a Romantic book – Mary Wollstonecraft’s A Vindication of the Rights of Woman, 1792 – among the book-shields carried by Book Bloc. It reminds us that a powerful rhetorical tradition of civil liberties and gender equality has its roots in Romantic art and poetry.
+ 
+So some of the most effective activism of recent years has been crowd-based, peer-networked. And obviously trust is a crucial factor in activism of this kind. And it turns out the Romantics were also concerned with precisely these networks of “trust” – 
+SLIDE – COLERIDGE QUOTATION
+what the Romantic poet, Coleridge – under surveillance himself – called “social confidence” in 1795. And confidence, in Coleridge’s view here, was what the government’s “system of spies and informers” was destroying.
+ 
+And this month, at the launch of Web Index 2013, Tim Berners-Lee has been saying pretty much the same thing in relation to NSA and GCHQ back-dooring of online crypto – noting its “chilling effect” on “confidence” in the web. But then surveillance is all about reducing our confidence in those chaotic entry points into culture. About re- hierarchizing them.
+ 
+RICH:
+But our point isn’t that Romanticism has already had all the insights into surveillance culture NOSE SLIDE – the culture of the nose. That said, it appears the Romantics saw the Internet coming.
+TROLL SLIDE
+OK, maybe not the Internet, but certainly peer networks of communication based on trust. We have to be careful about distinguishing between mere analogies between the Romantic period and our own, which maybe don’t have any operational analogues, and ideas that do have continued traction. Because it is the case that Romantic writers – who lived in the age that first imagined total surveillance – philosophically modelled many of the issues relevant to us now as we hope to shape the ethical and techno-ethical contours of our future societies. At the very least, it is salutary to remind ourselves about where some of our ideas about crowds – about the policing of physical and rhetorical space – have come from.
+ 
+So we’re going to go on a journey into the Romantic crowd. What in Romantic slang was called “the push”. Along the way we’ll meet the poet John Keats, a couple of dandies on velocipedes, a certain Victor Frankenstein, and 2 crowds in the same place at the same time. And we’re inviting you to think about your own analogies and links to present debates.
+ 
+SLIDE - TITLE
+2.  I Predict a Riot
+SLIDE - VELOCIPEDE
+Spring 1819. Cutting-edge German technology – two-wheeled personal transportation – arrived in Britain in the form of Karl Drais’s Laufmaschine .
+SLIDE – DUCK POND VELOCIPEDES
+The velocipede was popular among Romantic geeks of the day: well-dressed men like these two dandies, eager to try out new gadgets. Although the rudimentary steering mechanism sent many early adopters into hedges, or tumbling into duckponds.
+SLIDE –  KEATS QUOTATION
+In a letter from March that year, John Keats dismissed the technology:
+ 
+The nothing of the day is a machine called the Velocipede – It is a wheel-carriage to ride cock horse upon ... They will go seven miles an hour. A handsome gelding will come to eight guineas, however they will soon be cheaper, unless the army takes to them.
+SLIDE – MOVING VELOCIPEDE
+So Keats ridicules Drais’s invention as the “nothing” of the day. But that word “nothing” registers anxiety. Techno-ethical anxiety. Anticipating the army would “take to them”, Keats – the friend of anti-government activists – is worried about potential military applications.
+SLIDE – FIRST MOTORBIKE
+Not quite this – the first design for a police motorbike from 1818.
+CLICK – JUDGE DREDD
+Certainly not this, Megacity One’s take on the velocipede. But nonetheless a potential revolution in policing techniques.
+ANNE
+Keats wasn’t the only one to worry about the army “taking to them”:
+ 
+On 1 September 1819, a popular magazine calledThe Tickler (great names back then) conjured up a vision of an entire “corps of velocipedites” or “Dandy Dragoons”.  Here they are, riding canons.
+SLIDE – TICKLER QUOTATION 1
+Such two-wheeled troops would be “very useful for home service”. In other words, for domestic policing. Meaning, demonstrations.
+ 
+With that in mind, that date, 1 September 1819, is significant.
+SLIDE – PETERLOO MASSACRE
+It was just two weeks after mounted police armed with sabres had brutally dispersed 60,000 protesters on St Peter’s Fields in Manchester – the infamous Peterloo Massacre, which had inflamed the whole of Britain. 15 people were slahed or trampled to death, and hundreds wounded. One eyewitness was so appalled he founded a newspaper The Manchester Guardian, today just The Guardian.
+ 
+The Tickler suggests that “Dandy dragoons” could operate in a crowds without crushing people. And if the head of a dandy charger was shot off, the rider could, quote, “dismount and nail it on again”. It’s an absurd image, but it pulls the velocipede into the frame of a techno-ethical debate about the policing of public space.
+ 
+In 1819, the velocipede – cheap, lightweight and fast – looked like becoming part of the technology of domestic crowd control and post-Napoleonic expansion, as the Gentleman’s Magazine predicted, echoing Keats:
+SLIDE – GENTLEMAN’S MAGAZINE QUOTATION
+The velocipede is one of those machines which may probably alter the whole system of society; because it is applicable to the movement of armies.
+ 
+As it turned out, velocipedes never really caught on – it took another 40 years until pedals were invented. The point, though, is that the Romantics were quick to model their impact – on the public imagination, on ethical debates and on Britain’s fraught political landscape.
+ 
+RICH
+SLIDE – TITLE
+3.  Let a vast assembly be
+ 
+So TheTickler’s whimsical take on new technology was actually an acute response to the Peterloo massacre. Like Percy Shelley’s more famous protest poem, “The Mask of Anarchy”, which celebrated the energies of the crowd by seditiously summoning one:
+SLIDE -  PERCY SHELLEY
+Let a vast assembly be,
+And with great solemnity
+Declare with measured words that ye
+Are, as God has made ye, free.
+ 
+Shelley’s poem even anticipated Occupy’s 99% slogan:
+CLICK
+Ye are many – they are few.
+ 
+But how large public meetings were to be understood legally was crucial. For the Manchester authorities, the Peterloo protestors – men, women and children – constituted a single revolutionary monster with many heads. It partly explains why armed police on horseback attacked campaigners indiscriminately. If you were there, you were guilty. The same logic behind today’s practice of kettling, which was in evidence during protests last weekend in Hamburg.
+SLIDE – Hamburg police spokesman
+Incidentally, the official position on the breaking up of the Rote Flora demo – as you see here – was because:
+ 
+The protesters suddenly started marching, and this was not what we agreed on with them, so we had to stop the march.
+(Hamburg police spokesman URL)
+ 
+The same reason was given for breaking up Peterloo in 1819, as one government prosecutor explained at the trial of organizer Henry Hunt:
+ 
+[The protestors] were all provided with banners and advanced with a firm military step, presenting every appearance of troops upon their march. 
+ 
+Ever since the French Revolution, that fear of marching crowds is always there just beneath the surface.
+ 
+Actually, Romantic literature is fascinated by the idea of crowds as government-toppling monsters – including the most famous Romantic novel, Frankenstein, by Mary Shelley. It was published in 1817, two years before Peterloo, but these were already riotous times with huge crowds regularly protesting against the high price of bread, jobs lost to machines and corrupt politicians.
+ 
+So Frankenstein tells the story of scientist Victor Frankenstein, who works at – or beyond – the ethical line in Romantic technology.
+SLIDE – FRANKENSTEIN’S CREATURE
+Victor creates a monstrous creature from dead parts, before disowning his creation in horror.
+ 
+Frankenstein was immediately recognized as a techno-ethical allegory on the dangers of new scientific techniques such as galvanism. But it was also recognized as an allegory on the political relation between a dissatisfied people and their uncaring rulers – the creature’s complaint that he had been betrayed by his father is also that of the underprivileged crowd complaining against their treatment by the State.
+ 
+At the post-Peterloo trials, radical lawyers built defence cases around what computer vision would call an agent-based, rather than flow-, model of crowd interaction. As one Romantic lawyer argued, defending a journalist, a person’s presence at a riot did not alone prove riotous behaviour:
+SLIDE – TRIAL QUOTATION
+The third and last charge was seditious riot. What was riot? There was no such thing as riot in the abstract: the individual must be found actually rioting. Even if a multitude was riotous, a man could not be made a rioter, even if present, if he was found holding no participation in the tumult that prevailed.
+ANNE
+CLICK – POLICE MANUAL OF GUIDANCE
+Such arguments won the day, and the results can be seen in the current UK Police Manual of Guidance on Public Order Policing. This is the theory, anyway.
+As with any crowd, the protest crowd is not a homogenous mass but a collection of groups and individuals who, while sharing the same voluntary participation within the crowd, may wish to express themselves in different ways.
+So how one understood interaction within crowds in the Romantic period could mean the difference between freedom and the scaffold. And the questions Romantics asked themselves about crowds are the same as such techniques as computer vision poses to itself now:
+SLIDE – COMPUTER VISION QUESTIONS
+ 
+Questions about how crowds formed, how information was transmitted across them, whether behaviour could be accurately predicted, and whether crowds were collective entities or made up of individuals.
+ 
+Agent-based modeling techniques like the Social Force Model appear to have settled some of these. They’ve transformed  sub-domains of surveillance such as event detection and group tracking. And it turns out one of the keys to accurately predicting and interpreting human interaction within high-density environments, is velocity.
+SLIDE – ATTRACTIVE FORCE
+So the decelerating subject – that’s the one with the shortening blue arrow (d-f) – produces attractive force as he approaches a stationary group. Deceleration indicates affiliation – or in Romantic terms, “sympathy”.
+ 
+Because as Romanticist Mary Fairclough has recently shown, Romantic activists regarded the movement of information across crowds as an instinctive flow of “sympathy”. The authorities, on the other hand, saw this propagation of data as “contagion”. Modern visual analysis uses the phrase “attractive force” to describe the relationship between people in crowds – which sounds neutral. However, those Romantic terms – “sympathy” or “contagion”, depending on your political outlook – are still implied.
+ 
+The researchers here are looking at “escape panic”, but their work also applies to the, quote, “automatic detection of … chaotic acts in crowds”. For predictive policing.
+ 
+As you slow down, you give up social information – purpose – which the algorithm parses as either “normal” or “abnormal”. But, of course, such terms are ideologically freighted.
+SLIDE – SOCIAL PANIC
+CLICK
+For example, does the data-set, left- to right, show escape panic, or could it depict the beginnings of a flash mob? And how much interaction in crowds is “normal”, anyway?
+ 
+Clearly, spatial context is crucial – but even here researchers’ assumptions aren’t neutral – as you see here:
+SLIDE – STOCK MARKET QUOTATION
+In a normal scene of a stock market, the interaction force of stock brokers would be quite higher than the interaction forces of walking pedestrians in a street scene.
+ 
+For most people there’s nothing “normal” about a “scene of a stock market”.
+CLICK – TICK AND CROSS
+What’s more, the binary grouping of “normal” and “abnormal” activities in these much-used datasets – from Getty images – is revealing. In the category “normal crowd scenes” we find “pedestrian walking” (is there any other kind?) and “marathon running”. And under “abnormal” we find crowd fighting and protestors clashing. Public protest isn’t abnormal. It’s part of the democratic process.
+ 
+Today’s SFM multi-object tracking techniques don’t only predict where objects and groups moving through crowds are going to be, but also predict where people have been. This is potentially really scary. Quoting the paper:
+SLIDE – TRAJECTORY ESTIMATION QUOTATION
+[Trajectory estimation] explains the whole past, as if it had always existed. We can follow a trajectory back in time to determine where a pedestrian came from when he ﬁrst stepped into view.
+ 
+In this brave new, statistically plausible, world, it’s possible to exist in two pasts simultaneously – one that’s personally experienced, and one that’s estimated using “plausible spacetime trajectories”. One question immediately arises: to what extent will surveilled subjects in the future be held accountable for their estimated past movements?
+ 
+RICH
+SLIDE – TITLE
+And it turns out the Romantics worried about precisely this question. To finish, we want to show you a Romantic dataset of crowd interaction. One that powerfully explores the psychological impacts of projecting someone back into an estimated trajectory. If Shelley’s “Mask of Anarchy” is a crowd pleaser, compiled from slogans, the Romantic work we want to end with looks at surveillance culture from a more oblique, but perhaps more profound, angle.
+ 
+4.  Face(s) in the Crowd
+SLIDE – CARTOON OF PROCESSION
+·      London , 13 September 1819. 4 weeks after Peterloo, 2 weeks after The Tickler’s piece on velocipedes. 1 o’clock in the afternoon.
+·      Two political processions are about to start.
+·      The size of the first crowd was said to “defy computation”. As many as 300,000 people – the largest Romantic mass ever assembled – gathered to cheer activist, Henry “Orator” Hunt into London to stand trial for treason for his part at Peterloo. His supporters were calling it “Hunt’s triumphant entry into London”.
+CLICK – AND HAYDON’S PAINTING 
+·      The second crowd is also immense. And it’s filled with dark shadows and suspicion. That crowd is accompanying Christ into Jerusalem.
+·      For one man that day – John Keats – both processions are taking place at the same time.
+ 
+SLIDE – KEATS QUOTATION
+The largest public gathering in London ever. So it’s odd that Keats hardly mentions it in his letter.
+READ IT
+Nothing about the banners, flags or red handkerchiefs thrown from windows. He merely remarks that he “walk’d about the Streets as in a strange land”, and that it took “a whole day before [he] could feel among men”. Then he hurries on to an engraved face he saw that afternoon in a print shop window.
+ 
+The face? That of German activist Karl Sand, who the year before in 1818 had stabbed the distinguished dramatist Kotzebue, after accusing him of betraying the nation.
+ 
+So two crowds. One real, one a painting.
+SLIDE – HAYDON PAINTING
+And in that painting – entitled “Christ’s Triumphal Entry into Jerusalem” by Keats’s one-time friend Benjamin Robert Haydon – Keats is a painted face among Christ’s supporters. The huge canvas hadn’t been exhibited when Hunt’s own triumphant procession – modeled on Christ’s – began. But Keats knew it well. He’d sat for Haydon in 1816, and seen the painting many times since, as Haydon worked on it, propped up in the painter’s dining room, where the canvas formed the backdrop for many radical dinners – maybe absorbing some of those political energies, and some of the circle’s suspicions about infiltrators.
+ 
+By Autumn 1819, Haydon’s friendship with Keats had disintegrated. For the painter, the poet was an opportunist who associated with activists and radical journalists only for the publicity they gave his work.
+CLICK– FACE DETECTION
+Like other faces in Christ’s crowd – there’s Wordsworth, Newton and Voltaire –Keats’s is meant to be recognized.
+CLICK – KEATS FACE ENLARGES
+And perhaps you’ve noticed Keats is the only one who is talking – whispering something to his neighbour. In Haydon’s construction of a “plausible spacetime trajectory” – significantly set a few days before Christ’s arrest – Keats has found himself cast in the role of the betrayer, the infiltrator, the agent provocateur – as Judas himself. What did Haydon think Keats was saying, one wonders?
+ 
+So, as Keats stood among the London crowds – many of whom were baying for the blood of the spies who had betrayed Hunt at Peterloo – he must have felt uncomfortable about his own position.
+ 
+Because, looking around, seeing both Hunt’s supporters in London, and Christ’s in Jerusalem – a “strange land”, indeed – he must have appreciated that both crowds were scenes of infiltration, betrayal, suspicion and doubt.
+ 
+Haydon’s painting, then, is itself a parable: a parable of the reform movement, of political friendships straining under the pressure of surveillance – of what happens when “social confidence” breaks down.
+ 
+So when Keats in his letter tells us he doesn’t feel part of the crowd, it is because he’s standing in two crowds at once – a quantum Keats who disturbs our sense of historical narrative – a double exposure – a double agent. That face in the print-shop window of Karl Sand and his victim Kotzebue must have brought home, and mediated, the still fraught dyadic identities of friend and betrayer, activist and spy.
+ 
+SLIDE – TALK TITLE SLIDE
+

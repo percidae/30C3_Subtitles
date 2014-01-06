@@ -1,0 +1,892 @@
+Welcome to the Subtitles Pad, nice to see you here!
+ 
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words!
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+ 
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+ 
+Thank you very, very much for your help!
+ 
+percidae (Barbara) from the VOC team
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen!
+ 
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden.
+ 
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+ 
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen.
+ 
+Vielen, vielen Dank für deine Mithilfe!
+percidae (Barbara) vom VOC Team
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+The language is supposed to be:
+[ ] German
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Ok, alright, thanks so much for coming so early in the morning.  Or maybe not so early in the morning, for most of you, apparently, since you've all been up for more than an hour.
+
+I'm going to talk today a little bit about some things that we've heard about at the conference.  And I'm going to talk a bit about some things that you have not probably ever heard about in your life, and are even worse than your worst nightmares.
+
+So, recently we heard a little bit about some of the low end corporate spying, that's often billed as being sort of like the hottest, most important stuff.  So the FinFisher, the HackingTeam, the VUPEN.  Sort of in that order it becomes more sophisticated and more and more tied in with the National Security Agency.
+
+There's some Freedom of Information Act requests that have gone out that actually show VUPEN being an NSA contractor writing exploits.  That there is some ties there.
+
+This sort of covers the whole gamut, I believe, which is that you know you can buy these little pieces of forensics hardware.  And just as a sort of fun thing I bought some of those, and then I looked at how they worked, and I noticed that this mouse jiggler -- you plug it in and the idea is that it like keeps your screen awake.
+Have any of you seen that at all?
+It's this piece of forensics hardware so your screen saver doesn't activate.
+So, um, I showed it to one of the systemd developers and now when you plug those into a Linux box that runs systemd, they automatically lock the screen when it sees the USB ID.
+
+[applause]
+
+So when people talk about free software, free as in freedom, that's part of what they're talking about.
+So there's some other things which I'm not really going to talk a lot about it, because basically it's all bullshit that doesn't really matter and we can defeat all of that.
+This is the individualized things we can defend against.
+But I wanted to talk a little bit about how it's not necessarily the case that because they're not the most fantastic, they're not the most sophisticated, that therefore we shouldn't worry about it.
+This is Rafael; I met him when I was in Oslo, in Norway, for the Oslo Freedom Forum.
+And basically he asked me to look at his computer because he said, "you know something seems to be wrong with it, I think that there's something -- you know -- slowing it down."
+And I said I'm not going to find anything, I don't have any tools ... we're just going to like sit at the computer.
+And I looked, and it has to be the lamest back door I've ever found.  It was basically a very small program that would just run in a loop and take screenshots.
+And it failed to upload some of the screenshots, and so there were 8GB of screenshots in his home directory.
+
+[laughs]
+
+And I said, I'm sorry to break it to you, but I think that you've been owned.
+And by, uh, complete idiots.
+And he was really, actually -- he felt really violated.
+And then he told me what he does, which is he's an investigative journalist who works with Top Secret documents all the time.  With extreme operational security to protect his sources.
+But when it came to computing, Journalism-school failed him.
+And as a result, he was compromised pretty badly.
+He was not using a specialized operating system like Tails, which if you're a journalist and you're not using Tails, you should probably be using Tails unless you really know what you're doing.
+Um, Apple did a pretty good job at revoking this application.  And it was, you know, in theory it stopped, but there are lots of samples from the same group.  And this group that did this is tied to a whole bunch of other attacks across the world, actually.
+Which is why it's connected up there with Operation Hangover.
+The scary thing though, is that this summer, after we'd met, he was actually arrested relating to some of these things.
+And now, as I understand it he's out, but you know when you mess with a military dictatorship, it messes with you back.
+So even though that's one of the lamest back doors, his life is under threat.
+So just simple things, can cause serious, serious harm to regular people that are working for some kind of truth telling.
+That to me is really a big part of my motivation for coming here to talk about what I'm going to talk about next.
+Which is that for every person that we learn about like Rafael, I think there are lots of people we will never learn about.
+And that's -- to me that's very scary.
+And I think we need to bring some transparency, and that's what we're going to talk about now.
+And I really want to emphasize this point.  Even though they're not technically impressive, they are actually still harmful.
+And that's -- that is really a key point to drive home.
+I mean, some of the back doors that I've seen are really not sophisticated.  They're not really that interesting.
+And in some cases, they're common, off-the-shelf purchases between businesses.  So it's like business-to-business exploitation software development.
+
+I feel like that's really kind of sad.  And I also think we can change this.  We can turn this around by exposing it.
+So, what's it all about though?
+Fundamentally, it's about control, baby.
+
+[Austin Powers slide]
+
+And that is what we are going to get in to.
+It's not just about control of machines.  What happened with Rafael is about control of people.
+And fundamentally, when we talk about things like Internet Freedom, and we talk about tactical surveillance and strategic surveillance, we're talking about control of people through the machinery that they use.
+And this is a really, I think a really kind of -- you know I'm trying to make you laugh a little bit because what I'm going to show you is wrist-slitting depressing.
+
+So, part two, act two of part two.
+
+Basically the NSA, they want to be able to spy on you, and they -- if they have 10 different options for spying on you, that you know about, they have 13 ways of doing it and they do all 13.
+So that's a pretty scary thing.
+And basically their goal is to have total surveillance of everything that they are interested in.
+So there's really is no boundary to what they want to do, there is only sometimes a boundary of what they are funded to be able to do, and the amount of things they are able to do at scale --
+They seem to just do those things without thinking too much about it 
+And there are specific tactical things where they have to target a group or an individual.
+And those things seem limited either by budget or simply their time.
+And as we have released today on Der Spiegel's website, which it should be live -- I just checked -- it should be live for everyone here.
+We actually show a whole bunch of details about their budgets, as well as the individuals involved with the NSA, and the Tailored Access Operations group in terms of numbers.
+So it should give you a rough idea showing that there was a small period of time in which the Internet was really free, and we did not have people from the US Military that were watching over it, and exploiting everyone on it.
+And now we see every year that the number of people who are hired to break into people’s computers as part of grand operations, those people are growing day by day, actually.
+And every year there are more and more people that are allocated and we see this growth.
+So, that's the goal -- non-attribution and total surveillance.
+And they want to do it completely in the dark.  The good news is that they can't.
+So, um, now I'm going to show you a bit about it.
+First, before I show you any pictures, I want to sort of give you the big picture from the top down.
+So there is a planetary, strategic surveillance system, well there are many of them actually.
+Everything from I think off-planetary surveillance gear, which is probably the National Reconnaissance Office, and their satellite systems for surveillance like the Keyhole satellites.
+These are all things for the most part we know about these things -- they're on Wikipedia.
+But I want to talk a little bit about the Internet side of things because I think that's really fascinating.
+So part of what we are releasing today with Der Spiegel, or what has actually been released -- just to be clear on the timeline -- I'm not disclosing it first.
+I'm working as an independent journalist, summarizing the work that we have already released onto the Internet as part of the publication house that went through a very large editorial process in which we redacted all of the names of agents and information about those names, including their phone numbers and email addresses.
+
+[applause]
+
+And I should say, that I actually think that the laws here wrong because they are in favor of an oppressor who is criminal.
+So when we redact the names of people who are engaged in criminal activity, including drone murder, we are actually not doing the right thing.  But I believe that we should comply with the law in order to continue to publish.
+And I think that is very important.
+
+[applause]
+
+We also redacted the names of victims of NSA surveillance because we think that there's a balance.
+Unfortunately there is a serious problem which is that the US Government asserts that you don't have standing to prove that you've been surveilled, unless we release that kind of information.
+But we don't want to release that kind of information in case it could be a legitimate target.
+And we ... I'm really uncomfortable with that term, but let's say that there is a legitimate target -- the most legitimate target and we didn't want to make that decision.
+But we did also want to make sure we didn't harm someone, but we also wanted to show concrete examples.
+So if you look at the Spiegel stuff online, we redacted the names even of those who were victimized by the NSA's oppressive tactics.
+Which I think actually goes further than is necessary, but I believe it strikes the right balance to ensure continued publication.
+And also to make sure that people are not harmed, and legitimate good things, however rare they may be, they are also not harmed.
+So if you've been targeted by the NSA, and you would have found out today if we had taken a different decision, I'm really sorry.
+But this is the thing I think that keeps us alive.
+So, this is the choice that I think is the right choice, and I think it's also the safest choice for everyone.
+So that said, basically the NSA has a giant dragnet surveillance system that they call Turmoil.
+Turmoil is a passive interception system.
+The passive interception system essentially spans the whole planet.
+Who here has heard about the Merkel phone incident?
+Some of you heard about Chancellor Merkel.
+So we revealed that in Der Spiegel, and what we found out was that they tasked her for surveillance.
+I'll talk a little bit about that later.
+But basically the way that this works is that they have this huge passive set of sensors, and any data that flows past it -- they actually look at it.
+So there was a time in the past where surveillance meant looking at anything at all.
+And now the NSA tries to basically twist the words of every person who speaks whatever language they're speaking in.
+And they tried to say that it's only surveillance if after they collect it, and record it to a database, and analyze it with machines
+only if, I think, an NSA agent basically looks at it personally, and clicks "I have looked at this" do they call it surveillance.
+Fundamentally I really object to that, because if I ran a Turmoil collection system -- that is passive signals intelligence systems collecting data from the whole planet, everywhere they possibly can -- I would go to prison for the rest of my life.
+That's the balance, right?
+Jefferson talks about this, he says, "That which the Government is allowed to do but you are not -- this a tyranny."
+There are some exceptions to that, but the CFAA in the United States, the Computer Fraud and Abuse Act, it's so draconian for regular people, and the NSA gets to do something like intercepting 7 billion people all day long with no problems.
+And the rest of us are not even allowed to experiment for improving the security of our own lives.
+Without being put in prison or under threat of serious indictment, and that I think is a really important point.
+So the Turmoil system is a surveillance system, and it is a dragnet surveillance system, that is a general warrant dragnet surveillance if there ever was one.
+And now, we shot the British over this when we started our revolution.
+We called them General Writs of Assistance.
+These were generalized warrants which we considered to be a tyranny.
+And Turmoil is the digital version of a general writ of assistance system.
+And the general writ of assistance itself is not clear if it even exists.
+Because it's not clear to me that a judge would understand anything that I just said.
+
+[applause]
+
+Ok, so now we're going to get scary.
+So, that's just the passive stuff.
+There exists another system it's called Turbine.
+And we revealed about this system in the Spiegel publications today as well, so if Turmoil is deep packet inspection, then Turbine is deep packet injection.
+And it is the system that, combined together with a thing --
+With Turmoil and Turbine you can create a platform which they have consolidated, which they have called QFIRE.
+QFIRE is essentially a way to programmatically look at things that flow across the Internet, that they see with Turmoil.
+And then using Turbine they are actually able to inject packets to try to do attacks.
+And I'll describe some of those attacks in detail in a moment.
+But essentially the interesting thing about QFIRE also is that they have this thing that's called a diode.
+So if you have for example a large number of systems where you control them, you might say, "hey what are you doing on that backbone?  Hey what's going on with these systems?"
+And they could say, well you know we paid for access, we're doing this, it's all legal, etc.
+QFIRE has this really neat little detail which is that they compromise other people's routers and redirect through them so that they can beat the speed of light.
+And how they do that is that they have a passive sensor near by a thing that they can inject from.
+And when they see that that thing sees a selector that is interesting to them, or is doing a thing that they would like to tamper with in some way, then they take a packet, they encapsulate the packet, and send it to a diode -- which may be your home router potentially.
+And that home router de-encapsulates that packet, and sends it out.
+And because that is very close to you, and let's say you're visiting Yahoo, then the Yahoo packet will not beat you.
+That is they will not beat the NSA or GCHQ.
+So it's a race condition.
+And so they basically are able to control this whole system and then localize attacks in that process.
+So that's a pretty scary stuff.
+And well it is a digital thing, I it's important to understand that this is what Jefferson talked about when he talked about tyranny.
+This is turn-key tyranny, and it's not that it's coming, it's actually here.
+It's just merely a question about whether or not they'll use it in way that we think is a good way or not a good way.
+One of the scariest parts about this is that for this system, or these sets of systems to exist, we have been kept vulnerable.
+So it is the case that if the Chinese, if the Russians, if people here wish to build this system, there's nothing that stops them.
+And in fact the NSA has in a literal sense retarded the process by which we would secure the Internet, because it establishes a hegemony of power.
+Their power, in secret, to do these things.
+And in fact, I’ve seen evidence that shows that there are so many compromises taking place between the different five eyes signals intelligence groups that they actually have lists that explain if you see this back door on this system, contact a friendly agency -- you've just re-compromised the machine of another person.
+So when we talk about this we have to consider that this is designed for at-scale exploitation.
+And as far as I can tell it's being used for at-scale exploitation.
+Which is not really, in my mind, a targeted, particularized type of thing, but rather it's fishing operation.
+It's fishing expeditions.  It's more like fishing crusades, if you will.
+And in some cases, looking at the evidence, that seems to be what it is -- targeting Muslims, I might add.
+Because that's what they're interested in doing.
+So, that said, that's the Internet.  And we get all the way down to the bottom, and we get to the close access and operations and off-net.
+Off-net and close access operations are pretty scary things, but basically this is what we would call a black bag job.
+That's where these guys, they break into your house, they put something in your computer, and they take other things out of your computer.
+
+Here's an example, first Top Secret document of the talk so far.
+This is a close access operations box, it is basically car Metasploit for the NSA, which is an interesting thing.
+But basically they say that the attack is undetectable.
+And it's sadly a laptop running free software.
+It is injecting packets, and they say that they can do this from as far away as 8 miles.
+To inject packets.
+So presumably using this they are able to exploit a kernel vulnerability of some kind, parsing the wireless frames.
+And I've heard that they actually put this hardware, from sources inside the NSA, and inside of other intelligence agencies, that they actually put this type of hardware on drones.
+So that they fly them over areas they're interested in, and do mass exploitation of people.
+Now, we don't have a document that substantiates that part, but we do have this document that actually claims that they've done it from up to 8 miles away.
+So that's a really interesting thing because it tells us that they understand that common wireless cards probably running Microsoft Windows, which is an American company, that they know about vulnerabilities and they keep them secret to use them.
+This is part of a constant theme of sabotaging and undermining American companies and American ingenuity.
+As an American, though generally not a nationalist, I find this disgusting.
+Especially as someone who writes free software, and would like my tax dollars to be spent improving these things.
+And when they know about them, I don't want them to keep them a secret, because all of us are vulnerable.
+It's a really scary thing.
+
+[applause]
+
+And it just so happens that at my house, myself and many of my friends, when we use wireless devices --
+Andy knows what I'm talking about, a few other people here...
+All the time we have errors in certain machine which are set up at the house, in some cases as a honey pot, thanks guys, where kernel panic after kernel panic exactly in the receive handler of the Linux Kernel where you would expect this specific type of thing to take place.
+So I think that if we talk about the war coming home, we probably will find that this is not just used in a place where there is a literal war on, but where they've decided it would be useful -- including just parking outside your house.
+
+Now, I only have an hour today so I'm going to have to go through some other stuff pretty quickly.
+I want to make a couple points clear.
+This wasn't clear even though it was written in the New York Times, by my dear friend Laura Poitras who is totally fantastic by the way -- you are great.
+
+[applause]
+
+But 15 years of data retention.
+So the NSA has 15 years of data retention.
+It's a really important point to drive home.
+I joked with Laura when she wrote the New York Times article with James Risen she should do the math for other people and say 15 years.
+She said they can do the math on their own, I believe in them.
+I just want to do the math for you.
+15 years, that's uh scary.
+I don't ever remember voting on that, and I don't ever remember ever having a public debate about it.
+And that includes content as well as metadata.
+So they use this metadata, they search through this metadata, retroactively.
+They do what is called tasking -- that is they find a set of selectors -- so that is a set of unique identifiers:
+email addresses, cookies, mac addresses, IMEIs, whatever is useful -- voice prints potentially depending on the system
+And then they basically pass those selectors for specific activities.
+So that ties together with some of the attacks, which I'll talk about.
+But essentially quantum insertion and things like quantum insertion -- they're triggered as part of the Turmoil and Turbine system and QFIRE system.
+And they're all put together so that they can automate attacking people based on the plain text traffic that transits the Internet, or based on the source or destination IP addresses.
+This is a second Top Secret document.
+This is an actual NSA LOLCAT for the Quantum Theory program.
+You'll notice it's a black cat, hiding.
+Ok, so, there are a few people in the audience that are still not terrified enough.
+And there are a few people that, as part of their process for coping with this horrible world that we have found ourselves in, they will say the following:
+There's no way they'll ever find me, I'm not interesting.
+
+So I just want to dispel that notion, and show you a little bit about how they do that.
+So we mentioned Turmoil, which is the dragnet surveillance, and Turbine, which is deep packet injection, and QFIRE where we tie it all together.
+And this is really an example of something which I think actually demonstrates a crime.
+But I'm not sure, I'm not a lawyer, I'm definitely not your lawyer, I'm certainly not the NSA's lawyer.
+But this is the MARINA system.
+This is merely one of many systems where they actually have full content, as well as metadata, taken together they do contact chaining where they find out -- you guys are all in the same room as me, which reminds me, I'll take this phone, ok, that's good, turn that on.
+So now...
+You're welcome.
+You have no idea...
+But I just wanted to make sure that if there was any question about whether or not you were exempt from needing to do something about this, that that is dispelled.
+Ok.
+Cell phone's on.
+Great.
+Hey guys.
+[waves to phone]
+
+So.
+The marina system is a contact chaining system as well as a system that has data.
+And in this case what we see is in fact reverse contacts and forward contact graphing
+So any lawyers in the audience?
+If there are American citizens in this database, is reverse targeting like this illegal?
+Generally?
+Is it possible that this could be considered illegal?
+
+[pause while talking to audience]
+
+Yeah so, interesting.
+If it's called reverse contacts instead of reverse targeting...
+Yeah, exactly.
+
+So you'll also notice on the right hand side, "web cam photos."
+
+So just in this case you were wondering, in this case this particular target --
+I suppose that he did not or she did not have a webcam.
+Good for them.
+If not, you should follow the EFF's advice and you should put a little sticker over your webcam.
+
+But you'll also note that they tried to find equivalent identifiers.
+Every time there's a linkable identifier that you have on the Internet, they try to put that and tie it together, and contact chain it.
+And they try to show who you are among all of these different potential identifiers.
+So if you have 5 email addresses they would link them together.
+And then they try to find out who all of your friends are.
+You'll also note at the bottom here, "logins and passwords."
+So they're also doing dragnet surveillance in which they extract the feature set extraction where they know semantically what a login and password are in a particular protocol, and in this case this guy is lucky I suppose and they were not able to get passwords or webcam.
+But you'll note that they were able to get his contacts and they were able to see in fact 29 give or take received messages as well
+Of which there are these things.
+But in this case we've redacted the email and instant messenger information.
+But this is an example of how you can't hide from these things and thinking that they won't find you is a fallacy.
+
+So this is basically the difference between taking one wire, and clipping onto it, in a particularized suspicious way where they're really interested.
+They have a particularized suspicion.
+They think that someone is a criminal, they think that someone has taken some serious steps that are illegal.
+And instead what they do is put all of us under surveillance.
+Record all of this data that they possibly can.
+And then they go looking through it.
+Now in the case of Chancellor Merkel, when we revealed NSRL 2002-388, what we showed was that they were spying on Merkel.
+And by their own admission, 3 hops away. 
+That's everyone in the German Parliament, and everyone here.
+So that's pretty serious stuff.
+It also happens that if you should be visiting certain websites, um, especially if you're a Muslim, it is the case that you can be attacked automatically by this system.
+Right?
+That would mean they would automatically start to break into systems.
+That's what they would call untasked targeting.
+Interesting idea, that they call that targeted surveillance.
+To me that doesn't really sound too much like targeted surveillance, unless what you mean by carpet bombing...
+You know I mean, it just, it, you know like, it just doesn't...
+It doesn't strike me right.
+It's not my real definition of targeted.
+It's not well defined.
+It's not that a judge has said, "yes this person is clearly someone we should target."
+Quite the opposite.
+This is something where some guy who has a system has decided to deploy it.
+And they do it however they like whenever they would like.
+And while there are some restrictions, it's clear that the details about these programs do not trickle up.
+And even if they do they do not trickle up in a useful way.
+So this is important because members of the US Congress they have no clue about these things.
+Literally in the case of the technology.
+Ask a congressman about TCP/IP.
+Forget it.
+You can't even get a meeting with him.
+I've tried, doesn't matter.
+Even if you know the secret interpretation of Section 215 of the Patriot Act, and you go to Washington DC and you meet with their aides, they still won't talk to you about it.
+Part of that is because they don't have a clue.
+And another part is because they can’t' talk about it because they don't have a political solution.
+Absent a political solution, it's very difficult to get someone to admit that there is a problem.
+Well there is a problem.
+So we're going to create a political problem, and also talk about some of the solutions.
+The cypherpunks generally have come up with some of the solutions, when we talk about encrypting the entire Internet.
+That would end dragnet mass surveillance in a sense, but it would come back in a different sense, even with encryption.
+We need both the marriage of a technical solution and we need a political solution to go with it.
+And if we don't have those two things, we will unfortunately be stuck here.
+But at the moment the NSA, basically -- I feel, has more power than anyone in the entire world.
+Any one agency or any one person.
+So Emperor Alexander, the head of the NSA, really has a lot of power.
+If they want to right now, they'll know that the IMEI of this phone is interesting.
+It's very warm which is another funny thing.
+And they would be able to break into this phone, almost certainly, and then turn on the microphone.
+And all without a court.
+So that to me is really scary.
+And I especially dislike the fact that if you were to be building these types of things they treat you as an opponent if you wish to be able to fulfill the promises that you make to your customers.
+And as someone who writes security software I think that's bullshit.
+So here's how they do a bit of it.
+So there are different programs.
+So:
+Quantum Theory
+Quantum Nation
+Quantum Bot
+Quantum Copper
+Quantum Insert
+
+You've heard of a few of them, I'll just go through them real quick.
+Quantum Theory essentially has a whole arsenal of 0day exploits.
+Then the system deploys what's called a SMOTH or a Seasoned Moth
+And a seasoned moth is an implant which dies after 30 days.
+So I think that these guys either took a lot of acid or read a lot of Phillip K. Dick.
+Potentially both.
+
+[applause]
+
+And they thought, Phillip K. Dick wasn't dystopian enough, let's get better at this.
+And um, after reading Valis, I guess, they went on.
+And they also have as part of Quantum Nation, what's called Validator or CommonDeer.
+Now these are first stage payloads that are done entirely in memory.
+These exploits essentially are where they look around to see if you have what are called PSPs.
+And this is to see if you have Tripwire, AID, if you have some sort of system tool that will detect that an intruder has tampered with files or something like this.
+Like a post-intrusion detection system.
+Um, so Validator and CommonDeer, which I mean -- clearly the point of CommonDeer, while it's misspelled here -- it's not actually, that's the name of the program -- the point is to make a pun on commandeering your machine.
+So when I think about the US Constitution, in particular, we talk about not allowing the quartering the soldiers.
+And you know, gosh, commandeering my computer sounds a lot like a digital version of that.
+And I find that a little bit confusing.
+And mostly in that I don't understand how they get away with it.
+But part of it is because until right now we didn't know about it in public.
+Which is why we're releasing this, in the public interest, so that we can have a better debate about whether or not that counts, in fact, as a part of this type of ... what I would consider to be tyranny, or perhaps you think it is a measured, and reasonable, thing.
+I somehow doubt that, in any case...
+Quantum Bot is where they hijack IRC bots, because why not.
+They thought they would like to do that.
+And an interesting point is that they could, in theory, stop a lot of these bot net attacks.
+And they have decided to maintain that capability, but they're not yet doing it.
+Except when they feel like doing it for experiments, or when they do it to potentially use them...
+It's not clear exactly how they use them.
+But, the mere fact of the matter is that that suggests there even in fact able to do these types of attacks, they've tested these types of attacks against bot nets.
+And that's the program you should FOIA for.
+We've release a little bit of detail about that today as well.
+And Quantum Copper to me is really scary.
+It's essentially a thing that can interfere with TCP/IP, and it can do things like corrupt file downloads.
+So if you imagine the Great Firewall of China, so called, that's for the whole planet.
+So if the NSA wanted to tomorrow, they could kill every anonymity system that exists, by just forcing everyone who connects to an anonymity system to reset just the same way as the Chinese do.
+So the NSA built the equivalent of the Great Firewall of Earth.
+To me that's a really scary, heavy-handed thing.
+And I'm sure they only ever use it for good, but yeah ...
+Back here in reality, that to me is a really scary thing.
+Especially because one of the ways they are able to have this capability, as I mentioned, is these diodes.
+Which that suggests that they actually repurpose other peoples' machines in order to reposition, and to gain a capability inside of an area in which they actually have no legitimacy inside of that area.
+That to me suggests that it is not only heavy-handed, that they also have some tools to do it.
+Well, Quantum Insertion, this is also an important point.
+Because this is what was used against Belgacom.
+This is what's used by a whole number of, unfortunately, players in the game where basically what they do is they inject a packet.
+So, you have a TCP connection; Alice wants to talk to Bob.
+And for some reason Alice and Bob have not heard about TLS.
+Alice sends a HTTP request to Bob, Bob is Yahoo, NSA loves Yahoo.
+And basically they inject a packet which will get to Alice before Yahoo is able to respond.
+Right?  And the thing is that if it was a TLS connection, the man-on-the-side attack would not succeed.
+That's really key.
+If they were using TLS, the man-on-the-side attack could at best, as far as we understand it at the moment, they could tear down the TLS session but they couldn't actually actively inject.
+So that's a man-on-the-side attack.
+We can end that attack with TLS.
+When we deploy TLS everywhere, then we will end that kind of attack.
+So, there was a joke you know, when you download MP3s you ride with Communism from the 90s.
+Some of you may remember this.
+When you bareback with the Internet, you ride with the NSA.
+
+[applause]
+
+Or, you're getting a ride?
+Going for a ride?
+
+So, the TAO infrastructure; Tailored Access and Operations
+Some of the FOXACID URLs are public.
+FOXACID is essentially like a watering hole type of attack, where you go to a URL.
+Quantum Insert puts like an iframe, or puts some code in your web browser which you then execute, which then causes you to load resources.
+One of the resources that you load while you're loading CNN.com for example ... which is one of their examples ...
+Um, they ...
+You like that by the way?  That's an extremist site.
+So, Um ... you might have heard about that.  A lot of Republicans in the United States read it.
+So, um, right before they wage illegal, imperialist war.
+So, uh, the point is that you go to a FOXACID server and it basically does a survey of your box and decides if it can break into it or not, and then it does.
+Yep, that's basically it.
+And the FOXACID URLs, a few of them are public, some of the details about that have been made public about how the structure of the URLs are laid out, and so on.
+An important detail is that they pretend that they are Apache, but they actually do a really bad job.
+So they're like Hacking Team, maybe it's the same guys, I doubt it though.
+The NSA wouldn't slum with scumbags like that.
+But, um, basically you can tell.  You can find them.
+Because they aren't really Apache servers.
+They pretend to be something else.
+The other thing is that none of their infrastructure is in the United States.
+So a little quick anonymity question.
+You have a set of things, and you know that a particular attacker never comes from one place.
+Every country on the planet, potentially, but never one place.
+The one place where most of the Internet is.
+What does that tell you in terms of anonymity?
+It tells you usually that they're hiding something about that one place.
+Maybe there's a legal requirement about for this?  It's not clear to me.
+But what is totally clear to me, is that if you see this type of infrastructure, and it's not in the United States, there is a chance, especially today, that it's the NSA's Tailored Access and Operations Division.
+And here's an important point:
+When the NSA can't do it, they bring in GCHQ.
+So, for example, for targeting certain GMail selectors, they can't do it.
+And in the documents we released today, we show that they say if you have a partner agreement form, and you need to target, there are some additional selectors that become available, should you need them.
+So when we have a limit of an intelligence agency, in the United States or here in Germany or something like this, we have to recognize that information is a currency in an unregulated market.
+And these guys, they trade that information.
+And one of the ways they trade it is like this.  And they love Yahoo.
+
+So, a little breather.
+
+[another Austin Powers slide]
+
+It's always good to make fun of the GCHQ with Austin Powers.
+Ok, another classified document here.
+That's actually NSA OpenOffice, or PowerPoint, clipart of their horrible headquarters that you see in every news story, I can't wait to see a different photo of the NSA someday.
+But you'll notice right here, they explain how Quantum works.
+Now, SSO is Special Source Operations site.
+So you've seen US embassies.
+Usually the US embassy has dielectric panels on the roof, that's what we showed in Berlin.
+It was called Das Nest on the cover of Der Spiegel.
+That's an SSO site.
+So they see that this type of stuff is taking place, they do an injection, and they try to beat the Yahoo packet back.
+Now another interesting point is that for the Yahoo packet to be beaten, the NSA must impersonate Yahoo.
+This is a really important detail, because what it tells us that they are essentially conscripting Yahoo, and saying that they are Yahoo.
+So they are impersonating a US company, to a US company user, and they are not actually supposed to be in this conversation at all.
+And when they do it, then they of course ... 
+Basically if you're using Yahoo you're definitely going to get owned.
+So, and I don't just mean that just that Yahoo is vulnerable, they are, but I mean people that use Yahoo tend to, maybe it's a bad generalization, but you know, they're not the most security conscious people on the planet.
+They don't keep their computers up to date, I'm guessing.
+And that's probably why they love Yahoo so much.
+They also love CNN.com which is some other ... I don't know what that says.
+It's like a sociological study of compromise.
+Um, but, that's an important detail.
+So, the SSO site sniffs, and then they do some injection.
+They redirect you to FOXACID, that's for web browser exploitation.
+They obviously have other exploitation techniques.
+Ok, so now, we all know that cell phones are vulnerable.
+Here's an example.
+This is a base station that the NSA has, that ...
+I think it's the first time ever that anyone has revealed an NSA IMSI catcher.
+So um, here it is.
+Well actually, second time, because Der Spiegel did it this morning.
+But you know what I mean.
+
+[applause]
+
+So, um, they call it find, fix, and finish targeted handset users.
+Now, it's really important to understand when they say targeting, you would think massive collection, right?
+Because what are they doing?  They're pretending to be a base station, they want to over power, they want to basically be the phone that you connect to, or the phone system that you connect to.
+And that means lots of people are going to connect, potentially.
+So it's not just one targeted user.
+So, hopefully they have it set up so that if you need to dial 911 or here in Europe, 112, uh, you know ...
+By the way, if you ever want to find one of these things try to call different emergency numbers and note which ones are out where.
+Just as a little detail.
+Also note that sometimes if you go to the Ecuadorian embassy you will receive a welcome message from Uganda Telecom.
+Because the British, when they deployed the IMSI catcher against Julian Assange, at the Ecuadorian embassy, made the mistake of not reconfiguring the spy gear that they deployed in Uganda when they deployed it in London.
+
+[applause]
+
+And this can be yours for only $175,800 USD.
+And this covers GSM, and PCS, and DCS, and a bunch of other stuff.
+So basically if you use a cell phone, forget it.
+It doesn't matter what you're doing.
+The exception may be cryptophone and redphone.
+And in fact, I would like to just give a shout out to the people who work on free software, and software which is actually secure.
+Like Moxie Marlinspike, I'm so sorry I mention your name in my talk, but don't worry your silence won't protect you.
+I think it's really important to know, Moxie is one of the very few people in the world who builds technologies that is both free and open source, and as far as I can tell he refuses to do anything awful.
+No back doors or anything.
+And from what I can tell, this proves that we need things like that.
+This is absolutely necessary because they replace the infrastructure we connect to.
+It's like replacing the road that we would walk on and adding tons of spy gear.
+And they do that too, we'll get to that.
+
+Ok.
+
+So, I'm going to go a little quick through these, because I think it's better that you go online and you ingest it.
+And I want to have a little bit of time for questions.
+But basically here's an example of how, even if you disable a thing, the thing is not really disabled.
+So if you have a WiFi card in your computer, the SOMBERKNAVE program, which is another classified document here.
+Um, they basically repurpose your WiFi gear.
+They say you're not using that WiFi card?  We're going to scan for WiFi nearby and we're going to exfiltrate data by finding an open WiFi network, and we're going to jump on it.
+So they're actually using other people's wireless networks, in addition to having this stuff in your computer.
+And this is one of the ways they beat a so called air-gapped target computer.
+
+Ok, so here is some of the software implants.
+Now we're going to name a bunch of companies, because fuck those guys basically for collaborating when they do, and fuck them for leaving us vulnerable when they do.
+
+[applause]
+
+And I mean that in the most loving way, because some of them are victims, actually.
+It's important to note that we don't yet understand which is which.
+So it's important to name them so that they have to go on record, and so that they can say where they are.
+And that they can give us enough rope to hang themselves.
+I really want that to happen, because I think it's important to find out who collaborated and who didn't collaborate.
+In order to have truth and reconciliation, we need to start with a little truth.
+So, Stucco Montana is basically BadBIOS.
+If you guys have heard about that.
+I feel very bad for Dragos he doesn't really talk to me right now.  I think he might be kind of mad.
+But after I was detained by the US Army on US soil, I might add, they took a phone from me.
+Now, it shouldn't matter, but they did.
+They also, I think, went after all my phone records so they didn't need to take the phone.
+But for good measure they just wanted to try to intimidate me, which is exactly the wrong thing to do to me.
+Um, but, as he told the story, after that happened, all his computers including his Xbox were compromised.
+And he says, even to this day some of those things persist.
+And he talks about the BIOS.
+Here's a document that shows clearly that they actually reflash the BIOS, and that they have other techniques, including System Management Mode related rootkits, and that they have persistence inside of the BIOS.
+An incredibly important point.
+This is evidence that the thing that Dragos(?) talks about, maybe he doesn't have it, but it really does exist.
+Now the question is how would he find it?
+We don't have the forensics tools yet.
+We don't really have the capabilities widely deployed in the community to be able to know that, and to be able to find it.
+Here's another one, this one's called SWAP.
+This one replaces the host protected area of the hard drive, and you can see a little graph where there's target systems, see the Internet, interactive ops -- so they've got like the guy that's hacking you in real time.  The People's Liberation Army, the NSA.
+
+And you can see all of these different things about it.
+Each one of these things, including Sneeker Net, these are different programs, most of which we revealed today in Der Spiegel.
+Um, but you'll notice that it's Windows, Linux, FreeBSD, and Solaris.
+How many Al Qaeda people use Solaris, do you suppose?
+
+This tells you a really important point.
+They're interested in compromising the infrastructure of systems, not just individual people.
+They want to take control and literally colonize those systems with these implants.
+And, that's not part of the discussion.
+People are not talking about that because they don't know about that, yet.
+But they should.
+Because, in addition to the fact that Sun is a US company, which they are building capabilities against, that to me really bothers me.
+I can't tell you how much that bothers me.
+We also see that they're attacking Microsoft, another US company, and Linux and FreeBSD, where there are a lot of people building it all around the world.
+So they're not only attacking collective efforts and corporate efforts, but they're attacking every option you possibly can from end users down to telecom core things.
+Here's another one, DEITYBOUNCE.
+Um, this is for Dell.
+So Dell PowerEdge 1850, 2850, 1950, 2950, RAID servers using any of the following BIOS versions.
+So just in case you're wondering, hey Dell, why is that?
+Curious about that, would love to hear your statements about it.
+So if you write YARA sigs and you're interested in looking for NSA malware, look for things that use RC6.
+So look for the constants that you might find in RC6.
+And when they run, if they emit UDP traffic...
+We've actually seen a sample of this, but we were not able to capture it, sadly.
+But emitting UDP traffic that is encrypted.
+People that I've worked with on things related to this, they've had their house black bagged, they've had pretty bad stuff happen to them.
+That's their story to tell.
+But one of the interesting details is that after those events occurred, these types of things were seen.
+Man that was a really bad idea for those guys, because I wouldn't have put the slide in if that had not occurred.
+But if you want to look for it, you'll find it.
+I know some people that have looked with YARA sigs and they have in fact found things related to this.
+So I suspect a lot of malware researchers will have a lot of stuff to say about this particular slide.
+I'll leave that to them, I think it's very important to go looking for these things, especially to find out who was victimized by them.
+
+Here's an iPhone backdoor.
+So, DROPOUTJEEP, so you can see right there.
+So, SMS, Contact List retrieval, voice mail, hot microphone, camera capture, cell tower location.
+Cool.
+
+Do you think Apple helped them with that?
+I don't know, I hope Apple will clarify that.
+I think it's really important that Apple doesn't.
+Here's a problem.
+I don't really believe that Apple didn't help them.
+I can't prove it, yet, but they literally claim that any time they target an iOS device, that it will succeed for implantation.
+Either they have a huge collection of exploits that work against Apple products, meaning that hording information about critical systems that American companies produce, and sabotaging them.
+Or Apple sabotaged it themselves.
+Not sure which one it is, I like to think that since Apple didn't join the PRISM program until after Steve Jobs died, I like to think that it's just that they write shitty software.
+We know that's true.
+
+Here's a HVT, high value target.
+Um, this is a high value target being targeted with a back door for Windows CE.
+Thuraya Phones.
+So if you have a Thuraya phone and were wondering if it was secure ...
+Yeah maybe ... good luck.
+
+Here's one where they replaced the hard drive firmware.
+There was a talk at OHM this year, where a guy talked about replacing hard drive firmware.
+You were on to something.
+You were really on to something.
+Whoever you were you were on to something.
+Because the NSA has a program here, IRATEMONK.
+And that's exactly what they do.
+They replace the firmware in the hard drive
+So it doesn't matter if you reformat the hard drive, you're done.
+The firmware itself can do a whole bunch of stuff.
+
+So here are the names of the hard drive programs where it works:
+Western Digital, Seagate, Maxtor, and Samsung
+
+And of course they support FAT, NTFS, EXT3, and UFS.
+They probably now have support for additional file systems, but this is what we can prove.
+Please note at the bottom left, and the bottom right:
+Status:  Released / Deployed Ready for Immediate Delivery
+And Unit Cost: $0
+It's free.
+It's free
+
+Yeah, you can't get it, it's free as in "you're owned"
+
+I want to give a shout-out to Karsten Nohl and Luca for their incredible talk, where they showed this exact attack without knowing that they had found it.
+Right?
+They say ... yeah, absolutely.
+
+[applause]
+
+Important point, the NSA says that when they know about these things that nobody will come to harm, no one will be able to find them.  They'll never be able to be exploited by another third party.
+
+Karsten found this exact vulnerability.
+They were able to install a Java Applet on the SIM card, without user interaction, and it was based on the service provider's security configuration.
+Which is exactly what the NSA says here, and they talk about the SIM toolkit inside of the phone.
+And Karsten found the same vulnerability and attacked it in the wild.
+This is perfect evidence, not only of how bad-ass Karsten and Luca are, they are, no question -- but also of how wrong the NSA is with this balance.
+Because for every Karsten and Luca, there are hundreds of people who are paid to do this full time and never tell us about it.
+Important detail:
+See that interdiction phrase right there?
+Through remote access, in other words we broke into your computer, or interdiction in other words we stole your fucking mail.
+Now this is a really important point.
+We all have heard about these paranoid, crazy people talking about people breaking into their houses.
+That's happened to me a number of times.
+Motherfuckers, getting you back.
+It's really important to understand this process is on that threatens all of us!
+The sanctity of the postal system has been violated.
+I mean, waaah!
+It makes me so angry, you know!
+You can't even send a letter without being spied on.
+But even worse that they tamper with it.
+It's not enough that the US Postal Service records all of this information and keeps it.
+That's not enough.
+They also have to tamper with the packages!
+So every time you buy from Amazon, for example, every time you buy anything n the Internet, there is the possibility that they will take your package and change it.
+One of the ways that I've heard that they change it is that they will actually take the case of your computer, and they will injection mold a hardware back door into the case of the computer.
+So that even if you were to look at the motherboard or have it serviced, you would not see this.
+It just needs to be in the proximity of the motherboard.
+So let's talk about hardware implants that they would put into your devices.
+Here's one, this is called BULLDOZER, it's a PCI bus hardware implant.
+Pretty scary.
+Doesn't look so great.
+But let's go on a little bit.
+Here's one where they actually exploit the BIOS in System Management Mode.
+There's the graph that shows all of these various different interconnections which is important.
+Then they talk about the long range comms, MRSAT, VSAT, NSA MEANS, and Future Capabilities.
+I think that NSA MEANS already exists, and Future Capabilities seems self-explanatory.
+This hardware implant provides two-way RF communication.
+Interesting.
+So you disable the wireless cards, whatever you need, there you go, they just added a new one in there and you don't even know, and your system has no clue about it.
+Here's a hardware back door which uses the I2C interface, because no one in this history of time other than the NSA probably has ever used it.
+That's good to know that finally someone uses I2C for something, ok, other than fan control.
+But yeah, look at that, it's another American company that they are sabotaging.
+They understand that HP servers are vulnerable, and they decided that instead of explaining that this is a problem, they exploit it.
+And Iron Chef, through interdiction, is one of the ways that they will do that.
+
+So, I want to really harp on this.
+Now it's not that I think that European companies are worth less.
+I suspect, especially after this talk, that won't be true in the literal stock sense, but I don't know
+I think it's really important to understand that they are sabotaging American companies because of the so-called home field advantage.
+The problem is that as an American who writes software, who wants to build hardware devices, this really chills my expression.
+And it also gives me a problem, which is that people say, "why would I use what you're doing?  you know, what about the NSA."
+Man that really bothers me.
+I don't deserve the Huawei taint, and the NSA gives it.
+And President Obama's own advisory board, that was convened to understand the scope of these things has even agreed with me about this point.
+That this should not be taking place. That hording of 0day exploits cannot simply happen without thought processes that are reasonable, and rational, and have economic and social valuing where we really think about the broad scale impact.
+
+Now, we're going to go on to a little bit more.
+
+Here's where they attack SIM cards, this is MONKEYCALENDAR.
+So it's actually the flow chart of how this would work.
+So in other words, they told you all of the ways in which you should be certainly looking at this.
+So if you ever see your handset emitting encrypted SMS that isn't Text Secure, you now have a pretty good idea that it might be this.
+
+Here's another example.
+If you have a computer in front of you, I highly encourage you to buy the Samsung SGH-X480C.
+That's the preferred phone of the NSA for attacking another person's phone.
+I'm not exactly sure why, but an important point is they add the back door, then they send an SMS from a regular phone.
+What does that tell you?
+What does that tell you about the exploitation process?
+It tells you that it's actually something which is pretty straight forward, pretty easy to do, doesn't require specialized access to the telecoms once they've got your phone compromised.
+That, to me, suggests that other people might find it, and other people might use these techniques.
+
+Ok, here's a USB hardware implant called COTTONMOUTH.
+We released this in Spiegel today as well.
+See the little red parts.
+It will provide a wireless bridge onto the target network, with the ability to load exploit software.
+
+Here's a little bit of extra details about that
+It actually shows the graph at the bottom, how they do this, how they get around, how they beat the air gap of these things.
+They talk a bit about being Genie compliant
+So, genie, and the rest of these programs, these are like drop out jeep is part of the chimney pool programs, and COTTONMOUTH is part of the reset of these programs over here.
+
+These are huge programs where they're trying to beat a whole bunch of different adversaries
+and different capabilities are required
+and this is one of the more interesting ones.
+
+And here's the next revision of it, where it's in a USB plug, not actually in the cable.
+And look, 50 units for $200,000 USD.
+That's really cheap.
+You like my editorializing there, I hope.
+
+And here's where you look for it if you happen to have an x-ray machine.
+You look for an extra chip.
+And that's a HOWLERMONKEY radio frequency transmitter.
+Well, what's a HOWLERMONKEY?
+Um, we'll talk about that in a second.
+But basically this is for Ethernet, uh, here, this is the Firewalk.
+It can actually do injection bidirectionally on the Ethernet controller, into the network it's sitting on.
+So it doesn't even have to do things directly to the computer, it can actually inject packets directly into the network according to this specification sheet, which we released today on Der Spiegel’s website.
+
+As it says, active injection of Ethernet packets onto the target network.
+
+Here's another one from Dell with an actual FLUXBABBITT hardware implant for the PowerEdge 2950, this uses the JTAG debugging interface of the server.
+Why did Dell leave a JTAG debugging interface on these servers?
+Interesting, right?
+It's like leaving a vulnerability in.
+Is that bug door or back door? Or just a mistake?
+Well, hopefully they will change these things, or at least make it so if you were to see this you would know that you had some problems.
+
+Hopefully Dell will release some information about how to mitigate this advanced, persistent threat.
+Right?
+Everything that the US Government accused the Chinese of doing, which they are also doing I believe.
+We are learning that the US Government has been doing to American Companies.
+That to me is really concerning.
+And we've had no public debate about these issues.
+And in many cases all the technical details are obfuscated away, and are just completely outside the prevue of discussions.
+
+In this case, we learn more about Dell and which models.
+And here's the HOWLERMONKEY.
+These are actually photographs of the NSA implanted chips that they have when they steal your mail.
+So after they steal your mail, they put a chip like this into your computer.
+So the one, the FIREWALK one, is uh, the Ethernet one, and that's an important one.
+
+You probably will notice that these look pretty simple
+Common off the shelf parts
+So, phew.
+
+Alright
+
+Who here is surprised about any of this?
+
+[laughs]
+
+I'm really, really, really glad to see that you're not cynical fuckers, and that someone here would admit that they were surprised.
+Ok, who here is not surprised?
+I'm going to blow your fucking mind.
+
+Ok, we all know about tempest right?
+Where the NSA pulls data out of your computer.
+Irradiates stuff and then grab it.  Right?
+Everybody who raised their hand and said they're not surprised, you already knew about Tempest, right?
+Right?
+Okay.
+Well, what if I told you that the NSA had a specialized technology for beaming energy into you, and to the computer systems around you?
+Would you believe that that was real?
+Or would that be paranoid speculation of a crazy person?
+
+[laughs]
+
+Anybody?
+You cynical guys holding up your hands, saying that you're not surprised by anything.
+Raise your hand if you would be unsurprised by that.
+Good, it's not the same number.
+It's significantly lower.
+It's one person.
+Great.
+
+Here's what they do with those types of things.
+That exists, by the way.
+
+When I told Julian Assange about this, he said it right
+He said, "Hrm, I bet the people who were around Hugo Chavez are going to wonder what caused his cancer."
+And I said, you know I hadn't considered that.
+But you know, I haven't found any data about human safety about these tools.
+Have the NSA performed tests where they actually show that radiating people with 1kW of RF energy at short range is safe?
+My God!
+No, you guys think I'm joking, right?
+Well, yeah.
+Here it is, this is a continuous wave generator.
+A continuous wave radar unit.
+You can detect its use because it's used between 1 and 2 GHz.
+And its bandwidth is up to 45MHz.
+user adjustable
+2W using an external amplifier makes it possible to go up to 1kW
+
+I'm just going to let you take that in for a moment.
+
+Ahem.
+Who's crazy now?
+
+[laughs]
+
+Now, I'm being told I only have one minute, so I'm going to have to go a bit quicker.
+I'm sorry.
+
+Here's why they do it
+Here's an implant called RAGEMASTER, it's part of the Angry Neighbor family of tools.
+Where they have a small device that they put in line with a cable for your monitor,
+and then they use this radar system to bounce a signal
+This is not unlike the Great Seal bug that Louis Theremin designed for the KGB.
+So it's good to know we've finally caught up with the KGB, but now with computers.
+They send the microwave transmission, the continuous wave, it reflects off of this chip, and they use this device to see your monitor.
+Yep.
+So there's the full life cycle:
+first they irradiate you, then you die from cancer, then you win
+
+Here's the same thing, but this time for keyboards
+USB and PS/2 keyboards
+
+So the idea is that it's a data retro reflector.
+
+Here's another thing, but this one, the TAWDRYYARD program is a little bit different.
+It's a beacon.
+So this is where they probably kill you with a drone
+That's pretty scary stuff
+They also have this for microphones to gather room bugs for room audio
+
+Notice the bottom, it says all components are common, off the shelf, and are so non-attributable to the NSA
+unless you have this photograph, and the product sheet
+happy hunting
+
+just to give you another idea, this is a device they use to actively hunt people down
+this is a hunting device
+right?
+handheld finishing tool use for geolocating targeted handsets in the field.
+
+So, who was not surprised by this?
+I’m so glad to have finally reached a point where no one has raised their hand, except that one guy who I think misheard me.
+
+[another Austin Powers slide]
+[laughs]
+
+Or you're brilliant, and please stay in our community and work on open research.
+Yeah, and if you work for the NSA, I would just like to encourage you to leak more documents.
+
+[standing ovation]
+
+[another Austin Powers slide]
+
+

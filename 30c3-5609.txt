@@ -1,0 +1,569 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[X] German  
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+than it already has been
+we are going to have that combined presentation
+of star off thi
+fwe are going to start with the noc review
+pelase welcome the guys from noc
+applause
+good morning 
+and this is.. we were working onthe noc
+massive crows outside of the room
+sehall i come herre or just
+
+
+anyway here i am. so for those who are here last year, on the backbone..
+
+because the net got bigger as well because we are using more rooms at the cch meant a bigger room of equpipment
+we had two mx 40 100Gb intefaces
+and we hat a whole load of XX86 with..
+a whole load of 10 gig links aroudnd the building the larger lines are 10g links
+we also had a net of .. really for the first time we also rean a a full .. network.. in order to remove from the past
+so that let a small complexity that was difficult tom anage.
+lkast year we had some sistibutions..
+we had the dual? swithces. 
+and used them for a routing that was a big mistake placed on a.. as router
+which makes the network more complex 
+wewhcihc neesd to be managed instead of wone and it got it way more complexe and here is the uplink graph
+wehad 100gb to the data center and a capacity to of around 50 sth
+any dou fuys only reached 40gbs peak so why should we use more infrastructire..
+[laughter applause]
+applaus
+yeah this years wireless , we had a different vendor which made things a bit troubling.
+so we had some auth a few times but basically we had way more visiters than last year
+.the peaks was.. was 5 thousand yusers...
+and we pulled the graphics, out and we had encrypted wireless running it was basically 8021.x
+
+and you can enter any passwort and user you want most people are just usung 30c or ..
+or you had just a password and username like p3nis and fn0rd,
+tech sors. and this years we did some good io on the airtime, which means how much the 2.6 gigahertz is used. 
+or the 5GHz band ist also used in the aird this is the graph from the..
+and the air time in hall1 was pretty used and busy, but we
+the time it worked somehow, we had some outages and problems during this event.
+on the day 1 we had basically a big .MPLS  problem with unknown unicast brodcasts in the
+the cpus ogf the routers had amloost 6 to 8 hours to find out..
+and drung that we discovered more isssues where the wrong prowr suplies were shipped, and we had to plug in the line card.. 
+oh i don't power.. and we had also a littrle problem with arp traffing from the wirelles there are the big.. 
+when the light was blinking thaere were 400 users running and the box said "uh uh uh" and...
+[laughter]
+doing nothing and the box almost died and we moved the routing of the wireless onto an linux box.
+we had like three or four million eureos from big vendor and.. routing on the wireless from the..
+yeah, the colo system was actually very good, because the 
+next to the box, there was a shelf next to box, the powersupply was. ? the pdu was next tot he
+and was way better and on the left corner you see.. we call mean paket size
+it's the average packet size on the uplink, 
+basically when you make a big ftp stream, when you transfer big data the packet size is like 1500 bytes.
+but if you go.. see the peak like 29th in the evening goes really deep to 200 bytes
+per packet on the average, people were portscanning. and that was very annoying.
+we were filtering the congress network anyway because its really annoyng, and it's filteed
+generates abuse mails tracked numbers an hour ago we had like... 653 abuse mails
+in the last half hour, and wie sai people to stop portscanning,
+and break anything and due to that we hade a big blacklist and one /12 and one /14 to ..
+just to keep .. quiet because doing complete protscan of the network.. 
+and i thoink ,there was only one realy abuse case , which was not a port scan.
+yep, and usual we show our sponsors, because wihtout them this would not really happen.
+also our upstreams which were not probably used from you which..
+and the network came from juniper this year, the boxes from ... and
+whihc was like 15 people and was really really bad, and next year we wont get enoug v4 adresses anymore.
+and yeah big thanks to the data center which ship all the hardware to.. and..
+[applaus]
+we have one more surprise for next year, and . we are not professional so nextyear we will
+outsources next year will be much better
+applaus
+i think we have finished here in the next presentation we have the power team
+and yeah, have you any questions regarding the noc?
+what was the averrage bandwidht of the colocation? 
+it was 15 - 18..? bits.
+iant wasd 18..
+so if you have questions please move to the mics that people in the stream can hear that
+have you any information on the outrage of saal1, it was tweeted, and what was the cause?
+yeah, network equipment doesn't run without a power and there was not a powercable? laid in at the back of the swithc. 
+why do you think the nat 64.. was so low?what did you say?
+
+people use the internet conncection for doing things and do try
+destroying things out. we try to encourage people to experiment, things, to try them out so it's there for you to use. 
+otherwise id ont really know
+yes so this year i will talk to you about the.. team we drive the power supply in the
+that's our theory this year, 
+about one hundred distribution boxes, and about ? hundred power outlets. 
+yeah everything we have to build here is pretty new because its an old building
+that's an example from the build yeatr..
+and you see every power connection around this building, pretty much big powersupplies and not so much normal power supplie from the users
+it looks up like this thats yeah see you then from the yeah erdgeschoss here and yeah room 3 is much power supplies the colocation was not really used this year from my point of view
+the colocation was not really used from here, the switch was 125amps, and only 3 were used.
+a goo ? you have heare. 
+on the whole 4 days ywe have use. [used]
+in the whole time we have been here. 
+normal power supply from one house with 3 poeple are up to about 7300 kwh/a
+so it's illiterate?
+i don't konw what to tell, we have not much more graphs or somthing.. 
+[applause]
+----
+good afternoon
+
+I'm ? from the phone operating network, we're doing this, ? with the gsm people which are not. 
+some of them
+okay letzts start with a confusiojng graph this is our routing plan
+if you see at the very top a commerial grade PBX which is called 4400?
+[laughter]
+okay all of these phones ran from the 4400 it's connected to LCR, which is the linux call router. 
+that .. connects to a .. server thats connected to sip in case you forgot your dect pohone you could have connected via sip as well
+we are running one * server in the corner over there for historical reasons,
+and several more ? rcs. for dialin out, it was possible to dial out to the whole world actuallty, 
+but nobody noticedbut this yera...it's not always the case
+it was possible to dial the gSM and of course...
+few more statistics
+weve had 2800 extensions installed
+almost 1000 DECT fans, so 
+to register one dect phone, so we sat there 6 people registert DECT phones, .
+on the right side you see the technologie is a... linux core router if you are really interested in .. software and routing
+ans software should come up to the POC, and people should come to the POC
+then we used yate as a stable sip server a bit of * and lots and lots of more software, some of the software is available on poc apps? ? ..
+if youre interested
+i think thats it thank you
+applause
+are there any questions regarding phone network?
+how many calls were madE?
+the question was how many calls were there, 
+it's a hacker congress so we have no log files at all. 
+what i can tell you we had 14 dect antennas to cover the code area
+and the SIP was totally unencrypted, ther ewas a single person who was skting for encrypted sip
+okay, 
+--VOC--
+this jahres video operating center.
+we come to present later.
+this year we change the VOC,
+VOC was two diffeenet team, FEM who did the last few year, and a group of CCC people
+and we worked together during talks and recordings so we had a new team and we were distributed all over germany
+so it was rather dificult to organize ourselves 
+we had around 20 people and we had almost 4 months where we had no real lives at least on mondays, du
+at least on monday when we had our weekly mumble meeting
+we filled 40 etherpads with plaanning stuff and sketched our ideas and tried to 
+test stuff, so we hope we could pack up everything and it would work, but as you have guessd its not always that easy
+so ähm well we thought lets try some new stuff off couse as you had noticed we had one more
+which was 4th more work o do, ut that was relatively easy,
+so we cdecided to do something els so we upgraded sall 1 to hd, not sure it would work, but it worked wonderfolly, so you'll gett all the recording in HD
+recordings .. tube
+also we changed our setup a littlle bit so its more decentralised if someone stepped on a calbe it was not that bad
+erm, there was also a subtitling team, but we will ahave a slide about that later
+we offered recording to the poeple who. 
+we recorddes esoem? .. 
+some noices..
+so for the next years we weill try to increase our workshop recording so we can also supply
+so we can also supply with recordings of the workshops. we also upgraded our deployment platform,
+you might know media ccc. the old backend was rewritten, before the congress which resulted in some bugs? which we will talk about later
+thats slightly more.. strack few how our infrastructure looks like on th eleft we have
+left are the different halls, on the piicture there are halls of
+we show that data, in the middlle is our colo, which is up at the video regie? where we are based
+and yeah the.. infrastructure as you see here with lots of different colors
+so that DSI is a video protocol, and you send over all that over?..
+beacuse of? 
+thanks to the noc for providing ethernet on day -1 so we could test stuff, that was really great
+applaus
+to my part i was .. differen subteams deploy video hardware and so on
+called "SaalAV", and go into that ttogether, and we can see our 
+standard setup used at other events, just software called, DVswitch. a sort of framebuffe which 
+the cameras are connected via .. we have some pci cards
+inside of this boxes, and
+so basically this is. as you see here. most networking, 
+we had panasonic mixer, mixing hd.
+just plug one monitor in, not one for each camera.
+only one different multiviewer you select which camera you want
+and this goes out on the program, this injects audo,
+this any audio, the mixer, and goes up here, and we have this ? setup from sal 1. 
+the ? from us. 
+
+switch the cameras to a beamer switch which connected most.. to the beamer
+and also do some broadcasts from the beamer to ..
+and of course it was back in to the video mixer, so we can show you the slides on the screen
+so the box we.. was currently.. was CCH
+rented hardware, so basivally we had XX ports on the stage 
+which use cases this box here, fibre, in fibre out, which worked quite, nice, . 
+don#t know why .. plug it in .. evan..somteimtes wrong aspect ratio
+for that reason we ordered some EDID som, which did some resolutions, 
+should be HD connections, here, worked quite nice
+because on linux and mac you can't select resoliutuions.you because macos thinks it knows better than yo
+you have tot ype some more thanks to .. we have to some more
+you have to find up the hardware, and you can see that at github, and 
+okay, so how the video gets transmitted to our datacenter, and on to videoregie, which was next to a stair case which got nice and warm
+so this is our rack where all our streams and recordings are processed
+and well, the cabling is al little bt ad hoc, well, nothings is more permant
+nothing is more permanent than a temoporary solution, so it worked quite nicely.
+so this box runs all the streams and then they get distributet to all the. to the internet
+so that's out CDN , that very blurry, so anyway,
+so we had a lot of boxes which were on the internet. .
+thank you
+so quite a lot of boxes which you can see on the rihgt. , quite a lot of equipment, we don't have sponsor slide but
+we have a list on the wiki.. sponsors.. thanks for that
+they supplies us with about 23...
+23 relays that distrinuted the load so you can enjoy the streams without 
+we had one main relay which was taksked with distributing video to relays ues. this transmitted ot the 
+well eah
+and we had one.. box which was called USA? we hoped to ship it to america to 
+america to give a little bit of geo distribution, but that didn't worked out, we hat  boxes with
+names of cities and contuires that never match the cities located in, for example we had one box named amsterdam which was in dusseldorf?
+so this box usa did the HD streams .. so we used two different components...
+which can distributre XXXX 
+every few minutes,, but we got it to work quite safle, we also used icecast for the audio?video streams?
+which is incredibly stable it crashed once because we used a better version on some of the nodes
+so that went really well. so we did some statistics, you can see fefe right there?
+you can see peak fefe right thera
+so that was the box inside ccc
+so the hd stream
+noc told us to use more bandwith our .. traffic in side was about 
+so we contribvuted to the 10 GBs quite nicely ...
+all in all w ehad on the external relays, so we deliverd 55? terabats. of strams. . 
+24. terrabye were 
+so that's for streaming relays, 
+and on average we had 40500 to 6 viewers, so operations we had a operations subteam
+which was tasked with all our.. 69 hosts which were on /off site the area
+we had 69 hostrs with nagios checks, so 
+so we could just boot up the contrss with a command line. whic a command line, you can see all the work we had at the beginning of the month.
+we wrote about a couple of thousand lines of puppet code
+we are all puppet masters right now
+we had about 62 % talks realeased in one format, we will fokus on having all the talks reeased befor doing other formats
+so you can start watching as soon as possible
+hopefully we can relaaease the rest of the talks toay, as long as they have already hapopened.
+applause
+so the releas will happen in mp4 for the HQ pal release, we have contrained , mpr, srt of th 
+for mobile devices and i* stuff things
+at the bginning, that is dark .. iprod release right now...
+sone thing. on the right there is a screenshot from the tracker, you see the blue bar here and it was done.
+automations is a 
+there was an awesome subtitling project, whe hope to subtile all the talks.
+we need volunteer for that
+
+please help out.. you can find the wiki page.. 
+basically we have now text in pads, use a ervice called amara.
+
+
+allright, speaking of volunteering, it not only goes for the video team, but for the hole conggres.s nothing could be done without them
+we had 108 audio video angels which did the cutting and mixing of the videos
+9 ccordinators, who supervise the salls.
+we have to goe verutwher,e some speaker is not able to conenct to beamer. we had the herals, and also the translation team. 
+which translated all talks into english which is also great
+applause
+which is grat,, thanks!
+which were translated into German, and they will be released, and maybe some subtilte.s
+there were some fuckups our recorder hat some memleads
+The releases will contain translations.
+so the opening event will be released later
+aslo on day one you may have noticed, an outage, in the HLS stream. I learne dyou could creat a steream wouth
+theer were some network outages which we had before
+the also affected our streams of cource,
+hadwtried to release one talk which we had to delete
+had a quite intersting bug which resulted in all the videos being deleated
+[aplpause]
+so sorry for that, we are reuploading them 
+thats it
+one last thing . we had to remove somehting from the beginning of the talk
+in case you wonder, we are using ? , 
+in the beginning we use that .. 
+we can't do anythin without moving on the stage,
+and we forgot to put it out, 
+but i think Tim quite enjoyed them, so...
+applause
+
+any questoins?
+can you go to the microphoine?
+
+Ive got one question for POC?
+people are complaing that they could not call the NL
+why?
+[repeat]
+they could not call outside to NL
+
+it should be possible to call the Netherlands. Please try again.
+applause
+question for the voc: will there be HD videos for all other saals, more than saal1?
+there will be only HD for sall 1
+
+HD for us is 1080i no, 1080p
+confusiong yeah
+
+where could they find workshp recording. 
+they will be uploaded later
+
+öthe signs? operations center, 
+we cant fault the power opwerations center.but we beat the noc with our one terabyte capsuel. 
+we had better bw and lower latency. 
+and our average packet sice, was like this...
+
+speakin of funny capsules..
+[much applause]
+there was also onions,
+like cameras, a bunch of videos on youtube, footage, I dunno whats so interesting about this yellow tube. 
+
+they shipped popcorn quite successfully.
+another team.
+i don't know who shipped alcohol,
+
+this morning when I just had storeted doing the slieds, I said, lets take a picture, and there was an actual onin there. 
+
+then someone did onionrouteing with multiple lables on the capsules
+
+There's actually a video of that online.
+
+again go to youtube and look for intube footage
+call us on dect, tell us who you are and we will send you...
+
+
+it was certified , but one wouldnt think that this thing goes anywhere.
+we see more improv capsules. 
+
+i look forward to 3D printed capsules
+next time please do cool 3d printed capsuels
+can't be so hard
+you can bend a glass fibre to get data out and someone tried the same thing here
+but i don't thik it worked
+speakin ff the loop there was one 
+spewaking of the loop, there was a higly illegal speed test with 5 VAC cleaners, with a mate bottle in it
+what could possibly go wrong
+at the first curve the mate buttle just went..(fluing) i think about 7 meters. 
+
+send more ? next time, please. 
+I started to put out transmission logs, to get estimate for capsuels routed, as 
+
+you can gess some logs were really accurate, and some made a mark,
+but others like assembly and c-base was a ..(less accurate)
+
+we have received more capsules than were sent. 
+
+as you can see from the numbers, more stuff have been sent from.. 
+
+this other side project, because making marks on paper is last centyry
+this is a hacker conference so wee need something cool
+
+zählrohr is a counting tube if translated directly
+we planned to deplou one ahlrorh at every switching node.
+but you know ho stuff works, . 
+
+we etched 25 boards, organized RPIS, and when we got here, nothing worked. :(
+    
+    
+everything is open hw , go to github and find schematic, software, everything
+
+we brought you regular capsule updates on the flip? display
+we only used a small part, and then several complaints there is a typo
+most should have spotted it. and you can't read endpoint names. 
+an update thanks to the guys from munich again
+and you could see seidenstrasse updates on the screen.
+we did some data mining. we look only at metadata.
+the fastest capsule, was like 11 m/s
+it game from 1. stock, it had gravity and the huge cbase vacuum system and made a huge boom
+
+then you get the other end. with like 0.5 m second.
+
+so they set the speed record, on the 28. and after that noone could beat it again.
+people do some experiments, and maye we get the fastest on the last, day, but we got the 
+fastest on the first day.
+
+the speed depeds on capsule design.
+smaller don't get stuck but are slower due to less pressure.
+
+
+in the end you know the first slied. was the result of the paper list
+and this is from the automatic counter.
+some got stuck and got counted double.
+I think it's an accurate number
+you may want to do own data maining
+I've uploaded all data as json. on the . also on the wiki
+I'd like you to look it.
+
+
+I don't have a question. but something we tired.
+transmitting sounds works really well
+we could transfer low bandwitdh data over it
+any ham operatior konow spsk31
+morse works really well
+try to send raw image file
+form sourndcard, works somehow, 
+you can see images on the other side
+transmitted over SSTV also from ham radio
+there might be interesting side channel for the future.
+
+any interesting fire door bridges.
+where you had to cross fire dorrs.
+
+any ways to route round firedors.
+there was a concept to build a line follower to do the transport
+but not finihsed in time unfort.
+also flying capsuels, and wifi?...
+there were some safety issues, 
+like the flying mate bottle.
+one from the internet
+
+why the tubes were yello
+they would like transparent
+yellow are standard tubes for drain
+it's cheaper than making them transparent
+and I don't know where to get 1-2 km of transparetn plastic tubes.
+ach so 
+did you want to integrate seidenstrasse into secret ? 
+
+most of the coding was done by me.
+
+how did you ship and store 2km of tube
+we just ordered it and had it shipped here.
+[applause]
+they come by LKW oder?
+it's not that much. it's only half a ? truck
+it was difficult to get 2km because most producers go on holiday a bit early
+and we had porlbems with logistics. the rope did not arrive
+and I had to buy 1.2 kms 
+lucky they had so much in stock
+they delivered the wrong adapters. so we had to improvise.
+
+
+
+[applause]
+any further questions.
+
+so if anyone was wondering what that noise was, it was 50 boxes of empty mate and other stuff falling down the ramp
+empty but not flying
+
+so this year we had a gsm network agian.
+we did not use openbts, 
+excellent expeirment last year
+but back to only openbsc
+7 base stations, hope we still have 7 throught the cch
+
+two kinds, the sysmobts and the nanobts in a few places
+
+some bts with 3w amplifiers.
+and we were using some without amplifiers, quit a bit lower power
+for the entrance hall and sall 1
+we had simecards this year, too few , sorry about that.
+and they sold out. 
+in the afternoon of the second day
+we had some issues that german vodafone, answered
+so when one our c3 simcards tires to contact vodafone as phones do
+when it tires to do a location update,
+regitering, I am here
+vodafone replied, this simcard does not exist in the hlr db.
+what this means is the phone, stops trying 
+you do not exist
+that's bad for us, beacuse the phones are still not registed
+
+there was a mass sms sent out and many got cards updated with vodaphone added to a block list
+better if vodafone replied i dont know who you are instead of permanent error
+the motivation there is relly only one gsm system so who they don't know don't esist
+device stats first of all
+so see how this work
+two addresses tinyiurl/gsm.
+devces from manuf the network has seen.
+it also includes devices passing by in trains or , found a strong signal
+outside in the front of cch, people walking by
+where the c3 is the stronges, we did not do the vodafone thing
+we're kinder
+
+we see that samsung is the most poplular
+nexus v5
+nokia is big as well
+who's this, LG
+350 of those
+that is apple
+lots of iphjones.
+[lauhgter]
+oh well
+
+this is the c3 netmon
+shown you already
+gsm here we go.
+so good number of sms's sent
+deleiverd 15000, thats interesting
+
+calls issued ? 
+calls delivered
+I can explain difference in calls, not sure about sms
+
+mass messages, could be that first delivery attempt did not work and is still in the queue
+the network retires and eventually succeeds
+calls issued is from gsm to anywhere
+apparently also outside
+delivered is calls to (our net?)
+quite a increase from last year
+yes, that's what I had to say.
+I'm happy to anwser any questions.
+
+a couple of things,
+that sms sent out to tell sims to block, 
+does it require user interaction. or is it behind the scenes.
+
+they are not over the air updateable. 
+they are simpler than wat you get rom real world netwokrs.
+
+yes it req user interaction, many stopped byy and had their cards updated.
+the other thing, is it possible to configure a bts to answer any location update request and tell it to go away
+
+yes it's triviial
+
+do you know anything about th reange
+our phone in the hostel 2km away claimed reception
+that sounds like a bug
+i did not do range testing
+I'm surpriesde if we even covered the entire park aoutse
+
+it's placed to cover the building.
+inside hall 1 and 2 had shorter range
+they were possibly overloaded by people listenitg to the talks/translation
+may experiment with optimization with broadcast audio
+not quite standards compliant, maybe it'll
+
+
+will the cards be reusable on the upcoming events.
+
+yes, just like all the old cards, they will contineu to work in future netwokrs.
+
+what will you do with the two kms of tube? 
+is this thing on?
+
+
+
+
+just organizing this at hte momens, 
+frank organized that the delivered would take the tube back, for 1 euroo but we can keep all the pieces that are not rolled up
+we can keep the short pieces
+
+
+if you want a test track in your hackerspace
+you can take as much as you like
+
+i don't see any more questoins, 
+thank you very much for this talk 
+thank you for making .. this possible.
+
+

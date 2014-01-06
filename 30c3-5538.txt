@@ -1,0 +1,167 @@
+CTWelcome to the Subtitles Pad, nice to see you here!  
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+...
+instead snowden tells him truecrypt is designed so your kid brother can use it.
+tells us two thingsm you do have to pitch advice to the audience yo u got, also its a reminder to not be jerks about it.
+well take a look at landscape of guides and take alook at specific projects. draw lessons 
+we are not going to troll im not going to gice you long list of percific instansces where i think others guides suck or are wrong im not here to look down on anyone i dont think that adds to the conversation. neutraling here. im not going to talk specififically about what eff thinks are privcy and security best practices. this is really much more of a meta talk. if you want to know more about eFF and what tips they get etc well get to it in the Q&A time.
+you want towrite a guide, have you already written one?
+weill start with tacticaltech thexy have 3 hingks to look at. one securiy in a box, we also have printed versions at the noisy square. lots of people of tacticaltec are here. seconr pdorejct is a quick guide to alternatives of tools which tacticaltec recommends. 
+here is sec in a box. this is a guide both printed and online written by vcollab of tactac and X.
+its translated in 13 languages. includes hands on guides and glossary. various sections can be remixed depending on who yu are talking to or training. one such example is security in context a selection from sec in a box of XXXXX
+this is a quick guide to alternatives. not a survey of all tools but sort of a best of. tools you should use as broiwser or search or client...
+browser they recommended tor search duckduckgo video chat gitsy ??
+diff opionions wheteher these are right choices but i want to talk about the framework they are using. me and my shadow has nice graphics and uses metaphor of shadow as
+gives tips for taking control of information and turning tables on govs and companys
+
+speaking of gamifaction approeach to teach ppl about privacy and x
+there i datadealer  - fun way - may 2013 - facebook available for irony
+if you gibve me a moment here i will play the data dealer video.
+
+when you becvome a data moul you discover the goverment -- via undersea cables
+
+cryotography handbook straight forward text version guide are more aimed at a middle audience
+most aimed towards beginners
+its easy to overwhelm those people with jargon and scary storage and have them not want to play at all becaus they think when the gov has everything anyway why would i even bother
+
+its intended to use with cryptoparties where people show each other how to use tor and gpg and xxx
+i found the worst stumbling block of cryptopaerites while it is aimed for beginners it usually ends towards professional who all know how to use these tools talking about them 
+mileage may vary
+
+a guide called encryption works pdf
+how to protext your data nad your communications from the nsa. this advice also applies to other govs but primariyl they talk abut nsa as thread model.
+asfar as i can tell you are dealing mrie wiuth nsa mass surveillance than targetting surveillance as we know fighting targeted surveilleance is much much arder.
+there are more specialized guides like the journalist sec guide it has a whole bunch of interesting information -
+it also has entire section on inet securit written by somebrian of eff asd
+it talks about choosing pws talks about some tools and avoiding phising and malware this guide is lots of blocks of texts but its aimed for 
+
+better crypto are actibily sulliciting comments 
+best practises in SSH SSL setting up or your webserver whatevber you need to protext your users. they do not privude a set of talking points
+so i think there is some room here.
+
+what nsa thought we were missing when we looked at it. the biggest aspect was a discussion of thread modeling. most of these guides when they talked about it at all 
+most thread models begin with it depends and its complicated and thats all, thats a problem.
+when youre dealing with vuln population 
+what they dont have is aenough info on what tools or best practices to use we want to talk about that.
+there also was not enough talk about thsoe middle ground. there aare good guides for beginners and guides like from cryptoparty hamburg aimed for people who already have a general idea. probably the most common criticism of the encryption works guide from technical ppl is they find it scary and cyberpunkish i think that is a good idea but ..
+creating ressources to create trainors. - the map is not the territory
+there was statisicin george pedy box ? who said not all models are useful
+
+im going to talk about a very small proj eff did. how tor and https work together to protext your privacy and security
+we found lots of people understood tor was a good tool and https was a great thing you should e using. https everywhere browser ext by eff. 
+we created a model we are trying to expl what happens to your data when you are using neither tor nor https. you can see the little blogger user and his wifi and the hacker sitting on his wifi being evil. and the isp
+thse are the things they cansee wen you are not using torhttps
+in the orig version of thi proj my colleague seth showan wanted to do tiny image of nsa guys in submarine tapping gcaables but we figured its kinda far fetched who is going to belief that.. i owe my colleague some submarines.
+in a version where user is not using tor or https eeryne can see veryhting tats really bad, your content, where youre coming from, where youre going.
+same situation but here user is using https. they have transport layer encryption the hacker cant see what theyre doing but they can see couple other things. the isp can see things but not the content of the message, even the nsa. because this was before the snowden revelations. and ofc on the site they have all the info, because tahts how it worls. yes that is my explanation.
+here what they can see when user is using just tor. tor grants you anonimty from the people of the site the isp and some extend the hacker in yoiur wifi. but its not protexting the content you are sending out. the reason we included tat is ithis is a mistake pl in tech frequently make because they think tor is encrypted so everytxhing must be secure but thats sjust not true.
+this is the version where user is using both https and tor and you can see this protexts alot of information from people but not everything from everybody. we use the tor nodes to explain what 
+two nsa guys trying to do sort of a timing atack
+next thing im tralking about is the security ladder. we found people have lots of problems in keeping transport encyrption and end to end apart they say its encrypted so its fine they say its militiary grade enc so it must be fine. we are trying to come up with a way to tell peopel
+
+our actors here are internationalized and you know here is hwat happens to your msg when you are not using any necrption the mssage is totally unprotected
+
+not terribly exciting but kinda scary.
+This is a sitution in which boris and akiko are using transport enc. akiko takes msg she has a key encrypts the msg sends it to isp isp cant open it the service can open and see it it goes to other isp it cant read it it goes to boris boris has key and can read it.
+finally end to end encryption akiko using blueg key belonging to boris to encrypt it and service does not have the blue key and can not read the msg. we think this explains why ppl should use end to end to transmit msgs
+
+couple of other tools and docs eff has been working on most recently i wen to the hague a bunch of ppl were interested in doing rapid respond constantly being contacted by journalists or xXx who say omg i hasve been owned! 
+
+happened to journalist in ukraine
+
+our answer to this problem was to make a questionare so oppl being contacted can use to question requesters and only kick it up to level 3 professionals when its neccesariy to prevent burnout.
+
+this was an fantastic paper although it gave lots of bad news, when you are on the us boarder you dont have a whole lot of rights
+we wlrte a gjkde a ljt ta,king your device to a protest because there were phones etc being confiscated which can compromise other people
+so we told them like have a burner phone have no contacts on it etc
+we also wrote a guide keeping your site alive about preventing ddos and doing backups mirroring talking about services doing ddos protection
+
+this site has been fully translated into 8 diff languages and includes whole bunch of instruction videos we made in partnership with tacticaltec
+there was my attempt at gamyfing crpyito issues called cryptopbot its not yet launched and aims at teaching users how to use gpg correctly, obviously trhere are many different ways we wanted to ake a bot that receives a encrypted mail from you and replies so you can check if you can use pgp correctly.
+
+most important thing is dont reinvent the wheel there are a lot of guides out there as i said the internet doesnt need another one. rethink your project 
+know your adueciende who is gonna read your guide how are they going to ue it how much time to they have..
+
+the major languages the eff has translated into include french spanish russian chinese both simplified and tradition vietnamese burmese which has a terrible, terrible font there are a lot of people who wont be able to read what you have written if you dont bother to translate.
+what you need to have in mind when translating a lot is keeping your guide up to date is hard. and if you are going to change the advice you give you have to do it not only one but in all of the version which means a lot of work. what helps is divide your guide into tiny chunks
+
+as best method put warning in top of guide saying this advidce is good as of * this was last time we checked. incorperate feedback. I might not be the smartest person in the room. If you find that you are the smartest guy in the room: Find another room.
+
+you might know a lot about training but there might be someoen who knows more about your target audience or graphic designs etc
+
+framing matters, metaphors matter, being right, being understood matter. you are the poeple giving advice you are last best hope. ppl are more and more confused and rely on you on not falling into 
+and choose right tools and practidces it might be second nature to you but it is foreign to them.
+what i would like is for a thousand guides to bloom as long as theyre all diff and right and everyone understands the audience and is really careful with the metaphors
+
+really have to thank Seth Schoen who made carreer out of ex
+
+Hugh D'Andrade is effs chief illustrator and artist in residence
+tactiacl tech
+
+even if users are brought to awareness who takes care of content providers when it comes to 
+
+i think they have a reason to look after the sec of their users that is the users are now demanding it. the best illustration is how many compa have gone over to use https as default on there sites. last couple years facebook google twitter who used to think https was just or login info or credit card information now really understand they know understand they have to protext you all across their site. 
+something im looking at media wiki foundation. .. we have made a really good start.
+users have demanded it they see how easy it is to eavesdrop on content not encrypted on transport layer
+
+i try to make them understand that i cant get you too 100 % rivacy or sec everyone who says that is lying to you but i can make 5-6 suggestions which will get you most of the way there. how far we need to go depends on your thread model but lots of thing will vastly increase your security they ususally will look up and do it
+
+depends comes from lazyness or despair. cant do lot about lazyness but some about despair. And I can do a little about .. I'm talking
+
+..are your children brave, are you family brave.. Even security and privarcy nihilists care about the security of their family.
+
+hi so say you have some kind of expertise about a specific kind of crypto, a specific kind of threat model how do you reach your audience
+
+couple of things you can do. best is start with audience you want to reach. not your area of expertieces but who you think can benefit from it. partner up with ppl who are already engaged with outreach and trajining like tactac or EFF or.. lots of different ways. im big fan of collab with non sec people. i find collab of sec and non sec someoene who is artistic can draw or .. really .. good 
+
+is using a phon without a contact list making you more suspicosus
+im doing that thing now.. it depends on your threat model and is complicated. if you expect for your phone to be grabbed to go over your contact list.. but think about other options: dont bring phone. have fake contact list. 
+
+licences. . When reading the guide from Michel Lee... xkcvd comic..which is incompatible with the .. would like to bring up when people write stuff make it compatible with other work.
+yes thats a fine point. Now is probably a good time to tell everybody that all content avail on EFF site is avail under CC including use for financial gain you dont even have to credit us. We are more interested in getting the info out there than taking credit for it.
+
+im one of those tacticaltac people. i dont work on sec or privacy. i really appreciate this ive seen a lot of question within our organisation about how to pitch this 
+this is more of a comment i thought ill give a bit of bg how the ressources you mentioned are used..
+my shadow has been around for a year and a half and introduct
+while sec in a box is online and accessible in lots of languages there is diff ways in which ppl can access materials we are putting out. we are trying to figure out how tthey work togheter
+maybe we need to think about a guide about choosing the best guide. 
+its difficult to see from the inside out sometimes how journalists etc use the ressources
+maybe you have a few 
+
+
+.. if you look up the term privacy guide on google.. 
+
+

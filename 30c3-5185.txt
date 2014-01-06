@@ -1,0 +1,172 @@
+Welcome to the Subtitles Pad, nice to see you here! TEST
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+FPGA 101
+Making awesome stuff with FPGAs (en)
+Karsten Becker
+
+
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Ok thanks a lot, I think the introduction was really thorogh, so I can just skipithis slide. So I'm going to talk about fpga's 
+and I want to show you what you can do with those, what 
+essentially, what is an FPPGA? It's a programable logic. You have an area which is programmable and you can use it
+if you have something like 2 inputs system
+i would just call them a and be. The combinations that you can see are very obvious
+if it has 1 and 1 as input, it will output as zero
+on the right hand side you see, naught?, so you got the idea
+so the idea is that you have in an FPGA you have these lookup tables, and you can describe what outputs should be
+one of those outputs, can be the input of an input
+this is the basic idea of how an fpga works. In reality, it works a bit different, xx says that it is a bit different
+so it's not as trivial as I may sound, with just lookup tables, it's a bit more complicated
+so, with 
+that is 4 bits as well, and the question is, how do you implement a counter?
+feed directly into the header as well, then you have a xx loop
+to avoid that, because we want to do something useful with FPGAs, there is something called registers. Registers are like data storage
+it does something interesting. It takes the data that is on the input, and later it puts it on the output
+with that, you can have your logic, your xx logic,
+and then you have another portion of xx logic, and then you have another register
+you add one, in your contmaisd logic, and you put it as a new input for the register
+the reason that this works is because the time it takes for the comunitorial logic, is much smaller, but has a certain delay
+and so this can create a counter, and this way you can realize all kinds fof synchonous designs
+you can create a CPU with it, and other interesting things
+even though it is running at a frequency that is significantly lower than something else
+when you have a cpu, you have 3 tasks, say A B and C. 
+you can actually increase the frequency of the cpu, or you can make the task shorter, by making it more efficient
+with FPGAs, you have something like a blanc canvas
+on the C you have your video decoder. And so, the thing that you are working with, is actually the ara, and the frequency. The frequency that you can run your circuit as is actually determined
+for example, you're running your circuit at 10mhz, 
+and if you're exceeding this time, then your timing is not met, and you cannot use the design that you have chosen to run with this frequency. 
+Most of the time it does not, because you're constrained by something
+So in this case, you need to split up the xx logic into smaller blocks, and distribute them
+and so that you can increase your fruencaseufh frequency. 
+if you're making blocks smaller, you're increasing the area that you're consu
+so in reality, it's not just the lookup tables that this so called fabric that this part of the FPGA is composed of
+or the data storage registers, what we call them. 
+it contains routing resources, which are very important. If you have a lookup table  here, and another lookup table here, they should be connected
+usually you will also find some clock instruments
+usually 20mHz or something like this. Then there is also carrier logic, w
+
+
+
+probably have good reason for. You will also find xx, which is also round, and is embedded into the fabric
+if you're buying the really expensive FPGAs
+with an FPGA, you can attach to a PCI express port, and connect with those, or you can attach your own SATA port, or
+because then you can have your software running on the CPU, but accelerate some functions with the fabric, and I'm going to explain some of that later.
+they all support
+and now I'm going to motivate you with what you can do with FPGAs, I was looking at the hacker scene to see what you can do
+so it's essentially a xx layer, but instead of 
+then you can attach any video source to it, 
+it is also doing some camera correction, and obviously it needs to do very precise timing, so the video is not xx around, it is showing it
+another really cool project, that was done something like 3 years ago, and I found it really cool
+he did not devode the signla itself, he just xx up to the hdmi signal, 
+at one point it was an original picture, and at another point in time it was a different picture
+which is a pretty neat trick to avoid DCMA lawsuits because this would violate, if you used the key that was cracked 7 years ago. So the question is, how do you program an FPGA? So this is where it gets fun. So you can easily choose a high level tool, like mat lab simulink, if you have mat lab installed, you can create really nice filters with it, and stuff like that. 
+This is the best idea ever, no it's not, at least for thenext 10 years. There is an attempt of porting 
+might not be as worth as trying to say 
+and so this is the very high level where you can start, also you can start at the description level
+unfortunately a rather poor choice of languages has been established in the space of progamming
+I'm going to show you an example first, many will see why I'm
+it's for the military contractors against you, this is ADA based, it's not like anyone cares about ADA
+it's very verbose as well. Just makes it very confusing, I think. There's lots of 
+VHDL was not invented for programing FPGAs, but it was made for xx ASICs
+why shouldn't we like, simulate it? So then they used VHDL to simulate it
+so you know, you can actually use
+and I think this is very confusing, but VHDL is very popular in europe, and xx is very popular in the US - it's like a 50/50 split. 
+it's just shorter, and not as fucked up as the others. Yeah, sorry, I really hate
+and maybe there are some students in the audience who are suffering from it right now. Every year it's the same, people are struggling with it
+so after you describe your design, this is xx words, as soon as it's done, this tool will run and describe this 
+then it will go around and do this for all the code, and sometimes it gets it wrong, so you need to find those kinds of features that are wrong
+the synthesis translates what you have written, into bloks that you can place onto your FPGA
+after that, this process usually doesn't take more that two minutes, and it's really quick. Then comes the process of placing 
+once you realize when you 
+the problem is that placing the results on an FPGA is an xx complete program, and fitting it into the timing that
+the worst thing that could happen, is that it sees that it can fit all the logic into the FPGA, but it can see that the 
+if you are generating a file, and you're changing the date in the comment
+the version that we created on the 26th works the best, which 
+so after that, you have the configuration file. This is not called an exebutable, it's configuring the resources within the FPGA, to do what you told them to do. 
+By the way, with PSHDL, what you similuate is what you get
+so one of the cool features of FPGAs is pipelining. First of all you want to calculate A + B
+and every clock, the data gets processed. You can see that the xx clock, 
+every clock, you get a new result. This is very important to understand, because this is how FPGAs kick ass regarding the
+after just 7 cycles, you have all your compute data - your results. Another really cool feature of FPGAs is 
+can run a UART and a 
+you know what I mean. And the other stuff. Most of the protocols that you can imagine can run on any pin that you want
+you can have up to 800 mbit on each pin as input
+on one pin, or 2 pins actually, it's differential. So this is pretty neat, and you will also have very precise control of the systems
+no we're going to go in to compare CPUs and FPGAs, or actually the 
+then it would be a huge waste of resources to put that onto an FPGAs
+you don't want to re-implement something like an operating system on an FPGA. If someone is really sophisticated in this nature, you can contact me, and I will really appreciate and watch you suffer. 
+CPU's are also very good for giving a quick
+very quick development cycles. Those are not very common in FPGA development, at least 
+you can actually combine those parts, a CPU can be very great compiling
+and then you feed the data into the fabrick of the FPGA. The combination of those parts is really powerful in itself.
+Sometimes 200 mhz, which is on really new devices, but you won't get that on
+
+
+I'm going to show you an example where an FPGA running at 200mhz can beat a i7 CPU
+to rows, and then to vertical. And if you look at it in the CPU, it looks like this. At the top you can see the xx pixel, 
+so on the CPU, when you hold the first picture, it just goes to the DRAM, 
+you get a very efficient process, 
+If you do it horizontally, your pixels are all in line, everything is perfect. You have prefetch
+your CPU starts to get really, really slow. Like a factor of 40 if you have really bad luck
+with FPGAs, what you do is you put in your xx pixels, 
+and then you feed it into the logic wavelet transformation. So it doesn't go back to the original DDR memory, so it's contained in the FPGA. Those are running at full speed, and you can
+in the vertical scenario, you have caching all the time, so you have a performance
+and so, the FPGA is running at your full memory speed, whilst your CPU is permenantly slowed down by the external memory that it has to use
+on an i7 it takes like 30ms, even though it is running at 200mhz, whilst the i7 is running at
+there is also, by the way, I will put up the slides, so if you want to 
+if you're starting a new project, and you're like ooh what should I use. You have the
+which is very nice to xx, and then you have FPGAs, which are very good for almost everything but not like 
+if you want to put an x86 on your quandopter for doing something fancy, you may have a power problem because it's doing 
+they are very good at floiting point operations
+it is very hard to get a GPIO attached to an x86, so this is no fun, and they can't do
+if you want to do really precise tiing, in the area of microseconds or nano seconds, things get really difficult
+they are very, very good at floating point operations
+these xx are very powerful for application where you have
+so you can see what they are good at. The microcontroller is of course the very low end, it doesn't do very good floating point operations
+they are claiming that they can do floating points, but the are very expensive in the area of 
+you have to create state machines, you know those sorts that you heard in your lectures at univirsities
+there is a one thousand pin fpga that you can buy, and then there are several hundred pins to do any thing you want
+if you want to do timing, those are very, very good. You can do very good timing, for example 
+there is also a very interesting talk about taking ICs, 
+very quick overview of what the market it, so xilinx and xx is the 
+they are fighting each other over which one is the better, which is really funny to see, but in the end it doesn't really matter which one you take.
+Actel are like very low power, seeing as they are flash based, unlike xilinx ones are xx based
+also the actel ones are used for space machines, and stuff like this, so if you want to do stuff with radiation, I would recommend oyu one like this
+if you're interested in buying the most expensive FPGA, xlilinx have one priced at 32000 euros. Most expensive altera is 20000 euro but you have to buy 3 minimum
+if you awnt to head into programming FPGAs, you should 
+the cheap ones work actually quite well, the one you see in the upper left corner, is the 
+this should be a really cheap board, at like 30€
+
+

@@ -1,0 +1,152 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created
+ 
+ Against Metadata -- Twisting time and space to explore the unknow
+ Speaker: 
+ Robert M Ochshorn
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+The trial of Chelsey Manning, there is some indication that the solider had access this encrypted video. Even if Assange didn't peform wizardy to bring this video to our attention... he did decrypt it in a way.
+
+The release of the video "collateral murder" wasn't just a realease of .. but also metadata.
+
+It was decrytped to make human readabilty claims about the video.
+
+[video showing ..]
+
+The title of this talk is 'against metada".  submitted admist the .. of survellience.
+
+the summer of Snowden has showed that this metatda has leaked and that is known 
+
+i would like to split metatdata into 3 categories.
+1. machine data - codecs,... 
+2. relational metadata - data base systems, stand in place of the data, like book covers and gps coordinates and so one
+3.  interpretative meta data - describes what we make of the data.
+
+compression is the force of networking data
+
+i can mix wires and turn up the volume so you can hear these values played back.
+determination shows what is most important and purge the rest.
+
+While we determine this as a 2D grid, the computer shows it like this [ shows] I am removing the pixels that are least salient.  We can flip back and show that the frequency has remained unchained.  I can keep going, 50 % remove metadata , 75% remove metatdata and finally all 100 % of metatdata and then their are no frequencies.
+
+I can add them back one at a time.  [sounds ] we can see the image being to become recognizable again.
+
+What would the image look like if it were oriented towards humans and not machines?
+
+These are a serious of protratis. I compress a bit by horribly abusing the math.  (content imagary signing, change aspect ratio)
+
+I hope that by dialing up all the images at once, I can get a few laughs from the audience.
+I see the ideal of metata data as ..
+If you laughed at these images, perhaps you got more than you expected from them.
+In 1950 the Pioneer of Inofmration theoroy, Claude Shannon.
+
+When I first read that I look ... at it.
+Information is surprise, Shannon writes.
+
+From telegram to t9 codes, a machine may not be able to understand meaning, but ..
+Meaning may not be ecapsulated for it to be carried trhough the medium.  For temporal media, for sound and video.
+
+Leaves us few techinques to ...
+Rarely in our players is it in our line. 
+Here is thumbnail each spaced 5 seconds apart.
+And now, here is 24 thumbnails, 2.5 seconds apart.
+When I keep cropping the images, all of the sudden form reimerges in the images.
+MOvement is .. in the columns of images I chose.
+I can look at the next 60 second and the next,
+Now we see a parabola.
+I am interested in this mpoint here, how it relates to time, how it changes, the part and the whole.
+To communicate the conetnts of the video without having any idea about them.
+Here is the timeline index , ..  at different phase.
+I can play the video through the timelines. using them as index.
+[shows video] 
+These timelines eventualy turned into a documentary I did with Savahn .
+Here is the timeline we did.
+Tags entry points to the material.
+
+
+Here we see the taglines different, without it stopping.
+[video sounds]
+Metadat autorships is onlyt the beggining. Because if this is the real time generaltion, realness being in as reality tv.
+The rise of portable mp3 players and , spy glass and phone all give a lived experience.
+we are making history as we are living it.
+Simply point to the accumuplation of ducuments and data that we must somehow sort through.
+Here is a scfreen cast of me sorting through as a video editor
+It is the classisc math bohrian problem of ...
+
+Bohrian emprie was so ...
+That was befor the advent of sippy maps and ..
+The map of the future is hard to come but we can contrrol our past with the forward zoom control.
+Try to work your head around the passiv e of time here.  The metadata , future and past.
+From John Smith the short film, the girl chewing gum, we have a experiemental film I made called "chewing".  
+
+Notice how time passses and also how it doesnt
+How characters are endleslly looped into themselves.
+So we can codecs that 
+open up codecs to our perception.
+consider th emath of the video stablizer.  Simply a stab ...
+When engineers  design stabilzers they zoom in on edges that are similiar
+but what if we zoom out instead of in?
+Now we have context.
+Periphery of our .. system.
+Which give us out of site context.
+
+The metatdat bases we form  will create.
+The most pratcical software that I am designing is called interlace.
+This screen shot i did with a conference, susitable iwth my video 
+An entire conference is shown with speaker speaking in the middle.
+
+Theere is  theory that if you want to share the world you do it by sharing cat videos. I dont know about that but I will show you something form this machine.
+
+Maybe we can take questions as you look at these snorkeling videos?
+(applause)
+
+Interlace 4 is the software. Alpha grade . be patient.
+
+q: I gusess i'm taking your ... quite literally.
+Something like this on the one had shows the entire content of the entire film.  As a finding aid to archivist collection .  However, if video , we have to find the lowest common tech for users worldwide. How would record keeps like me , smooth over this tension?
+
+A: lowest ocmmon denometor is a browser, basic, usability is still something iam working on.  
+
+Q:  am thinking about something more like bandwidth.  jimages take less than video.  
+
+a; However a visual index takes less than downloading... these videos are very tiny.  like a search but with videos.
+
+
+q: I dont have the pleasure of working with video today, more numbers and text.  I see some similirities with visualization and conteluation.  I was going to ask you to show that... um yea. [shows slide showing index of documents
+
+a: I've been trying to find ways to show dumps , to show this, that doesn have a clear cannoincal to it. 
+
+
+

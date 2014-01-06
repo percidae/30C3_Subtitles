@@ -1,0 +1,593 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Lightning talks day 4 are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+talk: how to write an open textbook over a weekend
+
+a colleague of mine who happens to teach electronics
+
+that was a book
+
+
+LT 01
+DHCXSSP by momorientes
+
+Good morning everyone, I also have to kind of hurry because I have to check out at by the Radisson at one and there is a huge queue, (maybe?) the hugest queue I've ever seen at any hotel ever and it's all your fault, so I'll just start ahead.
+
+My talk has kind of a cryptic title - and I don't have my slides on the beamer - but if you put some [colour into it] (...) you think, you can imagine. So it's a mix of DHCP and XSS, so cross-site scripting, but we'll get to that in the meantime of the talk.
+
+First off, I'm momo, you might have seen me at the Infodesk, I'm one of the shackspace members, you can find me on Twitter and also if you're ever interested in the trademark hackathon bullshit, I'm the guy owning hackathon.de, so maybe that's interesting.
+
+First off, I'd like to (invite you? to a somewhat ... my event as it happened?) I was sitting at my hackerspace, it was getting late, I was a bit drunk and I was thinking: "Okay, let's go home, let's go catch the last train", and as always if you're in a hurry, you don't get the last train, and public transport sucks. So, I was going back to the hackerspace because home is where WIFI is, and, uhm, [laughter] yeah. But, something was different at my hackerspace that day. There were not only - there was not only WIFI, there were enterprise, new, new enterprise WIFI access points. And, I think I'm not the only hacker if he sees the word "WIFI" and "enterprise" who has the natural attempt to break it, so [applause] thanks.
+
+So anyway, I was sitting at the hackerspace and trying to break this goddamn wireless. So I was thinking: "What could I do?" You know, I'm not the hardcore Linux guy or hardcore protocol guy, so was thinking of boring web security shit, and, uh - [to the side] thanks - so I was thinking: it has a web interface, we could look for cross-site scripting in the web interface, I know some static XSS or something, cross-site request forgery, SQL injections or whatever, or we could test the underlying OS, but that's all boring and has all been done a thousand times, so, uhm, yeah. Let's think about something new.
+
+I was browsing around this web interface, mainly being stupid, clicking around, and I found this beautiful screen. First off, it also has a common (?) field, I put in "script alert 1" (<script>alert(1);</script>) and I got a beautiful stored (?) XSS, but that's quite boring. On the other hand, you were seeing here the DHCP host name of the client along with its IP address, the assigned access point, the assigned SSID and some other meta data.
+
+So... We have a DHCP hostname. What happens if we do this? Is there anyone who doesn't get - oh, whatever, I'll just explain it. We are setting our DHCP hostname to an illegal string, being <script>alert(1)</script>. So basically, our hostname shouldn't even get through the RFC (?), but our DHCP client allows us to and we have a payload in it. And guess what? It worked. We just have a beautiful XSS in the web interface, we don't even have to be authenticated [applause], or even better, we don't even have to be in the fucking management network, because we are a client. It has to display the client's MAC address, that's all.
+
+So, if you're ever gonna to attempt this, there are a few things, uhm, to make your life way easier than I had because, I know, <script>alert(1)</script> is nice, but there's no payload in it. If you might want to, I don't know, have a payload including a dot, maybe an IP address to, to get your scripts from, uhm, try to use dword. If you google "dword" and "IP address", you'll find a neaty converter, basically converting your dots and your IP to some weird string, it's all math and all browsers support it, which is quite nice and I didn't know of it before. So, use dword if you don't want any dots in your IP addresses. And if you're fuzzing around or pen testing those weird things, just always, on every attempt, change your MAC address. Those things tend to be, tend to try to be smart, uh, to display your hostname and whatever, but really it's not worth it, so, uhm -
+Nick: 30 seconds.
+momo: Okay. Yeah, and now what? I've got 15 vendors affected. First off was Ubiquity, that's there nice CVE - you can't scan the QR code because there's this nice thing [referring to the bar indication remaining speaking time], but whatever. I can't get my hand on every shitty web interface that's out there. So please go, all of you, go out and pentest all web interfaces. Uhm, if you find something, please, please disclose responsibly. I think every security researchers knows how to do that, uhm, let me know because I'm interested in this stuff and you still owe me a Tschunk if you find something.
+
+Uhm, yeah, are there, if there are any further questions, mail me to m@hackathon.de, write me on Twitter [audience counts: nine] or find me at the Infodesk [audience counts: six] - and I'm done.
+
+---
+Nick Farr: Oh, oh, actually, one, one quick - two, two quick reminders to all of our presenters who are hopefully sitting in the front row and know which talks are happening before and after theirs: your slides appear on the screen down here, so you don't need to go [turns head around, voice fades] look up at the screen to see what's going on [turns back to audience], which then cuts off your microphone. Also: please be sure to talk in the direction of the microphone and adjust the microphone so that it's pointed at your mouth. [Moves very close to microphone, voice distorts] You don't need to eat the microphone like this. [Moves head back again] If you stand back, at about this distance or even further from the podium mike, the audio angels will figure it out.
+
+So thank you for that and you're good. Go!
+---
+
+LT02
+Email encryption for the masses
+
+LT03
+
+
+--
+------------shit appens----------
+My name is tobias,
+did anyone here use the toilets, did you like it?
+have you been waiting for other people, alot?
+
+this is a prject called shit appens.
+
+it's unfiinished, not really started
+it's about tracking restrom
+sometimes it's easy to go an do whatever you du
+but it's oocupied all the time.
+maybe it's long distance , you don t 
+
+it would be cool to know thats goint on
+sometimes it's like this or more ope
+yea I mean i's rbalby occupied
+
+what's the benefit, i want vizualistions
+
+you can get like graphs of how may go
+how long they stay
+i want you to participate
+and we can benefit from that
+you can build a community
+maybe you have a shitbuddy that is using the same time as you
+and we can have awareds
+
+this is a serious project and bookmark this url
+contact me if youre interestd.
+thank you
+----------------charlie----------------
+ changed my car and it can send info th the lcd
+ when you take radio out 
+ I looked at the pinouts, 
+ pin 8 -10 are clk data en
+ 
+ this missing segment of display
+ u
+hard to do
+
+had buttonm with don't care
+
+i can start playing 
+
+figure out the format
+apayload checksum
+one dir spi
+mike in stereo
+
+decodes messages
+
+helped with understanding
+used rpi
+not good enough
+i replayed data from radio through raspberry pi
+
+frist arbitrarry text
+
+thsi is how much dat a we can play with
+also note differenc
+lowee case are special
+
+make a kernel modle for tihs
+theres scripts an py for this
+hidden under dashboard
+
+all code is out there, shouldwork on audio skoda vw
+
+-------------------------------------------------
+all talks are translated up until the last one.
+
+
+--fairnopoily-
+
+was is fairnopoly
+es ist ein online marktplaz
+man kann es angucken.
+wie sieht es aus?
+
+[tut mir leid, kann nicht deutsch schell schreiben]
+
+consequent transparenz.
+
+komplett auf github
+
+viel arbeit für konsekeunt tranzparenz
+
+is das ziel.
+
+fairer partner zur finden.
+
+[reads slides]
+
+korruptionsbekämpfung
+
+optional kann man artiklen spenden. 
+das ist otpional
+hinter das genossenschapt, soll duck vidle controlleiren
+wir haven thousend mitgliedr.
+---------------------------
+please look at the screen in front of you, don't turn to projct
+
+---my name is hverrig-.--
+this is an update to a talk from last year.
+I've learned icelandinc
+iceland s in the middle of the atlantic
+why should you care?
+
+it affects everything n the world
+
+elections went well
+this is the reps
+ity in april
+polloing 10-11% which is good
+
+that is going to help as well.
+
+city elections are different
+
+the cable to north america is happening
+5 times faster than connection to europe
+
+the new constitution is sunk unless theres as massive vote
+
+theres a msall it startup scene
+interesting people showing up
+
+develoåpment with low cost bitcoin mining
+
+iceland got currency controls
+
+my contact info.
+if you have questions, hit me up
+thank
+s
+
+_-------------------------
+
+ok this presenter. the rule is I'm pretty strict about the rules unless I screw up
+I realize that I couldn't this pres to work 
+so we make exception to the rule of preloaded slides
+
+I will kill time while they bring up the presentation
+where were the funny noises
+can I make any funny noises
+where were you 5 30 this morning
+not sure I can do that now
+
+do I have the what online?
+
+the q was do i have the app for funny noises
+got some updates for apps I don' remember installing
+
+are we 
+do i need to give video over to her?
+switch it..
+--------
+again, huge round of applause of pros working in this room
+Okk micor wokring
+I'm leena simon and working for commons mcach
+
+we anna support free licenses
+you may have problems with attribution
+
+if our photographes puts photo under free license
+
+she can put here pic on her blog
+she attributed manually
+we think the more we asttibute the more creatores are encouraging
+it's drudge work
+
+it's too compicated to keeep track
+
+and as a priate user we have no legal dept at home
+
+today no CC license is attrib correctly
+it's very confusing
+we g
+work could be done by software
+you chave catalog
+ inmapes text 
+ that you've ever used
+ this could be integrated into exsitstin tools
+ this could worlk like auto include of  accurate crdits
+ we would be using metadata
+ it would be easier to find work and attribute
+ you could get nitifuied that w work has been used
+ we want to presis[slideß9
+ 
+ make it usable for everyone
+ if youre interusetd, we have a  mailinglist
+ you can
+ 
+ visit our website
+ thnank you
+ ------------------------
+easy pgp sharing 
+translation in german on 8014
+
+hi Im brendan for ux designer
+I try to make seinding pgpg mails easy
+so my mam can send messates to me
+les complx the better.
+not making it pretty
+the problem is steps
+
+no magic to make pgp easy
+how to transmit key in en easy secure way
+
+I came up with this idea
+pgp is mostly cumbersome text
+we attach by deault helps proliferate keys
+at lot vill be unverifie.d
+some solutions for this
+fingerprint in real life
+and thats great. i know that, 
+but as soon as you tell a normal person
+what program, how, are you using macpgp, whatever?
+it requires reading and transcribing.
+it's too techy
+put qr code on a business card.
+we et 311 chars
+you can read on a screen
+it has your info
+phone to phone
+there's name, address, fingerprint
+
+transmit securlely to address book
+on mailpile or other app
+
+and it can make a keyparty easy
+ 
+ ------
+ soy you want to write tor pluggable transport
+ what is itand why?
+ this is your traffic in normal tor
+ it's catually TLS
+ characteristics, and random names
+ these make it easy to block tor
+ and they do infact do it this way in the world today
+ when you turn on ofsproxy
+ they only see random bytes
+ obfsproxy is how many people use tor
+ where otherwise mpossible
+ may be lifesaving
+ wonderful but not everything
+ 
+ her's tor infrstructur 
+ tor talks to your code, - magic-- and tor relay
+ only limited by your imagination
+ tor over, ssh, git, udp,
+ we need clever things like random timings and lengiths
+ we have it in place, but need creative idea
+ to make it work, thers a  protoclo
+ google these worlkd and find out more
+ download the slides, because these are hpyperlinks
+ 
+ every two weeks we have a meeting in tordev irc channel
+ so ome hack with us
+ 
+ 
+----------------------------------
+
+hey there
+i'm tobias
+looking like shit appens guy but another talk
+there are people here from umwel zone
+people riding bikes,
+but if you wanna leave but stop
+there are firend and relative
+where's this umwelt zone and that happend to me
+download the app
+a friend of mine and I used one month
+theres a repo 
+
+the app is basic, it has a map showing the umweltone of a city
+pick a cirt thers info about regulation if it will change inthe future
+other clues to luck up
+if youre car is restricted or 
+this is an official data source
+you can have thoese pdf files with old maps and they draw the zone on
+I asked for official info but they said its meant for orientatio
+
+this is another onw
+thanks to OSM we have some more citites
+they wonderfool tools to gr?b the data with
+
+--------------------------------
+Kad node
+
+going once,
+going twice
+------------------and sold.
+confidence 2014
+
+shey my name is slavomire and justice
+we arrange confiden con
+it's 10 years already
+this year 12th edition
+conference in krakow
+about 400 people
+increasing tech pres
+first in 2005
+as you see one in prague and warzaw
+every may
+between almos as hot as summer
+poland is next to this country if people dont recall
+it's super ieasy to get to krakow
+
+we have the highways now
+we can go fast to krakow and visit us
+one or two tracks
+super techinla
+from harware and ending and secure architectures, and 
+the tech parts are awesome
+what can you se hare
+we try to find an intersting place
+
+we will use an abandoned, ? 
+
+we call it the xtraction point
+we organzie a spyring game
+
+sneaking, shooting, phreak a phone
+contact the ase
+two team
+yhe guy being a spy 
+and the corp persion sitting at the office
+then you break into oserviers
+
+call for papers now
+
+contact hare here
+----------
+we've been at this for an houre, so a quick break
+come back in 6 minutes,
+and then awesome retro
+----break--------------
+the three minute express round was an experiment this year.
+I believe excpet for some submissions at 2am which were not serious we managed to get everyone in this year.
+the talks are being translated.
+I can't wait to hear what they did that
+
+there's a declaration of indep for the internet
+check out the pad there, 
+
+help with keywords.
+
+please check out this pad at this address.
+give some keywords.
+
+
+without further ado. s? ready to go?
+Awesome retro.
+-------------------------------------------
+and I prepared for 3 minutes.
+I sent you an email that you had five..
+
+full applouse for the video guys who put the time on screen
+
+hi im' stictch i'm from awesome retro
+deedicated non profit 
+bringing retro gaming to events
+you may have seen sega etc.
+seeing leading experts play video games
+based in the netherlands
+our first anniversary
+made this awedsome 3d print 2d object
+show you a few things that we do
+
+we're a nonprofit working hard to make awesom thigns possibe
+
+these are some slide of the crew
+one large andce event
+six large tetris pieces
+lot of engieering went into that
+
+same sizes, so can make all shapes
+you see a large nintendo contr on the tent roof
+
+lots of cool people
+15-16 events each year
+lend all kinds of retro gear 
+if you have an event and nontprofit
+drop by, send an email
+you can use it at your event
+our mission retro gaming for everyone
+wchi is a lot of people
+you see these projectors starting to de
+in the fron you see this nintendo table
+you can play two players
+you can see a lot of opepo fail at this game
+I did not see anyone beat this game
+I'm disappointed
+the record is the first ?
+
+some lies
+we have 49 consoles, that were donated
+all cables and controlles,
+prederable
+we have partial consoles
+and you see lots of cool people
+
+____
+That doesnt have anything on it except for configuration files ... ssh-keys. 
+
+So, throw your hands up in the air for SMTP! 
+It's three lines, and its only two if you dont use Tor2Web
+And if you want more ports and more services on the same connection you can just use them
+
+Ephemeral Perfect Forward Secret
+But I also would like to have outgoing connections
+
+So, we're gonna do a SSH
+for a SOCKS proxy. And there's this wonderful
+
+And we also don't want a hidden service that leaks DNS records.
+But its enabling basically DNS SOCKS proxy 
+
+____
+(Bitcoinproof)
+
+Thanks. Hi, my name is
+I want to present to you a tool
+
+The idea is to kind of use or misuse the bitcoin network as a way to timestamp your data.
+
+Xou make some pictures
+
+And this is not so much surpising, because the Bitcoin network exists to procide this kind of
+
+But it's still possible to plug in other data into
+
+The tool is quite simple. You can put in your data. Note that everything is calculated on client-side
+
+And from this one a bitcoin address is calculated
+
+because you almost certailny wont get it back.
+
+This is a simple link to this Bitcoin address where you can put some minimal amount of money.
+
+So, no need to put any more money on it. This is proof.
+
+Theres also another tool that isnt mentioned in the slides.
+
+The basic idea is that this 
+but the network doesnt make any assumptions on the ... of the public key
+
+Yeah and thats it. Please have a look at it
+
+and tell me if it was useful for you.
+
+___
+(Why do children need an Open Source community?)
+
+Im Nick, Im 24 years old
+
+But this is not all too important because what I want to present today is an organization that
+
+We started out with a holiday camp we ran at the FOSCOM. 
+
+After that we picked up the work on the other projects.
+
+And one thing is for example when we are building anetwork maybe between companies and students
+
+I already mentioned the holiday camp we ran. This is a short impression of this event.
+
+Not only do they attedn it, but they also run it.
+
+Just as we did through many years among us hackers, we also want tot port this coimmunity to youngsters.
+
+There are a few projects we intend to run in the near future
+
+We want to build a communication platform. Nothing really new. We just want to put together
+
+We do not blame this on the Open Source projects because they have some different problem.s
+
+And theres also another point where we need to network because
+
+one thing is of course, parents have an obligation to care
+
+We need to care about this to get 
+
+This is fairly easy
+
+We need to help youngsters to build such a community themselver
+
+Okay, I need to hurry a bit.
+
+Thank you
+
+____
+(bettercrypto.org)
+
+Oh, I think
+do you wanna come talk for a second?
+
+Chocolate chip cookies?
+
+Im food hacker
+
+Im interested in things that support the hacker movement in a way that its sustainable
+
+We move on from the camp to camp, from the congress to congress.
+
+Most of the people here know
+
+So youre going to be
+
+At the moment we manage to actually build
+
+
+
+---last line.- scroll until you see this--
+

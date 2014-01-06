@@ -1,0 +1,649 @@
+
+
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[x] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+so today i'm gonna talk about a very important subject: how to hack Tamagotchis
+
+at the last congress i talked about my tamagotchi hacking research and made a lot of progress since then 
+so today I'm gonna give you guys a bit of an update.
+tell you how I got code execution on the Tamagotchi
+how I dumped the tamagotchi ROM and how I created a tamagotchi development environment [laughter]
+but before we begin, a bit about me
+by day i'm a security researcher at blackberry
+and you'll notice my slides have a bit of a disclaimer in them
+so just in case you think I get paid to hack Tamagotchis, I rather unfortunately do not [laughter]
+i studied eletrical engineering at university, but since then i've been mostly into software hacking
+so this project really represents my first foray into hardware hacking
+although i'll admit it started to become a bit of a lengthy project
+so maybe I'm a bit of a hardware hacker by now
+and also just in case you didn't guess i really really really like tamagotchis
+so just in case anyone doesn't know, what are Tamagotchis?
+they're a type of virtual pet toy
+the idea is: on the screen you have a picture of your pet
+and then you use the buttons to, say, feed your pet or play with your pet or clean up after your pet
+and they were really popular in the 90s, but if you had one, say when you were a kid, you need to know that the functionality has evolved substantially since then
+you know, back in the old days Tamagotchis just had to sit around and be fed and be played with and if they didn't like the situation, they could run away
+but nowadays Tamagotchis have to go to school, they have jobs, they make friends
+and if they don't do that right, they can forget about getting married or having kids
+and how do they do this? well, the newer versions have an infrared interface
+so let's say you have two tamagotchis
+you can kind of hold them together like this and they talk to each other
+and you know, they can become friends or even get married
+now the specific tamagotchi version I looked at is called the TamaTown Tama-Go
+and it's the Christmas Tamagotchi from 2010
+i just recently updated my slides from saying "last year"
+because i'm in denial how long i spent on this project
+[laughter, applause]
+
+they're the same functionality as the smaller Tamagotchis, but they're meant for younger kids, so they have bigger buttons
+and they have one more great feature, which is called figures
+and the idea is, you slide the figure on top of the tamagotchi and it unlocks extra features
+like your tamagotchi can shop [?], or an extra game
+so, what were my goals with this project?
+well, what I wanted to to is dump the tamagotchi code
+and answer what I call the deeper questions of tamagotchi life
+you know, things like: does what your tama eats affect how happy it is or does it really matter who you tamagotchi marries?
+also i wanted to make my tamagotchis rich and happy
+i wanted to cheat at tamagotchi and have the richest and the happiest tamagotchis alive
+
+[laughter, applause]
+
+also i wanted to make a tamagotchi development environment, because it's one thing for me to be able to hack tamagotchis, but i wanted everyone to be able to hack tamagotchis
+and finally i just wanted to have fun, cause you know all those cool kids hanging out, going to clubs .. they just haven't discovered reverse engineering yet 
+
+[laughing, applause]
+
+So i'm gonna start off by talking about my previous work, what i presented at the last congress, for maybe 10 minutes and then I'm gonna move on to what I have been doing recently
+
+so when i first got the TamaTown Tama-Go, I ran out to the store and bought about five of them, i made up some crazy story about how they were gifts for friends
+and took one apart
+and here's what the board of the TamaTown Tama-Go looks like
+and I'd say there are really just two interesting features on it
+one is the EEPROM which is circled in red
+and that's the only persistent writable memory on the board of the Tamagotchi
+it's what stores the state
+so lets say you spend a lot time getting a really cool tamagotchi
+if you change the battery it will make sure you get your tamagotchi back
+the other thing on the right side is the blob and since their is no visible microcontroller on the board it seemed pretty clear that the microcontroller was under there
+
+i also took apart a figure, and what was kind of interesting is there's two types of figures
+there are some with an unpopulated PCB and then there are some with a blob, which I assumed had mask ROM underneath it.
+
+so the first thing i needed to do was to identify the microcontroller
+i tried many crazy dangerous and ineffective ways of removing the epoxy before Travis Goodspeed was kind enough to decap it with acid
+here is a picture of the die, and I finally, after lots of looking managed to identify it
+and what it is, it's a Generalplus LCD controller
+i'd say that the two most interesting things about it is that it runs 6502 like a commodore
+and that it has mask ROM
+and i guess there's pros and cons to that
+but the major con to mask ROM is that i can never reprogram it. It's manufactured directly into the transistor so it's pretty much ruled out permanently modifying the tamagotchi in any way
+
+so at this point i really wanted to dump this mask rom
+and i had a few ideas of how i could do it
+and one of them was to restore a bad state from the EEPROM
+i was hoping that maybe it had, you know, stack pointers and instruction pointers in there
+but unfortunately it didnt. this totally didnt work because it  contains serialised data
+
+another idea i had was to look for test functionality
+because some microcontrollers will have test functions that can dump the code
+
+another idea was to exploit a vulnerability in the processing of the figure data or the infrared data
+because these are basically untrusted data that is processed by the tamagotchi
+so there really is a possibility there could be bugs in there
+another option would be to read the ROM with a microscope
+one of the benefits of mask ROM in reverse engineering is that the bits, because they're manufactured into the transistors, are visible
+so you could theoretically look at them with a microscope
+another option was pin manipulation
+maybe if I was able to listen in the right pin or even the right area on the die
+maybe I could see what instructions were being executed
+so the first thing i did was i looked at the test functionality
+and it turns out that all GeneralPlus microcontrollers have a mandatory test programm
+and I suspected that this would probably allow you to dump code
+just because the nature of mask ROM is that it's very espensive up front but very cheap to make copies
+so i think it would be a common problem that customers complain that the mask ROM wasn't manufactured correctly
+so it makes sense that they would have a way to proof that it was correct
+so i looked around for this quite hard but unfortunately at this point i could not find the test program so I had to move on.
+so the next thing i did  was I looked art the figure ROM and i thought this could be useful in a few ways
+as i said, my main goal was to dump the ROM but i thought there were
+some other fun things i could do
+maybe I could execude code on the tamagotchi
+maybe I could make my own tamagotchi games cause the figures support games
+and if nothing else I'm sure it would make me better understand the tamagotchi behaviour
+
+So to figure out what was inside a figure I scraped of the sauter mass of the unpopulated PCB and i compared it to a bunch of [?] layouts
+and it turned out that it was an spi rom by the same company that made the microcontroller, GeneralPlus
+this allowed me to figure out the pinouts on the figure interface which in turn allowed me to dump a figure
+than i was able to look at the format of the dump, then eventually i figured out how to decode images
+and there's a picture of it there
+At this point i could look at all the images and I already knew a few things about the tamagotchi from them 
+one thing that was interesting is that all the text was an image
+so there is no ascii or other text format in there
+if the tamagotchi said dress on the screen there was a bitmap that had the word "dress" on it
+so that kind of shows that the tamagotchi is not very advanced in its programming
+the other thing i noticed that every animation was a series of images
+so for example, if your tamagotchi was wearing the dress
+there would be every single sprite with every single dress drawn
+there was no sprite handling or overlays or anything like that
+so i looked into the rest of the ROM hoping that there might be, say, code in there
+but there wasnt
+and there wasn't, i'd say, even a lot of non-image data compared to the size of the image data
+so i assumed there was probably logic information in some sort of serialized format
+now to understand this a bit better I didn't think that reading the ROM was enough
+i thought that I had to be able to write ROM so I could be able to change things, see what they do
+so eventually i made a rig that basically simulated the ROM by bit banging
+that's a picture of it there
+and from this i was able to do a few things
+to start off i could put different pictures on the front of the tamagotchi
+that was fairly simple
+when you put a figure on it draws a picture of like a wardrobe a chest that you keep your toys in or something like that
+so i was able to swap that out for different images
+also i was able to play around with some of the logic
+one thing that I found interesting was the game logic
+i was expecting the game logic to take up a lot of memory because games are complex
+but it turned out to be quite small
+less than 50 bytes of non-image data read at any point during the figure functionality
+even more interesting was that the game logic like 
+what decided when you got points and stuff like that was represented by a single byte code
+basically what this means, there is a few types of games, there's te where you catch falling stuff and there's the one where you match stuff
+and those are all in the internal ROM of the tamagotchi and the figure just says
+which bit of logic it is
+
+the other thing that was even more interesting was what happened if i put in an invalid index
+this would cause me to jump to other valid screens that had nothing to do with games
+so i put in another invalid index and i'd go to the screen where you'd feed your tamagotchi
+and i'd put in another invalid index and it would go to, say, where your tamagotchi takes a shower
+and what was also interesting whas that it wasn't very smart
+once again if i went, say, to the feeding screen and hit "back", i would go back to the screen that you would normally get to from that screen, not the one i'd come from
+so this basically meant to me that the tamagotchi was one big state machine with no concept of a state stack or a screen stack
+so i thought this was quite interesting
+
+and then the final thing which the time i had no idea what to make of was that some invalid codes caused freezing and actually i had to reset my tamagotchi
+but i didn't have any way to find out more about what was going on in that
+
+so here's a quick example of this
+in this video i am jumping to the evolve function
+so basically this is what makes your tamagotchi grow older
+
+[beeping sounds]
+[laughing]
+[lots of beeping sounds]
+
+so there we go
+my tamagotchi is now older
+
+[applause]
+
+so this is where i was at at the last congress, and right afterwards
+I was contacted by a guy called MrBlinky
+and he wanted to order his own figures and reproduce my research
+but something funny happened
+when he ordered his figures they had flash in them
+and it turns out 
+there is actually 3 types of figures
+there is the one with the unpopulated PCBs
+and there's the one with the mask ROMs
+and there's actually the type that contains flash
+and what was even cooler is that you could basically just program the flash right through the contacts of the figure
+the picture i have in here has a wire connecting the right pin
+but thats completely unnecessary i just didn't want to open up a second one to take a picture
+but basically all you need to do is take a programmer and you're good to go and you can reflash the figures which is great
+so this is MrBlinky's programmer and basically the idea is you put in a standard SPI flash programmer in there and there's also a switch, and then you could go into programming mode or regular mode in the tamagotchi
+A guy called Asterick also made a similar programmer
+and this is my programmer [laughter] but i promise it still works
+
+[applause]
+
+so at this point i could play a bit more with the functionality
+so one thing i played with was items
+and the tamagotchi supports lots of different types of items
+for example you can see on the left and the right at the bottom there is the clothing store and then you can buy a dress that your tamagotchi wars
+and you can also do things like take your tamagotchi on a trip to see the statue of Abraham Lincoln in washington d.c. which is the middle picture
+so i played aroung with this a little bit
+and I found out that it was in a bytecode format
+and you could dings like display an image on the screen, play a sound and you could also do things like change stats
+for example when your tamagotchi sees Abraham Lincoln it gets really, really happy
+but there is nothing really useful in there
+there was some unusual behavioiur for invalid instructions but nothing else that i could use to dump the code
+the things i could do were some fun things like make a music video
+or make my tamagotchi do the harlem shake [laughter]
+
+[beeping]
+
+["harlem shake" beeping]
+[laughinig and applause]
+
+so that was a lot of fun,
+but once again I really just wanted to dump the ROM so I started thinking again about this game logic 
+and as i said earlier it was reperesented by this one-byte code that would sometimes jump to a different state and sometimes cause freezing
+and I didn't know quite what to make of this, but it thought it was possible that this could exploitable.
+so i started looking into how 6502 worked
+and found out some very interesting things
+for one thing, 6502 is mapped into a single address space
+so when you execute code you can access every single memory address
+you'll never for example get an exception and you'll never reset
+and this is because there is no MMU
+so basically what will happen if you access unmapped memory or memory that doesn't exist
+it will usually return 0, it might return another value
+but it will never stopp execution
+the same thing with invalid instructions
+i think what the standard says is that it will execute undefined behaviour taking an undefined amount of time
+but practically speaking this means that it exes a no-op
+and basically reset is rare
+the only way you can reset a 6205 device is to basically jump to the reset vector
+which actually if you think about this this is great for exploitations
+because usually if you can move your instruction pointer somewhere and you get it wrong 
+you have problems because, say you access an invalid memory adddress, you get an invalid instruction and then you'll crash
+but with 6502 if you're a little bit off the code you want to jump to you still might make it
+because everything else acts like a no-op
+and even if you don't it's just going to keep executing in wild loops forever and maybe it'll get there
+[laughter]
+i thought knowing this it was worth just trying to exploit this
+so i kind of just imagined how it might work internally
+
+and i thought, maybe game codes are indexes into a jump table
+and there's only a small amount of RAM that i can control from a figure
+and that's the stuff that's displayed on the screen
+but that's about 200 bytes of ram
+and I thought, let's just make a NOP sled and hope
+this is mirochi[?] in front of my NOP sled and I eventually figured out how to make her move as not to mess with my exploit
+and i tried all 250 codes and hoped i would jump to the shellcode
+and i did not
+but i did find some very interesting behaviour in the code CC
+basically i found – the first time I tried it, it buzzed
+and what the buzzing was dependent on was
+if bit 3 of byte 68 of the LCD ram was set it would buzz otherwise it would freeze
+so I thought that was kind of odd
+the other thing that I thought was odd was that some of the middle indexes worked
+when I was first playing with this it was the top and the bottom of the range that would work
+and the middle always froze
+but once I started trying every single index some of them worked
+so i came up with kind of a new theory
+with was that all the indexes were valid
+but maybe it was somthing else that was causing the freezing
+maybe the stack wasn't set right
+maybe memory addresses weren't set right
+maybe registers weren't set right
+and then I came up with the theory while I was hearing the noise
+maybe it's checking if sound is enabled and then … but it is accidentaly checking the LCD ROM because something is corrupted
+and then it's playing a sound and then maybe it's doing jumps based on corrupted memory
+which would cause based on this bit for it to sometimes play repeatedly and sometimes not
+but this started to drive me crazy
+i thought: if this is how it works and i have 255 vulnerabilities and i have this fairly large chunk of RAM full of a NOP sled: why isn't it working
+i could be very unlucky, but probably not
+so I went and I looked at my shell code
+and at this point I had used Sunplus 6502 for my shell code
+because I thought: why have a table if it's regular 6502
+but I switched my shell code to regular 6502
+and i made it something a little bit more foolproof
+and at this point it worked the fourth time I tried, at 0xD4
+[applause]
+so this is an example of my exploit
+circled in blue at the bottom is the stub of shell code I had
+it actually turns out that the LCD RAM isn't contiguous
+so that's actually a very tiny NOP sled and I was quite fortunate that I ended up hitting it
+
+at the top because I don't have enough room I'm jumping to the actual shell code circled in yellow
+and what this shell code actually does is, it writes some white to the LCD ram and that's circled in red
+and what it's trying to do here is, since I now knew the LCD RAM wasn't contiguous I was trying to figure out where all the addresses were
+but that is just a simple example that shows that works
+
+The next thing i wanted to do was to dump the tamagotchi's ROM
+what I did is: I broke out the button lines which are port A and then I just wrote out the entirely memory space using SPI and then i used my signal analyzer to analyze it
+and fortunately this wasn't the entire ROM because the ROM is actually much larger than the memory space and it uses ROM paging to make its memory space larger
+
+Basically, the way it works is the first page of ROM is always mapped and that's in the upper half of addresses
+then the lower half of addresses can be different parts of the ROM depending on a register
+and looking at the first page which I managed to dump i was able to figure out what this register was
+it was 3000
+and then was able to dump all 19 pages of ROM
+so looking at them quickly I could figure out what they all were
+pages 0 to 6 were code, 
+pages 7 to 9 were unused
+page 10 contained a pointer table for images
+pages 11 to 18 contained images
+and I don't know what page 19 contains, but I'm figuring it's audio because where else would the audio be otherwise?
+
+so here are some of the key highlights of my ROM dump
+
+you can see at the bottom are some close-ups of all the Tamagotchis
+some other interesting things:
+circled in blue is bunch of text, once again the tamagotchy no text encoding, they're all images
+circled in red is some stuff fom a startup test program which was also interesting 
+it meant that basically everything was in the ROM
+which is cool and made me think that I dumped everything
+
+my next step here was to reverse the ROM, figure out the secrets of Tamagotchi life I've been wanting to know
+the learning curve was a bit steep
+i started using IDA and there was no paging support
+so eventually I wrote a simulator based on a tool called py65 to try and figure out what it did
+
+and then a guy called Asterick wrote a way better simulator
+
+i actually recommend if you like Tamagotchis, download this, it's really cool
+you can see, you can step through all the different locations
+you can look at the values of the EEPROM
+trigger the interrupts, all that stuff
+so i thought that was awesome
+so basically here is how a tamagotchy works
+after startup, it is in one big loop, a state machine like I expected
+and every time the interrupt gets triggered it cycles around the loop and then it waits and then it cycles and then it ways
+and it's always in one of 0x41 states
+and there is a big table that determines the state actions
+and some of the states have sub states and subsub states and subsubsub states.
+and the state itself is responsible for handling that
+basically when you enter a state it will havestartup behavior and then after that it will be responsible for everything except for LCD update and SPI poll
+so it'll have to play sound, it will have to handle memory
+it will have even to put you into the next state you need to be in
+and the only things it doesn't do is: it will write in 2-way fake LCD buffer and then there is an LCD update function that actually updates the LCD
+and also you're not responsible for polling SPI, that's the one thing that's done outside of your states
+and just a general note: there were tons and tons of pointer tables
+i don't quite know why they like them so much, but there were pointers to pointers to pointers everywhere
+
+i was able to figure out a few scerets. one was: what makes a tamagotchi a boy or a girl?
+And I found out there is an entropy source C4 that based on how many times a timer 1 has fired
+and basically, this is what determines whether it's a boy or a girl
+
+so when you're starting up your tamagotchi, the instant at which you press the button to enter your name, that's what seals your tamagotchi's fate
+
+also I found out – you start off with a baby tamagotchi that grows into a toddler
+and I found out that this is completely random except sometime it's evened out
+so basically if you had one toddler last time it's more likely than not that you get a different toddler next time you raise a tamagotchi
+what else I thought was fun that some toddlers are higher-maintenance than others
+some you hardly need to care for and they become the best teenager
+and some you gotta care for a lot and it doesn't even seem to have an effect
+
+so I found what teen a toddler becomes is much more complex, though
+basically there is two care factors
+and they start off at zero
+and everytime you mistreat your tamagotchi, don't feed it or someting, you get dinged[?] on them.
+and then base on how low these factors are you get different tamagotchis
+but there still is some entropy involved, for example which factor gets dinged[?] is random 
+also what adult a teen becomes depends on these same factors but there is also a third factor which how well disciplined your tamagotchi is.
+and also i found that toddler care matters in what adult your teen becomes
+basically if you take great care of your toddler you don't have to take such great care of your teen to become a great adult
+but if you neglected your toddler you've got a lot of catching up to do if you want to get a great adult tamagotchi
+another fun thing is that you can potty train your tamagotchi
+every time you see your tamagotchi doing the potty dance you can dragt it to the toilet and this will increment its discipline and eventually, if you wait long enough, it'll start going itself [laughter]
+another fun thing I discovered is that the tamagotchi has test mode in it.
+and this was kind of cool
+I was looking at the figure processing and there's really two types of figures: ones with restaurants and ones with shops
+but I found out there was a third type of figure
+so I made a figure of this type and I put it on my tamagotchi
+and I found it has a debug mode in it
+and it's pretty cool, it allows every stat to be altered, so you can make your tamagotchi less hungry, you can make it every single character
+you can change what its spouse looks like
+you can see the care factor
+and I also found a bunch of unused functionalities in this
+there were some other secrets this helped me figure out
+for example, I found out it doesn't matter who your tamagotchi marries.
+they're just as happy and the kids turn out just the same
+the exception being, there is kind of a well-known tamagotchi trick, where if your marry a certain Tamagotchi called an Olditchi you do get a special toddler
+also I found that figures … there had been some debate about if you have a figure just on your Tamagotchi but arent' using it, does it change how your Tamagotchi behaves?
+and i found out the answer to that is no
+there's just a special display if you have a hundred figures for your Tamagotchi
+I put this online and I got some interesting reactions
+number 1: just be aware user cannot be held responsible if you do these
+these are your choice at your own risk
+
+and my perssonal favorite 
+interesting you're putting much effort into something most consider not worth it, kudos to you
+well what can you do
+[applause]
+
+the next thing I did was I analyzed the GeneralPlus test program
+and this was of interest to me because as i mentioned earlier this is on every single GeneralPlus LCD controller
+so i thought it would be useful in dumping, say, older tamagotchi and just generally useful for everything that runs GeneralPlus
+i looked at it and it turns out, you start out with the test pin polled and it polls port A for a code
+and put output on port B
+the most interesting code was code 16 which would actually take code off of port B, fill up RAM with it and jump to it
+that's pretty cool, that basically means that there is now a method you can use to dump code from any GeneralPlus LCD controller
+the caveat being that port A, port B and TEST have to be bonded
+so on some chips you may actually have to move the epoxy
+but this can always be used to dump the code
+which I thought was pretty cool
+
+the next thing I wanted to do was make some dev tools.
+I already had two of them that I'd made in the process of reversing
+the first one is called portrait.py
+and I used that to to put the image of the screen of the Tamagotchi
+so that's a simple one
+
+I also hat itemmake which is what I used to make the Tamagotchi music videos
+if you like the harlem shake, you can check out my Youtube channel
+i have a few others. [laughter]
+
+but they both have some serious limitations
+they're both for specific things
+I wanted to write a generic tool that you can use to run generic assembly
+
+but the big I ran into was that my exploit wasn't very reliable
+i would say it's 30 to 40% reliable, but it was very finnicky sometimes. 
+it tended to work really well if the Tamagotchi had been running for a long time
+but as you know as I started resetting it stopped working
+and I thought for a useful dev tool you need 100% reliability
+so I couldn't use this vuln
+
+so I started to look into how it worked
+and basically I was right about it being a jump table
+and basically what the figure does: it will fetch the game index, that one value that determines what game you're playing, add 0x27 to it and then jump to that in the state table
+
+and there is no validity check, so your problem is that you're jumping to a state that's out of range
+but then, what does a tamagotchi actually do with that invalid state?
+it turns out when the tamagotchi does a state change it jumps into the state table
+what it actually does it pulls a page number out of that table and then jumps into address 0x4000 there
+and then at address 0x4000 in that page table it has code that will make you jump into another jump table
+this means that invalid states could do a few things
+they could jump to a non-code page, they could jump to an unexpected address, they could bring up an invalid page, lots of options there
+
+and if you look at what this original vulnerability did is it would return instead of a valid page  a part of the LCD table which is 0x3C
+and what happens when you make a GeneralPlus LCD controller go to an invalid page
+well, I dont really know
+I tried playing around with this, writing it up to the LCD and I got all dark, all 0xFFF
+but I didn't know what this meant
+i figured i could mean one of two things
+bascially either when you go to an invalid page it causes the memory to float
+and that would be what's causing my execution, that this floating data somehow causes jumps intoto my code
+the other option would be that executing 0xFF for whatever reason caused a jump into my code
+both of these are very weird but for whatever reason seem to work
+but no wonder that exploit is unreliable and certainly there's no way to make it more reliable
+so I did what I called vulnerability idol
+I tried out all the other indexes and eliminated ones, voted against them if they started failing
+and I found out which vulnerability was going to star in the Tamagotchi dev kit.
+and that was 0xCD
+and I looked into it, I figured out how it worked
+
+basically what's happening here is: it's adding 0x27 to 0xCD and going to 0xF4
+and it's returing another piece of the LCD table which is 0x4
+but this is a valid page
+so then it goes and executes the jump code in that valid table
+but goes somewhere that is invalid in the jump table
+and it's actually a code location
+so it's treating INC 11E as a pointer which is actually 0x1EEE
+but very fortunately the way LCD RAM is addressed on the microcontroller -- it actually ignores those internal bits that aren't part of the proper address
+so 0x1EEE will resolve to 0x10EE which is in the LCD RAM.
+this means that this exploit will jump to the code in the LCD RAM 100% of the time, which is great. [applause]
+
+Now I was ready to make my dev kit. And I made tASMgotchi, the 6502 assembler for Tamagotchi.
+it basically outputs a binary ready to be loaded onto the figure
+so you don't need to mess around with exploits or anything
+you just need to compile, load and then you can execute the code
+what it does is it loads the code into RAM and executes it
+contains a few convienice functions for things like writing to the LCD and IR
+and these are largely based on the Tamagotchi ROM
+And its based on a 6502 assembler for Python called Ophis
+Making the dev kit was a little bit difficult 
+one of the main problems was the lack of data sheets
+I still don't know what all the ports in this GeneralPlus LCD controller do
+I was able to determine some of the functionality from the test program
+there is still some interrupts that we don't know when they're fired
+we don't know how power management works, the SPU, the watchdog
+I just want to mention if anyone does figure this out contributions are welcome
+
+to make the dev kit more generally useful I made a programming board called an eggshell
+and this is basically an SPI programmer for the Tamagotchi
+You can take your figure and push it on and then program it over USB
+I also put on IR there
+Right now there are no Tamagotchi remote exploits where you can reprogram over IR
+but I'm not 100% sure that isn't possible so I just put in the components just in case we ever find one
+And it's also a Lilypad USB Arduino, if you want to use it for something else
+i have all my tools there, the three programming tools and also the board specs
+today I'm going to do a workshop if people want to learn how to use these tools
+today the room opens at 7:30 and I'll start talking at 8
+and i'll be selling kits for 30€ including VAT and they include the board and the figure and the Tamagotchi, everything you need learn how to program a Tamagotchi
+If you want to sign up or learn more about it I have a link there
+I also wanted to do a quick plug for my boards
+I'm selling these at the URL below
+and i dont profit from these or from the workshop but I ended up doing a very large run of them because I wanted the unit price to be affordable to everyone who wants to hack Tamagotchis
+so if you like my project and want to support it, I'd appreciate if you bought a board
+there's a URL where you can get more info below [applause]
+I'm going to do a quick demo here.
+basically what the dev kit does its a simple program but you can see to get to the exploit you have to play the game
+and then that's the shell code
+and then it jumps into user code
+you can see it there
+and then the user code, just every time you press the button, says the letter of the button
+
+so basically that's the dev kit. [applause]
+
+basically this is it
+in this project i managed to dump the Tamagotchi code, I learned about Tamagotchi internals, I learned about the secrets of Tamagotchi life, I made my Tamagotchi do new things, but most importantly, good times were had by all except for the Tamagotchis [laughter, applause]
+
+We have a little bit of extra time here. I made some bonus slides about the new Tamagotchi 
+there's actually a new Tamagotchi that was released on Sept 26th
+I have some speculation on it here
+this is the new tamagotchi and here are its features
+[*video*]
+[applaus]
+
+
+to distill what that ad said basically it's the same LCD and form factor as the TamaTown TamaGo, but it doesn't have IR and figures any more
+instead it supports NFC and you use the NFC bump to do all the IR and figure functionality:
+sending gifts, you can visit …
+you can also send text messages using these new Tamagotchis which is new feature
+one limiting factor which I'm already having problems with is there is daily limits. 
+with the figures and the IR you could do that as many times a day as you wanted
+but now you can only do it five times a day
+one of the first things im going to try and do is circumvent that limit [laughter]
+here is a picture of the board
+what's interesting is that it is a lot sparser than the previous Tamagotchi
+but i think it has basically the same functionality, components are just smaller now.
+and you can see the EEPROM at the lower right and also you can see the NFC antenna on the other side
+
+that's not hugely interesting
+you can see there is a tiny PCB on it
+once again, this is the same blob
+I'm not sure if it is the same micro controller because this looks a tiny bit smaller than the TamaGo
+but the functionality is so similar, it even uses the same images, so I think it probably is
+so just some quick speculation
+I think it probably uses the same MCU
+so that means that we could probably dump the code using GeneralPlus test program
+although decapping may be required to bond the wires
+also there is a reduced attack surface for code execution because there are no figures any more
+but I'd say there is about a 50:50 chance there is a vulnerability in the NFC that can be used to execute code
+so it's just a wait-and-see thing, it may or may not be possible, but hopefully …
+one last thing which I think is a lot of fun
+this is the chart they provide of how how the Tamagotchi works
+if this is for small children – wow, I imagine what it looks like in IDA [laughter, applause]
+
+so that's it
+I'd be happy to take any questions that people have
+
+ANNOUNCER: Okay. Well, we have – first thanks for this wonderful talk, we might see you again on the stage
+
+[applause]
+
+Always adds some color to the slides which we're seeing usually
+Do you have some questions, Signal Angel?
+
+SIGNAL ANGEL: No questions from the internet so far
+
+ANNOUNCER: Okay, then we need something from in here. I see someone at number 4 maybe
+
+Q: Hi. I just have a short question: Do tamagotchis support same-sex marriage?  
+[laughter, applause]
+
+A: Not officially. But marriage checks are what hackers like to call client side [laughter]
+so if you make your own device you can do this.
+
+ANNOUNCER: Okay, number three
+
+Q: Sort of the same, but: In the last year talk you said gender is determined by a 3-bit code and you couldn't figure out one of these three bits. Did you get some more knowledge on that?
+
+A: I guess I'd say sort of, sort of not. i can definetly see where it has the three bits and where it checks them and what it does with each of them.
+Now why they chose to have three instead of one I still don’t know
+I think it might have just beena convience thing
+
+Q: Thank you.
+
+[*ringing sound*]
+ANNOUNCER: Okay. What was that? [laughter] Is this … you at number 4? No.
+I think that's it for right now
+
+One more thing: Do you have any feedback of the people manufacturing the toys? do they know about your work or have you got any feedback or is it just silence?
+A: Yeah, silence, I haven't heard a word from them yet. which i guess is so far so good [laughter, applause]
+
+ANNOUNCER: Okay.
+We have some more at number four, please.
+
+Q: Yeah i have a question.
+Do you have any knowledge about how many hours you did spent on this awesome project? [laughter]
+
+A: A few number of years I spent on it, I'm in complete denial about that subject. [laughter, applause]
+
+ANNOUNCER: Okay, I think then … ah, we have some more at number 2. Go ahead.
+
+Q: Have you figured out how to give the tamagotchi a soul? [laughter]
+A: I dont' know. This has actually been a debate on several tamagotchi forums [laughter] whether Tamagotchis have souls and whether I have destroyed the magic of that [laughter]
+Unfortunately I think this is more of a philosophical subject that can't be determind by technical means
+
+ANNOUNCER: Again.
+
+Q: Do you know of any other products using these same GeneralPlus chips that your reverse engineering is applicable to?
+
+A: Not the exact chip, although I've heard that Furbys also use GeneralPlus
+Also I was lookin into GeneralPlus and a lot of toy manufacturers or toy consulting companies offer to set you up with GeneralPlus
+So my guess is that a very large number of toys use it.
+If I think of it, there is actually a third one that I found out about which was a Hannah Montana toy and I actually managed to dump the code of that using an internal test mode of the toy, jumping it off the LCD
+But yeah, those are the two I've heard of
+
+ANNOUNCER: So now that this dev tool is out, we are looking forward to maybe next time to see people doing great stuff with these toys and maybe have some new software for it and maybe some uses. Maybe next year on the Congress.
+
+SPEAKER: Yeah, I'm excited to see what everyone does with it
+
+ANNOUNCER: Okay, then I think we have it, so thanks a lot again for having you here
+
+[loud applause]
+

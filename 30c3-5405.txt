@@ -1,0 +1,318 @@
+Welcome to the Subtitles Pad, nice to see you here!   
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk 5405  Data Mining for Good are supposed to be created  
+ talk by Patrick Ball, Ph.D , Executive director HRDAG
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[X ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Id like to introduce our speaker here, Patrick. here has made a carrer of datamining for good, prosecuting war crimes. got a convigion in his own country gouatemala
+
+Patric: 
+
+thank you very much you can hear me?
+I've been at this 23 years.
+I've worked in .. for un missions for internat criminial tribunals
+
+we've adviced dozens 
+the point is to figure out how to get accountability from the perpetrators.
+Its one of the moral foundation of the human rights movement 
+
+we look in the face of the powerful and we tell them that we believe what they have done is wrong.
+
+we have to get the analysis and that is not always easy
+
+we are going to talk about the the power. 
+
+we've been fighting about the wiki for today, 
+in the next 25 minutes i will focus specifically on the trial of 
+Rios Montt who ruled guatemala for 25 year? 
+
+the question that faced guatemalans the last time is 
+genocide is a specific crime it does not mean killing a lot of people. 
+genocide specifically means that you picked out a particular group 
+What is the d
+so without further ado, lets look at the relative risk of people getting killed  in chajul relative to their neighbours
+
+We have information on evidence and 
+
+
+the population , the total number aliave is about 39000, so the 
+The approximate crude mortatility rate due to genocide
+so that is relative to the himicide rate of .. in 
+
+the relative risk is approx 8. we interpret that as.  your probabiltiy of being killed by the army was 8 times greater than someon not living. 
+
+the relative risk of being bosniak compared to not being bosniak was about 3
+
+that's an astonishing level of focus it shows tremendous planning and persistence? I believe
+
+so again coming back to this static conclushion, how do we make that conclusion?
+
+we are not looking at excees mortality, that may be in excess of peacetime mortality
+
+and the percentage relates the number of people killed by army with the rate of people still alive
+
+the width of the bar shows the relative pop in the two communitioes, there are more people but a higher fraction is ckilled
+there are two sections
+
+now I am beginnig to touch on the second theme of my talk whcih is  we cannot do statistc or pattern analyss on raw information
+
+we must use the tools of mathematical statistics to understand what we don't know
+
+information does not fall out of the sky, when I'm an isp packets flow through my router
+
+
+and if we can't observe the killing we won't here about it many killings are happening. 
+in my team we have a catch phrase, if a lawyer is killed the world knows before dinner time
+
+So lets back to guatemala. the little vertical lines indicate the confidence interval. 
+it is our level of uncertaintity about each of those estimates
+the uncertainty does not affect our ability to draw a conclusion about spectacular difference between those who were targeted and thow who were not
+now the data ?  first we have the censeus of 1981 this is a very crucial piece
+
+It has been common throughout histyroy 
+in parralle there has been 
+first the CIIDH a series of non-governmental human rights groups
+Next the catholic church collected 800 data about deatsh
+the truth commision conducted a really big research project in the 1990s
+and then the national program for compensation gave us 4700 records of death
+now this is interesting but this is not unique many of the deaths are reported in common across these data sources
+and so we think about this of a venn diagram, how do these data intesect with eachother
+but as I mentioned earlier we're also interested in what we have not observed and
+this is crucial for us, how much wiformaion we have.
+versus the world on the right where are intersecting circle cover all of reality
+and the reason they're so differest is not just because we want to know the magnutde
+we have to know we 
+we have to estimate in equal proportions the number of deaths of indigenous people and of non-indigenous people
+our story will be wrong, we will fail to speak truth about. 
+I'm going to give you a tiny tast of how to solve this probably and I'm going to give you a series of assumptions
+I invite you to join me after the talk
+and of that we have two projects, 
+WE have two projects, A and B
+and the probability with which a death is captured from universe A with probability N
+the number of deaths.
+divided by the unknown number of teaths
+and this is the cool part
+Documented by a and B in N
+now we can put the two databased together we can compare them
+determine the deaths and divide n by n.
+but also by probability theory
+The probability that a death occurs in N 
+the probabilty of any compound event is equal to product of their
+so m/n is equal to a/n *b/n
+Solve for N
+I saw a few light bulbs go off in peolples heads
+when I showed this proof to the judge in the trial of General Rios I saw a lightbulb go on
+its a beautiful thing.
+[applause]
+
+you'll recall that we have four data sources
+
+We have an inclusiona nd exclusion pattern
+and I'll give you a metaphoe here
+The methphor is that we have two dark rooms
+Which room is larger
+Have a handful of rubber balls
+and the only tool that you have to assess the size of that room is a little handful of rubber balls
+the little rubber balls have a property, they make a sound. 
+we throw the balls into the little room and hear click click click 
+and then the second room we hear click. 
+
+so which rooms larger the second room because we hear fewer collisions
+we hear fewer collisions
+
+and so what we're doing here is laying out the pattern of collisions
+the three way and four way collisions
+
+so we can come back to our conclusion and
+put a confidence inteval on their estimates
+now I'm gonna move through this more quickly. but 
+but I want to put up one more slide that was used in the testimony
+compared the 16 moths of rias' government adn compared it to several perios before that
+so we .. those of. 
+sixteen month period of general rioss government and compared it with
+
+Rate of killings against indiginos people is greater under Rios' govermnet
+but more importantly the ratio between the two, the relative risk was at its peak under genreral rios. 
+have we proven genocide no
+this is evidence that 
+the finding of genocide is a legal finding not so much a scientifigone
+so as scientists are job is to provide evidence that the finders of fact can use
+
+With this evidence we find consistent 
+so it worked. rios was convicted. 
+[applause]
+for a week
+then the constitutional court intervened
+I know  a few experts on Guatamala
+however they constitutonal court ordered a new trial
+which is at this time scheduled for the very beginning of 2015
+I look forward to testifying again and again and again
+[appplause] .. 
+I want to come back to this point
+i really like it too 
+Technology doesn't get us to science
+thecnology helps you organize data, without which you could not even do.. 
+but you can;t have just technology you
+cant have just a bunch of data
+wriong conclusions
+the point of reverse statistics is to be right or at least know how uncertain you are
+Science of uncertainty
+so im going to assume we care about getting it right. 
+not everyone does to my distress so
+if you only have osme of the data
+
+you need some time of law that will tell you the relatioship about
+relationship between your data and the real world
+statisticianc call it an inference model
+you need some kind of probabilty model, 
+tweak twiddle to get to what'
+and statistics is about comparisons yes we get a big number and journalists love a big number
+it's really about these relationships and patterns.
+to get thsose relationships and patterns
+it has to be right
+it's a hard problem it's a hard problem
+what I worry about is people through the notion of big data around as it lets us do an end run around sampinlg and? 
+it doesn't so as technologists
+as technologists the 
+the reason I'm ranting about it is it's very easy to see you have some data and rant about it
+
+not so much in human rights,
+violence is a hidden problem
+all of those things dramtically affect the information from that violence that we're going to use
+to do our analysis
+so we don't know in human rights data collection
+if it's systematically different to what we do know
+maybe we knwo about all the ? but not the people in the countryside
+maybe we know about all the indigineous people and not the non-indigenous people
+if that were true then the argument that I just made would be an artifact of
+that's what we have to worry about. 
+Whick of these is accurate
+the problem is that we're going to compare things
+as in peru where we compared killings y the peruvian army versus killing by the sendero lumnioso
+we found there in fact that we knew very little
+about what the sendero luminoso had done
+this is called a coverage rate: what we don't know, what we know
+tand raw data however big does not get us to patterns
+social media feeds, public records, 
+
+[lists slide}
+
+all of those are going to take some kind of probability model
+and we don't have that many probabilty models to use
+raw data is great for cases but it doesn't get you patterns
+
+patterns are the thing that allow us to do analysis
+they're the thing that gets us to help prosecutors, advocates
+and the victimgs themselves
+I uh gave a portion of this talk a much earlier version of this talk
+in columbia
+it's a great place to work
+I've worked a lot in columbia there are terrific umand rights groups there
+
+a woman from a township
+smaller than a county
+I tell stories about people's suffering
+but there are people in me village i know that have had people from their family disappear
+never going to be able to use that, because they
+thy're afraid
+can't name the victimsso we better at least count them
+so about that counting there are three ways to do it right
+
+you can have a perfect census - perfect data
+random sample of the population
+
+sometimes doable but very hard
+in my experience we rarely interview victims of homicide
+
+and that means there's a complicated probability relationship between the people you talk to an
+and the death that they talked about
+
+or you can do some kin of modeling. of..
+what can we do with raw data
+
+we can say that  a case exists that's important we can say
+something happened
+we know something about that case
+100 victics if we can name 100 people
+ca
+there were a 100 victims in that case but we can't do comparisopns
+
+if we can name 100 people but we can't do comparisons 'this is the biggest massacre this year' we don't know
+don't talk about the "hot spot" of violence
+happy to talk more about that if we gahter after.
+come to a close here witht the importance of getting it right
+
+I talked about one case today this is another case
+
+the case of this man, edvard fernado garcia he was a studen
+a student
+early in 1980s he left his office in 1984 he never came home
+people reported that they saw someone shoving mr garcia into an aitomobile
+
+his widow became a very important human rights campaigner in Guatemala
+and there is here infant daughter. 
+she continued to struggle to find out what happened to Mr Garcia
+
+and in 2006 documents came to light 
+showing that the police found a 
+in the area of mr garcias office
+it was very likely that they had disappeard him
+police officers on that area
+they were convicted
+
+part of the evidence used to convict them was evidence that
+I mean paper communicatiosn we coded it by hand. 
+from and to lines in every memo
+
+and they were convicted in 2010 and
+and after that conviction mr garcias
+Mr Garciast daughter (a grown woman) 
+
+justice brings closure to a family that never knows when to start talking about someon in past tense
+perhaps even more powerfully those persons grand boss
+t De la cus was convicted with Mr Garcias disappearance
+
+{applause}
+how many of you hve been dissident students.
+
+if you have been dissadent students, how eould you feel of your friends disappeared.
+
+here's the rest of the stuff we'll talk about if we gather afterwards
+thank you very much for your attention
+
+make sure to take all the trash with you. (no questions=
+
+
+---work above this line--
+
+
+
+
+

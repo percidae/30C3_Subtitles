@@ -1,0 +1,463 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Wargames in memory: an evolution of attacks.
+Mathias Payer <mathias.payer@nebelwelt.net> , UC Berkeley. 
+
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[ X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+allright, lets get this show started, 
+
+no rubbish in the aisles.
+Id like to introduce Matthias. He's going to talk about wargames in memory
+a structured overview of memory leaks and a peek into the future.
+one more clap for mathias.
+
+Thanks for the intro
+it's good to be back in this room
+all of you know memory corrupt attacks are real and have long past 
+we are going to work through different memory corruptions, and what kinds of defences over the last 30-40 years [have appeared].
+all these corruptions are an arms race between vendors and attacks
+
+we are told the only winning move is not to play 
+but we as hackers can change the rules
+
+we start with some numbers and they are real.
+
+from 99 when collection was started to now
+we group according to a set of factors
+there is a ton of attacks out htere
+we have roled out defence after defence
+and academeia have defences that have not been adopted yet
+
+this war is an ongoign war  and the problem is how we write software
+low level is like c and c++ trade saftey for speed
+
+completely in the control of the programmes and added at his or hers convenience.
+they forget to add checks and this leads to bugs in addition to exsiting bufgs
+
+in addition legacy software is prone to gubs
+
+look at google chrome, stripped down version of c00 
+it gets owned 4-6 times a year
+and is supposed to be hig q code
+we have no idea how to fix.
+too manby bugs to find and fix manualy
+
+too much code so we need additional services and mechs to vontain them
+it s not feasible to protect by just fixing bugs
+we need an additional approach
+even in the precense of bugs in software
+lets start with memory corruption
+andreas gave a good talk yesterday or wto days ago and he gave a god intro to memory corruiptn
+and the only winning options is to recompile wiht extende compiler
+all this comes with an additionl price tag, performance drop
+
+ not feasible for regular code
+ 
+ in this section, we are going to intro memory corruption
+  we systhemaize thed into a mode.
+  
+  it helps us classify defence. 
+  
+
+so the programmer forgot to add something. 
+
+forgot to modify soms state which may lead to additional corruptipon
+if user is able to leave specifig vaclue
+ you can 
+ this is the core of any attack that uses memory corruption
+ this is only exploitable if it relies on memory corruption. 
+ 
+ and the attacker terhrefore sees all meory
+ and can cotnrol all meory susing sectoin.
+ 
+ the first it temporal error. where the smal function at the beginnning. the pointer points to corredct object and we run tino temoporal error if we free it and later on access the object and we get a memory corruption.
+ maybe the allocater allocated som other in the background
+ the other error is a spatial error, 
+ and this one is the pointer itself moves along.
+ intitialle it point to a valid datap pint and it is updated and lateer points to a different..
+ 
+ 
+ if the attacker controls. he can use it as a first step to control the process.
+ 
+ to discuss this part. we will look into the dominant attack vector
+ 
+ control flwo hijacking is the biggest attack vector that is used today
+ 
+ We will follow each step an attacker needs to follow to.. 
+ 
+
+it starts with the first basic block, and then.
+ at the third basic block it is 
+ Maybe the attacker can overwrite an address on the stack, or the address for an indir jump or indi call
+ He can rewrite the control flow graph.
+ 
+ The control flow leaves the static graph and into another graph. into sometihng called a weird machine.
+ 
+ He can reuse existing codes. or like in the old days, inject new code
+ 
+ 
+on a high level i want to walk you through the steps of a cotnrol flow hijack attack
+
+so we see how we define different seciruty poilicy. 
+
+as soon as we hit the vuln strcopy function it copies from an attacker controlled buffer into the stack ary
+and might overwrite the co.. addresses.
+
+if he continues to write we reace a memory safety violation. and he needs to bypass ..
+
+as we continue the attacker needs to circ the integrity of the codepointer. so only if he is
+
+he needs to know e value of the  code pointer.
+
+as the exec continues we will reache a return instruction and the .. istelf.
+
+he wil  execute the control flow transfer. and if he can continue. 
+
+So all these steps are necessary for an attacker to succeeed.
+
+On the other hand a defense can stop it at any of these steps and the attack is not successful
+
+until recently a very popular attack was code corrupitons, 
+any processor or cpu I'm  aware of has read only permissions and execute bits to restrict availabilty of memory pages.
+
+so this attack is no longer a problem but was big attack vector until mid 2000s
+
+so to close that part the most common attack vector is control flow attacks.
+
+and code corrupt attack no longer that much of a problem
+and the ones o
+
+what kind of defense strat have been proposed
+what is out there
+
+first step we can actually stop memory corruption.
+we can look at each read write if they violate mem safety
+there are safe dialects that enforece props for memory acces
+the drawbrack is you need to rewrite in a new langugate
+or you can retrofit the compiler to add checks automatically with performance degradation
+in gneral enforcing memory safety is too epxensive
+if you want, you could rewrite in a mem safe language like java or c#
+instead of using a langugage with arbitary memory write
+
+so rewriting in safe lang is the safest options but we need a defence for legacy code
+
+for the next step we can enforce integrity for large set of read an dwrites.
+we can enforce int of reads writes by. 
+
+So theres is write integry testing that checks writes according pointer graph and there is DEP 
+and W^X for code pages istels
+
+the next step is probabilistic defenses. and you shuffle stuff around and hope the attacker does not know where to jump to.
+
+as the last step there is control / data flow integrity that protects control flow transfer from one point to another
+
+CF only looks at the control flow transfer
+the hottest current defense in academia is control flow integrity, so i will go into more detail
+the idea is you restrict CFT to a static graph of valid transfers.
+
+you get a statically determined graphc and at each location you check if its an intersect of .. 
+according to the graph we have to possible otpions.
+we check if there .- we can stop and say the attack modified.
+
+but unfortunately the current proposed implementation,s around 20 
+they over approximate, firstly due to imprecise static analisys
+and in addtion cutting corners and only one set fo indirect calls, jumps and returns
+if we are at the end of basic block 1 ny of the se blocks would be a valid tranfer target.
+and does not ensure you target only the one valid block based on runtime info
+
+limitations, precision limited to static analysis.
+
+and most implementations choose to lose precsision, 
+
+another problem is the static analysis must see all the valid code at the compile time.
+support for dynamic loading will not be suported
+
+on a regular linux you can't link libc statically, it must be shared
+it was dropped a couple years ago
+you are faced with desision perfornance overhead or imprecision
+so all kernel impl choose imprecision, 
+this constrains cotnrol flow to the block that are out there
+
+maybe we can get a finer notion of where to put defenses. and maybe have lowe overhead
+
+let's summarize.
+this allows us to classify different attacks and policies.
+t...
+circumvent integrity of code pointer
+circ randomization
+and then circumvent control flow integry checks
+another thing we could discuss is code corruption which fits int ot his model as well.
+
+we have a large set of other attacks, data.. only attacks which only modify structs. themselve
+
+we can look into attacks. that modifies data
+
+combines all the different steps the attacker can reach to execute some bad behavior
+code can be seen as a subset of the data
+and codeset is a subset of the datapointers a
+ subset of teh data pointers
+ 
+inject data values there that are inteprreted by the code in a differnet way. 
+imaging if he can control the isadmin variable, and he can use that to change the controlflow without changing codepointers or circumventing the .
+ 
+
+we will see more about this hard problem later on
+
+what kind fo defenses are actually deployed
+how far have we come in the past 20 years.
+ we'll look at each of those individual defenses, and how they modify this model of an attack we just defined
+ 
+ the first is strongest is DEP.
+ which enforces integrity of code on page level graniularity at all times
+ it's a HW extension that adds an extra bit in the page table. which tells cpu if it's exec or data
+ 
+ we can enforce by loader or kernel writeable or executable tables.
+ whcihg mitgates all the code corruption attacks
+ low overhead. like zero precent, hardware enforced, widly deployed
+ 
+ 
+ it does not suppot self modifying code.
+ as soon as you want a JIT you ned wirtable and executalbe pages.
+ 
+ it is a very strong protection, and lets see how it fits into the mem model
+ 
+ it closes the models on the left side wher you can overwrite code in memory
+ what remains is a control flow or integrity attack
+ 
+ you 've got ASLR, which has be introd as a new and powerful safety mechanism.
+ this is a probabilistic defense.
+ depends on both the loader and os.
+ 
+ the attacker needs to find the location but its not too hard. because many apps leak information and will tell you location of an object
+ 
+ javascript objects returnd the addres of the object if you asked for the hash of the object
+ and there are many addl leaks 
+ 
+ probabilistic defenses are prone to information leaks.
+ you have to gain info on the applications then exploit it
+ 
+ in addition on x86 a large set of code locs remain static. (more then 10% perf impact)
+ so current linux ASLR has large static control blocks for the main executable
+ if we randomaize that as well we see a huge performance overhead.
+ 
+ the overhead comes from using an addtional register for relocatable code
+ if you have one for. relo.
+one register always keeps base pointer for teh current location. 
+if you're on the curent executalbe you are find. 
+if we tell gcc to compile as reloc. you see on spec benchmark you get a 10% perf degradation which is almost too costly for a security mechanism.
+
+
+you get some protection against attacks on .. wiht randomization.
+as soon as the attacker learns the secret, if you crash on apache thread you godt infon on the next thread.
+
+the last proteciton is stack canaries. 
+it's a compiler based modification, the compiler changes stack layout dinring compilation.
+it is probilistic.
+it places a secret cookie next to the value that could be overwritten.
+
+the attacker can use a directed write and circumvent the cookie that way. no prot against directed targeted read and writes
+they protect a subset of code pointers  with a weak probabilisitic protection. 
+
+we have limtied and partial prot agains integrity violation.
+
+but we don't have code pointer integrity effective agianst randomization attacks
+and no data integfirty either.
+
+randomization is partly, we have hslr . 
+
+a drawback is higher perfornance over head. over 10 %
+we have no control or data flow solutions curently
+
+we have code corrup protation,
+we have stack canaries, it's atleast something and it's cheap
+
+and whe have randiomizatoin. 
+
+it looks like we have decent protections, 
+they can be circumvented by things like rOP
+
+but they not enough.
+we need to come up with something better
+so you might ask why did these stronger defenses fail
+we have more than a hundred alt that we could use
+but all of them have failed
+
+they have too much overhead
+if they have 10% and they will not be used.
+
+they're not going to give up 200% to run in a type safe version
+
+or the next options is they are used to compabitlity to legacy and source code
+
+they need to see all code at compile time.
+leads to static exec.
+this is not feasible with shared libraris
+in addition they rely on sorce modifications
+if you have 200 MLOC you are not going to rewrite
+the last reason is the strong mechanism need to add effectivness against complet sets. not just a tiny subset
+
+should be cheap effective and compatble
+what kind of topions do we have
+
+attackers are still more powerful and defenses are not adopted and working in the first place.
+
+there ar several apporoaches, change the ocmpiler, change the language or the runtime
+
+let us discuss them one after another
+
+having mem safety would be awesome.
+if you just run softbounds +cets you get overhead up to 250% which is way too much for commodity
+imagine running your browser with 250% overhead
+we can try with a subset of pointer.s
+if we can select the data to protect we can do that without too much overhead
+well compiler analysis will help
+there will be tricky engineering to make it, especially with shared libraries
+and we can use a safe runtime systems, 
+secure ecxeutions system
+one possible solution is binary translation.. compilatiosn
+to kind of detect what kind of data pinters are used, and what data locations are used and protect. using add. steps on top of it
+we can leverage dyamicallly collected information.
+we can wrap the running app into a secure runtime platform that keeps info as it runs and enforces that info for privilegedd data locations  and not for all.
+
+we have a sandbox that wraps the app and rely on the inform from teh loader, 
+
+so different tables can be used to restrict and allow targets into the cotnrol flow 
+
+we can check the interaction with the system.
+if you don't know what binrary translation is 
+instead of exec original code we add small virtual system on top of it and we 
+we compile it as we go along with a JIT process,
+we refine loader information and enforce  checks on the protected code that runs on the real hardware.
+
+and we ill see how far we can go with that approach
+
+so what did we learn, how far have we come.
+
+low level languages are here to stay.
+even now, a bunch of projets are started in low level langs
+we need protection against memory vulns.
+we need legacy support.
+we cant change source
+and me must be compatible with a large set of other options
+
+we can use one, try to protect against the biggest vectors,
+a secure exec platform is a start but we must follow up and change compilers as well
+
+especially things like stack canaries, we may better spend performance overhead. 
+
+and future direction after that if whe have 
+
+but I want to end this talk with
+if the winning move is not to play we need to 
+change the rules of the game
+protect the software form begin exploited
+happy to take your questions
+
+thanks matthias,
+
+Mic 2
+great talk, 2 questions.
+q: one is we should look at moving to java, because it's safer. but everyone says get
+off your systems. (b/o exploits)
+
+people mutter about heap exploits but i have never seen one.
+they modified. the heap and 
+can you directly exploit the heap.
+
+a: 1st answer, it's not a java language thats exploited, but java as the crappy plugin that's exploited, the server software is perfectly secure
+most of teh java vm is in C and attacks happen against the virtual machine
+attacker supplies the code, and exploites the machine
+
+lets say the server runs a large code base and teh attacker can only supply data and not code and the
+
+q: how does heap exploits work
+
+a: the clasic use is changing data structs, you are writing c++, you have an object it is freed and another allocated on top of it, and you get another object.
+
+the attacker controlled code
+
+m: next question. :
+
+q: the 250% overhead. 
+this tradeoff comes from additional checks, the extensions put into your code
+but those checks should they have not been in yourr code to begin wth
+
+they have to be very conservative, and check every value. 
+
+and the software based or compiler based approach has to add all the checks
+C is diverse and have problems
+
+
+Q:is this not the problems, the programmer thinkin this can not be exploi.t
+
+from inet: do new versions of C / c++ provide necessary protections. or languga constructs. against memory attacks
+
+no they don't. Address sanitizer
+
+you can use softbounds cet
+they are mostly used for debugging because of their huge overhead.
+
+mike X :
+q: how does grsec look? 
+a: the grsec are a bunch of patches to 
+they are kind of a source based protection. 
+they have ASLR right
+they protect userland, they make exploitation of the kernel harder
+they program in c and add protections.
+
+q: your opinion on the MS secure fucntions like strcpys? 
+
+well......
+ [laughter]
+ 
+ it's still C right you can make mistakes somewhere else and not just there.
+ 
+ q: does it add any protections?
+ 
+ its still better than the nonsecure version
+ but the question is how much better.
+ it's very debatable, it was an easy fix they could add quickly
+ 
+ another from inet:
+ are you aware of musllibc.which makes static libc workable?
+ 
+ if you compile all your programs for yourself would you consider your binaries secure
+ because noone knows the libc address?
+ 
+ its' the same problem right, if anyone gets the binary tehy can reverse it. it's still C right?
+ please provide feedback.
+ 
+ we'd like to thank matthias for a comprehensive overview,
+ ---last line---
+

@@ -1,0 +1,226 @@
+Welcome to the Subtitles Pad, nice to see you here!  
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[X] German  
+With some random English translation from a guy who had network problems.
+[ ] English 
+(the orignal talk-language)
+
+25 Jahre Chipkarten-Angriffe
+Von der Historie zur Zukunft (de)
+Peter Laackmann, Marcus Janke
+saal 1
+
+-------------------------------------------------------------------------------------------------------------
+
+
+Vielen Dank und herzlich Willkommen zum Vortrag 25 Jahre CHipkarten-Angriffe
+Wir haben eine Kompressionsrate
+
+Thank you and welcome to the presentation about 25 years of attacks on chip cards.
+
+Wo kommen wir beide her? Was machen wir so?
+Wir sind seit 1989 in der Chipkarten-Forschung tätig
+
+Where do we come from and what do we do?
+We do research with chipcards since 1989.
+
+auch während des Studiums in Kiel haben wir uns mit dem Thema weiter auseinandergesetzt
+wir haben auch Beratungstätigkeiten durchgeführt
+
+Even during our studies on the university in Kiel we did further research with the topic and provided consulting.
+
+1989 wurden wir kontaktiert wahrscheinlich auf Grund dieser Aktivitäten ... 
+
+Was für uns immer sehr wichtig ist, wie kann man von einer teuren Angriffsmethode dahingehen ... sondern man muss ja auch wissen, kann man diesen Angriff übertragen auf ein Equipment, das nur $100 kostet.
+
+For us it was always important on how to move from expensive attack methods to cheaper ones. One has to know and find out how one can translate these attack methods to equipment that only costs $100.
+
+Ein kleiner Zeitsprung zurück, wie sah denn so die Chipkartenwelt aus? 
+
+Let's take a step back in history and see how the chip cards developed.
+
+DAs erste was man so gesehen hat war die Telefonkarte ... die Frage war, was ist denn hinter diesen 
+
+The first thing on the market were telephone cards, yet the question remains what was behind these cards.
+
+Neue Karten konnte man kaufen auf dem sogenannten Postamt und kosteten 20 DM für das kleine Stück und 50 DM für das größere. Diese Telefonkarten hatten einen einfachen Aufbau, es ist eine Kontrolllogik drinnen, aber es war relativ klar, dass da keine CPU eingebaut war. Ebenfalls hier vor 25 Jahren, wie hat man sich da der Frage genähert ... 
+
+New cards could be bought from the postal office and cost about 20 DM for the small one and 50 DM for the big one. These telephone cards had a very simple layout: There was no logic so it was very clear that no CPU was involved. 
+
+Das hier ist die so genannte Yellow DAta Box ... mit den Schaltern konnte ....  Da es sich um eine LED handelte und nicht um einen Computer, ... beim einfachen Takten dieser Karten, dass sich die Takte wiederholen. Da musste man noch wissen, wie sind die Gebühren auf so einer Karte kodiert? Am besten bzw. am sichersten in einzelnen Schritten. 
+
+Here is the the so called Yellow Data Box ??? Since it was a LED and not a cpu with logic and one could figure out that the frequencies repeated themselves. After a short time one could figure out the codes for the fees. Since the model was very complicated one needed a PC, which was the C64.
+
+... aber kurzer Zeit danach hatte man die Gebührenkodierung heraus. Da das ganze Modell sehr aufwendig war, hatte man das damals mit einem Computer gemacht, wobei Computer damals Comodore 64 bedeutete. .
+
+Damals war die CHipkartenwelt sehr übersichtlich, die Telefonwertkarte war die am weitesten verbreitete .... wenn man sein Portemanne öffnet, findet man eine vielzahl verschiedener Karten. Insbesondere für Bezahlkarten ... diese sind kontaktbasiert, unter diesem KOntaktfeld ist der Sicherheitscontroller ... vom Umfang her ähnlich wie damals der C64, heute als kompakte Version in der Chipkarte drinnen. 
+
+Back then there weren't many chip cards and yet they were very popular. Everyone had one, especially those used for payments. These are based on contact with a security controller. Now these security controllers are very similar in scope to a C64, and embedded in the card.
+
+Das heißt hier ist der Chip in der Karte selber miteingebaut und verbunden mit einer kleinen Drahtspule. Über diese Drahtspule wird einerseits die Energie ausgetauscht aber auch die Informationen. Alle diese Karten haben zwe....
+... einerseits private Informationen aber auch kryptographische Schlüssel. Hat man diese einmal herausextrahiert kann man diese auf andere SChlüssel übertragen und damit die original Karte replizieren. .... das ist wie beim Lockpicking einen Nachschlüssel zu erzeugen ... das zweite Szenario ist einfach die Daten auf der Originalkarte zu verändern. Zum Beispiel wenn wir eine Geldkarte haben, auf der ein Geldbetrag gespeichert ist, wäre es interessant, den Geldbetrag zu erhöhen, ohne den offiziellen Zahlungsweg zu beschreiten.
+
+This means that the Chip is embedded in the card and with a simple coil. Over this coil energy is being transfered, but the coil is also used to transfer informaiton. These chips store private information but also private keys. Once those private keys have been extracted they can be transfered to a new card to duplicate it. This process is similar to creating a copy of a key in lock picking. The other way would be to change the original data on the card. This is interesting if the money value is stored on the card and can be increased without actually paying for it.
+
+Dies sind die zwei Szenarien, die ... 
+
+Wie sehen diese Angriffsszenarien in der Praxis aus?
+
+How do these attack scenarios translate practically?
+
+Deshalb werden wir zu jedem dieser Hauptangriffsszenarien nur ein paar Beispiele bringen, man kann die ganzen Angriffsszenarien auch klassifizieren in drei Kategorien.
+
+We will only provide a few examples to these attack scenarios. One can differ between three different categories.
+
+Das erste Szenario sind die manipulativen Angriffe: ... also zum Beispiel ganz feine Nadeln aufzusetzen, ... 
+
+eine andere Möglichkeit des manipulativen Angriffs, ist dass man den Chip Schicht für Schicht abträgt und fotografiert.
+
+The first scenario are called "manipulative attacks", for example using fine needles, or removing layer of layer from the chip and fotographing these layers.
+
+Neben den manipulativen Angriff ist ide zwete große Klasse der observative Angriffe. Hier wird die Chipkarte gar nicht verändert sondern ... .... wie lange braucht eine mathematische OPeration und auf grund dieser Zeitinformation auf die Geheimnisse zurückzuschließen. ... um hieraus die GEheimnisse zu extrahieren.
+
+The second method are called "observative methods". The chip is not changed or altered. ... For example one can use mathematical methods and timing information to figure out the private information stored on the chip.
+
+Man sieht also, die observativen und die manipulativen Angriffe sind darauf ausgerichtet, die Geheimnisse zu extrahieren. Während die semi-invsaiven Angriffe daraus ausgerichtet sind, die ...
+
+... wenn ich eine Karte gefunden haben, die mit einer PIN abgesichert ist, die ich nicht kenn, ... eine Abhilfe wäre, ich gebe eine beliebige PIN ein und ... dass die falsche PIN als korrekt erkannt wird und mir Zugang erlaubt.
+
+Observative and invasive methods are used to extract the information from the chip, and the semi-invasive methods are used to change the behaviour of the card. For example to trick the card into accepting a false PIN as the correct one.
+
+
+Gehen wir mal richtig rein in die Praxis. Für jeden dieser drei Angriffsklassen ... 
+
+und ein Ausblick in die Zukunft, wie werden diese Angriffe in der Zukunft aussehen. Was ist mit kleinerem Budget machbar, also mit Heimmitteln oder Amateurequiment machbar.
+
+Let's talk about practical methods for these three attack methods, and lets look into the future about future methods that can be used with a smaller budget. 
+
+Fangen wir ganz oben an, also mit den manipulativen Angriffen....
+
+
+Es ist vielleicht keine so gute Idee mit der Telefonwertkarte zum nächsten Krankenhaus zu fahren und zu sagen, ich brauche da mal ein Röntgenbild. 
+
+Because it is not a good idea to go the hospital asking them to make CT scans of the chips.
+
+hinten einen Röntgenfilm angebracht und einige Wochen gewartet. Das Ergebnis sieht man unten links sehr deutlich, und das Ergebnis sieht man hier sehr deutlich, ... siehe da, es sind irgendwelche Testkontakte auf diesem Silizium vorhanden. Damals war die Frage, wie greift man diese Testkontakte an mit einigermaßen überschaubaren Mitteln. Wir haben diese Telefonwertkarte einfach von der Rückseite geöffnet und damit war das silizium fr uns sichtbar ... das war die Möglichkeit hatten zu schauen, was für Signale sind auf diesen zusätzlichen Kontakten vorhanden. Das sogenannte Probing & Forcing auf der TElefonwertkarte damals vor 25 Jahren.
+
+Hiermit ist es dann auch möglich, ganz feine Veränderungen oder auch Veränderungen in der Art zu machen, dass man Signale von außen ausspähen kann. 
+
+Was ganz spannend bei disen Geräten ist, obwohl sie sehr teuer ist, werden sie kontinuierlich ausgetauscht denn immer wenn eine neue Größe entwickelt wird, werden diese Focused Ion Beam Geräte weiterentwickelt.
+
+Kann man sich natürlich auch andere Geräte wie dem Atomaic Force Mikroskop bedienen.  Sptestens da ist natürlich die feinste Technik nicht davor versteckt.
+
+Mit dem ... was in dem Speicher der Chipkarte integriert ist, wirklich gespeichert ist. Möchte man mehrere Sachen gleichzeitig testen, ... Zugegebenermaßen kein ganz einfaches und preiswertes Equipment aber heutzutage in den großen Laboren als State-of-the-Art vorhandne. Aber um zu sehen, wo kommen wir denn hin, gibt es den Chip Scanner, um ein hochauflösendes Bild zu machen ... und das mehrfach bis man mehrere Bilder beisammen hat ...
+
+Das ganze ist die Technik, die heute vorfügbar ist ...
+
+Heutzutage ist es mit spezialisiertem Equipment sehr gut möglich, auch viele Signale parallle aufzunehmen. Aber hier stellt sich die Frage, wie bekomm ich diese Signale aus dem Chip heraus. Interessant ist es vor allem dann, wenn ein Chip den anderen Chip direkt angreift. ... dann kann man diese Kontakte so anordnen, dass sie auf einen FPGA passen. DEr FPGA kann dann so programmiert werdne, dass der FPGA gleichzeitige mehrere hundert Signale in echtzeit aufzeichnen kann.
+
+Das heißt hier, noch etwas Zukunftsmusik und auch mit relativ hohem Aufwand verbunden. NIchtsdestotrotz wir schaue aber, was kann man mit weniger Aufwand erreichen. Letztes Jahr auf dem Congress gab es einen Vortrag zum Thema Low Cost Probing. Das schöne ist, hier hat man ein sehr gutes Mikroskop ... die Nadeln sind ein Kostenfaktor und jede Nadel kostet so ca. 20 - 30 €. Mit dem Wolframdraht aus einer Halogenlampe kann man sich Nadeln selber generieren ... es ist sogar berichtet worden, dass wenn man das µProzessor gesteuert macht, dass man Nadeln bekommt, die vorne nur 5 nm Spitze haben ... 
+
+This means that these processes are not feasible yet as they require a lot of work. Nevertheless we are looking for methods that require less work. Last year there was a talk about low cost probing. The nice thing is that with a good microscope one can see ??? The needles for probing are a cost factor, as each needle costs about 20 to 30 euros. With a tungsten wire from an halogen lamp one can create such a needle for oneself. It has already been reported that micro processors can be used to create such needles that only have 5 nm point.
+
+Für Schülerexperimente gibt es heutzutage auch Kits um ein ... selbst zu bauen. Mit einem relativ günstigen Setup kann man sich also auch die Atome selber anschauen. 
+
+For school experiments there exists kits which can be used to create high grade high grade microscopes for a low cost and one can see the atoms.
+
+Schauen wir mal in die zweite Klasse, die observativen Angriffe. 25 Jahre zurück, als wir den Chip geöffnet haben, .... die etwas spannender waren. Jetzt stellt sich die Frage, wie analysiert man so eine Technologie. Neben diesen rein optischen Maßnahmen haben wir aber auch geschaut, wie viel Stromverbrauch ist eigentlich da in den verschiedene Operationsfeldern ... 
+
+Let's take a look a the second type the observative attacks. Twenty five years ago as we opened chips. Now the question remains how do we analyse this technology? Another method apart from the optical ones, are were you analyse the voltage use in certain parts of the chip.
+
+Aus der Historie jetzt wieder in die aktuelle Welt zurück. Mit einer elektro... Analyse hat man ungefähr um einen Faktor 1000 bessere Resultate. 
+
+Diese Mikrospulen werden dann mit einem .... die die ganzen Messdaten aufnehmen und analysieren. Neben dieser elektromagnetischen Anlayse ist aber auch die * analyse etwas was sehr stark im KOmmen ist. Mit speziellen Detektoren die in flüssigem Stickstoff gekühlt sind, kann man ... wo auf dem Chip ist eine Aktivität und wenn man die Auflösung noch erhöht, kann man die ...  weil diese dann von der Auflösung her einen signifikatnen Gewinn bringen.
+
+With special detectors which are cooled with liquid nitrogen, it is possible to detect activity on the chip. 
+
+Wie geht es in der Zukunft weiteR? Auch die Idee gesponnen, einen Chip gegen einen Chip anzugreifen.... deshalb mal die Idee, mal einen speziellen Chip herzustellen, sodass man gleichzeitig an verschiedenen Stellen des Chips ... sodass man sehr schnell komprimierte Daten herausbekommt.
+
+Was hindert einen daran, den Chip einfach so zu präparieren, dass man ... und hier entsprechend daran einen OLED Display aufbringt, und analyisert, was sind denn hier die Informationen darauf. Alles wieder recht teure Technik, kommen wir zurück was kann man mit haushaltsülbichen Methoden oder mit kleinem Budget erreichen.
+
+oder aus einer älteren Festpltate einen Festplattenkopf zu entfernen, denn diese sind ja darauf spezialisiert die Magnet ... ergeben bereits sehr, sehr gute Resultate und damit kann man bereits sehr gut Seitenkanalangriffe durchführen. Und selbst die Photonen Emissions Analyse ist nicht dem 1 Mio € Equipment überlassen.
+
+Und zur dirtten KLASSE der Angriffe, zu den semi-... Angriffe. Hier geht es darum, dass man den Chip stört, während er eine Sicherheitsabfrage macht ...
+
+man kann diese semi-invasiven Angriffe machen ... das Silizium verhält sich im Prinzip wie eine Solarzelle, der dann zu Fehlfunktkion führen kann. 1992 haben wir uns überlegt, wo auf dem Telefonkartenchip eigentlich was passiert. D.h. wo werden die Daten gespeichert und wo werden sie verarbeitet. Es gab damals die Idee, dass Transistoren vor Licht geschützt werden müssen. Die Idee war jetzt einfach, um den Chip punktuell zu beleuchten um zu sehen, ob der Chip während des Betriebs aussteigt. D.h. ein Laser musste wer. Wisssenschaftliche Laser waren damals aber sehr teuer, aber glckclicherweise gab es den Bildplattenspieler, ... kommt ein Laserstrahl heraus, der hatte einen Durchmesser von 2 mm, wenn man den komprimiert auf 1 mm, ... hatte man genügend Energiedichte um den Chip dann zu zerstören. Man konnte sehen, dass der Chip dann tatsächlich an bestimmten Bereichen Reaktion zeigte ... auf diese Weise konnte man damals schon ein bisschen kartographieren, was sich so auf diesem Chip tut. Heute kann man einiges mehr, die Lasertechnik ist weitvortgeschritten. So ein typischer Messplatz mit dem man diese ... eine Variante .... 
+
+
+Wichtig ist da auch, dass man ... 
+
+Und man kann auch Infrarot benutzen, typischerweise kann man das während des Betriebs umschalten. Heute ist es auch üblich, dass man an mehreren Stellen gleichzeitig belichtet, das wird üblicherweise mit mehreren Lasern gleichzeitig daraufschießt. ... und dann noch mal zur Sicherheit, ... dann erkennt diese Software .. und würde einen Alarm auslösen. 
+
+Auch hier haben wir uns ein paar Gedanken gemacht. Auch hier lassen wir einen Chip gegen einen Chip antreten. In dem man das Licht selber prozessiert, eine ganz einfache Möglichkeit sieht man hier an der Wand, nämlich der Beamer macht das hier ... sowas könnte man verwenden um Laserstrahlen an bestimmte Bereiche des Chips ... dazu kommt die Modulation des ... das ist so ähnlich wie ein DLP, aber das ist ein veränderbares Gitter. Durch diese Gittereffekte wird eine Interferenz erzeugt, also ... speziell von solchen Sachen erhoffen wir recht gute Angriffsmögichkeiten für die Zukunft.
+
+Aber auch der Amateuer kann hier einiges machen hier wird hier einiges gezeigt, was kann man mit einfachen Mitteln erreichen. Zunächst mal ist es sehr schwierig, das Positionieren  guenstig zu machen... was sehr günstig geworden ist, sind die Laser, ... sehr sehr günstig zu erhalten. Man kann auch Infrarotlaser mittlerwiele bekommen, und die wuerde man dann zB in den Kameraport eines... dass man den Laser direkt mit Lichtleitfasern auf den Chip lenkt. Solche Laser kann man dann durch Software triggern, günstiger ist es aber wohl ein kleines FPGA ... 
+
+Kommen wir nun zu anderen Möglichkeit, semiinvasive Angriffe zurchzuführen. Möchte man zum Beispiel drumherumkommen, einen Sensor auszulösen, wie kann man nun sowas machen? Strahlung kann Schaltungsteile verändern und für temporäre Fehler sorgen. In der Tat ist es auch sehr praktisch, wenn man kurzzeitige Fehler erzeugen will, zum Beispiel gibt es Angriffe, die nennt man ... ... und anhand des Ergebnisses Rückschllüssel auf den geheimen Key ziehen kann. Wir testen sowas auch professionell ... das ganze ist aber relativ teuer als Quelle und wir normalerweise auch nicht als Privatpersonen verkauft.
+
+Aber wir haben uns natürlich auch überlegt, wie könnte ein Amateuer hier herangehen. Zum Beispiel sind das Radiumuhrzeiger, speziell Wecker, ... aber auch Glühstruempfe* von älteren Gasgluehlampen ... auf der linken Seite kann man hier sehen, wie ein Radiumuhrzeiger auf einen Chip aufgelegt wird. Man kann auch als Amateur seinen Chip maskieren, damit nur ein bestimmter Bereich beleuchtet wird. oder eben mit Lack oder den oben gezeigten Werbegeschenken eines bekannten TElkos.
+
+Diese Möglichkeit brachte uns auf eine Idee, ... das ganze nennt sich .. .das wird bei Mineraliensammlern realtiv großflächig verbreitet und ist heute nicht mehr radioaktiv, nach 68 Jahren ist da tatsächlich nicht Gluehstruempfe von Gaslampen und Indikatoren von Rauchmeldern.mehr viel radioaktive Strahlung übriggeblieben ...
+
+Geht das besonders gut? Nein, es geht sogar besonders schlecht, aber wir dachten, das müsste einfach mal gemacht werden.
+
+Jetzt haben wir einen kleinen Strauß verschiedenster Angriffe dargestellt und in diesem Zug ist es interessant zu sehen, welche Statements eigentlich zu finden sehen. 
+
+Unsere persöhnlichen Highlights sind sehr absolute, oder unser persönlicher Top-Favorit wenn eine Funktion als unklonierbar gilt.... eine hunderprozentige Sicherheit kann es nicht geben, insofern sind das Aussagen, da muss man dann reinschauen, was steckt da eigentlich hinter. 
+
+Bei Autos ist berichtet worden, dass einige Autos Optimierungen haben, w-.. dass hier besonders wenig Spritverbrauch auftritt. 
+Das heißt also , man kommt nicht einfach an diese optimierten Szenarien heran. Es ist also fraglich, ob diese Verbrauchstest wirklich so sinnvoll sind. Auch bekannt ist aus dem Kühlschrankbereich, hier wurde berichtet, dass ein Hersteller... dieser Mikrokontroller soll ein spezielles Messprogramm enthalten haben, ... der Mikrokontroller stellt fest, jetzt muss ich ein besonders gutes Bild hervorbringen, also regel ich meine Energieleistung herunter. 
+
+Jeden Falls kann es dadurch sein, dass der Kühlschrank ein sehr gutes Energie... nehmen wir diese beiden Szenarien einfach mal her und übertragen dieses auf Securitychips ... als konkretes Beispiel, wir haben vorhin einige Laserattacks gesehen und klassischerweise werden hierfür die immer gleichen Laserklassen verwenden. Wenn jetzt aber ein pfiffiger Angreifer ein bisschen etwas verändert, also eine andere Wellenlänge oder eine andere Pulslänge verwendet, ob das dann dieser ... also so ist es natürlich ein absolutes Nightmare wenn in diese Richtung Gegenmaßnahmen eingebaut werden würden.
+
+Aber, wenn man einen Angriff abwehrt, kann es sein, dass man durch eine Funktion die man einführt, zehn andere erst ermöglicht. Wo dann vorher relativ gut gesicherte Systeme erst dadurhc unsicher werden, dass man eine gut gemeinte Funktion erst einbaut. In dem unteren Kasten kann man mal sehen, wie eine gut gemeinte Funktion zu einer Backdoor führt. Das ist so ein Szenario, dass man aufstellen kann. Ihr seht schon, dass haben wir unter Anführungszeichen gesetzt.... zur Illustration ganz kurz, was macht so eine "unclonable" function ... man geht davon aus, dass man, wenn mn REM zellen baut, also Speicherzellen mit REM auf einer Chipkarte, also diese immer mit ... da sie aus zwei Teilen besteht, in Richtung 1 oder in Richtung 0 kippen. Das liegt daran, dass diese REM-Zellen eine bestimmte Vorzugsrichtung haben, ... der, der in Richtung 1 oder in Richtung 0 schaltet. Dies ist tatsächlich prozessabhängig und für den Chip individuell , also könnte man dadurch geheime Schlüsel absaugen. Das geht alles ganz gut, aber ein Eingreifer kann sich diese SAche zunutze machen. Er kann in der PRoduktion einen zusätzlichen Schritt einführen, dass die ... sondern durch sein eienes Eingrifen, das könnte er z. B. daduch machen, dass er den einen Teil der eine eine Richtung kippt, verstärkt und in die andere Richtung schwächt. Der Angreifer hat dann die Gewissheit, dass ... d..h er hat eine Backdoor darin eingebaut. 
+
+Attack will not work because we use a small technology nodes. Unsere personelichen Highligh bei solchen statements sind solche absolute. Unser persoenlicher Topfavorit ist ganz unten aufgelistet. Eine 100 sicherheit kann es nicht geben. Da bei solchen Aussagen muss man dahinter schauen. 
+I
+
+Aus dem Kuehlschrankbereich, hat ein hersteller den Kompressor einen yController spendiert. dieser hat ein spezielles testprogramm mit einem wenn ein energie zertifikat vergeben werden
+
+
+Nun sind wir aber nicht die einzigen, die sich mit diesem Thema auseinandersetzen. Wir sind da lange nicht die einzigen, die sich mit diesem Thema auseinandersetzen. Generell ist es natürlich klar, dass wenn man etwas als "unhackable" bewirbt, ... 
+
+Die Frage ist natürlich, was wünscht man sich im heimischen Hacker-Labor? Frueher war es Heutzutage ist es eher so, die Elektronenstrahlquelle, die man sich zuhause wünscht, denn das ist tatsächlich sowas wie ein Schweizer Taschenmesser. Neben diesen hochaufgelösten Fotos ist es auch möglich, ... und hierüber zu beobachten, welche  Daten laufen über diese Leitung so drüber. aber selbst für Störungsangriffe ist es möglich, den ... dies kann man nutzen, um kurzzeitig eine gewisse Störung ... erzeugt er beim Auftreffen auch Röntgenstrahlung. so kann man auch analoge Werte aber auch Inhalte ... verstimmen oder verändern. Wunschwerte einstellen. Aber last but not least man kann auch den Elektronenstrahl auf eine ...Chiprückseite und damit dann auch die Möglichkeit Strukturen aufzubringen, aber die Frage, die hier sehr häufig gestellt wird, wer hat denn ein Elektronenmiskrokop zuhause? Häufig ist so, dass man diese Großgeräte mieten kann und sich diese Halbleitergeneration in der Xten generation befindet, muss man etwas vorsichtig sein, aber hier zeige ich, wie man so etwas bei sich dann zuhause aufbaut. -noch ist es jedoch nicht fertig-
+
+Zunächst braucht man etwas Platz im Wohnzimmer. Die Auswahl ist etwas schwierig und man sollte etwas vorsichtiger sein und es ist für günstiges Geld verüfgbar. Teilweise diese Geräte andere Medien brauchen, wie z. B. Wasser oder Druckluft. Hier läuft z. B. Windows 98 drauf ... aber dieses Mikroskop ist praktischerweise mit einem SCSI Port angeschlossen.
+
+Kann man so benutzen, wie das eigentlich geplant war, oder wenn man ein bisschen Zeit hat, kann man das auch modernisieren. Das wäre momentan so der Ausbaustand. 
+
+Die Auswahl des geraetes ist schwierig und man sollte da vorsichtig sein. Aber es is tteilweise fuer guenstiges geld verfuegbar. Man braucht kuehlung, wasser oder auch druckluft sollte es sein. Da laeuft im moment noch Win 98 drauf. Aber dieses Mikroscop ist mit SCISI angeschlossen wie ein Scanner. 
+
+
+Grossgeraete kann man
+Jetzt aben wir versucht mit einem hohen Kompressionsfaktor diese 25 Jahre in kuerzester Zeit darzustellen. 
+
+Ansonsten möchten wir auch zur Vertiefung etwas Praxis anbieten ... das ganze haben wir auch deshalb gesagt, hier ein paar Bilder von 1992, hier die Ankündigung dort ... es war grade in der Nachzeit sehr interessant, was man alles gebaselt und experimentiert hat also insofern eine Einladung... ansonsten möchten wir noch den Vortrag nach uns ans Herz legen, ... sehr viel detailierter als wir es in der Zeit bringen können. 
+
+Frage: Kannst du was zur Größenordnung zu den Kosten zum Heimprojekt Elektronenmikroskop sagen?
+Antwort: es ist im vierstelligen bereich geblieben, und im grossen und ganzen im mittleren oder groesseren vierstelligen bereich. man braucht auch druckluft, ich habe es getestet mit einem kompressor der 80 euro gekostet hat aber 130 db. man sollte keinen elektronik schrott kaufen. 
+

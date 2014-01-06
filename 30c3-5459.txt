@@ -1,0 +1,129 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Security of the IC Backside
+The future of IC analysis ()
+nedos
+
+Saal 1
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+....
+
+and so the thing you want to have a fool proof attack something you can do with tsingle trace. you talke about million of trace. you have a counter and the counter is 65,000 to one and you cant do anything else on the card. you cant do amillion repetions to extract a key. 
+you kinda of have a black box but it doesnt stay a black box.
+
+for even for side channel stuff , for certain application, they have to unerstand how the crypto stuff works.
+
+in every chip you buy nowaday you ...this in enough to stop high security analysis... we can actually change the circuiot.  i see reverse enigineering
+the transistors are created at the top of the silicon wafer and . we have... passivation round it.
+
+the middle and around it you have passivation. on top you have metalization an interconnect and aroun dityou have isolation and provides the chip structure and ...
+
+you image the device, you image..
+what if i have 1 here and 0 here what do i get out of a multipage circuit
+now that we have the netlist and we then can isolate the logic
+the chip decrypted the dat for us and we can get the data out from there.
+
+this is simple nand gate, the calssic, you have the a and b , the output is not connected to anything, i wont get into that but....
+
+its unbelievable you do chips, and how much experience behind it, the reality is that the human eye has not seen this, hey these look alike and those look alike and in the middle is inverters and the right and left is the flip flops. you dont figur eout what the logical function is you just realize this is a output device and this is a flip flop and etc... 
+
+the thing missing is this is just the gates and this is some evice and we'll get into what we will see here and ..
+then it goes up and then it ends. but it doesnt actually end but then goes to the next layer and down and then boom we are in that gate.
+this is the input to the converter and now we have the gate and the output and we onely have one output and that is the actually connection to the other metal layers and it goes up and then over to the left and up and boom we hit the flip flop, the image we had beforfe
+
+if  we reconsatruct this we know that the chip has it stored in non violotile rmemory ...
+
+up down, flip flop and the the ALU and all these parts that are parts of the core.
+so a better idea of what it is, you make an overview of the chips, you can see a lot of information about chip, you see the flash, non violitile memory and the EMas a...
+
+and the core, how do i know its the core, well if you compile by GCC you ... the same thing is the case here , the grey are with no stucture is because of synthesice which output the most optimal ...
+in the core you will see very grey or black or copper etc.
+the thing to remember is the flash. and the data goes into the core.
+
+the wires i had on the prev slide
+if you are d-tracting data that doesnt have a description...
+well if the vpn is decription...before it goes to core it has to be decrypted.
+in the case wehere we have no decrpty we would have violtile memory going tstartight to our memory...
+the data will be decryted on the right side.
+this is the basic flow.
+This is Tovas talk from recon, he did something more advance that dgate. you can just scroll around the chip and detract what you ....
+
+..because the substate is .
+
+We can setting clear the fuse the fourth way which is interconnected with water or word disconnected by disconnecting the wife never go over sitting there with you to start looking  Clemens as soon as soon as if you're able to read somebody 
+
+I think Starbuck was sitting there just testing ...  as soon as he we note set it you don't check in your .. what are this is a set to and then you don't .. instead of it being FF it's all of a sudden it snow seven F or whatever and then I just member
+
+ you know we’re jumping up and down and high-fiving it always so happy but I’ve been missing is looking is a contrast images that you you could actually also see that you can exit we’ll see how you’re removing the dots actually the contacts going up until about to.. of the footing it to as a remove the floating gate you'll see that the voltage changes.
+ 
+So we can actually change the value store and the fuse because all of a sudden the right side isn't the same voltage levels .. changes within and it's called ..
+
+you could've the summary is you don't advanced a lot of it is a kind of.. that that we hear a lot of times and and a lot of things that you hear from from especially 
+
+if you send an academic papers that readers text you to let you know we have a chance packaging invasive analysis see how this is all never to happen and the truth is like a show jewelry many chemicals anymore to open up the steps to know you have a backside polishing machine 
+
+What you... chip in there and you let polish away and you get very nice result and all of it after that you only knew if it don't need all of these discussing chemicals that nowadays universities who don't want to get sued by a mental health insurance companies are very hard to get to 
+ 
+so anyway but then ... for service and share a device to attack until this is only this is not no applicable to the real world because who's going to reverse engineer device and it and although that..
+
+ that may be true that most of the cases ... that talk as I can ever resend share of the full integrated circuit he's going to do as a matter ...
+ 
+ much I should do what the what the processes of finding the areas where the decryption as it's not it's not even reversing changes following the lines.
+
+So did the .. too complex and reality you saw that you know the gates they appear again and again. 
+
+so like I a cell library on a chip nowadays it might have something like 60 or 70 different types of gates. To find you spent two weeks studying all the gates I know you have all the gates on the device you know all of them so now you can say XOR inverter flip-flop you don't this type of flip-flop that type of you you just know that when you can literally recognizable with your eye when you're sitting in front basically 
+
+so yet but anything is in a data .. was encrypted so who cares and we saw you know if it's encrypted it has been decrypted .. devices. 
+
+Working if you do any kind of budget cuts on them and the truth is I can say it was 100 some certainty we've removed 99% of the device and it still works fine without you know literally 99% of the thickness of the backside we removed and the device still works so that's not true at all 
+
+.. Chris Olivier Starbuck who is really got me motivated ...
+
+coming to questions after this .
+
+number one question that I get it went especially people come and talk to me like off-line is how do I get into this? Starbuck said "learn ACL" 
+
+And he's right, the best way to get into this is when ..and try to implement it on your own software processes and start writing. 
+
+this because you get into the mentality that the engineers have ... 
+and it's not rocket science its quantum physics.
+
+...Crazy stuff and Alex was basically just peachy all the optics of the weirdest for our experiments.
+
+... wants to talk to me and see all of the lovely devices that I have with me or wants to potentially buy this lovely device called the ... 
+
+talking and come and find us in the hackcenter so we're kind of in the bottom into the left and .. of the alleys and you can find is look Twitter account if you want to fight either but I guess I was coming for questions
+
+chips with a 10-year-old said to know if we got a new fit today we could attack you're interested but I need your question was kind of the laser skin fee so I'm not sure what they mean from an asynchronous processor design and he you have a lot of pain I would say I don't know how that would affect anything
+

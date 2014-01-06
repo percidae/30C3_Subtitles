@@ -1,0 +1,341 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[X] German  
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+German:
+Wer hat sich denn schon mit den Kategorien vertraut gemacht und traut sich zu, das zu gewinnen?
+
+Hier haben wir jemanden, der ganz viele likes bekommt. 
+
+...
+
+Das ist noch nie passiert. Also wenn man mir schon das Mikrofon gibt, ist das kein gutes Zeichen. Eventuell haben wir auch noch irgendwelche illegalen 5-Euro Schein aufkleber. Bitte gehen sie weiter es git hier nichts zu sehen. Er wird mir nachher sage, dass hat es noch nie gemacht. Haben wir wenigstens die musik noch? (lachen) Langsam wirds. Tastatur, cool. Kurz erklären, woran es lag, für die technisch interessierten: Ich hab keine Ahnung woran es lag. Das Script basiert auf perl-tk und ist 15 Jahre alt. Ich hab keine Ahnung mehr, was es tut.
+
+Sind allen Kandidaten die Regeln bekannt?
+
+...
+
+Geocaching 400. Ein Geocaching Profi. Damit könnte man auch ohne GPS Geocachen.
+...
+Mit Galileo könnte man nur dann geocachen, wenn Großprojekte zum Ziel kämen. 
+
+Ich nehm mal Äh für 100. Lukas hat gedrückt. Was ist Morsecode ... für ? Wir hätten schon gerne den Buchstaben gewusst. Schau auf den Schirm. Was ist Ä? Wollen wir das neutral geben? Wollen wir das werten? Damit ist die Kategorie wahrscheinlich nachvollziehbar geworden. Du darfst weiter machen.
+...
+Einfach eine Frage stellen, die zu diesem Bild passt. Stell dir vor das Bild ist die Antwort. Wir geben dir nochmal die Chance eine Frage zu stellen. Und die Frage wäre möglichweise "Was ist cat?"
+...
+Welches Bilderrätsel weist auf Cat hin? Ich glaube wir werten das jetzt mal als gültig. 
+
+
+
+
+Englisch:
+We have the categories here. We have unix commands. We have geo caching, self expanatory.
+Thee is the category .. um.  which means hmmmm?  
+Todays (prizes are provided by the lock picking area  Dependning on the lock picking is not too cheap depending on the lock.
+
+The last one is about colors.
+
+There is a some free beer and so called, card game , quartet? you can also download it and print it out yourself.  
+
+(audio out/down)
+There is someone in the audience who brought a towel. He looks quite young, the guy walking up, he doesnt look like a hacker. He has a scarf and a hat. 
+(audio out)....
+
+Who wants to play Fefe?
+The person has to reply Fefe when asked for his name, He has to continue the blog and twitter though. The fourth buzzer must be pressed.
+Say your name into the microphone
+Lukas
+No Fefe so far.
+We dont have a keyboard. What does that mean? Is there a doctor in the audience errr - does someone have an usb keyboard?
+when someone gives me the microphone - that is not a good sign
+*promoting stickers*
+please move along there is nothing to be seen here.
+You were better at that in the past.
+Ah we are getting somewhere.
+Keyboard! cool.
+Can you explain what the problem was?
+I have no idea what the problem was.
+The script is based on perl tk its like 15 years old I have no idea what it does.
+his nick is nick.
+we have answers and we are looking for the questions matching the answers. nice questions give special points. the person who asks the correct question is the next one to pick a category and value. of course we also have a very good random number generator, the same one used by the NSA. It was very expensive, 10.000 dollars! First candidate to pick is nick.
+hands on the buzzers! and go
+ill take geocaching for 300
+a cash, which is not a real one but ...
+what is a virtual cache
+correct!
+geo caching 400
+with this you could go geocaching without GPS
+what is a map?
+oh we were afraid of that. I told sec! we should put "technic" something
+maybe the new galileo system?
+yes okay, map is fine too. Instead of translating questions how about we read the questions (?)  
+
+  ]how good is your gemran? Me? not good.[ &transcriber notes&
+      
+      
+Aeh for 100
+.-.-
+what is morsecode?
+what is aeh?
+I dont know any morse code except for SOS. It is the German umlaught eh.
+
+now the category got understandable..
+commands for 100
+cat
+form a question! what is your question I didnt hear correctly?
+that was not a question, it was the answer.
+but the answer has to be worded as question! dont be so mean. some people didnt pay attention for the last 20 years because they are younger than we old fucks. you could ask "what is cat". did you get what my point is? ask a question matching the picutre
+imaging the picture is the answer.
+well give you another chance to ask a question. for example "what is cat". he did know it, we dont want to be so mean, the game is. what i told you is a questin! which bilderrätsel points to cat? lets count that as valid.. maybe the intruductions fault. we took the rules for granted. jochen choose a new category
+color 100
+what is green in rgb?
+what is the ISS?
+the hint is there is a help text and the hint says you dont need any help its difficult enough as it is Geocaching for 200  
+what is the selected availabity(?)
+you may continue. 
+i cant admit my job at the secret service! ok geochacng 100
+what is a travelbug?
+that is, of course, correct!
+this one is through. the others may play, too now
+commands for  200
+what is cat?
+we already had that! its not the same picture,the one before was not lol cat it was grumpy cat.  not the same program! not correct, sorry
+what is netcat?
+I think you got it now. you may continue
+commands 300
+its a power outlet if you cant recognize it. think of the english word
+what is socket cat / so cat?
+correct.
+
+colors for 200
+noone likes the nobel prizes :(
+    
+what is türkis?
+correct
+nobel prize for  100
+you may assume we want to know who got the nobelprize
+nicki said everyone knows that!
+everything is relativistic so..
+who is known for his.. nah. what is albert einstein known for?
+well obviously  he is not known for it otherwise you would.. ah its correct
+not much luck with commands.. hm prize 200
+what did mary curie receive the nobelprize for?
+yes!
+we are not playing 4 in a row here.
+nobel prize for 300
+oh, the first double jeopardy! you may place everything from 0 to 600 but the audience will forever hate you if you dont set 600
+
+okay.. ill set all.
+that is mean i guess.
+that is mean? its 300!
+you have to guess because you have to answer. so go ahead!
+what did peter higgs receive the nobel prize for?
+even the first name is correct! i wouldnt have known. congratulations! you may continue.
+I think they say I should get a bonus
+for the first name? naah no boni for double jeopardy. okay just to try it. but the software might crash! the following shows might get delayed by... 
+nobelprize for  400
+what did max planck receive a nobel prize for?
+correct! continue
+you dont have to do it symmetrically
+no fefe is wrong.. that is the theroy of.. ???
+you will never get him to join us that way.
+he might pull you from stage
+..
+no he didnt even get it for the atomic bomb
+no risk nothing to gain
+audience says heisenberg
+oh we need a random number, thats difficult. have to call the nsa. next number is 2!
+commands 400
+we still remember.. cat, netcat..
+what is setcat
+correct, you may contunue. there is a hardky used category.
+its so strange!
+how strange can it be..
+aeh 100 and no guarantees
+what is the html entity for a uppercase Ä (ae)
+correct!
+so I basically have to take aeh 300..
+we all recognized that. you may continue
+aeh 300
+what is erm, i dont want to say it in a stupid way. what is aeh
+we would like the encoding!
+ohm i am guessing unicode?
+firstly unicode is a charset, not a encoding. and no.
+what is the hex code for the unix encoding of ä - err ascii!
+ascii is the reason why we couldnt write an ä in our mails for 20 years!
+i need to consult the random number genrator. its a 3! tjado may continue
+the last command, 500
+what is tail?
+i have to admit that is correct. we didnt think of it we thought of tac, cat backwards..
+ill just fall on my nose with aeh again.. I'lll take colors
+a good thing fefe is not playing, he would have known immediately
+i have to guess.. but what produces grey text?
+nope
+what is red?
+no red is wrong
+has no one texted fefe!?
+what is yellow?
+that is correct, fefe becomes/gets quite yellow.
+there should be negative points. continue
+yes I know advertimsent.. they just paid too good.
+what is telekom?
+yes! and the color is?
+magenta
+psssh! there is a copyright! ok you have a nearly blank field.. what do you pick
+I pick aeh 400
+what is aeh in utf8?
+that is perfectly correct.
+two of my favourite questions remaining..
+and a double jeopardy. you have the chance to complete ruin yourself!
+aeh 500
+can we allow that? okay.. do it. I told you before we will get a problem. a very widespread encoding. I for example have never used it so far. the only encoding you can't pronounce. audience ideas?
+I want to hear how you shout it! 
+okay no solution.. the random number generator says.. hmh. we have a problem. random generator says 4. but he will get the double jeopardy. it chose lukas.
+we could just remove the double.
+can the software do that? 
+yes we can do it.
+this color you get with <font color=chucknorris>
+there is a nice document which describes string color to color decoding something bla
+oh no one wants to guess even?
+who in the audience is confident about the color?
+who thinks its green (1)
+who thinks red (some)
+thats correct! its C and the rest is not parsable..
+what a pity, no solution.. we have a very obvious result.
+you may stay close for our final round, the others may go get their prizes.
+tjado gets cool stickers. XX gets milliways coins, you said you wanted those. Thank you for playing! applause!
+we'll go to round two without pause. unix tool describes what the tool does. Like is about web2.0, stuff where you can like things. SI is about SI units. geheim is about secret stuff that follows us. Elemente is about elements which do not really exist.
+
+is there one of our former winners to compete against new participants?
+Q is representing the good old time of jeopardy, when it still was fun. 
+SI units.. Im rather good at. unix, too. Like.. difficult
+oh we would like to have someone who knows unix and web2.0! I told you no one knows both. Well Fefe maybe.
+the random generator is loading.. generating lots of enthropy. stupid eliptic curves..
+4 candidates. and what did the random number generator syay
+I think 1
+how did you know! someone is listening to our channel which is transferd by quantum stuff
+
+unix 100, lets start easy
+what is echo? what is the command that returns echo? what is stage panic? :(
+okay so now everyone got it. continue
+
+unix for 200 . 
+what do people use cat for?
+its a question, good. no bonus points though
+unix 300
+what is diff
+you could also use perl
+or VI if you just pay close attention
+you could also print it
+
+lag
+this application you can chat without network connection
+
+you may continue, you are original, really
+what is write?
+yes that counts. continue and dont take unix again
+That is write 200
+i dont know stuff like that
+what is the platform called which, what can you do on the platform called studivz or one of the others. what is really dead
+yes correct. continue marv
+geheim 400
+and again of course i want it all 
+
+you don't have to buzz, just reply. maybe your neighbou is helping you
+i wouldnt trust him
+i guess some people call the illuminati the secret service of the vatican
+no. its open for everyone
+what is the swiss .. guard?
+what is opus deii?
+correct. esku don't get distracted. continue
+SI 200
+what is he
+
+For what is the measure of  frequency... 
+
+Elements for 200.
+In  this universe alot of the people sudy latin.  What is the ...  ?... universe.
+What is the universe we live in?  
+No
+Anyone?
+What is  ...
+No one seems to know
+Countdown
+What is Pascal.  
+
+(i am going to go ahead and transcibe what the translators are saying, they are playing the game , c3subtitles stop me if you need to)
+
+
+It seems illogical. Tenth grade how I miss thee. this is probably Charge. Colgne? Correct
+Elements for 100
+Here you can make gages.  Stargate.  How is that Stargate. It is about, Stargate?
+Another question!
+I've only see the film not the ... i've seen a few episodes, ... kinda of crap.
+What is Stargate ? He does not have nay knowledge of it.
+elements for 400.
+Wolverine claws (?) 
+
+Elements for 500
+guess. Starwars. That was not our graph. No graph, video game.
+So, these application can calculate but ...
+Use python to caluclate stuff. He gets 50 points for fairness ...
+For number 4 . Did anyone get the answer from the audience?
+Double jepordy!
+On my great projects.
+so what are stars?
+Two people are joining us. they have no beer.
+We just finished another talk. 
+
+(talking  about gay romeo and other stuff....)
+
+Is the only dating site he knows about (contestant) Gay Romeo.  Literally the institute.
+I dont do dating , just porn.
+(many talking at same time)
+
+What agencies are called the institute?
+Its the Federal Bureu of Investigation. The category is secret.
+I think we missed it.
+The Random Generator has selected for you. 
+There are people listening to us.
+This agency will have .. of the sys admins.
+Just in the next question, Snowden actually asked the admins for passwords.  (everyone talkng at same time)
+
+NSA was the correct answer.
+He has not slept since yesterday (contestant)
+
+What looks at eruo transatlantic cables.  
+What is .. translators are guessing GSHQ.....  He hid behind the company for special solutions....  *jepordy music in backround*  
+What is Stasi.
+
+
+
+

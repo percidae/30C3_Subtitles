@@ -1,0 +1,106 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Welcome to the Lightningtalks. New this year this handy little slide. 
+For those of you who haven't seen a lightningtalks: all Talks are 5 Minutes. They become a one minute and 35 second warning and after that we count down.
+We can do better on the buzzer.  - Okay, that's good, give yourself a round of applause for that one.
+
+This is for everybody who might be attending the congress for the wirst time. If you're feeling any of those things there are the chaosmentors. They are downstairs right at the Infodesk. We will try to set you up with one of the mentors. So you can get the most out of 30C3.
+Now the first talk.
+
+Okay hello, I'm Emily and this is Baba. We're Hackers with care. So hackers who care for hackers to care for themselves.
+Imagine a big lion and stick out your tongue really far. Hackers themselves don't have limits, the only limitation is yet the body. We do not endorse the posthuman click theorie. Very old solutions can solve nowadays problems.
+...
+
+Massage and techniques like yoga we see them like succsessfull arts of peer to peer. 
+
+Once before giving a massage to someone I asked him where he hurt and he answered that the world is a chronic pain and so we want to help you that this pain doesn't end bad in your body.
+First some basic exercise hackers can do. 
+First Yoga of the eyes because we look at the screen. Then of the hands - strech the hands so you don't get tendinitis. 
+We make a survey- if you know tricks to help you every day. 
+
+------------------------
+Michael Seemann, im Netz als @mspro.
+Ich bin seit 20.. auf jeder "Freiheit statt Angst"-Demo gewesen ...
+Überwachungs-Hauptnarrativ: Frei ist nur, wer nicht überwacht wird. Wir waren die letzten 10 Jahre also keine freien Menschen und jetzt kann jemand sagen, das ist gar nicht so schlimm. 
+Die Überwachung der NSA ist so umfassend, mehr überwachung macht nicht unfreier. 
+Ich möchte zu einem besseren Narrativ kommen.
+Es gibt unterschiedliche Qualitäten von Überwachung (Überwachungsranking).
+
+Wenn ein Anwohner die Strasse beobachtet, ist das einen Beobachtung. Wenn ein Polizist das tut, ist es Überwachung. Denn nur wer Macht zur Disziplinierung hat, kann überwachen. 
+
+Ich glaube wenn man die Thesen verinnerlicht, kann man ein Ranking erkennen. BND ist schlimmer als NSA, weil es eine deutsche Behörde ist und somit Strafregime konkreter für mich. 
+
+Der Verfassungsschutz ist wiederum schlimmer als der BND ...
+
+Vorratsdatenspeicherung ist schlimmer als Verfassungsschutz
+
+Diese und andere Themen möchte ich in einem Buch zusammenfassen. Es wird heißen "das neue Spiel"
+
+
+--------------------------
+I'm Alessandro and today I'm here to talk about Snake. 
+
+All is made by the client, the client encrypts before leaving the client.
+
+It's completely written in Html5 and JavaScript. This means we can port it on almost all Platforms realy easily. And it's free Software.
+Isn't cryptoraphy in JavaScript bad? No. Not necessarily. 
+In Snake we just a single key for group communication. 
+If you want to remove a member that's not a problem of PGP. 
+You can find all information on snake.li
+
+-------------------------
+
+I'm Dominik.
+The typical email layout you can see here.
+The biggest problem is that 
+qpsmtp GPG Plugin 
+
+-------------------------
+
+Web 3.0
+Wenn es für diesen Kongress kein Motto gibt, dann weiß ich eins "Freies Internet durchsetzten" - Web 3.0
+
+------------------------
+Im eric. 
+
+Java Webapplications.
+Cause Timeouts.
+This are some Stacktraces.
+We can simply use the linenumbers from the stacktrace to map functions. An with that versions of Java.
+Right now this are the projects that are already in the database.
+
+
+
+

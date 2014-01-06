@@ -1,0 +1,133 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ Saal G
+ 
+ 
+The good, the bad, and the ugly - Linux Kernel patches
+(en)
+wsa
+       
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[x ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+You can't not really do much wrong with that. Hey do you ...
+They might be really happy if ...
+He needed a little input...
+Didn't need very much. What is of course ...
+
+This adding a new id is really simple. ...
+And this guy added the patch header.
+Sometimes is pretty fast. For personal 
+
+He felt good about it.  so this was an example of a good example of the patch flow.  of the orginial project ot the upstream project namely the linux kernel.
+
+if you dont know that..  I want to do a short commendation. the first one is ...
+
+if you are an experience linxu kernel hacker it is easy to go overy and have you patch checked. if you dont know who is who in the hacker commmunity to send your...
+
+will show you where to send the pacthc to.. it makes sense to 
+and they will give you reasonable reasults
+so that was the good example, sombody hacked something and took the necdessary steps to hack the linux kernel.
+the next thing is the zip it zat 2 kernel i think in 2007 or something
+it was  small device for instant mesageing and was everywhere
+small p286 arm based, small keyboard, wifi and while there is lot of device like this around. a few yrs ago they were sold cheap and easily ahackable which make sthem interesting devices.
+
+they have some support in the main line kernel but it is a bit rought. there is a extra kernal in the ...
+
+and in that kernel i found this patch..  which if you read the descrption if it is not applied the device will crash and if you use frequency scaling which is good to use fo ryour battery.. i think it bad patch because it is not mainline.
+
+if you ewant to hack something and let
+i want something to work as good as poossible and do what you want to with device, randomly crashing is not what aI want the linux kernel to see.  
+again, no bashing, other issues found on the zip it device and got them upstream. i think he wwen tto the next deivce and th epatch stalled.
+yet it owuld be nice to have upstream.
+its about changing one in the talbe. and this row of 0 means we have a stable system. not really rocket science. what does it mean to get this patch upstream.?  
+so you bought the device and prepare a good kernal and you prepare the patch.  why isn't it upstream. i hope you ask why is it not upstream and how do i get it to do that.  
+
+ask is it still needed?  from the zip it archive is 3.7 we are approaching 3.14 so check if it is still needed.  maybe there is a better patch has already found itself upstream.
+if you search for the patch and has been submitted and there were issues, and then the patch disables .... keyboarfs. which sounded to agressive which a27t board. it worked perfectly. so for this patch we want to state this.
+this would bew a useful process. it has been deployed quite often and if you are purchasing old hackacble device sna such a patch is applied upstream and another person fhas random crashes and finds this patch upstream and then debuggin geffort is saved.
+random crashes are a pain in the ass to debug so this would be a good thing.
+
+it would be nice to extend the patch and test on real hardware and update the patch header slightly and send it upstream. it might be that paople have other issues raised and other dont dissappear for probably valid reasons.
+
+that is a way to make a bad patch a good patch because then it owuld be upstream.
+this is on e fo the example sof patches you can find like in zip it kjernel
+
+Openwrt - they had a reputation of not upstreaming patches. this has changed. yet, they have alot of patches but nogt enought man power to updatream them all on their own so, they need support for that so if you work on openwrt and have a kernel which is patched, which patch do i have and what can i upstream.  
+
+i sesarched for some examples and this is a ugly patch.  there are some ugly patches (disclaimer) for educational reasons i concentrate on the ugly ones.  here you see a patch whcih simply erases a data structure and initializes it to zero. what makes this patch ugly is that htere is no header and no author.  so please fix this.  its a trivial patch because the ddata t structure is allocated on the stack and some value are initialize d and .. to some linux kernel function...  for a simple review it makes sense, the patch and should be upsgtreamed.
+
+what it needs to be a good patch, stil needed, looks fo rimporovements, it is a trivial patch and I would replace the /0 with a plain character.  it is your decision to fix programming flaws . to initialized it to see you can leave out the test hardware because it is to simple. some would argue to test it on hardware but i leave that up to you
+
+what needs to be done as I said before is to edit the patch header with sing and multiline description. and then send it upstream. if you use perl script and maintainer to know who to send it to.
+
+then we have cleaner code in the lunx code, ....  you get credited for haveing a linux patch or a better os if that gives something to you.
+next patch
+from openwrt.
+
+
+Since we wnat to support as many hardwareon the linxu kernel , this choulse be upstream as well. what needs to be done here is , does it apply to recent kernel? yes, so let upstream after we check if it is the best solution. this is an encouragment to not blindly send patches updatream wihtout checking... some chips ... nor flash cfi chip so you dont need to add anything to the probe function at all...  
+
+i add some falsh chips because they did not do in reality what they said they would od.  this is someone can do here. i like hacking with devices and getting it to work.
+
+you should really test on real hardware an then send upstream and be around to ask question. that sounds like a long list but its not really a long list. maybe an hour or two hours in an evening reading data sheets.
+
+then we have the patch which i my opnion is ugly because I dont have that much experience.  This is about PPOE and i dont know much about internals about that one.  There is some place where the memory is allocated and tpatch extends the memroy allocate. it promotes a buffer overlfow.  there is no description. is this a hack around, is it a fix? is a openwrt ?  i have to do all the enginering work on this patch to find out what it does.
+
+when i work commercially, we get patches like this also and we have no one to contact and no one to know whether is ti good or applies.
+
+.....
+Check what I just mentioned. is it a bug fix or a work around. does the patch have dependicies or stand alone bug fix. should it be upstream, sample on hardware if desired, and if it is a bug fix or fix buffer overflow.. it should be soo upstream.  if you are PPUE familiear and know if hte previous was a bug fix , please submit.
+
+i know that it is not all black and white.  maybe you dont want to upstream what you are not instersted in.  this is where small steps add up. if you know that it is the bug fix, just add to the patch header. it wont make it go immediately to the linux kernel but will let others know. addting a header is defintately worth a commit not just chaning code.
+
+how to get into linux development.  openwrt is a good wy to dstart.  there are many...it is a good way to get into kernel hacking. which is getting....
+
+upgrading the kernel to the most recent
+it is some work to get it running...this can be extra work and can make it go away but i want to learn some thing about linux devleopment then this a agood way to learn.
+
+there are nightmare patches. usually come form chip vendors and then they ...patch everything at once
+
+different problems.,  divide up and they contain personal coding style and white space and...this is  nightmare
+
+the lower hanging ftuits. which i showed you some. so I hope more patches are coming upstream and if you create patches and you send them upstream, please make them good and not ugly.  so people can pick them up and do something more useful with.  
+
+this is my experience i wanted to give you.  thats my talk condensed in 1/2 hour.
+i wish you happy hacking, because it is great fun.
+*applause*
+
+No questions!
+
+thankyou!  *applause*
+
+
+
+

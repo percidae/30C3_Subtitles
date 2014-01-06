@@ -1,0 +1,446 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Backdoors, Government Hacking and the next crypto wars. 
+Christopher Soghoian
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[ X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+this is chris whos going to talk about a really hot issue so please welcome him 
+
+here we go.
+lets see.
+sorry I'm using win within linux
+thank you all for coming
+Im chris sog..
+I'm a techn and work for a bunch of  lawyers who sue the gvernment for and its a  fun job
+
+we were the first ones to sue less than a week after snowdens first revelations
+
+this is a histor lesson
+
+I'll explain how the us gvmnt is adapting to changes in the tech 
+and the final embrace of some secirty techs
+
+louis free testified several times complaingin about crypto tech
+for some period of time cryto wa regulated under export control
+you could not export strong crypto
+strong crypto fro americans, and sthitty for everyone else
+
+fbi and friends also pushed for escrow that would let the gvnt get info about cyptu used bu cutizens
+
+the use of robust non key .
+
+reads slide.
+
+the way free peictured it crypto was the devils tech
+policymakers took note it was scrary techonolog
+the govermnet would be blind and unable to go after the worst of the worst
+
+the only answer is socially respoinsible encryptoion products
+
+
+socially respoonsible was in the fbis mind crypt taht did not kkep your info secret
+
+this is the clipper chip
+the ideas was a 3rd party had a copyu of your private keys and the gvmn could opbtain the keys
+
+the fbis dreams of a world of escrowed crypto did not materialize
+
+the export controls where lessend
+clinton go the ball rolling
+we got to see a sane export control policy
+
+pgp could export pretty good privacy
+this ahppened in 1996
+it's 20 years since and doomsdayhas not happended
+we haven't seen wiretaps and other
+
+why didn't the bad guys use encryptions
+anyone can download crypto software and encrypt everything they've been dooing
+
+
+pgp has not been a problem for FBI 
+the problem i s not political, its a technical one
+
+it's a usuability study of pgp
+
+this is what pgp looked like in 1998
+and it ahsnt really change that much since
+
+really horrific situations, 
+people thought ethey were encrypting but not 
+sending private keys instead of public keys
+this is a failure of the enfineering commnt
+
+we do not produce easy to use tools
+
+glenn greenwal d failed to use
+snowden made a howto video and hlepd glenn out
+
+glenns skills are probabl average but tools are really difficoult to use
+
+this has benitted the fbi
+
+the fact you have to downloafd something. means most people will not use it
+
+as long as people use defaults the fbi wins when the defaults are not secure
+
+neigher ahs ben https
+they have not been https
+
+this is a gchq slide from 2009
+why is gchq interest in thttp
+nearly everything a user does iused http
+
+everything was on the internet in clear text
+
+ssl was available but consumers don't choos ssl or not
+that is made by the server
+especially if server does not uspport
+
+the gvmnt could engage in massive passive surveillance
+
+we are now in 2013 and a lot ahs changed in the last hears and months
+
+google first mafjor non fincancial company. rolled out ssl
+
+so we have gone from unencrypted to a world with some communications in encrypted form
+
+even yahoo has announcde commitment to protect information
+
+some of this has been a result of reporting by the washing ton post.
+
+not only users - site communications was intercepted, but internal links of these companies.
+
+so yahoo finally got with the program and announced they started encrypting all their links
+
+the eff report, .
+a sea of green
+finally moving tin the right direction
+it will frustrate passive net surveillance
+but https does not prevent the government
+
+so typicially they'd like to go to backbone providers.
+level3, at&t and verizon have asssted the US government
+
+they rather go ther and get info in buldk and do keyword searchs when they get everything at once.
+rather than going to tech comapnies and asking for info
+
+this is a shift in how they obtain info on users.
+they must now go to silicon valley rather than frieendly telco companie.s
+
+a development in the relationshitp between . and .
+
+these programs have provides acces to gvmnt long before prism.
+
+how are these info request procesed
+
+google will respond to lawful request form DOJ, law enforcement
+
+what use of transport crytpo has done is move the point of interception, and 
+the companies want to be the ones to provide info
+they want to receve the court order,
+they do not want some other company providing data about their customers
+
+it's important to understand and take note htat the tech companies have your unencrypted data
+
+and tahts' not going to change
+it's unlikely they will protect your info so they can't hand it over to the gvmnt
+
+vint is no a senior exec at google
+vint was on a panel with me and we discused
+and he said. 
+
+read slide
+
+I have to give vint respect for being this open and transparent
+ but google cannot deliver a service unable to hand data to gvmnt without a shif tin business model
+ to move to a model where the know nothig, they must give up their ad revenue
+ 
+ and it's not clear they want to move that way
+ 
+ googles business model does not permit them to have only encrypted data
+ 
+ and it's not clear if they want to move 
+ it seems they're ok with individualized surveillance
+ 
+if you listen to teh statement of exec 
+8 biggest tech companies publiesh clall to reforvm governmetn surveillance.
+
+call for refor of practieces and laws.
+[reads slide]
+
+we should be happy these companies have come to our aid and 
+they dont like dragnet surveillance 
+but are comfortable with individualized users
+i dunno maybe you are comfortable with
+i do not want it turned over in any circumstance
+
+it's fine they can chose to target which model the y want to pusruse
+they are not ready to lock the gvmnt out
+
+in 2010 Eric was interviewd about .
+why google keeeps data about users.
+[reads slide]
+so this is not a most ar
+he justified their data retention since it could be useful to the authorites
+
+if you don't want the provider to keep your data google may not be the provider for you
+
+they been concerned about easy to use of tools
+we get some form delivered to users limiting governemts ability to bulk surveillance
+
+FBI has a term for this, Going Dark
+
+this is Valery ..
+she's now a federal judge in NY.
+she went to complain about the going dark problem
+[reads slide]
+
+what's shes saying is they can get and order to tap a phone, instant comms, maybe the person is using encrypted
+but she says they get the order, but cannot do the task
+the solution proposed was legal backdoors.
+wanted to forece tech companies to implement lawful interception interfaces
+
+we have CALEA 
+and they wanted to expand that to google, facebook and microsoft
+in may the FBI had a proposal ready to go
+which would give FBI ability to fine tech companies if they did not provide access
+something happend which messed up their plans.
+this guy reached out
+and proopsals making it easier for wiretappes is dead in the water
+but it won't stay hway for ever
+
+they will come back and say we need more powers.
+many of you have heard fo the NSA 
+
+we learned of RSA role to siwthc to a problematic covert 
+
+the NSA needs are different from law enforcemet
+NSA does not end
+..
+ up in court papers,
+any secret backdoor will end up in 
+
+they need backdoors that are not secret
+through legistlation
+we ill see governemtn officitals trying to provide powers to act in the same way like NSA
+
+the NSA may have tools but does not mean loacl police or FBI has those toosl
+
+the nsa might hack everyones computer but that does not mean the police does
+
+we will see a call for local police to see the same acces that police already enjoys
+
+companies provideing some assitsance but not all
+
+the response have also been to use hacking tools
+
+they've led our communit 
+the two biggest playes in commercial malware
+
+a german company called finfisher and italian called hacking tim
+
+
+i will show you marting mucnk of finfisher
+is he a player in the 
+he create backtrack
+
+he was profiled by bloomberg
+his laptop
+he has a sticker over his webcam
+he knows what his products can do
+it has been sold
+
+this is a marketing from italian company
+defeat encryption
+total target control
+thousands of encrypted comms every day
+a soltuoin to the problem of encryption 
+
+I am not personanly a huge fan
+
+the reason government is rushing to buy is they worry about not begin able
+
+they opened a us office in ananpolis
+they have spoken on larges surveillance tradeshows
+teh wiretappes ball
+they spoke on 
+the assoc of [read slide]
+
+they're on apanel and sponsored a coffee break in the adfternoo
+
+i cannot say they have sold to the local police
+their market will be local and state law enforcement
+
+if they haven't sold it's not because theyre not trying
+
+what about the feds
+the software gamma and ht makes
+that doesnt work for FBI
+they want custom , unique
+
+the will pay apremium
+while local will buy off the shelf hacking software
+I spent a year truing to figure out what they've been doing
+
+most research through linked in
+they have a team called remote operations unit
+and i searched linked in and found contractors who have worked their
+i gave this to WSJ. and this isn't  really a secret 
+FBI has sort of admitted they're doing this
+[read slide]
+she didn't say hacking, malware, webcam but this is what she talked about
+
+they would use malware for targets they coould not reach
+the WSJ was able to pin the fbi down, and the fbi can remotely activate microphones an webacams in phones an computers.
+
+[readsslide]
+
+i think this is terrifying, 
+that LE has known the webcam lighs are not l reliable
+it's scary that we have slipped into a world were the government is hacking with no informed debate or excplicit legistlation
+its the authooity to search your card or home they use to hack into your laptop
+
+the FBI does not like to use these tools on hackers they fear they could be discovered
+
+the sad thing is this is happening
+mainly contractors providing the tech and FBI agents surpervising them
+
+we should have an informed public debate.
+our elected politichians should go on the record
+no one accountable has embracesd this, it's happened behind closed doores
+
+g..
+
+we have the aquisition of hacking and by law enforecment
+the US govermnet will not rest 
+they want all email, phonecall
+they will seek additional authority
+
+there are some services devlivering end-to end encryptoion
+
+hese are seen as a massive and significant threat to ability to intercept comms
+
+skype has advertised their encryptions
+they hired independet
+
+we have build end to end encryption
+many people were surprise when we learned NSA and FBI had been able to gain acces.
+
+skyp wasn't perfect
+
+it wass closed soruce 
+even if there was an audit it had changed over the years.
+it's surprising hey adverties it's rprivate, but 
+
+brad smith released a public statement.
+
+[reads slide]
+
+we assume all calls or fixed or mobile phone will offer similar levels of privacy and security
+I think this is brads way to expect nothing from skype
+[applause]
+microsoft paid a lot of money for skyep
+has huge number of users
+it's now embedded in other MS products
+it should be troublig that a top exec has said don't rely on us from security
+to keep you safe from the government
+
+but MS is not the only game in town
+silent circle is one of thes companile
+sthey are one of a handful companies trying to deliver end to end encryption
+they have said they would shut down rather than building in a backdoor
+
+we have create a [read slide]
+they don't want to know what ytou're doing
+they do not want to be in the business of  receiving gvmnt request.
+i'm delighted these companies exists
+these are the kind of companies govenment are not too happy about
+
+adar levinson learned the hard way that companies like his are seen as a threat to the government
+[read slide]
+
+this is the first we kno of this kind of order.
+this is a new world
+its one thing for the gmv
+
+
+its another thing entirely to say give us you encryption keys used to protect your users information
+we are only going to look at one user once we have scanned everyones.
+ultimately they destroyed the ke
+they handed over the key and shut down the company
+
+so this is valery chrony?
+[reads slides]
+
+so again its funny but this is the top fbi lawyer 
+
+say what yo uwant on your website but we want your customers data.
+
+they will demand whatever it takes.
+this is a scary world and we have to adapt to
+
+the government has sudo over any comapny
+we have to resist this level of power
+
+we as engineers must design ahead of time to withstand this kind of coercion
+
+there are products that could withstand this level
+do we turst this piece of software or technology
+
+many have gives the appstores the power to push apps without your control
+
+you can try this, 
+google can push code down to your phone
+what happens when FBI or NSA goes to google and says to push code down to your phone
+
+to close this isn't all bad news. mostly bad news but not all
+we need to take these governments seriously
+the want to get our data 
+
+we have quite a bit of people leaving
+no qa sesions
+
+
+--last line marker--
+
+
+
+
+
+
+
+
+
+
+
+

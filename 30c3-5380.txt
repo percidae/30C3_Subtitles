@@ -1,0 +1,396 @@
+wWelcome to the Subtitles Pad, nice to see you here!  
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+Persistent, Stealthy, Remote-controlled Dedicated Hardware Malware
+(en)
+Patrick Stewin
+
+saal 2
+ 18:30 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[X ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+this talk will be in translated in german
+all the emergency exists must be clear. no sitting in the aisles
+if you want to help with subtitling. .
+
+Let me introduce patrick stwin, he is a security researcher. talking about placeing malwar in the.
+
+
+Welcome to my talk about presistent hw malware.
+you see a second name . it is joint work I did togheter with. Uli?
+
+a prominetn example is a rootkit.
+why not deploy a root kit to attach. 
+
+are more powerful and enables the defenter to reveal rootkits aplpied in the userpeace
+
+kernel space is more powerful and many develdeveloped malware for the userspace. 
+
+it is  a layer which can deprivilege the kernel level and run multiple os on the same 
+
+
+then we talk about peripherals, like network cards, video cards, microcontrolles in the chipset.
+the point is they provide own exec envronment. the processor and ram and can acces the runtime memory of the host?
+
+a good point for the attacker is it is not consided by anti virus software.
+there is no more privileged layer that can be used for countermesures.
+that is why we research peripherals.
+
+this is an overview. 
+first a dma based keystroke logger
+the second part an OBO network channel isolated, and will stealthely .
+bu other systems , , 
+
+now come to DAGGEr, our DMA keystroke logger.
+
+i was asked if it had something to do with dagger complex, a us intelligence base by NSA in damrstad germany
+one could think keystroke logger is related to surveillance, but it is not related to dagger complex.
+
+it is part of an academic project.
+
+I will
+it's not only a keystroke logg
+
+here we see a more detailed view of aour attack environ.
+you see the MCH northbridge, and sourth vrige
+we exploit the managebility engine, incorbprated, in the memory controller
+it is an arc4 processor.
+32-bit risc processor, not x86 ocmpat.
+it has static RAM, ROM for bootup
+and a cdma engine.
+
+for runtime code and date, it uses isolated part of normal DRAM chip.
+only the management engine can access the part of ram
+so then in south brdg we have out of band channel to exfiltr. our k..
+
+the firmware i base on the .. system.
+
+here on the right you see admin tool for interm AMT.
+to remote boot bios of the target system
+
+the actual operating sysem (network stack ?) is not up and running and the tool is quite powerful.
+
+Intel AMT i sdeployed on business computers, on other platf. you find intel, x prot tech.
+
+som emore background info, you should know theare are two gena
+
+and theres' also another new project related to mgmt engine. it deployed free software on the mgmt engine. they want to deplay ME repleacement comapt with coreboot.
+you can visit their project or visist the assembly here at 30c3
+
+another point is hat ME had a predesseor in a internal game in 
+the game is called starwing, and to implement this gfx the card you plugg into thenintendo  called mario chip, and it was the predecessor of the ARC technology.
+
+the cahacter was called starfox. and he used the ARC  technology to resuce the universe. 
+and demonstrates how poweful the arc technology is. :)
+
+that is why intel is completely alone repsonsible for makin ME bulletproof. 
+they use signed firmware, the y hae a .. launch mechanism the ahsh value is compared to a reference,.
+there are also access control mechs in place
+how do we infiltrate the target plratfor with dagger.
+we use a known exploit. 
+check their slides from the blackhat conference, because it is a very good starting point.
+back to dagger. 
+our actual target is the keyboard buffer, because you want to caputre key strok.s
+lets dig into the kernel memory to find the keboard buffer.
+we implemented two search strats one for windows and onfe for linux.
+
+we try to find two memroy structs and one is called, .. and the other is called..
+we check if a pointer is alligned to 0x400 and another field tallec transder DMA is aligned to 0x20, and it represents the keyboard buffe or the ..
+both conditions are true wi folow the pointer to the usb buffer.
+and if the product strings contains the usb and keyboard, we found the correct struct for the usb keyborad.we look into thebuffer i f htere is any garbage.
+
+to follow the pointer you must know the dma engie work with phys address and the os works with virtual.under 
+
+linux that is simple, you subtruact a fixed offest.
+for 64-bit you look up offest in the documentation.
+
+ok, that was the strategy for linjux
+now windows.
+for windows everything gets more complicated, because of no access to the source code.
+we had to reverse engineer using ida pro, windows debugger. and if you want to follow pointers you have to work with page tables used by the OS as well,
+had to find page tables in the meomry
+we implemented algrithm in dager.
+after hours and hours with ida we found this search path.
+KI is a good starting point, KI means kernel image. PCR means p..
+
+that struct lead us to another struct called debugger data blog.
+that namepsace directory contains a object directory driver.
+that includes keyboard input driver te keyboard driver.
+that in turn contains a device object. and if finally contians the keystroke buffer.
+btw, the figure here is simplified.
+
+so far we don't know how to find the KI initialPCR
+we figure out that winload calls a function where load all allocates a membuf for two images, 
+the function also aplies addrres radnomization.
+in the second step i determines the target address.
+
+For us to find the KI PCR structure we had to scan 64 adresses and end up applying signature scan to see if we found the KIInitiial PCR structure.
+That aws windows, back to  ..
+If we want to emply this stuff we need to read from the runtime memory.
+this was easy due to previous work. 
+...
+To do this we had to do some more reverse engineering. 
+This brings me to our second part
+We know the AMT firmware runs. some. ne?
+
+the code that is responsible for sending the reply is actually the one we want to isolate and explot
+the best thing to do is a developer board, I show you on the left side. and you can 
+find a nice interface where you can find a debugging interfiace.
+if you do not work for intel or a partner you have no access to such tools
+for linux we ported the exploit to a char device driver.
+if you want to use xxd you can use it to axxes the AMT runtime memory.
+.. is also a tool you can use to look into the .
+
+but the most important tool is our AMT BP helper tool. 
+it dumps the whole AMT runtime meory on the fly
+displays a disassembly to the user, and the user can choose to set a breakpoint.
+
+we used this to isolate the .. to send network packets, this happened to much
+so this was a bad strategy.
+but when we plugged in the cable AMT sends one packet. a DHCP packet. and we explored this to find a place to set the breakpoint.
+
+we plugged in the cable and checked if the BP was triggered.
+
+on the right side you seed the AMT read bufer, and with that knowledge you can preapre a packet and send it by triggerin the code on RHS.
+
+this is what i'd like to demonstrate in a demo video.
+what we see here is the target on the left hand sice and external on the right hand side.
+
+We want to show they are relally to different machines. both run wireshark.
+want to show AMT is stil up and running even with DAGGER
+and on the bottom. 
+first we demonsrate the firmware is up and running by asking for HW info
+then i Infiltrate DAGGEr on the target-platform.
+with some zeroday
+and if dagger has found the keyboard buffer it sends a initial packet to the attacker.
+
+the wireshark on the left side is unable to see the packet.
+let us check the firmware. it is also working.
+
+so now I try to exfiltrtate some keystroke codes.
+you see on the right side, some packets with keystroke code.
+you see enter keypress. koce. and key release code.
+and now i am entering a sudo command, 
+and as you can see on the RHS it is translated into my standard password, which is secret100
+and that is what I wanted to show you.
+[applause]
+
+but this is not enough.
+we udated dagger a bit if you can use it to exfil info you can use it to alter daggers infor
+
+one thread is for dagger an another is repsonsible for incoming network packets.
+this is the thread we want to hook.
+it is resp for analyzing incoming new attack code, it copies it to DAGGEr,
+and sets a flag, when dagger sees it it returns.
+here is an example privilege escalation attach. 
+and to do so we developed a new research tool, that is a bit more complicated but has much, much more features, you can set conditional breakpoints for example, you can emulate firmware parts.
+
+but the most importan feature is the trace log feature.
+you can record instructions that are called including register content.
+this tool revealed the code responsible for incoming net packets.
+what you see here is a memcpy call.
+the destination and the source and number of bytes to be copyed.
+this is the main hook of out trace tool
+here you can see the bytes are copied byte for byte.
+the bytes are the mac address of the destination platform.
+
+so. now you know we found the code to examine incoming packets, but you don't know how we relaize a privilege escalation attack. 
+if we know the kernel version we can derieve certain addresses,offsets and structures.
+we want to find init task struct
+this runs on boot, and contains the. tasks list.
+what we do is copy the root privs to the target task structure.
+we implementd in C and it is called DMA_poc_...
+we send it via hping, to the AMT environment.
+
+we use hping to the target,and to keep it simple
+we can control incoming and we can implement privilege escalation attack
+here again we see the target on the righthand side and the external on the lefthand side.
+the target is infiltrated. and we run the web internface and we run the keystroke tool
+and we run ssh to remotely log in to the target platform
+now, to show you the dagger is already is running I use an editor to show its up and running
+no big deal
+so then I log into the target platfor using my standard passwrd that is secret100
+so now on the target plattform i check who am i
+i see i am patrick X but that is not enough,, i check if i can exec priviledged commands
+of course i cannot, because i am not root, but i want to be root
+so i send the privilege escalation attack to the platform.
+i check again who am i and now i am root [applause]
+
+and now i should be able to execute privileged commands.
+also works. 
+i think there should also be a last check that firmware is up and running. 
+
+OK., so now you saw our OOB network channel features. and you also saw that extenralt platforms can see traffice generated by dagger.
+the coverte channel we implenmented is based on jitterbug, 
+it is 
+The Authors used an additional device but,
+we wanted to avoid an additional device, so we implemented jitterbug using intel AMT enviroment.
+we have the intel AMT on lefthand side, and amdin on righthand side and attakher in the middel.
+Jitterbug works by slightly delaying the packets, and we can measuer the inter-arrival times and leak information.
+we deployed a JitterBug sampler to slightly delay packets, and the attacker can get the information
+the bandwidh decreases but still enough to leak passwords,
+it does not matter if outgoing traffic is encrypted or not because you just use the packets.
+
+In our setup we wait until the administrator starts a
+
+To do so we also control outgoing network packets.
+we also need to measure time to feed outgoing network packets.
+
+we figure out we can access a special register 
+ at 0x8011
+ 
+ This is 
+ we can actually delay traffic and it has to look like random noise. to other. .
+ before i demo this in my last video, just a short overview of the exec stages of the jitterbug dagger.
+ this takes 100 ms. then waits for user input. 
+then we wait for admin session to leak the password to jittebug receiver.
+here we see the attacker platform.
+
+here you see the reciever, you choose an adapter, you choose a timing windows
+to introduce more randomness.
+there is a terminal with more statistics.
+so now we start an administrator session and you can see the receiver recieves something.
+but its actually crap becaus we havent captured passwords so far
+so now we are on the target platform we reuse the exploite we used before.
+To convince you we infiltrated the platform we start the driver again, and we infitrate agian and find the keyboard buffer.
+
+This is the submission system of the 44con where I gave this talk the first time.
+so you can check if the password still works in a few seconds.
+and now the admin inititates a new session and you can see a password slowly revlealed
+it takes some time
+as i told you the bandwidht isn't that high
+so now we got the complete password.
+unfortunately there are also other admin tools, that enable us to exfiltrate the password a bit faster
+you remotely login using hte tool and you get the password.
+let us check if he password is the correct one.
+
+and of course it is
+I restarted the video, sorry
+[applause]
+so some final remarks
+if you talk aboutattacks you have to talk about countermeasures.
+one often talk about the input output Mem Management unit
+the intel VT-d
+virtualization for direct io
+
+it was demoed that the IOMMU can be tricked, there are other issued, windows does not include a driver for the IOMMU
+but there are also academic countermeasures.
+Peter Stuge proposed to harden the hardware, and use coreboot as a goodbios.
+you should look at his talk
+I'd like to conclude, this figure represtent our concluseons,
+to implement dagger you have to reache certain milestones.
+the importance is not related to the effort we put in to reach the milestone
+the most mportan is infitrations and we could reuse an exploit
+we had to find valuable information, in our case, the keyboard buffer,
+you could search for other data., skype session key, .
+you also need to exfiltrate the data to another platform, 
+and that is why net access is also importan,t
+and ti implement jitterbug you need to read time.
+and that is what you need to implement persistent stealth mhwarware malware
+
+and that is it for ..
+thank you patrick
+
+Q from inet
+so on notebooks you can disable intel AMT
+some bios say it is permanent but how can i veryfy
+
+unfotunaltey you can't on our board we tried to verify, and disabled and we used our tool to check, and it was not disable
+
+To follow up. can you do it by measuring power consumption?
+
+A: we actually tried this, but this is anomaly detection and you cant be sure what the user is doing, and difficult to determine correct and wrong behaviour.
+I propose measuringn performance counters.
+MIKE8: at the moment you need to execute exploit locally, have you tried to find remote exploites into the ME?
+
+A: we did not try so far, it would be much nicer, intel runs a web server so you can probalby find, but not yet.
+
+to questions. what is the prevalence of these devices, and second does it do anything you want?
+
+I think for companies wehrre you have a bunch of computers, the admin can reinstall the operating system.
+
+On servers you have similar soulutions. this is for desktops.
+
+I have not seen any kind of.persistency
+what would you exploit locally, and what you could exploit remotely. and how do you get the persistency
+
+AMT is so powerful that you can suspend or turn off the platform and AMT is still up and running. it only requires it is connected to a power source.
+we tested it with a platform encrytopion mechanism we inflitrated during runtime.
+and then rebooted, and entered the disk encryption pasword, and we got it.
+So removing the powerplug will remove it ? 
+You have to remove the powerplug and the battery.
+
+do you experience difference between host based management engines and enterprise privisoned 
+so to use AMT you have to provision it to enable it. there is host-based provision and the other is enterprise based
+to boot you plug in a usb stick and contackts a serve,r it downloads the config all the time.
+
+on your exploit , what method did you use to provision the intel AMT.
+
+A: I have no experience in provisionsing, some systems are priviosioned, they are asking for a provisioning server. I don't know if its' useful for any exploits so far.
+
+MIKE 3: I can metnion that the for remote deployment, the manufacturer can ship the laptop directly to a user.
+this has been in laptops since 2011. 
+do you know how many laptops have been shipped with this lovely feature?
+I think all business laptops.
+if you can ask manufacturer to leave it out ? I don't know
+
+if the keyboard is PS2 is you able to find htat too?
+under windows we implemented that under linux not.
+
+again one round of applause to mr steven
+
+
+I don't get the question. 
+--please work above these line--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

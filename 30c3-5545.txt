@@ -1,0 +1,216 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+One of the main issues in bitcoin... is 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+YOu might recognize the guy at tge left
+which is ... one of the biggest ... hashtrade
+
+
+He also invented strato protocol 
+I'm responsible for some minor bitcoin projects
+and together we form havanna in the phtoo called the company ... labs
+
+one of the most importand problems with...
+By security I mean security of the computers
+because we have compromised computers with viruses
+we also have for example in the internatcafe computers, we donÄt trust
+and by safety ofg bitcoin privacy we have data loss
+during various disasters and harddrive failiures
+you have to baclkup yoiur wallet regulay ... your bitcoins
+
+
+and soultion to this is hardware wallets
+first I encouter this idea on the bitcoinconference in praque
+sadly he didntz pursue with his students this idea of arduino based hardware wallet further
+aand nd aafteftr biter coin cthe bonferitcoience 2n conf1eren 2012 in London we decided slash 
+create project that is now known as trezor to actually bring this hardware wallet idea to live
+
+we decided to follow the * principle
+
+which require physical interaction with users. to confirm or discard …
+And we don't have  batteries, because we use power from the usb
+what is inside of tresor?
+we use arm cortex and … cntroller
+clocked at 120 mhz
+we have 512 kb of flash for code and 128 kib of ram
+and have a random generator 
+
+and it has a oled display which is one inch wide
+
+During the devolpment we have already ... shield
+sadly raspberry can't act as USB client device just as usb host.
+so we had to put an extra usb serial converter chip on board
+
+and this shield was used as a prototyping plattform ... because it allowed us to 
+python instead of c
+and the good thin is this ... followed the same logic
+
+So let me give you an overview how trezor works
+first we have to generate initial entropy
+then we use this entropy to use master private and public key
+I called them generators because
+
+and because of that computer can then prepare transactions and send them to TREZOR
+but this transactions are not having signatures, because the computer doesn't know the private keys
+
+and then REZOR can use master private key to generate this private keys from …
+if the users …
+
+The main idea behind these is that the private keys never leave the device because they are generated inside the device and even during the signature there is no reason to let them out.
+
+So how do we generate entropy?
+we can request external entropy from the computer and we use both entropies to 
+generate fi? entropy and if we commit to entropy A before we … entropy B
+we can prove that external entropy was used to
+
+More complex schemes were suggested by ...timo han? … by publishing half of the final entropy you could save for 90 percent
+So we have this entropy which is basically 128 or 256 bits and we want somehow to make them avail for backup.
+we split this .bits . in chunks of  … bits
+
+We could use entropy directly by generate master private keyrectly 
+
+this allows us to create password-protected memonics(?) sentence and we salt it with a string … user … 
+the idea is you put … down on paper …
+
+a nice side effect is that it provides plausible deniability because if you give some different user secret to a hacker …
+
+if you give some different user secrets
+and if you have 40
+and if you are clever enough to send a small ammount of bitcoins through these fake
+
+... which uses exactly 512 bits for its master nodes
+and the idea is that using that construct you could create basically a tree of addresses and each level you could …
+so for example the first level would be your wallets, the second level ...your different wallet chains, so for ex … and the fourht wallet would be different addresses …
+fourth level would be actual adresses of ... that kind
+and the function that generates the level one from level zero is called the child key evaluation function and it takes data from … and index01 to create different childs of particle or node?
+so it's not like it's flat.
+so the … function uses sha 512
+provides lots of possibilites
+
+first node would be bitcoin adresees, second node would be litecoin adresses and so on and then we would follow this … structure deeper
+
+company which has ..porters
+Or you have some even more complex setup, imagine there is a company that has a headoffice
+
+whats even cooler, we can push this .concept.. even and use first node on level one for crypto coins second node for generating ssh keys another node for generating full disc encryption keys … intelligent door in your house 
+
+and thats very cool bnecaue suddenly your wallet happens to be … identity token
+
+another problem we found … for bitcoin its 256 bits
+you using the same key for different … messages, you would basically … this keys.
+this was demonstrated on 27c3 by failuredog(?) 
+how to get to the ps3 private key
+and then there was android … random generator …
+and more thant the 49 bitcoins has been stolen what was even worse was, that all android clients were effected, because the bug was in 
+in the shared library below the application code
+Even if you imported your own privte key in android you were not save because
+the problem was created ,,,
+So, coincidently in August same year … was released
+
+the idea is you don't use random nonces for signatures but you generate this bits with … diterministically … so it cannot happen you sign two different messages … using the same nonce
+It was greate news for us, because it enabled us to do unittest, which were we were not possible before.
+.. now suddenly we could see ... doing the correct thing during signing. and also what was important 
+create such scheme
+
+let me tell you something about integration in order to be … we need to integrate into excisting desktop clients 
+so work is being done in multibit by multibit guys and this mutlibit uses …
+sadly bitcoin duty is really complex codebase and we currently we have no …
+...is done in python which we are really fond of ...
+
+the good thing about mobile client esp on android is that most android … have … usb … they can communicate …
+And also what we are working on right now is a native browser plugin which will create a bridge between low level comm … can actually use Trezor via JS bindings.
+
+private key … on a server 
+
+I think thats it, if youwant to contact us, there is this email
+
+most of the source code is published on github
+we will release … in january and if there are any questions, im willing answering right now
+
+[applause]
+
+okay then
+we will shi
+
+so i can show you before you lign up on the mic
+i can show you some early protoype from september
+
+we will ship in jan
+i don't know if you see it
+t
+
+would allow to create safe web wallets
+if you want to contact us there is this emal
+most of the source code is released on gip most of the thub
+then we will ship most of the preorders
+
+[applause]
+I can show you ... before you line up on the microphone ... pre?final version from
+[small applause]
+
+[applause]
+[signal angel ask people to line up for questions on the microphone]
+
+I was wondering if your hw wallet supports other complex types of transactions …
+so
+more complex transaction types
+IRC: it looks like the perfect solution for ATM usage. do you think that bitcoin ATM machines 
+I think it should be possible to integrate it with some popular ATM machine in the future
+ATM is more or less common computers in nowadays
+see no reason why we shouldn't go that way
+because we didn't have bluetooth or radio, the
+first version because we have no ...
+
+number one please
+what happens with the bitcoins on the device when it breaks
+
+then you have to recover your paper wallet … you have to recover it into other devices …
+that is the main purpose of these paper backups
+
+thank you for your talk. 
+Idea when you will take orders again?
+
+after we are done so most proably febuary
+
+The problem is if we want ot have radio in Trezor it means we need to have batteries
+
+
+So you talked about update functionality
+
+we have a bootloader that contains our public keys and 
+Our firmware is signed by us, If the signature is not correct you will have a warning, so you can run your own firmware but you will have confront this warning in order to run it.
+
+Anymore questions, from IRC maybe? No ... OK
+[applause]
+

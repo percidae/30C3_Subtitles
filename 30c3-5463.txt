@@ -1,0 +1,57 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk 'Hillbilly Tracking of Low Earth Orbit' are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+
+Howdy. [applause]
+..
+This is the mission patch of the SASA
+
+This was drawn by .. and there are a few pieces of my people's native culture .. and that's why the man on the left has a shotgun. Because he doesn't want to be kidnapped. .. It looks like there are snowpeaks, but our mountains aren't high enough to have snow .. in the top in space you can see the ISS and you can see a banana .. this is to signify space trash. You know' it's symbolism that matters in these things. So in Berlinsedis in 2012 I did a talk about reverse engineering teh spot connect. .. These things are great, it weighs a bit more than your phone, it runs off a batteries, .. Well, if you're hiking and you don't want the same experience, you buy one of these things, and you press a button on one of these things and .. This device will also allow you to tweet and make facebook posts. The idea is when you're running, .. and i did an articgle on reverse engineering the bt side of these things because i use a weird brand of phones that MS decided to cut off and i'm quite bitter about it. .. And teh same for the ones, but the way that the pattern works, is that it switches the signal whenever it is going from 0 to 1. .. And this is how you can reverse engineer how the Spot Connect connects to the satellite signals .. So if you listen on this frequenzy and have the correct recording softare .. So having an antenna on the uplink freq is kind of useless. .. [laughing] So that's great as a proof of concept, but it's not useable for anything practical. .. It's easy to get the thing that goes up to the sattelite, but I wanted to get that what comes down from the sattelite. .. They fly really low across the earth, and they fly on very tight and fast .. Or you have to make it computer controlled. SO stepping back from the SC a little, Adam laurie made some work on Geosat tools. .. He used DVB-S card connected to a sat dish with a diseqc motor, in order to scan a region of the horizon. His tool is .. And then after he finds a signal, he has a feed scan. Normally when y
+ou have sat TV, you have .. But adam's tool allows you to scan to see which frequencys are in use .. This recording here is from a .. in order to catch up with it. In this diag the x-axis shows the azimuth, this shows how much left or right my sat dish has moved. .. Every vertical bar in which you see chunks of data, that's a satellite. ..
+But it can't move in elevation. SO this diagram is just a small slice of the horizon. .. So hacking Ku-band, TV-sats, has the advantage that you can use cheap DVB-S hardware. .. TV signals come with video feeds, so you can actually see pictures. There was a scandal a couple of years ago, where you could actually see drone feeds bouncing off satellites. .. So you can actually turn your DVB-S card as promiscuous ethernet adapter. .. But it also has some disadavntages. it only works with geostationary satellites. If the satellite moves, you can't track it. .. You're limited on standardized signals. .. 
+I misspoke, you will actually get brazilian truck-drivers with this. .. This sat dish here on the left, here in the radome, that's my dish. And here on the right, that's the boat it came from. So this came froma military ship. But the dish itself is also available to civilians for very large yachts. .. Teh dish was desgined to be at the very top of a ships' mast. But there's a complication for being on the top of the mast. .. So they have stepper-motors for azimuth elevation and tilt and they have spinning gyroscopes. .. ..
+
+But if you wanted this, you'd have to carry this in your carry-on luggage and it could be awkward. .. It's ok, I know europeans suck at history. [laughing] .. 
+what i did is i took these motors which were designed to be able to move the dish .. This allows me to track things that are moving through the sky, but it doesn't actually matter where they're moving, because that's just a software problem. .. And then i added an SDR which allows me to record a signal now and demodulate it later. Which is handy when you want to reverse engineer a signal. .. You also need a recording of decent quality to reverse engineer later on. .. having high quality signals for reverse engineering is necessary. ..
+I built a software farmework as a collection of phython daemons. .. there's a beagle board inside the radome, and there's a server in my home. .. For maintenance, i can make my laptop pretend to be my dish, and have steppers on my desk .. Voyager 2 doesn't acutally come into the sky because of my position in the northern hemisphere. .. .. This isn't accurate enough to target the dish, so .. This is skytee helping out with the dish. He's zip-tying it because we know everything about duct-taping wehre i come from, but we know nothing about zip ties, so I had to bring in a german engineer. .. ..
+As this thing spins around, by original design there's a ring connector where all the signals go through. .. And that worked in the 90s because it had no reason to send anything faster than 9600 baud. .. It can only move 400 degrees around, .. We've got hte beagle board on the left, a usb-hub on the right and a .. it also takes care of updating the motor position .. The stepper motors themselves are the originals that the dish was designed with. They run into an EggBot-Board, which was designed to .. so you can actually aim a satellite dish that's taller than you with technology easier than what's needed for a 3d printer. ..
+The satellite dish sits in Tennessee, .. .. 
+
+So instead we took the radome—that's frank, that's my cat—give him cheers. .. We took tape and we ran tape down the edges of the radome and then marked it. .. And then you can sort of scan the sky for a stationary .. and you can recover your position. .. .. But I can also arrange it as a polar plot, which gives me a plot of what the radome is seeing. .. [applause] A significant portion of the gui client was written while i was stuck on the U-Bahn connected using 3g .. You can take the data out of this and run it through scientific software .. .. 
+The daemons that build this up, you need a norbit prediction daemon. .. You need to update the orbits themselves. .. .. But this format isn't incredibly accurate for satellites that correct their orbit. .. So you need a daemon that grounds the new files from spacetrack and this is just a matter of a recursive .. you also need motor control because you need to move the dish physically to .. and then you need radio daemons to .. and then after that you start to take software recorderings of that .. So for orbit prediction i began with a DOS program that had been ported to Unix called predict. This works but it's garbage. It only supports 20 stars .. because it's designed for astronomy photographers that want to take pictures of things .. because otherwise you have to set an alarm clock for the half-hour pass where you can record them. .. .. So i managed to track every single item in geostat orbit this thick ring here is the clarke-bell of all geostationary satellites as viewed from my northern hemisphere [?] .. All IPC is running through this PostreSQL .. you then send it simple commands, like SM,3000,500,-400 .. And then it will count that out, and send me back an OK. If i want to disable the motors, i'll send them em,0,0 .. EM,1,1 will enable both motors in 1/16s .. You can see the motors themselves with the belts and the geartrains. This thing on the right would probably be illegal for me to turn on .. The belts and stuff need to be measured to figure out what the reduction is .. the IMU unit , this vectornav vn100 is a .. it costs 500$ which was more than all of the other components together. ..
+Now for position calculation, the elevation itself comes from the IMU. The azimuth .. so the accelerometer will drift while the compass will be confused by the magnetic fields while the .. and the IMU will be come of a backup how to make it reliable, but at the moment the position .. .. 
+The radio daomens. The first is a spectrum analyzer. It just measures the strength of the frequency .. the downlink recorder dumps the IQ values .. directly to an NFS share. .. Client GUI is PyGame .. Also notes these faint blue lines are positions where i saw particularly strong signals .. I'm running out of time by these markers. does this mean we skip Q&A or that I get kickd off of stage? .. It takes SDR, it can provide maps of used different satellites in the sky. .. I'd also like to make other ground stations. The software that I wrote should be portable .. Another way that you can do it, the way that it's traditionally done to track stationary satellites is with a YAGI antenna .. This is my van, my van is amazing. [applause] Thanks to nick farr. I had a bit to much too drink in .. But you want a news-van. And I said Hell yes, I want a news van! .. But most importantly, it does SECAM .. This is the control panel, and that's my talk! [applause]
+
+
+

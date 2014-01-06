@@ -1,0 +1,165 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Android DDI are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[X ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+from: approx 1631?
+So the user paid, and now you have a bunch of extra stuff, some use a backend server
+the goal was, can we trick this payment thing
+to actually get free content, unlock full versions
+people have done that, modify the application to skip payment
+mdofy the market app, 
+
+so what do we use, of course, our dyn insturmentation tool
+i want to play this game , get coins
+
+we never have too look at how an app works
+so if the app is update we don't care
+
+if there are changes to the market api we need to update
+
+everything that uses the aPI is owend
+
+now back to signature verification
+
+after buy, you get some info signed by google. app checks is the signature good.
+this item was bought, here you can have it.
+
+so we can just override that, and the signature is good.
+
+the instrumentation is one call bing you get free stuff.
+
+everyone likes a good demo, but I only have a video.
+
+lets start the app first, for those who don't know how paument works.
+
+everybody knows this game
+
+so lets get some stuff
+
+normally 5 dollars, so lets not buy it.
+you can pay by card or phone bill
+lots of nice payment options
+
+just like to show a bunch of games and ow much they charge
+
+30 buchs, sure
+
+lets start our tool
+of course for all the instrumentation stuff you need roo on your device.
+this is a very old version. ther are some shell scripts involved.
+
+now back to the game adn see whats happenig.
+
+lets try the expensive one since its probably free now
+20 bucks
+[applause]
+lets also try the cheap one. more points added.
+
+lets try something here....
+
+[ker-ching]
+
+so this was preinstall applications, so i could have modified something so lets download somtihg from the market and see that it applies there
+
+So lets see. 
+
+the screen wil flipp beacuse of the game, not a perfect choice for the demo
+
+lets get some coins
+lets go back, it needs to get back to the game
+
+cha-ching, freshly installed from the market.
+
+[applause]
+so we are almost at the end. dynamic instrumentation of android allows modification of app and framework in meory, no signatures. 
+the jnii trick i super stalbe, its not a hack its how it works
+
+we dont modify bytecode yet. 
+i work on it like a side project
+should stir up the android security scene a bit
+
+doing runtime everything you can see and modify stuff
+
+at our lab we have various projects doing interisting things
+
+the whole framework si opens ource and realeace.
+download from githup
+
+the tools, string monitor, hoooking for 
+
+no source for google play attack
+we don't want to take away from the developers, just show the possibilites with the frame work, and we want to use it for good stuff, so we wrote a patching forramework
+
+so if you have an old device you can get ...
+
+on rekey.io
+
+and I am through,. thank you I think we have time for questions.
+
+Mike 4. Colin, have you check your sofw againt anti virus software
+A: No not yet. you mean instrumentin AV software or?
+Q: no taht av claims it is not good softwarea: 
+A: no we have not released the tools directly, so I haven't a tool I can check against
+
+Mic 1
+q: this android runtime has been introduced. and they have native code execturels. you have any info on the android RT or is it only Dalvik?
+
+I guess ART i sthe furture have you looked into that.
+
+No, not yet. ART is just a JIT compilation so I did a talk last year on instrumenting adnroid native code. you can change between dalvik and art .
+
+
+Is there difference between hoodking custom code to terminal? app. or .
+if the service in another process you can hook everything, we hook system_server process.
+
+you have to be careful with threading. because you could crash. 
+
+in the zygote process you have to hook it. is there someexecution floor? in it.
+
+if you have one of the newer devices with selinux and so on you have to switch off a lot of settings,
+my code works if you have rooted your device and have full control.
+the lib injection works via ptrace so if it is diabled, no injecton
+
+wil your code work on KitKaT? because its hard to get root?
+
+it should work on any phone with Dalvik
+
+there are other poeple who've made it their hobby,
+
+regarding the backends, for payment, what are pros and cons to use it?
+if you don't use the backend you can fall to an attack simialr but you have to take the signature send it yo your server, do the verification there. 
+
+you have to do te.. without signature check off the device you make yourself ulnerable to an attack like that
+
+
+

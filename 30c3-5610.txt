@@ -1,0 +1,400 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "5610 Seidenstrasse" are supposed to be created  
+  
+Link and further information can be found here: http://events.ccc.de/congress/2013/Fahrplan/events/5610.html
+  
+The language is supposed to be: 
+[X] German  (parts)
+[X] English  (parts)
+(the orignal talk-language)
+
+-------------------------------------------------------------------------------------------------------------
+Video: http://subtitles.media.ccc.de/v/native/30c3-5610-de-Seidenstrasse_h264-iprod.mp4
+-------------------------------------------------------------------------------------------------------------
+
+Okay, also ich bin Mey und Frank kennt ihr ja
+und wir stellen euch heute die Seidenstraße vor.
+
+Dem einen oder anderen ist vielleicht schon beim Reinkommen schon das gelbe Rohr, das außen an der Fassade liegt, aufgefallen.
+
+Die Frage war natürlich, was machen wir da eigentlich mit diesem Rohr, also was soll dieses Rohr. Es sind 2km davon, von denen liegen jetzt so ungefähr 1100m schon im Gebäude. Einige haben auch schon gefragt, gibt es ein Wasserproblem in dem Gebäude. 
+
+Unerwarteter Regen, mit dem wir nicht klarkommen.
+
+Nein, es handelt sich dabei um ein Netzwerk.
+
+Und zwar um ein Rohrpostnetzwerk. Und warum der schöne Name Seidenstraße? Die Seidenstraße ist ein Netzwerk von Handelsrouten. Das existiert schon ziemlich lange, es existiert auch heute immer noch. In der Tat war es nie so, dass ein Kaufmann je die ganze Seidenstraße bereist hat, sondern das lief immer über Zwischenhändler.
+
+Auch heute noch wird darüber geschmuggelt. Drogen gehandelt.
+
+Alternative Logistiker aller Art.
+
+Sicherheit war schon immer ein Problem auf der Seidenstraße. 
+
+Deswegen fanden wir, das ist ein guter Name für die Rohrpost.
+
+Also es wurden nicht nur Güter gehandelt auf der Seidenstraße, sondern es wurde auch Kultur auf dem Weg verbreitet und Krankheiten …
+
+Also all diese Probleme, die wir im Kleinen hier auch haben.
+
+Und unser Netzwerk besteht also aus besagtem Drainagerohr. Hier seht ihr 2km auf Rollen aufgewickelt.
+
+Das sind immer so 50 Meter pro Ring. Der wichtige Punkt ist, wenn ihr das zu Hause nachbauen wollt in eurem Hackerspace. Es gibt diese Drainagerohre einmal mit Löchern 
+
+[Gelächter]
+
+und einmal ohne Löcher, das ist dann das, was ihr wollt.
+
+Kosten alle genau das selbe, ungefähr einen Euro pro Meter.
+
+Und für den Betrieb nutzen wir Staubsauger und zwar so Industriestaubsauger, die sowohl saugen, als auch pusten können. Da vorne steht einer.
+
+Also mit dem Anschluss für so ein Drainagerohr, das ist ein typisches Abwasserrohr, mit so einem Adapter und dann kann man das schön aneinanderstecken.
+
+So, jetzt fragt ihr euch sicher, wie kommt man auf die Idee so eine Rohrpost mit einem Drainagerohr zu betreiben. Und in der Tat war das nicht unsere Idee, sondern das gab es schonmal, nämlich dieses Jahr auf der Transmediale im Haus der Kulturen der Welt. Und zwar haben die Telekommunisten sich das ausgedacht, es hieß Octo, aber da werden sie euch gleich selber etwas darüber erzählen.
+
+Für die Telekommunisten haben wir hier Diani Barreto und Jeff Mann
+
+[Applaus]
+
+Hello Hamburg
+
+we're absolutely delighted to be here. 
+
+It has been an very crazy year and it all started at Haus der Kulturen der Welt with our largest project, most [...?] {composite?} project to date and it was one kilometer of tubing you did just saw and I came in last night and I was hearing this *wrrrr-srrrr*, I was so happy with it, a wonderful flashback.
+
+I like to thank the CCC for inviting us here and Mey Lean Kronemanns inspiration and having invited us this year that's really great honour and we're really flattered and to see how this new and improved version of Octo - you know, distributed open-source, open-hardware and really gets better.
+
+This was the original capsule as you can see, the little cardboard there.
+And now we have 3D technology. Really nice.
+That was our original intention.
+We failed in our crowdfunding seedlaunch and so we were really happy to say okay wow, let's go open source.
+
+So i am here to actually thank everyone, this is a kind of oscar price.
+Thank you really much CCC, Frank Rieger,  Mey, {Georg Settler??} [??Names] and all the hackerspaces that worked on this and for keeping the octo - the idea - alive and of course the team of Transmediale that also had the faith [chuckles] in us in bringing this very cumbersome project forward, the curators Tatiana Bazzichelli, [Tatjana? Christopher?] I don't know if they are here today and the team at transmediale and raumlabor and serve you for helping us for create the wonderful terminals and the technology involved.
+
+I'd like to thank our octo brosis who are our debugging crew [Applause]
+...as previous we have said we didn't had this great technology the CCC brings, we had no LED and no onion routing and [...?] they looked up and "oh there it is" and yeah and so if it would not have been for them it would have been a great disaster.
+But anyway:
+
+Without much ado I would like to present my great chief technologist to talk about the virtues and pleasures of pneumatic transfer[?]. Thank you very much, enjoy!
+
+And now our crowdfunding video. Just so you can go back a little bit - almost a year ago today, thanks.
+
+[video]
+
+[applause]
+
+I haven't mentioned before that it is a rather large collabroative project, we had also other versions, when it happened[?] in italy as well Vittore Baroni and pneumatic circus and mail art network.
+We also had an offshoot[?] in newcastle, england called OctoPlus[?] which is something i recommend you to check out online.
+
+And now, without much ado, out chief technologist, Jeff Mann.
+
+Hello, thank you. My name is Jeff Mann, I'm an artist, I'm just one of the many people who worked on the Octo project. It's a big collaborative project. But I was mostly responsible for the pneumatic systems, vacuum cleaners and tubes and so on. So, they asked me to come on stage today.
+
+I'd like to talk a litte bit - now they have told me I have way to many slides, so I try to go a bit quickly - technically I like to think about technology as a system together with humans and art and so on and something that can't really be seperated, I mean there has alwas been technology, there has always been art, as long as there have been humans.
+It's unthinkable to have humans without art and technology.
+
+And there's this huge history of art and technology influencing each other and influencing people.
+
+These paintings are both french paintings, they're quite seperated in time. You might think that not a lot has changed in the last 300.000 or 30.000 years. Of course all the things have changed, now we're living inside basically technology. I mean we're completely surrounded and closed[...?] we're not in the forest anymore, we're in this kind of second nature, technological systems and we have a very intimate relationship with technology.
+
+Some people have been talking about a new aesthetic, about seeing things through the eyes of technology. But, you know, this is been happening for, already for a century.
+Technology has always not only reflected who we are but informed and actually created who we are.
+There is an kind of liveliness of machines and artifacts and the kind of social interaction between them that is like i'm saying holistic system. So that's kind of the, some of the things that interests me, the whole world of objects, technological devices and the things that were the sort of the new forest 2.0 the savannah version 2
+
+And that sort of chaotically evolving ecosystem and the very organic, looking at the kind of the organic nature.
+And thinking about, people could sort of commune in a way with technology in the same way people talk about communing with nature -- is that possible also in this kind of environment. How does technology feel?
+
+Back in the 90s when I lived in Toronto I started something called the art robotics group, to explore this kind of questions and spectifically focusing on physical objects and interactions, not just flat[?] point and click kind of screen. This took place in a place called inter-access and this was a kind of proto hackerspace but specifically for artists.
+I also did a series of telematic, tele-present dinner parties. That's not Richard Stallman, thats [...] there speaking through a talking fish.
+
+During the same time I also got quite interested in these tubes, and I was making different sorts of artworks and exploring just the nature what - I dont really know why i was so interested in them but they were just interesting.
+I started connecting them with vacuum cleaner motors and these are flexible tubes, so they could move around and make really interesting movements. By controlling the vacuum cleaner motor, I actually had MIDI-controlled vacuum cleaner motor that I could run from the computer. I buit this, this is back in the late 90s.
+
+This one is a sound sculpure and you might recognize these plastic drainage pipes so exploring not so much the usefulness of these things but imagination - like what there's this other layer that nobody really intended to put there, nobody who designed these plastic pipes intended them to be used for anything other then draining water, but, you know, they have a real personality.
+
+One of the things - one of the several ideas about technology is ... it's this infinte idea of infinite progress and things just getting better and better all the time through technologie.
+
+And that also lets us think about technology as beeing a slave just being a  robot which is a checkword for worker or slave. The other side of this is very dystopian way we're looking at technology and being afraid of it, escaping and getting a hold of us and taking over.
+
+But technology I think can also just be more everyday and playful.
+This was aother of the connected in this case a picnic and ... we can just skip over that actually
+
+I like to call what I do "abstract industrialism", and the last few years I've been working on a project looking at all these kinds of different sorts of technology in spaces, ruined spaces - things that have lost their function, things that don't have their purpose anymore, the techological what they were designed for. When you strip that away there can be some really interesting things left over. Very organic things, very charismatic things.
+
+Spaces that you don't really know exactly what their purpose is, or maybe its just been forgotten - it's kind of an dream.
+But beautiful spaces and beautiful objects and instruments - physics labs, even gas stations, control rooms, domestic situations and ruined spaces, cabinets and conduits, air fans -- I am not a fan of fans.
+I can't sleep at night, I have them in my [...] at night I can't sleep
+Machines of all sorts, and of course that incredible networks of pipes
+
+So the telekommunisten collective was invited by transmediale to produce the octo project for "Back When Pluto Was A Planet" version of transmediale and dimitry[?] [...?] invited my to collaborate.
+
+It was based on the idea of the rohrpost, this was something we'd all been interested, we'd all been talking about. Telekommunisten used to have an office in the Telegraphamt in berlin and in the cellar was this reminiscent of the berlin rohrpost system.
+Again very beautiful things, even though they are not functioning anymore.
+
+We also looked at, because of "Back When Pluto Was A Planet" theme, looking back over the last, say, 100 years and different sorts of designs were the inspiration.
+Jonas came up with this great video which we have seen. I'll just skip over that.
+
+[*laughter*]
+
+I had a lot to live up to after this wonderful video and this is what I came up with.
+This is the very first version of that central processing unit of the octo packet controller system. We demonstrated that, it went over very well. We were able to - we discovered we could send cans of beer [*slight applause*]
+
+We did some purely[?] tests up the windows cans of beer up two stories.
+
+And along that [...] the search for different kinds of capsules that would work, the proper vacuum cleaners, I see you went with the yellow one - we kind of went with the silver sharkfire? That's really good.
+And so we got to work on creating the better looking [...?] sketches here.
+
+But it started to shape up into something based on all these kind of images of technology.
+
+The end stations - these were designed and produced by raumlabor, the architecture agency who helped immensly putting together the installation.
+
+This was my more or less final design for the central unit PC71- is that right P7CP...
+And this also tooks a litte bit of inspiration from the place itself, the Haus der Kulturen der Welt, where the transmediale is held [...] right there, really interesting, kind of modernist, midcentury design. Also the life guard station on the left.
+
+So we proceeded to install these yellow tubes everywhere in HKW. It was quite a, well, as you guys, I guess, know, quite a lot of work installing the central unit, hooking up everything.
+
+Our system was very centalized and you can hear more about the ideas behind that at the workshop tomorrow.
+We had to make some last minute modifications due to air flow problems but basically it also came together very well.
+
+And there, here we are, and it worked, just run through these, almost done.
+
+Great volunteers, great everyone helping this around [...] endstations.
+
+Of course the [...] project that [...?] mentioned was an excellent, was a excelent, was a great addition to the whole thing. We had some really beautiful capsules that were works of art sent through the system.
+
+There were also telephones to communicate with the central station, to take care of the routing.
+
+This is dimitri?[...] and [...] they'll be [...] talk [...] at the workshop tomorrow, encourage you to come, because there is a lot more to say about octo and the story behind it and we really are looking for investors.
+
+[*applause*]
+
+Tja, das Finanzierungskonzept für Octo ist ja leider, leider gescheitert. Und deswegen haben sich die Telekommunisten entschieden, das Werk Open Source zu stellen.
+
+[*applause*]
+
+Und der Grund, weswegen Jeff soweit ausgeholt hat und mit Kunst angefangen hat, war, dass das ganze tatsächlich auch einen künstlerischen, konzeptionellen Hintergrund hat - nämlich Open Art.
+Open Art ist das Prinzip Open Source angewendet auf Kunst, sprich das Konzept wird sozusagen zur Technologie, zur Infrastruktur und damit auch zum hacking-tool bzw. zum hackbaren Tool.
+
+Octo war sozusagen die Version 1.0. Und Seidenstraße, wie ihr sie heute seht, ist die Version 2.0 Beta.
+
+[*applause*]
+
+Also Beta deswegen weils da noch einiges zu tun gibt - da kommen wir gleich drauf.
+Die wesentliche Unterschiede (ich benutze übrigens dieses Mikrophon deswegen, weil der Stream sonst nicht kein Audio hat) wie ihr gesehen habt ist das System der Telekommunisten war ja mehr an der Idee einer zentralen Telko orientiert. Also es gab eine Switching Station und alle Rohre gingen da hin.
+
+Man hat sozusagen die Zentrale angerufen per Telefon und gesagt: "Zentrale, ich möchte bitte verbunden werden mit Station" und dann wurde wie beim Anfang des Telefons umgesteckt.
+
+Bei uns ist das eher, wir bauen sozusagen das alte Internet nach.
+
+Also die Idee ist halt, es gibt ein dezentralisiertes Mesh-Network, durchaus auch geboren aus der Not dieses Gebäudes heraus, das einfach viel zu viele Brandschutzzonen aufweist. Brandschutzzone heißt, da sind so Türen, da darfst du kein Rohr durchlegen - was ein bisschen doof ist, deswegen gibts häufiger Stationen die in der Nähe von Brandschutztüren sind, und zwar links und rechts davon, dazwischen muss man manuell rübertragen.
+
+[*laughter*]
+
+Da kommen wir aber nochmal drauf zurück, wie man das macht.
+
+Ihr erinnert euch noch so an die Mailbox-Zeiten mit Store and Forward? Da sind wir jetzt so ungefähr.
+
+[*laughter and applause*]
+
+Es gibt ja so ein Adressierungsschema, was Routingprotokoll-geeignet ist. Wir haben aber noch keinen automatischen Router.
+Also wir denken so an dieses Jahr Seidenstraße 2.0 Beta, nächstes Jahr vielleicht 2.0 - und zum Camp können wir dann 3.0 machen, mit automatischen Routern und ein paar mehr Kilometern - war so die Idee.
+
+Das heißt, das Konzept ist darauf angelegt, dass es viel größer sein kann, als es jetzt hier ist. Deswegen sind auch ein paar Sachen ein bisschen overengineert, wie z.B. unser Routing und Adressing-Scheme.
+Das Netzwerk entwickelt sich dynamisch, dh. es kommen Stationen dazu, es fallen Stationen weg, manche Stationen sind laggy, wenn niemand bock hat, eine Kapsel von links nach rechts zu stecken - andere werden populärer sein, weil sie populäre Dienste anbieten, zum Beispiel.
+
+[*laughter*]
+
+Das Signaling ist Ad-Hoc, das heißt, es gibt zwei Modi: Der eine ist, wenn man weiß, dass da jemand ist, der ein DECT-Telefon hat. Der Andere ist, wir haben In-Band-Signaling, wenn man in dieses Rohr reinruft... [*laughter*]
+
+Wie dynamisch dieses Netzwerk ist, haben wir ja gerade gesehen, wir haben hier gerade hier einen Anschluss reingelegt bekommen. In so fern können wir euch auch gleich zeigen, wie es funktioniert, und dass es funktioniert.
+
+Während Frank hier am Vorbereiten ist, kann ich euch noch ein Video zeigen. - Och, Frank ist schneller, na gut.
+
+Also: Ganz wichtig: Beleuchtung, das ist auch ein neues Feature und das macht das Debugging wesentlich einfacher [*laughter*] weil man die steckengebliebenen auch Kapseln wiederfindet.
+In den Anschluss rein, bisschen nach vorne schieben und [*wrrrr*]  [*laughter* *applause*]
+
+Frank steckt jetzt im Staubsauger auf Saugfunktion um.
+
+Könnt ihr mal das Licht ausmachen? Danke.
+
+[*wrrrr*] [*laughter* *applause*]
+
+Problematisch sind natürlich jetzt so enge Biegeradien, aber wir haben das tatsächlich in der aufgerollten Version, so wie geliefert, Rolle probiert und es funktioniert auch, also muss man ab und zu ein bisschen dagegentreten [*laughter*]
+
+Ja, Frank hat ja jetzt schon gezeigt, wie es prinzipiell geht. Normalerweise möchte man dann auch eine Adresse auf der Kapsel haben, insofern schaut ihr euch das Routingfile an.
+Das, ähm, auf der Todo-Liste steht [*laughter*]
+
+Eines der Dinge, wie gesagt, das ist ein dynamisches involvierendes? Netzwerk, dh. das Routingfile zu machen ist eine kontinuuierliche Aufgabe, es gibt jetzt eins, was irgendwie der Realität so grob entspricht, was aber noch weiter ergänzt werden muss und sich immer weiter entwickeln wird.
+
+An sich ist sozusagen die erste Stelle ist der switching node, also die Stelle die mehrere Anschlüsse hat, wo jemand sitzt und jeweils die Kapseln vermittelt. Die zweite Stelle ist der Endpunkt, also die Stelle wo es dann konkret hin soll. Also wie bei jedem Netzwerk, ziemlich standardmäßig. Der Grund, warum es Doppelpunkte sind, ist übrigens IPv6.  [*laughter* *applause*]
+
+Ihr seht schon, wir haben da ein bisschen größeres Skalierung[?] so in Zukunft. [*laughter*]
+
+Es wird natürlich an Tag 4 auch den Infrastrukture-Review geben, mit dem SOC-Bericht.
+Sebastian arbeitet da gerade an einem Zählrohr, und als Backup wollen wir aber, und um das zu überprüfen, ob das alles funktioniert, wollen wir auch eine Strichliste führen. Sprich: Für jede Kapsel, die man losschickt, macht man einen Strich an dem Punkt, wo man sie losschickt.
+Dann gibt es prinzipiell drei Möglichkeiten:
+Erstens: wenn man keinen Staubsauger hat, dann bringt man die Kapsel bis zum nächsten Punkt, der einen Staubsauger hat und schickt sie da lost.
+Zweite Möglichkeit: man kann sich einen Staubsauger leihen gehen. Da muss man natürlich aufpassen, wenn da gerade eine Kapsel im Rohr ankommen will, dann kann das zu Kollisionen kommen.
+Die dritte Möglichkeit: Den nächsten Switching Node anzurufen, wir haben da ja jede Menge Möglichkeiten: DECT, VoIP oder [*pause*] oder eben besagtes In-Band-Signaling.
+
+[*laughter*]
+[*applause*]
+
+Ping ist okay, Echo funktioniert [*laughter*]
+
+Die Signalisierung, so dass man weiß, dass die Kapsel angekommen ist und man aufhören kann zu pusten, funktioniert so, wenn man am anderen Ende dann jemand der die Kapsel rausnimmt den Deckel aufs Rohr tut und dann ploppt der nämlich beim anderen an der anderen Seite raus.
+
+Wir saugen halt in der Regel nicht, sondern wir pusten. Wenn wir einen Staubsauger haben. Wenn keiner da ist, muss man auf der anderen Seite rufen, dass gesaugt wird. In jedem Falle dann halt einfach den Deckel drauf machen, dann weiß man, dass wenn man gedrückt hat, dann ploppt der deckel auf, wenn die Kapsel da war, dann kann man sehen, dass der andere die Kapsel erhalten hat.
+
+Damit das ganze funktioniert, muss man natürlich die Kapseln forwarden, die man findet. Also sprich, wenn ihr ne Kapsel findet, schaut drauf, wo sie hin soll, schaut, wie sie geroutet werden soll, weil wir ja leider noch keine automatischen Router haben, und dann wieder ins Rohr und pushen.
+
+Das ist der momentane Netzplan, wie gesagt, der ändert sich auch noch, so laufend. Wir haben hier eine Außenstrecke zur Halle H hoch und eine Außenstrecke, die noch nicht angeschlossen ist, die geht von ganz oben außen an der Fassade lang - ist die, die ihr wahrscheinlich schon gesehen habt - runter in die Eingangshalle, die ist noch nicht angeschlossen. Das wäre dann noch so ein Projekt, der Grund warum wir so wenig oben-unten-Verbindungen haben ist tatsächlich der Brandschutz. Außerdem sind hier die Stellen eingetragen, wo man Handvermitteln muss, also sprich die Kapseln von einer Station zur anderen tragen.
+Zum Beispiel das Erdgeschossfoyer, das ist hermetisch abgeriegelt durch Brandschutztüren.
+Ebenso Saal 3, da haben wir eine ganz lustige Lösung gefunden über die alte Regie vom Rang gehts dann runter und wir haben da extra eine Kernbohrung dafür erweitern lassen. [*laughter* *applause*]
+
+Also ihr seht schon, so Infrastuktur muss man schon richtig betreiben, da lassen wir uns auch nicht von Betonwänden aufhalten [*laughter*]
+
+Die Handvermittlung, das soll dann so gehen, dass wenn man eine Kapsel findet, dass dann auf dem Boden - das müssen wir auch noch machen [*laughter*] - weißes Gaffer aufgeklebt ist, das den Weg zur nächsten Station anzeigt. Und dann sendet man die Kapsel einfach von dort aus weiter.
+
+[Slide: man in the middle attack] [*laughter*]
+
+Auch die Seidenstraße hat auch mit Angriffen von bösen Hackern zu kämpfen, hier zu sehen eine man-in-the-middle attack mit Säge und Staubsaugern.
+
+Allerdings, wir sind ja auch immer für Sicherheitsmaßnahmen in unseren Netzwerken zu haben und haben da auch eine akustische Methode, Detektion entwickelt: Ob jemand da mit einer Säge zugange ist, das macht nämlich ein mordsmäßiges Geräusch, was sich durch das ganze Rohr fortpflanzt.
+
+[*laughter*]
+
+Wenn jemand an der Leitung sägt, dann hört man das. [*laughter*]
+
+Dummerweise kam uns gerade zu Ohren, dass es auch noch fortgeschrittene Attacken gibt, mit heißen Drähten [*laughter*]
+
+Die lassen sich natürlich nicht mit nem Mikrofon detekieren, da arbeiten wir noch an ner Lösung.
+
+Laufzeitanalyse wäre natürlich auch noch ne Option, leider schwankt die Laufzeit ein bisschen mit dem Kapselgewicht. Das heißt wir haben so etwas zwischen 3 und 6 Metern pro Sekunde, also Kapselgewicht und Stärke des Staubsaugers. Je dicker der Staubsauger ist, desto schneller natürlich die Kapsel; je leichter die Kapsel ist desto schneller ist sie auch.
+
+Wobei: Dicke Staubsauger - wir haben hier auch noch einen weiteren Attackvector, die Denial of Service-Attack [*laughter*]
+
+Es funktioniert natürlich grundsätzlich, wenn man ans andere Rohrende pustet und da Druck macht, dann ist die Seidenstraße lahmgelegt.
+
+Also wir befinden uns hier grad im Status wo wir so ein "We are all friends here"-Network betreiben [*laughter*]. So ähnlich, wie SS7 bei den Telcos, ihr kennt das ja.
+
+Was wir allerdings jetzt schon sagen können: Wir haben mehr Bandbreite als das NOC  [*laughter* *applause*]
+
+Bis da haben wir sogar tatsächlich ne kürzere Latenz [*laughter*]. Weil: die 100 GBit-Leitung, die wir hier stehen haben, braucht 80 Sekunden für 1 TB. Da sind wir schneller, und zwar über alle Strecken. [*laughter*] Also allen Strecken, die wir verlegt haben. [*laughter*]
+
+Falls ihr jetzt selber so eine Kapsel bauen wollt, mit vielleicht wo noch mehr Daten reinpassen oder whatever, gibts die schnelle und billige Möglichkeit mit einer 1,5 Liter PET-Flasche. Die passt genau da rein, schneidet man an zwei Stellen auf, nimmt den Mittelteil raus, kann dann die Nachricht reintun, am besten auch einen LED-Throwie gleich reinwerfen, dann hat man auch die Beleuchtung gelöst. Dann so ein bisschen eindrücken, dass man das untere Teil in das obere Teil stecken kann und dann nochmal zur Sicherheit mit Tape umwickeln. Adresse drauf und dann geht man am besten zur Teststrecke.
+Die ist in Saal 3, und zwar hinten rechts neben dem Radom. Betrieben von Chaos in Kaiserslautern und CCCFFM.
+
+Das ist so eine PET-Flasche. Hier also die gerundeten Ecken sind wichtig, damits nicht steckenbleibt. Gewicht so ungefähr 500 Gramm geht auf jeden Fall, es gab aber auch schon Tests mit einem Laubbläser, der schafft 1 KG. [*laughter*] Also eine volle 1 Liter Wasserflasche.
+
+Maße sind ungefähr 85 mm +- ein paar millimeter und mal ungefähr 180, das ist so die Obergrenze, das kommt ein bisschen darauf an, mit gerundeten Ecken ist besser.
+
+Hier fehlt natürlich das Wichtigste noch:
+
+Alle Kapseln, die wir transportieren wollen im Seidenstraßen-Netzwerk, müssen beleuchtet sein. Ihr habt gesehen warum: Zum einen, es sieht einfach viel cooler aus [*laughter*], zum anderen hilfts beim debugging. Wenn man also doch mal einen Kurvenradius [...?] zu eng gewählt hat oder eine Kapsel stecken bleibt, weil sie zu scharfe Ecken hat oder zu schwer ist, dann sieht man wo sie stecken bleibt - ohne beleuchtung hat man keine Chance. Das heißt also, definitiv immer eine schöne fette LED reintun, einen Throwie, irgendwas was dazu führt, dass man eine Kapsel lokalisiern kann, wenn sie in einem Rohr hängen bleibt.
+
+Das hier ist die Deluxe-Version aus dem Proto-Netz. 3D-Gedruckt in einem 24-Stunden Druckgang aus Glow-in-the-Dark-Filament. [*laughter*]
+
+Da sind unten spraycans [aufgeschnittene sprühdose] drin, und das sollte eigentlich so funktioniert, wenn man die spraycan reinmacht, dass das Licht dann automatisch angeht. Natürlich ist auch das Open Source. Ihr könnt euch die Daten runterladen und nachbauen. Danke protofAlk [*laughter*]
+
+In der Teststrecke bekommt ihr auch euer C5-Zertifikat. Chaos Communication Congress Certified Capsule [*laughter*] Alle Kapseln müssen natürlich zertifiziert sein, das Zertifikat gibt es beim Seidenstraßen-Assembly wo die Teststrecke ist.
+
+Ganz wichtig: Keine Mate-Flaschen [*laughter*].
+So wirklich, wer da ne Mate-Flasche oder ne andere Glasflasche reinsteckt, muss das Rohr hinterher auslecken. [*laughter*] Auch wenn Scherben drin sind.
+So, da kennen wir kein Spaß. Wirklich, Plastikflaschen, alles prima, keine Glasflaschen.
+Die Sauerei ist elendig, wenns kaputt geht am anderen Ende, also die Kapseln entwickeln nen ordernlichen Speed, ihr habts gesehen, wenn die da rauskommen, das ist leider ein unkalkulierbares Risiko. Also bitte wirklich keine Glasflaschen und schon gar keine vollen Glasflaschen.
+
+Die TODO-Liste ist noch lang. Wir haben zum Beispiel geplant, eine Spirale zu legen, wo man durchlaufen kann, für die Eingangshalle, wo dann auch der Anschluss von den Coffee Nerds aus dem 4. Stock runterkommt.
+Die Routingprotokolle und die Adressierung stehen noch nicht final, bzw. ändern sich natürlich auch ständig.
+
+Aber: Baut mehr Kapseln, sendet Sachen, sendet Nachrichten, probierts aus, benutzt das Netzwerk.
+
+Ja, dann würde ich jetzt noch um einen ganz fetten Applaus bitten, und zwar für Pat[?]
+[*applause*]
+für Tim, für [?], für das ganze [?], für [?] für [?] für Chaos in Kaiserslautern, für Moritz, für Oskar, für [?] für [...] die das überhaupt erst möglich gemacht haben, die sich mit den Brandschutztüren [...], für [...] die Kongressorga [...] für all die Helfer und all die Engel, ohne die das nicht möglich gewesen wäre, ich mein das Ernst.
+
+[*applause*]
+
+Wenn ihr euch ansonsten noch beteiligen wollte, es gibt ein Wiki, is.gd/ss30c3 (ss für Seidenstraße), die Mailingsliste is.gd/ssml30c3 - auch leicht zu merken.
+Dann möchte ich noch auf den Telekommunistenworkshop hinweisen, der ist morgen um 4 Uhr Nachmittags in Halle 13, Jeff hat ihn ja schon angekündigt.
+
+Ja, und jetzt stehen wir für Fragen, Anregungen, Ideen usw zur Verfügung.
+
+Ja, damit wären wir jetzt durch mit dem Vortragsteil, jetzt habt ihr bestimmt Fragen.
+
+
+[Q&A]
+
+Wäre es nicht grundätzlich bei diesem System sinnvoll das alles halbduplex auszulegen, also immer nur eine Richtung zu besiepielen und immer zwei Rohre zu verlegen?
+
+Ja, im Prinzip ja. Nur wir kommen da, dieses ganze Projekt ist, also um mal ein bisschen den Skalierungsfaktor zu verdeutlichen. Also ich dieses Rohr geordert hatte diese 2km bin ich danach so nach hause gelaufen und da fiel mir so auf ich bin jetzt gerade eine halbe Stunde lang gelaufen, das waren etwa 2km. Das heißt wir haben jetzt etwa eine halbe Stunde Rohr bestellt.
+Und die müssen noch verlegt werden.
+Ich kann euch übrigens auch sehr eine Wanderung entlang der Seidenstraße empfehlen.
+Und also im Prinzip haben wir genug Rohr um die wesentlichen Strecken halbduplex zu legen. Allerdings ist der Aufbauaufwand doch ein bisschen größer gewesen, als wir gedacht haben. Deswegen ist es momentan halt eben nich mit Sende- und Empfangsleitung aber die nächste Version...
+
+Jaja, klar. Ich denke wenn da [...]
+
+Ja, genau. Also für 3.0 wollen wir natürlich getrennte Sende- und Empfangsleitungen und vor allem wollen wir full-auto-routing haben. Also es gibt da schon so lustige Designs mit ?router und Revolverrouter... Also wenn ihr da Spass habt, wie gesagt kommt in der Assembly vorbei, da ist auf jeden Fall noch eine Menge zu tun wo man noch viel Spass haben kann.
+Das ist auch so eines der Kernfeatures des Projekts ist, dass es ist zwar ganz schön stressig weil das echt so viel ist. Aber es macht zwischendurch auch immer wieder so einen Höllenspass. Wenn man dann so eine Kapsel durchs Rohr zischen sieht.
+
+Wenn Maschinenbauer bisher das Gefühl hatten, sie könnten mit dem Kongress nichts anfangen, hat sich das jetzt glaube ich geändert.
+
+[*Applause*]
+
+Mir sind gerade noch ein paar Leute eingefallen, die ich noch garnicht erwähnt habe, bei denen ich mich vergessen habe zu bedanken [*laughter*]. Nee die Aufbaukoordinatoren natürlich, also Julien, Jon, Julius, [...].
+
+Onion routing habe ich vergessen. Onion routing prinzipiell geht natürlich so. Man muss 3 Hops Punkte haben. Also drei Punkte bei denen man weiter geroutet, weiter vermittelt wird. Es gibt da ein Konzept für eine Low-Tech Version. Da würde man sozusagen die finale Adresse ganz unten drauf schreiben. Darüber den nächsten Switching Node mit undurchsichtigem Maler-Krepp. Und so weiter und so for, sodass jede Station den ersten Layer abpeelt. Das schützt natürlich nicht davor, dass jemand alle Layer abpeelt und sie danach wieder drauf klebt. Deswegen gibts da verschiedene Lösungen. Also es war zum Beispiel Siegellack im Gespräch. Damit würde man zumindest erkennen, wenn die Kapsel aufgebrochen wurde. Aber auch das löst natürlich nicht das Verschlüsselungsproblem. Aber da ist wetter auf eine Idee gekommen.
+
+Ja also die Idee ist quasi, das Onion Routing, wie wir es aus Tor kennen, zu implementieren. Indem jede Station eine Schlüssel hat und man verschlüsselt einfach nur für die jeweilige Station die nächste Adresse so dass sie nicht die übernächste Adresse entschlüsseln kann. Also quasi die Verbindung vom Digitalen und Analogen.
+
+Noch eine Idee war ein Display auf die Kartuschen zu tun, sodass die Kapsel sagt, wo sie hin will und sich das beliebig ändern kann. Und Sensoren in die Kapsel einzubauen, sodass sie merken, wenn sie an einer Station angekommen sind und erst dann ihre Adresse, also ihre nächste Adresse anzeigen.
+
+Und noch eine Idee war, diesen so Labyrinthdose? zu bauen, also eine Puzzledose.
+
+Genau, das ist dann für die Verschlüsselung
+
+Das ist mehr Verschleierung. Aber naja...
+
+Also ihr seht, da ist noch eine ganze Menge Luft für Spass und Spiel zu haben
+
+Wie gesagt, das ist ein Beta Projekt. Wenn jemand tolle Ideen hat dann kommt zum Assembly und macht sie einfach. Es gibt da genügend Spasspotential.
+
+Eigentlich zwei Fragen. Punkt A: Gibt es schon ein RFC? Punkt B: Könntet ihr die Adressierung nochmal ganz kurz erläutern?
+
+Also RFC entsteht im Wiki, es gibt also so zusagen kein offizielles, aber es wäre natürlich eine gute Idee eins zu schreiben.
+
+Und die Adressierung funktioniert so, es gibt Stationen, wo man davon ausgeht das dort jemanden ist, der routen möchte. Die haben also quasi die, ist die erste Ziffer oder der erste Name, also z.B. halt NOC oder Himmel oder was auch immer. Die Nummern und einen Namen. Und die haben Unterstationen, die über sie zu erreichen sind, also die nicht vermitteln sondern nur einen Endpunkt haben. Der optische Unterschied ist ganz einfach irgendwie die Stationen die die erste Adressierung sind, da kommen mehrere Rohre an und Endpunkte kommt nur ein Rohr an, das heißt also, da kann man hin und weg schicken aber nicht woanders hinrouten.
+
+Ein Beispiel wo man sich das angucken kann ist im Saal 3, also da ist die C-Base der Switching Node. Und hinten das Assembly ist ein nur ein Endpunkt, da kommt nur ein Rohr raus
+Wobei, ich weiß nicht ob sich das inzwischen geändert hat [...]
+
+[*laughter*]
+
+Ja, dann sind wir glaube ich mit der Zeit durch. Vielen Dank fürs Zuhören und vor allen Dingen: macht bitte mit. Vielen Dank.
+
+[*Applause*]
+

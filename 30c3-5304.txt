@@ -1,0 +1,699 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words!
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ 
+CounterStrike
+Lawful Interception (en)
+FX
+
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Basically this is the technical side of the lawful interception...
+
+
+Turned down because he is with the USAF. This is not censorship???
+
+What are we talking about
+what we are talking
+what are they looking for?
+Why are thy watching you watching porn?
+
+The inherint problems with lawful interception
+
+and then we get drunk
+This is not censorship, but, if oyu want to be a censonr
+
+
+
+The inherent problems with lawful interception 
+
+so ehm this talk is a key detnry 
+
+this wone ist like email nail mail , mobile phone networrkj
+
+als keep ti n mind 
+
+thi so t 
+
+
+So, this talk is IP centric.
+keep in mind that every communication you do since acouple hundred years  can be lawfully intercepted
+There are other things, email snail mail wired phone lines, mobile phone networks stuff like that
+Also keep in mind … that we … I look at it
+
+I don't know about this except reading books, standards, making fun of people ...
+Hey … we have an empty seat on the stage, come on
+
+What is the justification
+
+
+Basically lawful interception means there's an … agency … leia
+what in contrast to starwars is on the bad side
+and the idea is that they need to listen in to communications from bad people. 
+It's legally rooted into the idea of looking - 
+
+into the idea of looking at snail mail?
+it's a different thing if the police looks at the envelope of your letter, which the nsa calls metadata or they open the letter and they look at the letter
+so that's where the legislation comes from
+
+So … is not a bad thing
+Basically, if your child is kidnapped and then your ransom note comes by e-mail, you will ask for it.
+Can't you tell me where this fucking email came from
+
+in Europe
+
+now i get that
+
+Whose DECT phone is this? Because its ringing...
+
+[Audience: "Answer it!"]
+
+in european union the … base …
+
+
+17.January 1995
+which again is legally rooted in the maastrich treaty
+and the mastrich duty saud weve police corporation … terrorism, that's all of you
+unlawful drug trafficking which caused me to ask okay,
+
+[see slide]
+(who is lawfully drug trafficking?)
+
+you need to know supply chains. 
+and other serious forms of crimes. 
+the national legislation that implements that differs slightly between different european countries.
+One of the proimary thins is waht the networks oepratoes want toi say
+[see slide]
+so let's look at the game map before you play Fps you better learn the map
+basically there are two sides, those that build the internet and those that asked for it and those that paid for it
+
+If toyue surprised thet they ewant it bacl you shouldnt be surpreiused
+IETF: Everyone should encrypt everyting to everything pointtopoint. Circumventing this encryption has no proven benefit.
+
+The NSA may beg to differ.
+
+Years later the IETF came one with the policy of wiretapping where they had a couple of interesting points once is that 
+Tools that were effected for a purpose tend to be used for a prupose.
+
+[see slides]
+
+However they are not saying that everyone could do that …
+
+The second poiunt are tools designed for one purpose and used for another purpose
+
+[reads slides]
+
+In the same RFC they basically sum up the security considerations. 
+With three points and this is really important for this discussion
+
+[see slides]
+same argument - more complex
+in todays world you would say wiretapping, if it hadn't been implemented, would not allow prism to exist.
+
+Why is wiretapping so difficult?
+First of all, lawful intercept is many government regulated … is a cost center
+[see slides]
+Google doesn't make nay money with watching you -- scratch that, they make all the money with watching you.
+
+*applause*
+
+Your ISP at least in Europe wouldnt make money from watching you
+However, here is basic calculation from one of the books on the subject 7, 8 million - the annual cost is - 38 million, if you're lucky you get 25 million back from the government
+[see slides]
+
+if you are lucky you get 25 mill back from the govenrment whcih in itself is questionalbe
+If yourre not bad as a i am in math, you'll notice this isn't a positive sum game
+The next thing is performance and operation. 
+[see slides]
+
+Like the service must appear as unchanged
+"the operation of the target must appear to be unchanged to the intercepted subject"
+Any gamers in here? What do you think you will do if your ping goes down about 200 ms?
+(Which was actually triggering the naming of the talk)
+That is one part,
+Which was actually naming of the talk
+
+[see slides]
+AKA they have no fucking clue and they call your net admins
+and they call your networks administrators
+
+the third part being the telecommunications to and from [slides]
+[see slides]
+which means they tell you who you are supposed to monitor
+
+and you're fucking responsible to not monitor the wrong people
+
+Wait a minute.
+
+But then there is basic IT, and I'm a networking guy, there is problem bandwidth
+[slides]
+
+thes basicbadtwqithfd isssues
+… 
+a bullshit statement to begin with, but lemme explain why this is really interesting.
+So this is how we actually envision the Internet to be:
+
+This is Internet.
+
+you have an acces point, that one is already.. open?
+I've never been applauded to getting drunk. That's awesome.
+
+*drinks*
+
+Now I'm getting applauded for getting drunk, that's awesome.
+
+This is why DARPA asked for it, if you bomb one site with a nuke it will still work
+
+So on the right side you have the webcam you pay to use and on the left side you have the average nerd, me included, certainly, that has an ADSL line.  This is what the two arrows mean, right?
+
+This tries to sum up the military built the internet
+Porn made it big.
+
+Basically this is what the military and famous universities worked on.
+now a couple of years agoa i was on a conference,  in china. 2h  after intro speeches from profs I thought I was on wrong conf but all the other speakers that I knew were still there. and i thought i was on the wrong conf because they kept talking about the sensor network.
+
+because the topology changes drastically when you montor everyone. 
+this is what the chnese netwotrks looks
+
+On every single point you need the sum of all the bandwidth that goes in your network.
+
+Basically they do not sensor what they see. but what the.censor.? ? 
+
+because this the tology and that means completely different routing patterns …?
+
+Ok, we understood the basic problems, now what's the gameplay. this is slightly adapted from weikpiedia. [slides]
+
+its were talking of a first person game in which the player joins either the terrorist or counter-terrorist team.
+In contrast to counterstrike not all become spektators … they do to become spectators ?
+What interception points do we have and where could you watch me watching porn
+there's the aquisition at the source, in germany we call that quellen tkü.
+there's the next hop
+CPE = router from your ISP or mediamarkt
+(customer premesis equipment)th
+there is the most common way of doing it in the network access layer
+which we're gonna cover in more details
+theres SS7 probes which is really interesting because it allows you to monitor phone calls, sms etc. from across the planet.
+You dont havve to be in the network stream you just have to call the network "give me that sms"
+there is data retention, which means someone else is monitoring the stuff for you and runs an oracle database that nobody cares a shit about because it is a cost center and 
+there is all your communications for the last half year in there, which i am sure no foreign secret service will find interesting cares about
+
+There's DNS triggerd interception in -I would like to say -less free countries, but I'm not sure about that but right now I'm not sure about that
+
+[applause]
+
+and theres /// globla obeserver
+wsosohich  w were is a termplax the NSA ing on the good side now with the counter terrorists
+
+
+
+we are playing on the good side now, we're the counter-terrorists which means, lets arm up and …
+of course we play the counter-terrorists, because we're all the good guys/gals/whatever
+
+this is what it looks like in the EU (the us has a slightly different model called calia?)
+
+in the EU we use the ETSI model. 
+
+so, basically that has three interfaces
+ the first interface … people
+ yes there's people involved.
+
+
+Can we pleas have thsi interception. The second interface ...
+
+so if you have an IRI feed that is an email to from, subject basically the entire header. 
+On IP communication it will be the IP header + tcp/udp if they can recognize it
+the content of communication means tcpdump, save everything, right?
+So this is three different ways of dealing with that.
+--big bubble--
+its all the fucking ISPs fault, the police just want it ?*mutrmru*
+
+This is far from complete but I liked it  because there are a couple of vendors.
+
+SS8 is as far as i know from israel, very intersting, because most of the configuration templates you'll find on the net are
+"ok im running an isp , im knowing my job ....
+How do I cponfigure LI?
+Imagine you have absolutely no clue on what you're doing and someone sends you a line of configuration for your cisco
+
+What do you think happens?
+CTRL-C, CTRL-V, sent
+
+so, not surprisingly ss8passwd is a very common password
+there's other vendors interestingly enough, I pointed out LI is a cost center
+Most LI vendors market their stuff ???? There's books on return off investment on Lawful Interception
+this is like the second case
+I would like to point out the number 3 to 5 are followed by AG meaning it's a German company
+Guess who is the biggest vendor in the world? *damnit* There's interesting features   some companies have that feature of IRI information is sent to you by fax. 
+Eh, excuse me? they have an addon that converts Voip calls into ISDN calls. 
+Let me think.... I can produce about 200k voip calls per ... minute? at home... 
+how many ISDN lines do you have.
+There's all kinds of interesting stuff
+Here's just a takeout from one of the vendors
+not necessarily one of … mentioned
+[slides]
+Includes optional granularity to preserve privacy.
+ok. so you rebuild myself out of legos
+
+it captures only the traffic …
+[slides] because thats all the traffic you should fucking get by legislation
+
+that's the only  fucking traffic you shoulf get by legislation
+it's operated by high speed …
+and *murmur*
+[slides] 
+core network
+replace that boat. So, this is what we are looking at
+what blew me away if you've known me for a while , 
+Cisco actually published their Lawful Intercept interface with the IETF, they made an RFC
+the IETF went like im not talking to you, yours responsible too? but wtf?
+Cisco is the only fucking vendor that does the right thing and has their LI interface peer reviewed
+parts of my world view starts to crumble on my left side. 
+But then I looked at it and I'm like... happy, because It's still cisco, auth is still a failure
+simply because the lawful interception has
+The question where do you send the traffic that you intercept - that happens on the mediation device
+happens on the router
+
+hm. thats it. this ist from the rfc, 
+
+the non technical interface. I assume by now that the LI function is web interface. 
+I wonder how. 
+In the center is the Mediation Device. So the Mediation Device talks to the (?) It talks to LEA, Metadata collection, so the rest happens there. 
+I apparently need to hurry up.
+
+Pictures speak faster than I do.  This is basically how it looks like
+
+[mumbling]
+I'm on slide 20 of 44 and 15 minutes left
+this model basically says it's snmpv3, that's common, well controlled
+everyone knows what they do.
+
+The thing is, everything you do is a single UDP packet. 
+
+the mediation device does all the ?
+and the router does only what it's supposed to do
+
+
+LI violates the single, basic design principle of the router, the pure basic principle.... 
+
+that means your porn looks like it's in the 80s
+
+everything is in the critical path,  
+and that is illegal? 
+
+Routers are not meant to looka t packets.
+the problem is every time they invent a new forwarding technique, a year later there's a Cisco advisory that Access Control Lists are not matched on this
+
+Every time they invent a new ... technique a [short time after] it goes
+
+oops . access control list lost. build on the fly, thsi ist a chat versionj who wrtoe whpom
+
+how do you protect that interface, authentication is actually required, no matter how stupid you are
+you can't configure SMPv3 for LI without authentication. .... 
+
+and theres a couple of other values you need.
+and thee's also access control lists for so called infrastructure so not everyone can talk to your SNMP.
+
+you cant als bind this to users goruous
+you can encrypt this nobody fucking cares
+we want to run network
+Then came IPv6 and thats a different story
+and there's notifications, it tells you when LI is going on, this is not ment for network operators . 
+this is ment to send for the Mediation device
+so counter terrorists win. that was the point, right? this is why we put it in place. 
+
+Now, just for educational purposes as a thought experiment.
+
+we're going to play the opposite
+the options that we have, is one do what every terrorist does, not using the internet.
+(applause)
+It took me a couple of years to realize that those mules are not actually transporting IP traffic.
+alternatively what we can do is use traffic that is not intercepted, detect interception, or take over things. 
+traffic not intercepted is not someting you have much to do much for
+Here's a couple of bugs that showed up. the 
+the lawful interception needs a license wait for expire
+and keep in mind this is something nobody fucking cares about.
+the VRF based interception, VRF is virutal routing framework, 
+basically if your company is like we don't need encryption because we have mpls. 
+virtual private network over the internet
+they are not encrypted, and even if they are. 
+
+so if $LIagency wants to listen to your traffic here they go
+The thing is keep in mind
+you should notice that this happens
+things break
+
+
+like minor things like policy based routing. 
+nobody uses that, server load balancing, whoever has a web form has never heard of it
+you know basic things, then LI in general is priritized over other feathures. 
+so other features that break are authorized ACL blocking(logging?)
+[slides]
+Other
+ features that break LI
+
+cause we build ACLs
+there's other ACL magic, what i like is, the
+bug reports makes a very honest statement
+IDS only sees intercept traffic nothing else...
+the funny thing is you're running a provider network, the someone gets monitored. 
+
+
+so basically all you need to do is 
+some{one?} gets intercepted
+you can do whatever you want. WTF.
+there is other things, right?  here's the cisco bug
+if you actually buy additional hardware. you put an addiotnal line card. in your access router.
+just so police can listen better to voip calls, and the result is, doesn't work anymore
+
+there's also there other bug, that i really like, that is
+SNMP communication doesn't work anymore. 
+and the work around i love,
+you may be able to restart your. [slides] SNMP manager to resynchronize
+doing so causes a 100% outage for all wiretaps [slides]
+
+if you cannot resatart the snmp manger there is no workaroun
+
+
+If you have a site wehres something interessingt is going on?d
+And now if you have so mauch failed ant theres hthe tendency for more
+so if you have so much fail
+If you have a site wehres something interessingt is going on?
+SSO NSF are major selling points. [slides]
+
+The thing is this doesn't support LI so if you have a switch over,. 
+
+all the taps are lost
+
+interestingly enough, if you cause a switchover, every router vendor in the world will tell you it isn't a security issue,
+as long as the other side took over.
+
+its not a security issue, its a LI issue.
+the domain name for bothe the
+router and the mediation device,
+I hope noone gets zone transfers from ISPs....
+and i defer to dan kaminsky to tell you what is wrong with that. 
+now size does matter, if she told you otherwise, she lied
+LEA holds the problem by requirement, they want to have the same bandwidth as you have
+
+not everyone does interesting things from home. 
+
+Theres people who have big pipes.... at work, there is interesting stories where the German poilce are intercepting
+
+where they're not saying like give me this http traffic. 
+We don't know what this guy does, give me everything. Then they call 10 minutes later and say:
+"WTF we only have a Pentium 1 turn that shit off"
+[applause]
+that's what i was trying to point out is a sensor network,
+somehow the vendors managed to negoitate, that's what you have obbyists for, top level load on the routers, 
+Nobody wants to pay the police to wtch you watchin porn
+so basically,
+Here's some examples [slides]
+you can only intercept 2% of the calls
+given the fact that running the voip gateway is a relatively cheap thing, 
+Find some other 8 people that generate interesting stuff
+there's also bandwidth problems,
+they really fucking hate you to mirror the world and then go partying. 
+
+
+And, the numbers do matters 
+there are other interception mechanisms that aren't cisco that are based on random sampling
+if you download enough documentaion, records of the talks this one little email is unlikely to be caught.
+then there is the compromised observer problem
+so basically you have
+Two IP stacks that need to understand what you are talking.
+combination of two recipients
+there's many different ways to fuck this ups
+so the anti virus soliton has no fucking idea what you're looking at and you get infected
+this is all langsec(?) so if you don't know what you're looking at
+fat fingers
+
+so what i sadi about code in the critical path, basically what it means is that the router
+
+The People at the router vendors try to get out of the LI code ASAP because the ISP is not liable for not intercepted packets 
+when they're not well defined. 
+so ipv4, cool let's go, IPv6, fine
+IPv5 is what i called a laser packet, lasers do not pass through prisms
+Take a laser, take a prism, try it. 
+
+[applause]
+i'm boring f--, sorry
+so what i try is take a regular packet stream and replace ipv4 with ip5
+[slides]
+what's funn is that there are a number of routers that forward it, and a number of recipients that respond to it.
+Doesn't make sense until you look on the entire OSI layer stack
+
+there is the number of protocols that hint at what is the transport protocl.
+
+example for thetrnet , IPv4 we all know, IPv6 I actually learned from a professor. 
+
+Why is IPv6 better at transporting porn? because its eightysix-double-D
+[applause]
+that's not my thing
+his respones as how else do you make the students remember.
+[laughs]
+so basically they take the ? from the ? protocol
+
+how do you get around intercepton. 
+Now one of the things ist what you just saw here
+But I'm skipping for time reasons
+to punt a packet
+hading the packet all the way up
+ to the main CPU the main cpu isnt there for the packets
+
+[slides]
+
+it's basically like when you have a company witha  couple hundred employees
+this is basically escallation where [problems go up the chain of command] at some point the CEO reboots, work gets handed off to medical people, this happens with ciscos as well. 
+
+the interception target can produce perfectly reasonable packets,
+
+I'm not a lawyer but this should actually be ?legal in germany. 
+this pushes the cpu to 100% load, like java
+there's a watchdog process on cisco when the cpu is hanging on 100% too long and reboots it.
+Consider the following: You have a partner, this is an embassy in London and you want to have a secure communication with him
+you traceroute to his IP address and sent about 10.000 packets, which is not a lot, and you traceroute again
+
+If the route changes, usually it's the first through 4th hop, there's an access router on an ISP rebootin, 
+You don't have to be fast, they actually take like 20 minutes to reboot
+[applause]
+
+now, if you come up with the ideal, well, lets take over the LI device.
+that's a really bad idea
+also windows 2000 or sun solaris 
+because theres pepole called compliance people.
+and you know, they hate you because their job is to watch the compliance of the device, and a root shells on that device is not good for compliance
+
+if you plan to attack the police
+forget it
+taking over the interception point being the router, well
+theres this bug from 2008 and routers are not commonly updated
+
+which you know takes SNMPv3, here's the MAC coming in, here's the MAC we have stored, we're allowed by RFC to compare subset
+
+nice if the packet says mac lenght is one, interestingly enough tom cross found out that all Cisco images except for most of the ones that have LI functionality which i s interestingl of itself. 
+
+but also SNMPv3 gives detailed feedback about authentication failures
+
+[slides]
+when we talk about the acls remember we talk about udp.
+so the best practice -- best common practices from providers is to n
+prevent spoofing from outside their network
+you're in their network, you're their customer. apparently peple have covered attacking? cisco before
+
+The German term is "Erledigung durch Zeitablauf" - so you're basically just waiting  for everyone else to put more interception code in
+
+So basically you're just waiting for. 
+
+I don't think anyone in the room is a terrorist unless they're paid for it. 
+this is what we're actually looking at
+nobody would hire a hacker first of all
+they smell funny and... they actually think about the mission they're sent on
+but you can actually make them do things, which is the big risk on this
+
+conclusions. first of all, routers should not parse packet paload.
+
+Conclusions:
+[slides]First of all, routers shall not parse packet payloads
+read the fucking manual
+this time start with the OSI model
+you're not allowed to parse anything except the ipv4 destination address
+slides]
+call me vback and I'll tell you about ipv6
+[slides]
+evading lawful interception seems to be about as hard as evading anti-virus
+In 2008 we had the race to zero, how long does it thake a virus to evade antivirus. 
+[slides]
+Just because some lobbyist told someone its a good idea when you can see that this guy is downloading that mp3
+
+weakening our --
+
+You will see when this guy downloads this MP3.
+
+disproportionate measure
+We don't even do this for any other criminal case, why would the bigger criminal cases, so how will the internet be different?
+
+("you *can* do it that way, but then it's shit")
+If you want to thank the person that gave this as a sticker to me, go to the info desk when (momo?) is there.
+I couldn't describe it better, my recommendation is. 
+how about we stop fighting and start fucking. 
+and with that, thanks for giving me the extra time
+[MUCH APPLAUSE]
+
+
+osi
+
+
+
+---this is the last line - scroll until you see it---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

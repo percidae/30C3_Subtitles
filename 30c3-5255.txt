@@ -1,0 +1,349 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk "Through a PRISM, Darkly" are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[ ] German 
+[ ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+this is going to be a talk by kurt opsahl who is an attorney at eff
+
+[applause]
+
+we're a civil liberties organization trying to defend your rights online
+
+we have learned a lot over that time
+
+i will talk a little about what we know about prism
+
+its origins etc.
+
+some which ware not authorized by law but just executive law. there are two different kinds.
+
+then i will talk about fighting back.
+
+after 9/11 pres. bush unleashed the full power the eye of sauron
+
+some of those constraints were from the original survailance act
+
+a subset of this program was later called the terrorist surveillance program
+
+the TSP was actually a tautology. it only surveillans terrorists, because anyone surveilled by TSP is per definition a terrorist
+
+the main inspiration came from the ... of sitting us companies sitting on top of the wire.
+...as you can see the very large wide orange lines are focussed on US and canada.
+a lot of lines would likes go through the US and canada because this is the most efficient path bandwidth wise
+
+they were doing this program so super secret, that evene NSA etc. wasnt allowed to see the legal reasoning behing it.
+
+there was an interesting incident 2004 where the acting attorney general refused...
+it was still too much.
+
+the process by which they didnt have it was not an accusition ... what you have to do to acquire things
+
+at that time the white house council was over his head because the other guy was in hospital.
+
+he tried to get the sick ... to sign it but he did not. they threatened to resign if the program was to continue with that particular aspect.
+
+it went on and there was a new theory, we never found out because people didnt go on to resign.
+
+this caused a lot of fuzz at the time, well there is a terrorist surveillance program. but.
+
+later they revealed the call-detail records programs.
+this is the ... were they ... verizon at&t
+in 2007 they said: ok we put it under FISA court.
+to bulk up some legal problems they passed the protect america act.
+2008: they passed fisa. which introduced some other changes.
+
+stellar wind. you can think of it as having 4 parts.
+telephony / internet
+content / metadata.
+
+this doesnt mean these ar ethe only things within theses databases
+
+other codenames:
+evilolive
+
+i like it because its a palindrome and an anagram for i love evil
+
+fascia is the location database of where you are, it seems to be a reference to the word fascism
+
+boundless was one of the databases that was revealed,
+its a heat map of where the sig addresses.
+
+adds up to billions of information.
+
+pakistan is in red, but as you can see there are a lot of countries that are considered to be us allies, for example germany with the same color as china (orange)
+
+wiretap act was the first law to regulate when government can listen phone lines
+it was from the 60s
+
+in the 80s there was electronic communications privacy act for email comm. etc.
+usa patriot act was after 9/11 when that was passing that was refereed to as ..
+
+revision at what could enable you to recheck what you checked out the library.
+
+another one was FISA about spying on non-american.
+
+executive order was signed by pres. regan. and its about laws passed by congress.
+
+finding about a splitter that was in room 641...
+
+mark klein showed how the cable went to original location and also to the NSA
+
+there was a leak causing a damage to the rest of fascility and they couldn't get someone to fix it because they didn't have clearance to enter the room
+
+so how much are they able to get by sitting on the wire
+the nsa says its not much only 1.6% of internet traffic
+but it turns out that is actually a lot
+12 is web traffic, indeed most is video streaming.
+
+even if we take there word, its 30 petabyte of internet traffic flow. but we know theres also phones etc.
+
+so where do they put this data?
+
+this is this new fascility in utah, about 100k ft^2 of server space
+
+are you familiar with way back machine? good service, they store alot of data.
+
+.... estimated that it would take ... to process the internet archinve, so what is the rest of this area? its your phone calls and the rest of your dta.
+
+john yoo is one of the .. architect said ...
+this is what they're trying to do.
+
+but how?
+by playing a little word game of what they do. holding without collecting.
+"they werent collecting"
+
+they later had to explain what that meant.
+
+they said: think about it as a library, "collecting" means taking the book of the shell. to me that is not what it means.
+
+when asked about how many americans data was they, he said: we cant know, because we havent looked at the data. and if we dont look at it it doesnt matter.
+
+when they are targeting something they are hitting a lot more than their target. one selector can mean a lot of information
+
+lets talk about FISAAA 702
+
+its designed to get a lot of comm. outside the USA. they have two sources that should both be used.
+
+upstream
+and then prism which involves collection through 702 orders
+
+it had some targeting and minimization rules.
+you have to be targeting foreigners, i.e. a 51% chance or more that you hit a foreigner. meaning if you have slightly better than coin toss chance. if theres no evidence against you, you can do it, if its encrypted you can keep the data
+
+this is the secure door you can see the handle ...
+
+for the first 20 years it was inside the departmet of justice, in the same building as the attorney to get orders of ... from, but that then seemed a little too much so they moved.
+
+[...]
+
+so that sounds like a lot of information, but hey, its just metadata
+pres. obama said: we're not listening to you calls, we're just collecting metadata
+
+let's look at some of these statements:
+they said we're not getting your identity, but it's possible that the NSA has
+access to a phone book...[laughter]
+
+no location information, yes not under this program but now it has been revealed
+that under another ...
+
+they had some legal cases in the FISA court where originally they said yep...
+"yeah ok relevant doesn't actually mean anything, so it's ok"
+you needed a warrant to go after people and surveille them with GPS
+
+when it came to an open court things were a little different. we have now had two
+hearings, one good, one bad. we now have one in court ... we hope that the right
+decision will be reached.
+
+actually, metadata matters a lot. if you just know when the talk is, who you're
+talking to, when etc. you already know a lot already, it might evey be more
+useful than listening to the content itself, because of mumbeling its unclear
+you have to parse it etc. and with metadata you have hard facts that can be more
+useful
+
+it suggests you use the least intrusive technique, but if something thats very
+intrusive is the least...ok use that. as long is in accordance with the procedures.
+
+hopefully at the 
+
+with the existance of the french and spanish telephone service...
+
+that wasn't enough, they also needed some info from the internet providers, we
+recently heard about the MUSCULAR program
+
+if some of you have been at the talks here you have seen this picture, where its
+indicated where the SSL can be turned off with the little smiling face, which will
+come back to haunt them
+
+the column on the left is for encrypting ... links they are a lot mor ethan ... 
+but some notable exceptions, the telcom providers have a lot of red marks and 
+won't be pushing too hard for additional encryption
+
+if people travel together and they don't like one of them, they don't like the
+other one. they look at speed and trajectory. if we look at celltowers here,
+we have a lot of new travelers they don't like anymore, sorry to say you are now
+all part of this program.
+
+if you are going to be switching to a new telephone leave the old telephone on
+and leave it somewhere because otherwise they pick up you new phone as yours.
+
+cellphones before merkel was the chancelor, they spied on at least 35 world leaders
+this is not only for spionage on adversary states
+
+anything having to do with foreign affairs in the US that means ...
+
+in order to get around SSL they own the router and then ...
+someone in the department is a fan of pink floyd album covers
+
+we also learned in the recent days about ...
+
+one of the ways in which they are targeting is using the google PREF cookie,
+anyone nowadays sees an ad
+
+once they have a target they use the quantum insert
+this is a diagram showing how the quantum insert works.
+
+get the tainted communication back to you and direct you to the foxacid server
+the foxacid server is now...
+
+if they think you're a sophisticated user they may not put a sophisticated attack
+on it because they are afraid you may find it and publish it.
+
+putting the pseudo in pseudorandom, there is some pretty horrible evidence that 
+... has been compromised and keeping it there
+
+it's allowing them to look at things which seem to be encrypted
+
+they were also very good after tor, they are going after the firefox bugs that
+is part of the tor browser bundle
+
+for example a javascript bug that could be target if you went on a freedom host.
+all people who did this had this bug and they were able to track them.
+
+it's very hard to tell the difference between a terrorist and an activist that
+use tor, but it's important to differentiate because activisits need to use tor.
+
+somebody mistyped a country code and it was deemed to be no big case because
+it was only metadata that was collected and therefore not abuse
+
+something rather amazing about the program: you can make a typo between 20 and 202
+without the program asking whether you are sure you mean it. very powerful for
+analysts.
+
+there were 10 incidents of self recorded misuse of powers in which people tracked
+their ex lovers, there were probably many more unreported
+
+people use radicalizers to try to find things about people to make their voice
+seem unimportant because of things they have done.
+
+...
+
+we have been looking at US law, there are two bills that have prominence
+one is a fake fix doing nothing about surveillance,
+the other is from ... which is actually trying to do something about the NSA which sounds hopeful.
+
+we are also pushing for 13 principles to be adapted by various legal systems against spying or rather talking about when it is apropriate.
+
+if you agree with these you can sign them online at necessaryandproportionate.net
+
+the OAS has been holding hearings...
+
+in addtion to the legal and policy efforts there are things we can do with technology. fighting their tech with better tech. on of these is https everywhere.
+
+there is a lot of things that still need to be done. make these technologies easy to use. people in this room surely can work on this, such that everyone can be using these techs.
+
+other things are adding security to disk drives etc.
+
+we need to shore up our crypto tools against sabotage such as by NIST, set up open source tools that people can trust
+[applause]
+
+there is a lot you can do. start by paying attention. absorb the information around you.
+
+also: vote! make sure your representatives push pressure on the government officials in the usa to stop spying as much.
+[laughter]
+well hopefully
+the economic pressure is really whats going to do it. we already see this happening.
+
+make sure these tools are used by everyone not only by targets. we should all use encryption all the time. transport layer is getting more commen, but end to end is still rare.
+
+build the tools you want to use, we could either have and distopian future or a bright one. so build the tools that enable the future you want.
+[applause]
+
+we still have time for questions
+
+Q: fighting for the rights of non-americans by EFF
+A: the project putting forth the 13 principles is a great example of that
+
+Q: when i read through the name of the cell phone tracking program:
+when mussolini started his program ... fascia...
+is it possible they used their knowledge on everyone and everything to choose people for management positons / political, because it allowed media manipulation
+
+the ... program spent ... $ on backdoors on ...
+keystrokes
+
+A: i have not seen evidence that the current program has been used to undermine people except the 6 people the case of the radicalizers
+looking back in history ... did get information about ... and is alleged to have used that information for the FBI... so this behavior certainly has existed but there is not currently evidense.
+
+concerning the hardware thing look at the earlier talk today.
+
+Q: how can censorship be detected on broadband connection?
+A: how would you know if you are going across broadband, that you are obtaining, what you are supposed to obtain, whether its different? the answer is: alternate channels. if you receive something different, you can detected it in this way. if they inject packets its designed to be sneaky and undetectable, so they won't do it in an obvious way.
+another way is that you may not get the information you need at all. use tor browser and encryption for that
+
+Q: wouldn't it be possible to just spam the nsa by having a demon on the computer that just sends out nonsense, and the nsa will have to record everything?
+A: i've seen these proposals. if you saw the size of the utah fascility, its enournous and DOS would take an incredible effort. much better: use https all the time.
+if you check out cryptowebreport, a couple of checkboxes were changed in the recent months.
+use as much encryption all the time as possible.
+
+Q: should one exclude windows products from all ... so they won't be able to sell it as a form of pressure? another form of pressure: should we all file criminal accusations in our local nations to see if ...??
+A: economic pressure is the most effective, the us govern. is concerened about the us companies. 8 internet companies signed a statement, that asked to stopped the spying because it hurt their services...
+these things will have a potent effect
+
+going after people criminally could work...there have been cases like this in the bush administration.
+
+Q:what do you think of efforts about gnunet to solve unencrypted by default?
+A: i'm not familiar with gnunet, by i think encryption by default is good. we should try to change the standards in that direction
+
+Q: you mentioned examples where legal things were waste...why do they even come up with these pseudo-legal excuses, whats all this legal framework for?
+my expectation is, the NSA does the stuff they do anyways?
+A: why play the word games? there are internal and external reasons.
+acquisition vs. collecting
+this was in order to defend themselves before congress such that the senator would think there is actually a difference....
+they are using these word games to be responsive without giving information
+the other reason is...there are still some good people even within government, and they need to see that it is legal because they believe in the rule of law even though they are amoral...you tell these people: we have this secret explanation and everything is good.
+
+the good news is, these people are now starting to see that what they are doing was wrong.
+they see that the oath they took respects privacy.
+
+thank you for the talk
+[applause]
+

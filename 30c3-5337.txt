@@ -1,0 +1,601 @@
+Kryptographie nach Snowden - Saal 2
+Rüdiger Weis
+
+
+
+
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk Kryptographie nach Snowden are supposed to be created  
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+
+The language is supposed to be: 
+[X] German  
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+currently trying to get people to fill empy seats.
+
+Good evening.
+
+
+Aus diesem Grund will ich, obwohls dramaturgisch nicht nacht dem Lehrbuch ist.
+
+
+
+Bruce Schneier hats irgendwie auch schöner und auch treffender formuliert...
+
+Als Hacker möge ich anmerken leider eine der wenigen übrig gebliebenen Freunde, die wir haben.
+
+
+Mathematiker können mit wenigen Codezeilen eine weitgehende Verschlüsselung ermöglichen
+
+
+
+Das ist der eine Punkt der uns ein bisschen besser dastehen lässt
+Der zweite Punkt ist mir weniger wichtig. Wir müssen schauen ob wir nicht trotzdem irgendwie hintergangen werden.
+
+Aus diesem Grund ist freie Software oder zumindest lesbarer Code notwendig.
+
+Wir leben in der Informatik in der schönen Welt, dass wir eigentlich nur die Dinge empfehlen können, die nichts kosten.
+
+Die zentralen Algorithmen die da an der Wand sind
+
+
+For example:
+
+Very nice color effects (slide) The alogrithm on the wall are very simple and elegant alogrithms.
+The key exchange is very easy. And this method is really easy to analyze. There is no stange paremeter. So, it ....  After snowden what happens.?
+After snowden what happens? it is a ... eclipse.
+So basically crypto wher iti is says it is promblematics it is problematic. but it is not yet broken.
+
+Mathematics still holds.  We need to .. 
+The basic definition of crypto is ... nmesis.  In crypto you always assume that there is a ttacker that can listen to every transmission. we also assume that the attacker .. has resources.
+This is the model that comes form the engineering pr...
+After snowden we know not only that they are listening to us but where there are listening to us (how they are listening to us)
+or
+in muy next lecture this is mye xample questions, giving the question value.
+the good news is this.
+the bad news is, here some annotations so for ten years i worken in crypto phone and there was a distinct 96000 bit s and ... 356 was enough. bit coin is using the same approach..
+and since we thought we had the permance .. twofish.. the good neews about excor .. the attacker has to break both algos  and not one. has to breaks aes and twofish to break the message.
+
+(audio goes out)
+
+slide is clear. usually id ont put such evidence , but i though required in this case. things were matrue crypto are badly broekn. so rc4 is a picture that is well loved.so this is due to the fact that rc4 is genirous and elegant and fast, doesnt require lost os of line of code and could be impletmented using a deck of cards .  very pretty encrytpion.  Why is it pretty? is it constutctute dina compeltley different other way than other algos.  (algo = algorithm)
+Several people have had succes with rc4 and dec 2013 (?) I was working in the morning and that nsa can listen in real time. and the question was hat can they break rsa ... but in real time breakage rc4. so i .....asked to int he printe dpaper,, the next day bruce snhnider was telling me that rc4 could be attackable.  this means that snhnider also see issues with rc4.  applebaum, 9kising?, Hesling removed ic4 from its sites. and now sites recomend not use rc4 and my sensitive soul is not interested int he exact details of this, not that i had factual info on this but educated guess.  
+
+one of the milestones that tor has switch from rc4 to aes and that i recommend that rc4 be completely disabled. and that is what the ... recommend.s...
+rc4 is just cheap and it costs reall money to implement aes.  i dont think this consipiracy that google did this on purpose but  the next point is the great hash massacre.  
+
+we should stop using these hash algos that can be broekn on paper.  md4 ... seems to be making things so elegant they are not safe. the nsa had i dont want to undervile the value of rivas but when someone does something elegant to make....   (im giggingling, lost train of speech)
+
+no bitcoind panic. security requirments of most sha2 ? is not immediate problem.
+Further, anacedote, the stuxnet anal shows that the nsa  attack md4 .. is better than what we know in our communicy   Clearlly..   (audio out)
+
+just to be mean, they showed it in a case that wasnt even really required.  it comes form the house of the nsa and constructed similar to md4 and sha1  . not broken but consturcted in similar way. and now we have sha3 competitiona nd it was constructed differenlty and the new standard to built it in a new way than sha2 .
+
+They are arguing about sh1 and sha2 . sha3 was a good competeiong, similiar to aes . one part was to show that there is no vector in the new algo.  my opion is that sha3 is the way of the futiure (audio out)   
+
+use sha3 with 500 bit lingh and sha the output (?)
+speaking aobut bitcoins again, ecliptict crytpo, a good curve.  ...
+ONe problem i see is quantum computing. sounds alien but rather short alog and usable using discrete algo prothem. if we have shorter key lengths we need smaller quantum computers . while qu computing sounds alien we know that nsa has huge amounts of money for q computers so key lengths are critical in the future.
+the folowing leaves me speechelss.  it is so trivial to not apply crypto in the right place but as a side note  .. simple add and subract can perform a attack against the disctrete algo problem , two .... random number. for that property for each sig we need strong random numbers, if we use the same number twice we get the secret key.  i could have elobarted more on that and showed the alogrithm in more detail but on the ccc sep23 they explan the algo in detail.  
+we are talking about crypt form 1997 all ? were known.   it is completley sufficeint to 
+....
+we can do those 5 lines of basic math and after that we get the key... super problem that we never want to have. ignored often when using this kind of crypto
+
+once agian, make the random number gen , you get the military grade secret , another point, the ule eliptic curve rnumber generator, no, i thought, its much sloewr.  then huge sign, this might be a vector.  Compare that ot buying a car, where th driver door is replace with another door but the key is stil there so you can pick oup the car.  It didnt take long, that someone came to conference and said, cant be true, must be a back door.
+unfortanately, he was not allowed to  (audio cut out) ...  was moved to a session (?_)
+
+Two problems, outragious, first tax money has been used for such a stupid approach and second that the researcher was not allowed to speak about the problem. It will take years or decades to rebuild the turst lost with such events.
+
+Sow e didnt make any changes to sha3 .  that is the impolite version.  fifa has shown that is has been tried and there were strong protests.  this left me sleeping better until dec 20 of this year when ... security inc. this random bit number gener was deafualt and now know 10 million dollars was...    anyone that has a clear mind ... (audio cut)
+;
+rca security inc now are no longer under the trustworhty.  they deserve reall scandal.  then all these token by rsa ...  (break)
+
+You can imagine as a electorenic tie, it doesnt do anything but it can be queried by the network to check the software and that could be a problem. we are renting out our computer systems by soemone we might not necessiarly trust.
+
+The intersting thing that eufi was disabled by microsfot. they can say they will stop working at ms . the reason was stargne. we will deactive something that hasnt been sued.  we think we can patch and ms wont work anymore (?)  
+
+Bruce Shneider says all these tech companies said all these tech companies cannot be trusted (ms, skype, nsa fbi)  It is not  .. (audio out)
+
+
+protocals that we are workking/hacking with for sec lectures.  anything that could be done wrong or how to formulate docutments, crypto errors, security programs through integration that is found in leased systems and the other check port and sec. problems in prodcution process.
+
+The standars issues , must or should on algos.  If a standard says dont use sha1, use it for a temp period.  the economic dept says we have a few million chips with sha 1 design and the controller will mjust be angry and then nag until these will be used in practice.  we are talking 2 euros per chip.  the things i talk about will save a few cents. for one thing they use ...audio out)
+
+for long time serciruty they are not feasible.  sha 1 i am not so... i googled an artice from 2005 or so and could have caught it myself what i'm quoting is my review to 2005 that is broken.  it was so broekn i wrote a funny review of it.
+the problems are practuically exploitable in the congress a few years ago. ohtes wrote on this , appleabaum etc.  
+
+this chip was soldiered in a smart card ... you get another layer added on to it.. something about attacking the chip from behind. in america you are not allowd to write backside attack (audio out) 
+
+just to save a few cents you compromise the chips.  not what is going wrong but what is wrong at this time.  sha1 is integrated and is not security.  the hardware security is gone. i understand it saves a few cents but it is a little work for hackers.  you can attack electricity and side timing.  
+
+so, here is a hcip that uses crypto, and the whole hacker will have access. how? you integrate into a network chip. here's the cripyo chip, hi. people can come by and see how its going.  
+
+again, when its delivered  (audio out)  this is exactly where you can .... another running gag. normally when there is a rcc chip you dont have miltiary strenght and you put a needle into the random number gen and if you have ecliptic algo then you can , and then gen random number and repeart and then you have the key.  consesensus you need need indpedpent chips, the standards was sha1 ,  ...  if you think ms is strange you just get locked out. this trusting computing thing is , yea they try it every ten years and we try to avoid it every ten years.  and they still try to (audio out)
+
+There was a hearing about trusted computing and microsfot tried to / was not happy that the germany govt warrant for trusted computing. they said we dont warrant but we wont use it. and everyone was happy. and i smiled.
+
+in the data shees in thepaper there wa information that you could shut it down. it said you couldnt turn it on by default but it is.  one should use modern crypto and things like anonymization but no there are not anymore.  with the ... we need..  code parts in microsoft things theuy can shut down , we should see if cocktail thing going on in ms hardware, .
+
+the rsa community says everything is right.  someone says we are working with nsa and that is great. and they forgot to remove it. 
+
+When companies work with windows 8, there is big .... lots of pressure.  If ms uses the broken random number gen. and if we try to chang eit to disasble it , they can say ah you tried to screw it so you cant use it anymore. thats not so nice and linux was something which should have been shut down for years (?) something which is also interesting, there might be some kind of hope if you look at the congress decision that the nsa avoid , neverless the legall situation, the firms are under pressure , there are some cool hackers, apple for example, did the cnatebury approach. they said we have no issues with nsa. there fore, they can not write we have an issue with the nsa.  but they cannot leagally challenge.
+
+This bit of trust is not being produced in usa but in china which is not great . do no misunderstand me. i dont want to say china spends the whole day spying but i dont give china in understanding in democracy (?)
+
+I have a paper all you key bits belong to us which was cited in nsa for back doorers, so i can say i publishe don crypto. i had a procedure that we are provably helpless.  we now know that millions of dollars are spend on sabatoging this software and hardware.  also, of course , developers that look in to this stuff. 
+
+It is helpful when you can look at the bits yourself. dodgy bits. 
+once again, math is amazing but code can be altered, but there is good news.  possible we dont need backdoors.  why?  (audio out)  
+
+jackpot.  you create a file on compuyter "all my keys"  and then you have that file then you have all the keys.  like it says on the sign 'all
+
+we do not check key generation. thats not all we want. at this point all the governtments need to verify and ( ) these procedures.
+lets move on to another thing
+crypto is so amazing if you master it, you can change rc4 and aes and realtime cultipbility of the nsa. you can do the same just turn of rc4 in your browser. you can come to another are where you can change alot iwth a single change.  a simple config.
+
+here we have a ( ) .. a nother issue in snowden situation.  (audio out)   if the govt get the key , it can get all clients past and future .  if you are in the state and you have a prodivder ., it is compeltlye proficient, can be one giuy , can be one evil guy and judge says, give us key and all info in now in open.  Lavait shows this.  Eiseier , if the judge says 'this is the death sentence of crypto'  Even more annoying, perhaps you remember this forward privacy issue, by fed law, was not to affect people past and future, and here also we can advise that the BSI sould use forward priccy issue in all privacy standards.
+....
+important to keep the pressure up.  As you would build a bridge. always put in a safety margin. dont always put in fancy shit but use what you know and what ..   4096  512 hash function, in this case not quite as important but  256k but 512 would be better.  it is amazing but doesnt help if you kcant check the code or hardware. you can have the best but if the vector transports the key then it is pointless.  i think crypto helps us find a defense but carry on discussions that represent the problem that this isnt the greatest ever but better than nothing.  john gillmore said years ago, encrypt just in case.  Finally, cyrpto science and research ahs addition protocals to     help humanity in good ways.          OTR is an example. For example, in this every remarks isnt recorded against you.  What people see is that matehmeticians have solutions. one of my fav pulbication talks about crypto sig and 1.6 billions procudures and now we just need solutions. please talk with cryptographers, they are happy . and can use their soluttions.
+
+Anonymous money and other issues.  Bitcoins is elegantly made but very simple. if we had crypto it could be amazing.  ......
+To make it short, many solution in the crypto place 
+
+Die Kryptoverahren sind Verfahren die relativ einfach zu durschauen sind.
+
+We assume the attacker has lots of ressources to try to decrypt messages.
+
+According to Vladimir Putin  cryptography is the second-oldest business in the world
+
+Snowden gave us insight where exactly messages are being monitored
+
+RC4 is broken and should not be used anymore, altthough it is still widely used
+
+
+
+
+Krypto wo die Wisschenschaft gewarnt hat, dass sie problematisch sind, sind problematisch.
+
+Wladimir PUtin hat gelästert, dass Kryptographie das zweitälteste Gewerbe der Welt ist.
+
+Warum? Eine der Hauptdefinitionen der Kryptographie ist: ...
+
+Ums ein bisschen zu formalisieren, wir gehen ind er Krpytographie davon aus, dass der Angreifer...
+
+
+Nach Snowden wissen wir als KRyptographen, nicht nur dassabgehört wird, sondern auch an welcher Kabelschnittstelle.
+
+Das ist alles hochinteressant, aber wissenschaftlich betrachtet nichta wieter als Fußnoten.
+
+<Applause>
+
+Das ist die gute Nachricht, die schlechte Nachricht ist... Vor genau 10 Jahren hab ich ein bisschen an der Kryptographie von KRyptophon mitgearbeitet.
+
+
+Wir hatten AES mit 256 Bit Schlüssen, weil wir damals der Meinung waren, wir haben noch ein bisschen Performance über...
+
+Diese einfach XOR  hat die nette eigenschaft, dass Angreifer beide verfahren brechen. 
+
+Wenn wir ander die SAchen kombinieren, dann muss man ein bisschen aufpassen...
+
+2013, 4096 hashfunktionen würde ich dazu neugen 512 bit gleich zu nehmen. 
+
+Also in "" nichts neußes, na ja nicht ganz...
+
+Normalerweise mache ich nicht soviel Multimedia, aber da wars mir...
+
+Warum? weil wir RC4 lieben, geben wirs offen zu. Es ist ein Geniestreich von ...
+
+Es ist ein genialer Geistesblitz, es sind unheimlich wenig Programmierzeilen. Man könnte es notfalls mit Spielkarten implementieren und es ist sehr viel hübscher.
+
+
+Und da war eigentlich die Forschun on so, dass sehr viel Leute...
+
+Kritisch wurde halt die Sache, als ich am 5. Sept. aus dem Bett geklingelt wurde... also für eine Interviewanfrage frühmorgens....
+
+Da habe ich nur ein Wort gehört, dass die NSA in Echtzeit mithören kann.
+
+NSA is capable of real-time cracking when RC4 is used according to many experts (i.e. Bruce Schneier).
+This is a conclusion based on the Snowden documents regarding the attacks against TOR
+Some other flawed algorithms are MD4, MD5, SHA1 
+Ron Rivest underestimated possible cracks against certain RSA challanges by a difference of almost 20.000 years
+The analysis of STUXNET gave insight that NSA has effective methods to crack MD4 based hash functions
+SHA2 is not officially cracked yet, but it was co-designed by NSA so it seems to be obscure as well
+As a result the successor algorithm SHA 3 is designed completely different than SHA 2
+as a recommendation SHA 3 with 512 bit length should be used in the future
+Elliptic curves have shorter key lengths and are easier crackable by quantum algorithms than RSA
+
+Another flaw is that ECC need strong random entropy to be secure ; a negative example is the PS3 console hack of 2010. Most embedded PRNGs are weak, because resources on embedded systems are limited
+
+According to Snowden the Dual Elliptic Curve Deterministic Random Bit Generator is flawed by NSA. It has a backdoor
+
+The lost of trust for a standardizing authority NIST has very negative impact for the cryptographic community
+
+This PRNG was used at the RSA Security toolkit as default generator; RSA Inc. was bribed with 10 million dollars by the NSA
+
+Microsoft has banned several UEFI secure boot modules from other companies. Systems using other products could possibly be prohibited from booting
+
+there are errors and uncertain recommendations in standard policy documents which are confusing for users ("should" use, "may" use etc.)
+
+the security problems of SHA1 have been clear for several years; 
+
+The integration of crypto functions in network chips is a bad idea which encourages remote hacking attack 
+
+With the upcoming of Windows 8 there are several security issues that Microsoft tries to get its hands at. 
+
+the TPM is the so called "dream chp" of the NSA
+
+if the business and administration set up a TPM infrastructure through Windows , US authorities could take over total control
+
+There is some hope that the current authorities in the US will change the law which will limit the posssibilities of NSA
+
+We know that NSA spends billions of dollars to undermine commercial vendors with backdoors.
+
+
+
+Only reliable solution: open source and open hardware
+
+Lavabit could the death sentence for US cryptography; US service providers are not reliable since they can be enforced by law enforcement to give the keys
+
+Cryptography is essential to save democratic rights
+
+Cryptographic solutions like digital money or elections could enrich our society
+
+Lots of new ideas are waiting to be implemented ;
+
+(APPLAUSE)
+
+Ich war dann hinreichend penetrant und habe dafür gesorgt, dass in der Endversion RC4 mithineingekommen ist...
+
+
+Wer die Kryptogemeinde kennt, weiß dass das schon eine recht positive Einschätzung ist.
+
+Und offensichtlich können wir jetzt sagen,d ass auch die Behörden sagen, es nicht mehr weiter zu benutzen.
+
+Es ist davon auszugehen, dass die NSA da einen Durchbruch hatte...
+
+Meine sensible Seele kommt mit den Sachen nicht klar...
+
+Das zweite was es unterstützt hat ist auch eine kleine Randsache. In den Snowden Dokumenten zu TOR ist ein Meilenstein...
+
+Ich gehe jetzt so weit, dass RC4 komplett deaktiviert werden sollte, also was ... auch sagt.
+DAs ist relativ weichti
+
+Nichtdestrotzt sollten sie schnell wegmigrieren von RC4.
+
+MD4 ist so kapuut, dass wir es mit Bleistift und Papier knacken können. 
+MD4 war auch ein Geistesblitz von Ron Riogez(?)
+
+Die lustigste Geschichte ist ja bekannt. RSA hat in Scientific American einen Wettbewerb ausgeschrieben...
+
+Also das schmälert in keiner Weise die Eleganz...
+
+Nochmal genau das macht Bitcoin. Bitcoin verwendet zwar SHA-2. ABer Bitcoin ist klug genug das zweimal zu machen. Alte Ingenieursweisheit, doppelt genäht hält besser.
+
+
+Noch eine kleine Sache: die Sicherheitsanforderungen...
+
+Allerdings schauen wir uns die Sache nochmal an.
+Die Analyse des Stuxnet Wurms hat darauf hingewisen, dass die NSA über Techniken verfügt...
+
+
+Da haben sie gezeigt, dass sie das besser können als die Kryptogemeinde im Moment.
+
+Insofern war des keine gute Idee da "rumzuposen",...
+
+Also es bricht nix, aber es ist genauso konstruiert.
+
+Wir ham gerade den SHA-3 Wettbewerb beendet und da war es ein Requirement...
+
+Irgendjemand von der Trusted Computing Group hat mir den Hinweis gegeben... Was machen sie nächstes Jahr? Über SHA-2 jammern?
+
+Vielen Dank für den Hinweise, gneau das werden wir tun..
+
+Ein Teil der Ausschreibung, dass kein Vektor drin ist in dem Verahren.
+Auch wenn es ganz neu ist das Verahren, SHA-3 ist der Weg in die Zukunft. Da wir generell vorsichtig sein sollten... Das ist die Sache die ich ad hoc empfehlen würde.
+
+
+Jetzt erschrecke ich noch ein zweites Mal. ECC Krypto wird in Bitcoin verwendet...
+
+Aber ich habe einige grundsätzliche Probleme mit eliptischen Kurven. 
+
+ECC und Quantencomputer ist sehr...
+
+Wenn wir jetzt geringere Schlüssellängen haben, brauchen wir...
+Nach Snowden wissen wir, dass die NSA erhebliche MIttel in die Quantencomputer steckt..
+Ich weise nochmal darauf hin, ECC hat kleinere Schlüssellängen und ist damit angreifbarer...
+
+Der 2. Punkt ist 'ne schöne Hackgeschichte, das ist wirklich ne Sache wo ich eigentlich fassungslos bin. Es ist...
+
+Ha, da ist noch eine Mulitplikation drin. Also es braucht wenige Zeilen um einen Angriff...
+
+Die ECC Kryptoverfahren basieren auf dem diskreten Log Verfahren. Bei jeder Unterschrift brauchen wir starken Zufall. 
+
+Falls dieser Zufall sich einmal wiederholt, fäll uns direkt der Schlüssel in den Schoß. 
+
+Weil bim 27C3 gab es einen Console Hacking Vortrag, wo die Konsole genau damit aufgemacht worden ist.
+
+Wir kriegen zwei Signaturen. Machen diese zwei Zeilen und ... Und das ist eine Grundeigenschaft von eliptischen Kurven...
+
+Nochmal wir gehen an den ZUfallsgenerator und sagen, dass er zweimal dieselben Sachen machen soll...
+...und dann tun uns die Schlüssel, die eigentlich... in den Schoß springen.
+Wer lieber die Hardware angucken will, kann nochmal den 27C3 Vortrag anschauen.
+Eliptische Kurben haben noch an einer anderen Stelle ein ganz ... Problem.
+Ne das muste Dir nicht angucken. Es war 100x langsamer als andere Verfahren... 
+Man kann sich Vorstellen, man will einen KLeinwagen kaufen und auf der Rückseite ist eine riesige STahltüre, die dafür sorgt...
+
+
+Da kann eine Backdoor drin sein.
+Des durfte auf so einer RAM Session kurz erzählt werden. Aber ein echtes Paper durfte daraus nicht werden.
+
+Also wirklich in einer Art und Weise, die mich fassungslos gemacht hat. Also es gibt 2 Skandale: Erstens...
+
+Problem nr. 2 ist dasss das NIST das aktzepiert hat. Und das ist dramatisch, da das NIST eine Orga ist die in der Informatik ein hohes Ansehen hat...
+
+Nur es ist schon auffällig... Sondern haben gesagt, "wir machen nichts was irgendwie verdächtig aussieht".
+
+Und dann hab ich schon wieder ein bisschen besser geschlafen. Bis 20. Dez. 2013. Bei Security Inc. 
+
+Nach Snowden wissen wir, dass da 10 Mio. Dollar geflossen isnd. Sollen Juristen das beurteilen, wie es zu beurteilen ist...
+Es ist hundertmal langsamer und stinkt aus allen Richtungen...
+
+RSA Security INc. ist auch nicht mehr unter den besonders verrauenvollen Firmen anzusiedeln
+
+Also nochmal, das sind Sachen vom 20. Dez. Man muss hier in den Vorträgen bis zum letzten Moment noch schreckliche Dinge einbauen.
+Kommen wir zu... Trusted Computing:
+Warum ist es in diesem Zusammenhang wichtig? Na ja, ich hab es ja schon mehrfach erläutert...
+
+Wir gucken rein, wir schaltens aus. Das geht unter Umständen nicht mehr, wenn MS seine Pläne umsetzt einen TPM Chip einzuben, der dafür sorgt, dass nur noch SW läuft die von MS...
+
+Die Anhänger von TC sagen, "es ist ein passives Gerät" es macht euch nichts...
+So ne elektronische Fußfessel ist auch ein passives Gerät, es beißt euch nicht ins Bein, aber....
+
+
+Genau dasselbe gibt es in der TC Welt. ... Und das könnte ein Problem sein... Wir tun praktisch eine Set Top Box in unseren Compuuter einbauen und tun Teile unseres Systems an Leute vermieten,, denen wir nicht vertrauen.
+
+Systeme mit dem aktivierten Secure Boot können damit nicht mehr Starten. MS kann von jetzt auf nachher sagen, ... könnnen von jetzt auf nachher beendet werden von MS.
+Die Begründungen, die nachher für's Deaktivieren gegeben wurden, waren ein bisschen schräg:
+Wir deaktivieren etwas was bisher gar nicht gentutz wurde.
+
+Jetzt ist die Frage: vertrauen wir diesen Firmen? Und Bruce Schneier... 
+
+Er hat es damals insbesondere auf MS bezogen...
+
+Insofern ist es keine gute Situation, wenn wir MS trauen müssen...
+MS von jetzt auf nachher entscheidet, eure anderen Konstruktionen booten jetzt einfach nicht mehr.
+
+Wenn man dieses Protokoll anguckt, damit ärgern wir uns auch schon 10 Jahre rum... 
+Ist ein prima Beispiel für Vorlesung Sicherheitsengineering,
+Weil was falsch gemacht werden konnte, wurde falsch gemacht.
+
+Es sind sehr ungenügende Sicherheitsparameter...
+
+Nämlich einmal die Sicherprobleme durch Integration...
+
+Und der große Hackerjackpot: nämlich ein Schlüsselherstellungsproblem biem Herstellungsprozess.
+
+Gehen wir nochmal auf die Standardsache ein, in den Standards steht irgendwie drin: ...
+
+Wenn in dem Standard drinsteht, benutzt kein SHA-1...
+
+Dürfen wir das alte weiterverwenden? Wir sollens nicht! Dürfen wirs weterverwenden?
+Das bedeutet, dass die dann in der Praxis natürlich benutzt werden. Übrigens kleiner running gag:
+
+Wir diskutieren über 2 Eur Kosten pro Chip.
+
+Es ist sehr beeindruckend: zum einen verwenden sie SHA-1, zum anderen...
+
+SHA-1 habe ich auch irgendwie wieder ungute Gefühle. Sei einem Jahrzehnt wurde gewarnt... Ich habe im Netz rumgegoogelt...und da habe ich meinen eigenen Artikel gefunden...
+
+
+Ums ein biscchen seriöser zu formulieren: die Probleme die da praktisch da sind...
+Da hat eine Gruppe, bei der auch Jacob Applebaum mitgemacht hat auf dem Congress vor 2 Jahren....
+Also wieder ein Running Gag.
+Aber jetzt zu den Hacker Freispielen.
+
+Dieser TPM Chip war normalierweise eine verlötete TPM Card.
+
+Ganz lustig, da wenn man in Amerika ein Paper hat, da darf man nicht "backside" Angriffe schreiben...
+
+
+Brauchen wir alles nicht mehr. Warum? Wir können ein paar Cent speichern, ...
+Diese meisten Dinger die im MOment draußen sind, da ist SHA-1 drin, es wird integriert...
+...dann hat man keine Hardwaresicherheit mehr.
+Das bedeutet der STarbuck muss nicht von der rückseite mit dem Elektronenschubser etwas abtragen...
+
+Aber wahrschienlich ist es auch nur ein ABM Programm für Hacker.
+Jetzt mal einen Quizfrage. Was wär denn die blödste Idee die wir machen könnnen?
+
+Naja, die blödeste Idee, die wir machen können ist: hier ist ein Chip, wir haben... und gibt es der ganzen Hackergemeinde...
+
+Wie macht man das? Richtig! Man integriert es in den Netzwerk CHIP. Halllo! da ist der Kryptochip!
+
+Hrrrrr! Nochmal es geht um das einsparen weniger Cents. Und das ist das was bei Windows 8 Tablets.
+
+Na ja, die ganz cleveren Leute machen das mit SoC. ... Kleiner Running Gag: wenn das ein SoC Chip ist, hat man in der Regel keinen militärisch starken Zufallsgeneartor.
+
+
+Das bedeutet Mathematiker sind jetzt wieder deutlich wichtiger geworden, um das zu erklären.
+
+Also, ist wirklich eine reale Siutation von Geräten die im Moment draußen sind. Es sit ein realer Konsens...
+
+Nix wie druff. Nochmal: es ist ziemlich wichtig, dass wir unsere eigenen Schlüssel haben. Wenn MS den SchWir können dann den Schlüssel nicht ersetzen.
+
+Gähn, dass haste doch vor 1ß Jahren schon erzählt.
+
+Ein guter Hacker hat natürlich die Möglichkeit in ihre anderen Vorträge das TC wieder reinzuschmuggeln.
+
+Kleiner Seelentröster war dann das Wirtschaftsministerium. Die haben ein Hearing stattfinden lassen zum Thema TC. MS hat die Zeit vergklagt, weil sie vor Windows 8 warnt.
+
+
+Jedenfalls, hat nachher das BSI gesagt: "nein wir warnen nicht. außer dass wir es selber nicht verwenden für Sicherheitssachen."
+
+Die PUnkte werden durchaus gesehen. IM Eckpunktepapier der Bundesregierung wird darauf gedrängt dass der Nutzer es ausschalten kann.
+
+Man müsste dann zeitgemäße Kryptographie machen. Es sollte datenschutzfreundlcihe Kryptographie da sein, da gab es erste Ansätze...
+
+Wir brauchen eine internationale KOntrolle des Herstellungskonzepts.
+
+Und wenn MS der Meinung ist, dass wir kein Linux auf Geräten booten lassen könnnen, dann müssen wir durchaus kartellrechtlich prüfen...
+
+Ja, in diesem ganzen TC Community, war auch die NSA drin und haben gesagt "ist ja alles ok".
+
+Haben eineige Leute leider vergessen da rauszuschmeißen.
+Wenn... dann ist das natürlich der Jackpot.
+Wir wissen, dass es massiven Druck auf HW Hersteller gab, Hintertüren einzubauen. Dei Firmen durften darüber nicht rechen, da gab es massiven Druck...
+
+Nur angenommen, MS würden diesen defekten NSA Zufallsgenerator zu verwenden...und wir sagen: "wir möchten das nicht" und ändern es, dann....
+
+Also nochmal, dieselbe Technologie, die verwendet werden kann um Würmer und Viren am ausführen zu hindern...
+
+Um mal eine bisschen nachdenklichere Seite anzusprechen: es ist ja erhebliche Kritik an den USA durchaus berechtigt.
+trotzdem gibt es denke ich, Rudimente der Hoffnung....
+
+Hochrangige Richter haben diese Prkatien für verfassungswidrig gehalten.
+trotzdem ist die Rechtslage momentan unakzeptabel, ist kafkaesk, die ... dürfen zB nicht darüber reden, dass die von der NSA unter Druck gesetzt werden.
+
+Die haben folgendes Geamcht: die haben einen Kanarienvorgel eingebaut in ihre Berichte.
+Aber die NSA kann nicht verhindern, dass die ausdrückliche Bekenntnis "wir haben keine Probleme mit der NSA" herausgestrichen wird.
+
+Und um nochmal weiterzulästern, der ganze Trost ist.... die werden nicht in den USA hergestellt sondern in China.
+
+Pfffff! Versteht mich net falsch, ich will jetzt nicht konstruieren,d ass China den ganzen Tag nur spioniert.
+Das bedeutet: wir haben ein Problem.
+Wir haben insbesondere ein Problem, weil diese BAckdoor Geschichte, nicht einfach ein Hobby von Kryptographen ist.
+
+Ich habe sogar ein Paper: all your key bits are belong to us.
+
+So ähnlich wie der Random Generator ovn der NSA. Wir wissen dass es Million Etat für diese Sabotage an HW & SW da ist.
+
+Und die einzige Lösung, die wir haben, ist lesbarer Quellcode, also sowohl im Bereich der Software, als auch der Hardware...
+
+Und natürlich aufmerksame Entwickler, die da reinschauen.
+
+Aber es ist notwendig, dass wir in den Code rienschauen.
+
+Insofern sit Freie SW da wirklich die Sache die wir anstreben sollen.
+
+Nochmal Mathe ist gut, aber Code kann beeinflusst werden, da...
+
+Im MOment werden die Kryptographen Schlüssel nicht auf dem Chip erzeugt, sondern übertragen.
+Entschuldigung, das ist ein Jackpot. ...
+
+Das ist im MOment, klingt völlig irre, die aktuelle Sache. Die Schlüsselgenerierung wird nicht kontrolliert! Man kann also sagen: gebt mal die DAtei her und dann ha man alle Schlüssel.
+
+Kommen wir nochmal zu einer weiteren interessanten Sache. Wenn ich das in der Vorlesung sag, sag ich immer mit einem leichten Grinsen, Kryptographie ist so toll, wenn sie das beherrschen, können sie durch das ändern von... die NSA Echtzeitabhörfähigkeit aushebeln.
+
+
+Wie ist die Situation wenn wir einen normalen Server mit Standardeinstellungen machen ...
+
+Dann haben wir folgende sPrblem. Wenn die Behörden an den Schlüssel herankommen, dann kann sie alle Kommunikation auf dem sErver von der Vergangenheit und Zukunft herankommen.
+
+
+Das Gericht sagt: gib uns mal den Schlüssel. Dann ist die gesamte Kommunikation aller Kunden offen. Bei Lavabit war die gesamte Kommunikation aller Kunden weg...
+
+
+Heise hat kommentiert, dass das Todesurteil aller Kryptographie ist.
+
+Die Sache ist um so ärgerlicher, als auch hier ein bisschen herumklicken hilfreich wäre. ... Wenn ein schlüssel aufgedeckt wird, soll nicht die gesamte Komm. ...
+
+Das ist die Lösung die die Probleme...
+
+Und das ist relativ wichtig: sowohl im Bereich PFS bewegen sich sowohl MS als auch Twitter.
+
+Kommen wir zu der Abshcließenden Emfpehlung: das ist relativ kurz: starke Kryptographie mit extra Sicherheitsspielraum.
+Wie wenn man eine Brücke baut: lieber mehr als nötig.
+
+Vielleicht einen alten Werkstoff nehmen den man versteht und davon ein bisschen viel
+
+Na ja, da ist mein Furor geringer als bei den anderen Dingen.
+
+Wer ein bisschen mehr Sicherheit haben will...
+
+Nochmal: Mathematik ist toll, Krypto ist toll...
+
+Das Prolbem ist...
+
+Ich kann die tollsten Kryptoverfahren...
+
+Wir brauchen lesbaren Code, besser noch freie SW die wir selber fixen können.
+
+Ich denke, Kryptographie hilft uns aber echt nicht nur bei der direkten Abwehr weiter. 
+
+Wir können viel diskutieren, dass Angriffe gegen SSL ...
+
+NIchtsdestorotzt ist es aber besser als gar nichts zu verschlüsseln.
+
+Lieber mal auf Verdacht vershclüsseln, als unverschlüsselt zu kommunizieren.
+Werkzeuge, wie https everywhere von der EFF ermöglichen es, dass es...
+Und: kryptographische Forschung hat noch ein paar weitere Protokolle.
+
+Ein Bsp.: OTR ist ein Prototkoll
+Aber nicht jede dumme Bemerkung gleich vor Gericht zerren kann
+
+Ich glaube wenn wir uns heute überlegen, was wir ...
+Allgemein LIeblingsdoktorarbeiten...
+Ich hab also 1,6 Mio. Lösungen, ich brauche jetzt noch Probleme dazu.
+Mein Apell: redet ein bisschen mehr mit den Kryptographen.
+
+Schauen wir uns an: kryptographische Lösungen, wie digitales Geld und ... können eine Bereicherung darstellen.
+
+Digitales Geld Bitcoin: ich sags ja nur ungern... Wenn man hier noch ein bisschen ..
+
+Auch so sachen wie Liquid Feedback, also anonyme Wahlen...und so weiter, wären wichtig mal zu integrieren. 
+
+
+Auch von der Kryptoseite wurde das seit zwei Jahren angeboten...
+
+#Kurz viele Ideen......und ich denke, die Zeit drängt. Gestalten wir den digitalen Raum selber.
+
+Vielen Dank für Eure Aufmerksamkeit!
+
+Q&A
+Q1: I know there are two questions from the Internet. There is a problem with the mic.
+A1:
+
+Q2:
+A2:
+
+Q3:
+A3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

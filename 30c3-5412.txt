@@ -1,0 +1,163 @@
+Welcome to the Subtitles Pad, nice to see you here! 
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+  
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+
+The language is supposed to be: 
+[ ] German 
+[X ] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Andreas Bogk, 27-12-2013, 30c3 talk
+
+use a safe language, not c
+mitigations: aslr: dep, stack canaries
+
+memory debugging tools for c:
+- valgrind : link debug version of your program to valgrind.
+- most recent versions of gcc and llvm ship with memory sanitizer
+- SAFEcode
+- ccured
+- safeG
+- cyclone
+
+in the old days, you would...
+
+these days, you have a read vulnerability. cards of memory etc.
+circumvent aslr by reading the correct place
+use heap spraying; javascript creates gazillions of copies all over memory
+
+EIP
+making the stack not-executable seemed to be a solution until 'return oriented programming' : 
+   jumping to your own space ->  
+chaining stack frames in the buffer you write ->
+jump to that small place which should be executable anyway
+
+so, stack canaries
+unfortunately, solution for that is also not 100% safe
+example on a cisco: echo request which says its 500 bytes long but its smaller
+
+linux would choose magic value of zero as a stack canary
+glibc does it wrong: dietlibc does it right :)
+
+
+how to detect buffer overflows:
+1) object based approach
+    for every address in your address space, you know whether it is valid or not (valgrind keeps a shadow memory for this)
+    but then, you don't detect everything (example with variable as array index here)
+2) pointer based approach (ccure for example)
+    pointer represented by pointer value, base, bound ('fat pointer' because of pointer arithmetic in c)  
+
+meet SoftBoundCETS (there also was a hardbound project once)
+
+softbound=spatial safetiy
+cets = compiler enhanced temporary safety
+uses disjoint fat pointers.
+university of pennsylvania
+
+valgrind makes program 20% slower, but you can't ship it like that
+To remove compatibility problems with fat pointer: use shadow memory to keep fat pointer information.
+
+advantages: source compatibility is kept. everything covered in memory, supports separate compilations (libs), low overhead.
+makes your code half as fast as it used to be. 
+but people also use ruby :)
+
+void check(ptr,base,bound,size) {
+  if ((ptr<base)||(ptr+size>bound)||(ptr+size<ptr)) { abort(); 
+
+}
+}
+The above is wrong, you should be laughing now
+
+ptr=malloc(size);
+ptr_base = ptr;
+ptr_bound = ptr+size;
+if(ptr==NULL) ptr_bound = NULL;
+
+newptr=ptr+index; // or &ptr[index]
+newptr_base=ptr_base;
+newptr_bound=ptr_bound;
+
+struct { .. int num .. } *n;
+..
+p= &(n->arr[2]);
+p_base=max(..)
+
+but from here, it gets interesting.
+
+int** ptr;
+int*  new_ptr;
+
+check(ptr, ptr_base, ptr_bound, sizeof(*ptr)) {
+
+newptr = *ptr;
+newptr_base  = table_lookup(ptr)->base;
+newptr_bound = table_lookup(ptr)->bound;
+
+storing metadata;
+
+(*ptr) = new_ptr;
+table_lookup(ptr)->base  = newptr_base;
+table_lookup(ptr)->bound = newptr_bound;
+
+You can do the stuff above with a hashtable, but that is expensive. Shadow space? Heap?
+
+
+Loose Ends...
+- global variables
+- separate compilation and library code
+- memcpy()
+- function pointers
+- createing pointers form integers
+if you cast an integer to a pointer, compiler complains.
+XOR to pointers could generate a doubly linked list with only 1 pointer field; these tricks don't work
+- arbitrary cast and unions need to be treated right
+- ..
+
+Temporal allocation
+passing fat pointers around
+ptr = malloc(size)
+lock : address in memory
+lock : address in memory
+memory that holds the lock is reset to zero
+
+chck:
+if (ptr_key != *ptr_lock_addr)
+{ abort(); }
+   apparently i didn't call free on that pointer yet.
+
+value = *ptr;
+
+I made a few contributions myself:
+
+- introduced two function attributes to control instrumentation process
+- ported softboundcets to freebsd
+- instrumented freebsd libc and executable startup code
+- deleted ton of now useless wrappers.
+Goal: build all of freebsd world with safe memory access. Proof-of-Concept of this succeeded!
+
+There actually were some ifdefs for Linux: did the user enable optimization or not?
+
+

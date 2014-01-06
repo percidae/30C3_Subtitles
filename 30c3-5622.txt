@@ -1,0 +1,310 @@
+The translation of the talk in here is finished!
+Please help review the subtitles here:
+http://www.amara.org/en/videos/eBoWzGWkTn2Z/info/?tab=video
+
+
+Welcome to the Subtitles Pad, nice to see you here!  
+ 
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words!
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+ 
+Please recruit as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+ 
+Thank you very, very much for your help!
+ 
+percidae (Barbara) from the VOC team
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen!
+ 
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden.
+ 
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+ 
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen.
+ 
+Vielen, vielen Dank für deine Mithilfe!
+percidae (Barbara) vom VOC Team
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk '30c3 Keynote' are supposed to be created  
+ 
+30c3 Keynote
+Glenn Greenwald, frank
+2013.12.27
+20:00
+ 
+ 
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+
+The language is supposed to be:
+[ ] German
+[X] English  
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+Video:
+CCC-TV: http://media.ccc.de/browse/congress/2013/30C3_-_5622_-_en_-_saal_1_-_201312271930_-_30c3_keynote_-_glenn_greenwald_-_frank.html
+
+YouTube: https://www.youtube.com/watch?v=gyA6NZ9C9pM
+
+MP3: 
+http://mirror.netcologne.de/CCC/congress/2013/mp3/30C3_-_5622_-_en_-_30c3_keynote_-_glenn_greenwald_-_frank-direct.mp3
+
+https://archive.org/details/Greenwald30C3
+
+soundcloud:
+https://soundcloud.com/dlf-wissenschaft/keynote-glenn-greenwald-30c3
+
+html and txt version of this transcription on the Internet Archive:
+https://ia601200.us.archive.org/30/items/Greenwald30C3/30c3-keynote-trans.html
+https://ia601200.us.archive.org/30/items/Greenwald30C3/30c3-keynote-trans.txt
+
+
+other transcriptions:
+https://piratenpad.de/p/30c3-keynote
+https://github.com/poppingtonic/greenwald-30c3-keynote/blob/master/transcript/transcript.md
+
+TODO: place other recording links here, too .. , 
+Please, if you watch the video and can complete the transcript, *please* do so. There are many people out there who need the transcript to watch the video. Thank you!
+
+======================================================================
+
+Announcer: "There is one seat left over... there! [laughter from audience] For the first time, this room is FULL! I don't believe it, we killed the CCH in the second year. So, how many people do you think are here? Who thinks 7000? (..) 7500? (..) 8000? (..) 9000? (..) Who thinks we are over 10000? We are now over 6000 now in this hall, at the same spot. Isn't that amazing? Have fun and Frank will take over from here now."
+
+Frank: "We could play some audience games of course, while waiting for some IP-based connection going up. As you may have heard, we would really have liked to have Glenn Greenwald the Keynote speaker in person here, but the circumstances surrounding his work make it a little bit difficult. So we have him here on a video transmission from Sao Paulo, oh no that's not true, from Rio for a keynote for 40/45 minutes and then about 15/20 minutes time for questions."
+
+Announcer: "I forgot something, sorry for that. For everybody who is not a native English speaker; Ja Stimmt eigentlich gilt das nur für die Deutschen also kann ich auch auf Deutsch sprechen. Macht sonst wenig Sinn das sehe ich ein. Für jeden der des Englischen nicht 100%ig mächtig ist, hat sich das Übersetzungsteam gedacht, anstatt wie bisher vom Deutschen ins Englische zu übersetzten, dieser Talk wird simultan vom Englischen ins Deutsche übersetzt. Und man kann sich das Ganze unter 8011 anhören. Einen Riesenapplaus für die Übersetzter."
+
+19:30 Glenn comes into the Skype screen.
+
+
+30C3: 30th Chaos Communication Congress
+================================
+
+Keynote speech by Glenn Greenwald
+------------------------------------------------------
+
+**Frank Rieger**: *So, that was your applause Glenn. Welcome for the keynote of the 30th Communication Congress in Hamburg. The floor is yours.*
+
+**Glenn Greenwald**:
+Thank you, thank you very much. And thank you to everybody for that warm welcome and thank you as well to the congress organizers for inviting me to speak. My reaction when I learned that I had been asked to deliver the keynote to this conference was probably similar to the one that some of you had, which was: 'Wait, what?' And, you know the reason is that my cryptographic and hacker skills are not exactly world renowned. The story has been told many times, how I almost lost the biggest national security story in the last decade at least because I found the installation of PGP to be insurmountably annoying and difficult...
+
+[audience claps]
+
+... There is another story that's very similar that illustrates the same point that I actually don't think has been told before, which is: Prior to my going to Hong Kong I spent many hours with both Laura Poitras and Edward Snowden trying to get up to speed on the basics of security technology that I would need in order to report on this story, and they tried to tutor me in all sorts of programs and finally concluded that the only one at least at that time, for that moment that I could handle was TrueCrypt.
+
+And they taught me the basics of TrueCrypt and I went to Hong Kong and before I would go to sleep at night, I would play around with TrueCrypt and I kind of taught myself a couple of functions that they hadn't even taught me and really had all this sort of confidence and on the third or fourth day I went over to meet both of them and I was beaming with pride and I showed them all the new things that I had taught myself how to do on TrueCrypt and I pronounced myself this "cryptographic master" that I was really becoming advanced; and I looked at both of them and I didn't see any return pride coming my way. Actually what I saw was them trying very hard to avoid rolling their eyes out of their head at me to one another. I said 'Why are you reacting that way? Why isn't that a great accomplishment?' And they sort of let some moments go by and no one wanted to break it to me and finally Snowden piped in and said: 'TrueCrypt is really meant for your little kid brother to be able to master, it's not all that impressive.' And I remember being very deflated and kind of going back to the drawing board.
+
+Well, you know: That was six months ago. And in the interim the importance of security technology and privacy technology has become really central to everything it is that I do. I really have learned an enormous amount about both its importance and how it functions. And I'm far from the only one. I think one of the most significant outcomes of the last six months, but one of the most underdiscussed, is how many people now appreciate the importance of protecting the security of their communications. If you go and look at my inbox from July, probably 3% to 5% of the emails I received were composed of PGP [Pretty Good Privacy] code. That percentage is definitely above 50% today and probably well above 50%.
+
+When we talked about forming our new media company we barely spent any time on the question, it was simply assumed that we all are going to use the most sophisticated encryption that was available to communicate with one another and I think most encouragingly whenever I'm contacted by anyone in journalism or activism or any related fields, they either use encryption or are embarrassed and ashamed that they don't and apologize to me for the fact that they don't and vow that they are soon going to. And it's really a remarkable sea-change even from the middle of last year when I would talk to some of the leading national security journalists in the world who are working on some of the most sensitive information and virtually none of them even knew what PGP or OTR [Off-the-Record Messaging] or any other of the leading privacy technologies were, let alone how to use them. And it's really encouraging to see this technology spreading so pervasively. I think that this underscores an extremely important point and one that gives me great cause for optimism.
+
+I'm often asked whether I think that the stories that we've been learning over the last six months and the reporting and the debates that have arisen will actually change anything and impose any real limits on the US surveillance state. And typically when people think the answer to that question is yes, the thing that they cite most commonly is probably the least significant which is that there's going to be some kind of debate and our representatives and democratic government are going to respond to our debate and they are going to impose limits with legislative reform, none of that is likely to happen. The US government and its allies are not going to voluntarily restrict their own surveillance powers in any meaningful way. In fact the tactic of the US government that we see over and over again, that we've seen historically, is to do the very opposite which is, when they get caught doing something that brings them disrepute and causes scandal and concern, they're very adept at pretending to reform themselves through symbolic gestures, while at the same time doing very little other than placating citizen anger and often increasing their own powers that created the scandal in the first place. 
+
+We saw that in the mid 1970s when there was serious concern and alarm in the United States - at least as much there is now if not more so -  over the US government surveillance capabilities and abuse. And what the US government did in response is they said: ‘Well we're going to engage in all these reforms that will safeguard these powers. We're gonna create a special court that the government needs to go to get permission before they can target people with surveillance.’ And that sounded great but then they created the court in the most warped way possible. It's a secret court where only the government gets to show up, where only the most pro-national security judges are appointed and so this court gave the appearance of oversight when in reality it's the most grotesque rubber-stamp that is known to the western world. They almost never disapprove of anything. It simply created the appearance that there is judicial oversight. They also said we are gonna create congressional committees, the intelligence committees, that are gonna have as their main function overseeing the intelligence committees and making certain that they no longer abuse their power and what they did instead was immediately install, the most servile loyalists of the intelligence committees as head of this "oversight committee" and that has been going on for decades and today we have two of the most slavish pro NSA members of congress as the head of these committees who are really there to bolster and justify everything and anything the NSA does, rather than engage in real oversight. So again it's designed to prettify the process while bringing about no real reform. And this process is now repeating itself: You see the president appoint a handful of his closest loyalists to this independent White House panel that pretended to issue a report that was very balanced and critical of the surveillance state, but in reality introduced a variety of programs that at the very best would simply make these programs slightly more palatable from a public perspective and in many cases intensify the powers of the surveillance state rather than reining them in any meaningful way.
+
+So the answer to whether or not we gonna have meaningful reform, definitely does not lie in the typical processes of democratic accountability that we are all taught to respect but they do lie elsewhere. It is possible that there will be courts that will impose some meaningful restrictions by finding that these programs are unconstitutional. It's, I think, much more possible that other countries around the world who are truly indignant about the breaches of their privacy security will band together and create alternatives either in terms of infrastructure or legal regimes that will prevent the United States from exercising hegemony over the internet or make the cost of doing so far too high. I think even more promising is the fact that large private corporations, internet companies and others will start finally paying the price for their collaboration with this spying regime. 
+And we've seen that already when they've been dragged into the light and finally now are forced to account for what it is that they are doing and to realize that their economic interests are imperiled by the spying system, exercising their unparalleled power to demand that it be reigned in. I think all of those things are very possible as serious constraints on the surveillance state.
+
+But I ultimately think that where the greatest hope lies is with the people in this room and the skills that all of you possess. The privacy technologies that have already been developed, the Tor Browser, PGP, OTR and a variety of other products are making real inroads and preventing the US government and its allies from invading the sanctity of our communications. None of them is perfect. None of them is invulnerable.
+
+But they all pose a serious obstacle to the US governments ability to continue to destroy our privacy and ultimately the battle over internet freedom, the question of whether or not the internet will really be this tool of liberation and democratization or whether it will become the worst tool of human oppression in all of human history will be fought out, I think, primarily on the technological battlefield. The NSA and the US government certainly knows that. That's why Keith Alexander gets dressed up in his little costumes, his dag jeans and his edgy black shirt and goes to hacker conferences.
+
+[applause]
+
+It's why corporations in Silicon Valley like Palantir Technologies spent so much effort depicting themselves as these kind of rebellious pro civil libertarian factions as they spend most of their time in secret working hand in hand with the intelligence community and the CIA to increase their capabilities because they want to recruit particularly younger brain power onto their side, the side of destroying privacy and putting the internet to use for the world's most powerful factions. What the outcome of this conflict is, what the internet ultimately becomes really is not answerable in any definitive way now. It depends so much on what it is that we as human beings do. One of the most pressing questions is whether people like the ones who are in this room and the people who have the skills you have, now and in the future will succumb to those temptations and go to work for the very entities that are attempting to destroy privacy around the world or whether you will put your talents and skills and resources to defending human beings from those invasions and continuing to create effective technologies to protect our privacy. And I'm very optimistic because that power does lie in your hands.
+
+[applause]
+
+I want to talk about another cause of optimism that I have, which is that the pro-privacy alliance is a lot healthier and more vibrant; it's a lot bigger and stronger than I think a lot of us - even who are in it - often appreciate and realize. Even more so, it is rapidly growing. I think inexorably growing.  
+
+I know for me personally, every single thing that I have done over the last six months on this story, and all of the platforms I've been given like this speech and the honors that I've received, the accolades that I have been given, are ones that I share completely with two people who have been critically important to everything that I have done. One of them is my unbelievably brave and incomparably brilliant collaborator, Laura Poitras.
+
+[ applause ]
+
+Laura doesn't get a huge amount of attention, which is how she likes it, but she really does deserve every last recognition and honor and award because although it sounds cliché it really is the case that without her none of this would have happened. We have talked every single day actually over the last six months. We have made almost every decision, certainly every significant one, in complete partnership and collaboration and being able to work with somebody who has that high level of understanding about internet security, about strategies for protecting privacy has been completely indispensible to the success of what we've been able to achieve. And then the second person who has been utterly indispensible and deserves every last accolade to share in every last reward is my [word missing: 14:46] source Edward Snowden. 
+
+[applause]
+
+[15:00 on mp3]
+
+It is really hard to put into words what a profound effect his choice has had on me, and on Laura, and on the people with whom we have worked directly and on people with whom we indirectly worked and then millions and millions of people around the world. The courage and the principle act of conscience that he displayed will shape and inspire me for the rest of my life and will inspire, I'm convinced, millions and millions of people to take all sorts of acts that they might not have taken because they have seen what good for the world can be done by even a single individual.
+
+[applause] 
+
+I think it's so important to realize; and this to me is the critical point, is that none of us, the three of us, did what we did in a vacuum. We were all inspired by people who have done similar things in the past. I'm absolutely certain that Edward Snowden was inspired in all sorts of ways by the heroism and self-sacrifice of Chelsea Manning.
+
+[applause] 
+
+And I'm quite certain that in one way or the another she, Chelsea Manning was inspired by the whole litany of whistleblowers and other people of conscience who came before her to blow the whistle on extreme levels of corruption, wrongdoing and illegality among the worlds most powerful factions; and they in turn where inspired, I'm certain, by the person who is one of my greatest political heroes, Daniel Ellsberg, who did this forty years ago.
+
+[applause] 
+
+And even beyond that, I think it is really important to realize that everything that has been allowed to happen over the last six months and I think any kind of significant leak and whistleblowing of classified Information in the digital age both past and current and future owes a huge debt of gratitude to the organization which really pioneered the template, and that is Wikileaks.
+
+[applause] 
+
+We didn't completely copy to the letter the model of Wikileaks; we modified it a little bit just like Wikileaks modified what it has decided were its best tactics and strategies as it went along. And I'm sure people who come after us will modify what we have done to improve on what we have done and to avoid some of our mistakes and some of the attacks that have actually been successful.  But I think the point that is really underscored here and it was underscored for me probably most powerfully when Edward Snowden was rescued from Hong Kong from probable arrest and imprisonment for the next 30 years by the United States, not only by Wikileaks but by an extraordinarily courageous and  heroic woman, Sarah Harrison. 
+
+[applause]
+
+There is a huge network of human beings around the world who believe in this cause and not only believe in it but are increasingly willing to devote their energies and their resources and their time and to sacrifice for it. There is a reason that's remarkable and it kind of occurred to me in a telephone call that I had with Laura, probably two months or so ago, although we've communicated every day, we've almost never communicated by telephone and one of the few exceptions was, when we were going to speak to an event at the Electronic Frontier Foundation (EFF) and we got on the phone the night before to sort of talk about what ground she would cover and what ground I would cover. 
+
+And what she said to me is, you know it's amazing if you think about it and she went through the list of people who have devoted themselves to transparency and the price that they have paid. And she said: 'Edward Snowden is stuck in Russia, facing 30 years in prison, Chelsea Manning is in prison, Aaron Swartz committed suicide, people like Jeremy Hammond and Barret Brown are the subject of grotesquely overzealous prosecutions by virtue of the action of transparency they've engaged in, even people like Jim Risen who is with an organisation like the New York Times, faces the possibility of prison for stories that he has published.' Laura and I have been advised by countless lawyers that it is not safe for us to even travel to our own country. And she said: 'It's really a sign of how sick the political theatre has become that the price for bringing transparency to the government and for doing the job of the media and the congress that they are not doing is these extreme forms of punishment.' She was right and she had a good point and I had a hard time disagreeing with her, and I don't think anybody would. But I said, you know, there actually is another interesting point that that list revealed: The thing that is so interesting to me about that list, is that it is actually as long as it is and it keeps growing. And the reason why that's so amazing to me, is because the reason that people on that list and others like them, pay a price is because the United States knows that it's only hope for continuing to maintain it's regiment of secrecy behind which it engages in radical and corrupt acts is to intimidate and deter and threaten people who are would-be whistleblowers and transparency activists from coming forward and doing what it is they do by showing them that they can be subjected to even the most extreme punishments and there is nothing anybody can do about it. 
+
+And it is an effective tactic. It works for some people. Not because those people are cowardly but because they're rational. It really is the case that the United States and the British government not only are willing but able to essentially engage in any conduct, no matter how grotesque, no matter how extreme, no matter how lawless with very little opposition that they perceive is enough to make them not want to do it. And so there are activists who rationally conclude that it's not worth the price for me to pay in order to engage in that behaviour. That's why they continue to do it.
+
+But the paradox is that there are a lot of other people. I think be even more people who react in exactly the opposite way. When they see the US and the UK government showing their true face, showing the extent to which they are willing to abuse their power, they don't become scared or deterred - they become even more emboldened.
+
+And the reason for that is that when you see that these governments are really capable of that level of abuse of power you realize that you can no longer in good conscience stand by and do nothing. It becomes an even greater imperative view to come forward and shine light on what they are doing and if you listen to any of those whistleblowers or activists they will all say the same thing: it was a slow process to realize that the actions in which they were engaging were justified but they were finally convinced of it by the actions of these governments themselves and its a really sweet irony. And I think it caused serious optimism that it is the United States and its closest allies who are sowing the seeds of dissent and fueling the fire of this activism with their own abusive behaviour.
+
+Now speaking of the attempt to intimidate and deter and alike, I just want to spend a few minutes talking about the current posture of the US government with regard to Edward Snowden. It's become extremely clear at this point that the US government at the highest levels on down is completely committed to pursuing only one outcome. 
+
+And that outcome is one where Edward Snowden ends up spending several decades - if not the rest of his life - in a small cage, probably cut off in terms of communication from the rest of the world. And the reason why they are so intent on doing that is not hard to see. It's not because they're worried that society needs to be protected from Edward Snowden and from him repeating these actions. I think it's probably a pretty safe bet that Edward Snowden's security clearance has more or less permanently revoked. 
+
+[laughter] 
+
+The reason they're so intent on it is because they cannot allow Edward Snowden to live any sort of a decent and free life because they're petrified that that will inspire other people to follow his example. and to be unwilling to maintain this bond of secrecy, when maintaining that bond does nothing but hides illegal and damaging conduct from the people who are most affected by it.
+
+What I find most amazing about that is not that the United States government is doing that. That is what they do. It's who they are. What I find amazing about it is that there are so many governments around the world, including ones that are capable of protecting his human rights and who have been the biggest beneficiaries of his heroic revelations who are willing to stand by and watch his human rights being crushed and be imprisoned for the crime of showing the world what's being done to their privacy. 
+
+[applause] 
+
+It has really been startling to watch governments including some of the largest in Europe and their leaders go out in public and express intense indignation over the fact that the privacy of their citizens is being systematically breached and genuine indignation when they learn that their privacy has also been targeted. 
+
+[laughter, applause] 
+
+And yet at the same time the person who sacrificed in order to defend their basic human rights, their rights of privacy, is now having his own human rights targeted and threatened in recrimination. I realize that for any country like Germany or France or Brazil or any other country around the world to defy the dictates of the United States, that there is a cost of doing that, but there was an even greater cost to Edward Snowden to come forward and do what he did in defense of your rights and yet he did it anyway.
+
+[applause]
+
+I think that what's really important to realize is that countries have the legal and the international obligation by virtues of treaties that they've signed to defend Edward Snowden from political prosecution and prevent him from being in cage for the rest of his life for having shown a light on systematic abuses of privacy and other forms of abuses of secrecy. But they also have the ethical and moral obligation as the beneficiaries of his actions, to do what he did for them which is to protect his rights in return.
+
+I want to spend a little bit of time talking about one of my favorite topics which is journalism. When I was in Hong Kong with Laura and Ed Snowden I’ve been reflecting on this a lot in the course of writing the book that I've been writing over the past couple of months about everything that's happened. One of the things I realized in looking back on that moment and also in talking to Laura about what took place there, was that we spent at least as much time talking about issues relating to journalism and a free press as we did talking about surveillance policy. And the reason is that we knew that what we were about to do, would trigger as many debates over the proper role of journalism vis-à-vis the state and other power factions as it would the importance of internet freedom and privacy and the threat of the surveillance state. And we knew in particular that one of our most formidable adversaries was not simply going to be the intelligence agencies on which we were reporting and who we were trying to expose, but also their most loyal, devoted servants which calls itself the United States and British media. 
+
+[applause]
+
+[29:25 on mp3]
+
+And so we spent a great deal of time strategizing about it and we resolved that we're going to have to be very disruptive about the status quo not only the surveillance and political status quo but also the journalistic status quo. And I think one of the ways that you can see what it is that we were targeting is in the behavior of the media over the past six months since these revelations have emerged almost entirely without them and despite them.
+
+One of the more remarkable things that has happened to me is: I gave an interview three weeks or so, or a month ago on BBC and it was on this program called Hardtalk and I had one point had made what I thought was the very unremarkable and uncontroversial observation that the reason why we have a free press is because national security officials routinely lie to the population in order to shield their power and to get their agenda advanced, and that the goal and duty of a journalist is to be adversarial to those people in power and that the pronouncement that this interviewer was citing about how these government programs are critical to stopping terrorists should not be believed unless there's actual evidence shown that they're actually true.
+
+[applause] 
+
+He interrupted me and he said 'Look ...' I am sorry I don't do pompous British accents well, so you'll just have to transpose it in your own imagination. But he said: 'You know, I just need to stop you, you have said something so remarkable.' He was like a Victorian priest scandalized by seeing a woman pull up her skirt a little bit over her ankles. He said: 'I just cannot believe that you would suggest that senior officials, generals in the United States and the British government are actually making false claims to the public! How can you possibly...' [laughter from the audience] 
+
+That is not aberrational! It really is the central view of certain American and British media stars that when especially people with medals on their chest who are called generals, but also high officials in the government make claims that those claims are presumptively treated as true without evidence and that it’s almost immoral to call them into question or to question their veracity. 
+
+And obviously we went through the Iraq war in which those very two same governments, specifically and deliberately lied repeatedly the government to their people over the course of two years to justify an aggressive war that destroyed a country of 26 million people. But we've seen it continuously over the last six months as well: The very first document that Edward Snowden ever showed me was one that he explained would reveal unquestionable lying by the senior national intelligence official of President Obama, the Director of National Intelligence James Clapper. That was the document that revealed that the Obama administration had succeeded in convincing a court, its secret court to compel phone companies to turn over to the NSA every single phone record of every single telephone call, local and international, of every single American.
+Even though that National Security official James Clapper before the Senate, just months earlier was asked: ‘Does the NSA collect phone data about the communications of Americans and he answered ‘No Sir.’ What we all now know is a complete lie.
+There are other lies that the NSA and its top officials, as government top officials have told.
+By lie I mean advisedly, things they know to be false that they're saying anyway to convince people of what they want them to believe.
+
+Keith Alexander repeatedly said, the head of the NSA, that they are incapable of accounting for the exact number of calls and emails that they intercept from the American telecommunication system even though the program that we ended up exposing, "Boundless Informant", counts with exact mathematical precision. Exactly the data that he said he is incapable of providing.
+
+Both the NSA and the GCHQ have repeatedly said that the purpose of these programs is to protect people from terrorism and to safeguard national security and that they would never, unlike these evil [thieves?], engage in spying for economic demands and yet report after report, that we revealed, from spying on the Brazilian oil giant Petrobras, from spying on the Organization of American states, at economic summits where economic accords were negotiated, to energy companies around the world, in Europe, in Asia, in Latin America, were just completely [word missing: 34:23]. These claims, prove that they are lies.
+
+And then we have President Obama who repeatedly says things like "we can not - and do not spy on or even eavesdrop on the communications of Americans without warrants even though the 2008 law that was enacted by the congress of which he was a part and the [word missing: 34:41] point is only to empower the US government to eavesdrop on American's communication without warrants. And what you see here is serial lying and yet at the same time the same media that seized it, acts scandalized if you suggest that their claims should not be taken at face value without evidence, because their role is not to be adversaries. Their role is to be loyal spokespeople to those powerful factions they pretend to exercise oversight.
+
+[applause]
+
+Just one more point on that which is to understand just how the American and British media function. You can pretty much turn on the TV at any moment or open a new internet website and see very brave American journalists calling Edward Snowden criminal and demanding that he be extradited to the United States and prosecuted and imprisoned. They're very very brave when it comes to declaring people who are scorned in Washington and who have no power and have become marginalized, they're very brave in condemning them and standing up to them and demanding that the rule of law be applied to them faithfully. He broke the law, he must pay the consequences.
+
+And yet that top national security official of the United States government went to the Senate and lied to their face as everybody now knows which is at least as much of a serious crime as anything Edward Snowden is accused of. And you will be hard-pressed to find a single one of those brave journalists.
+
+[applause]
+
+You will be very hard-pressed to find even a single one of those brave intrepid journalists ever even think about, let alone express the idea that Director of National Intelligence James Clapper ought to be subject to the rule of law and be prosecuted in prison for the crimes that he committed because the role of the US media and their British counterparts is to be voices for those with the greatest power and to protect their interests and serve them. And everything that we've done over the last six months and everything we decided in the last month about forming a new media organization is all about trying to subvert that process and reanimate and reinstall the process of journalism for what it was intended to be which is as a true adversarial force, a check against those with the greatest power.
+
+[applause]
+
+So I just wanna close with one last point, which is the nature of the surveillance state that we've reported over the last six months.
+
+Everytime I do an interview people ask similar questions such as ‘What is the most significant story that you have revealed?’ or ‘What is it that we have learned about the last story that you just published?’ And what I really begun saying is that there really is only one overarching point that all of these stories have revealed, and that is - and I say this without the slightest bit hyperbole or melodrama, it's not metaphorical and it's not figurative - It is literally true that the goal of the NSA and it's "five eyes"-partners in the English-speaking world Canada, New Zealand, Australia and especially the UK, is to eliminate privacy globally, to ensure that  there be no human communications that occur electronically that evades their surveillance net. They wanna make sure that all forms of human communication by telephone or by internet and all online activities are collected, monitored, stored and analyzed by that agency and by their allies. That is [despite] that is to [describe] a ubiquitous surveillance state. You don't need hyperbole to make that point and you don't need to believe me when I say that's their goal, document after document within the archive that Edward Snowden provided us declare that to be their goal. They are obsessed with searching out any small, little crevice on the planet, where some forms of communication might take place without their being able to invade it. One of the stories that we are working on right now, I used to get in trouble at the guardian for previewing my stories, I'm not at the Guardian anymore, so I'm just gonna do it anyway, is ... 
+
+[applause] 
+
+The NSA and the GCHQ are just being driven crazy by the idea that you can go on an airplane and use certain cell phone devices or internet services and be away from their prying eyes for a few hours at a time. They are obsessed with finding ways to invade the systems of online on board internet service and mobile phone service because the very idea that human beings can communicate even for a few moments without them being able to collect and store and analyze and monitor what it is that we're saying is simply intolerable. That is their institutional mandate.
+
+And when I get asked questions when I do interviews in different countries:  ‘Well, why would they want to spy on this official?’ or ‘Why would they want to spy on Sweden?’ or ‘Why would they want to target this company here?’
+The premise of that question is really flawed. The premise of the question is that the NSA and the CGHQ need a specific reason to target somebody for surveillance. That is not how they think. They target every form of communication that they can possibly get their hands on. 
+
+And if you think about what individual privacy does for us as human beings, let alone what it does for us on a political level, that it really is the thing that lets us explore boundaries and engage in creativity and use the mechanisms of dissent without fear. When you think about a world in which privacy is allowed to be eliminated –  I’m literally talking about eliminating everything that makes it valuable to be a free individual. The surveillance state by its necessity, by its very existence,  breeds conformity because when human beings know they are always [accessible?] to being watched, even if they are not always being watched, the choices that they make are far more constrained, are far more limited, cling far more closely to orthodoxy than when they can act in a private realm and  that's precisely why the NSA and the GCHQ and the worlds most powerful [dignitaries] throughout history and now always as their first goal have the elimination of privacy at the top of their list because it's what ensures that human beings can no longer resist the decrees that they are issuing. 
+
+[big applause]
+
+[42:00 on mp3]
+
+
+Questions & Answers
+--------------------------------
+
+**Frank**: *Thanks, Glenn! We have a little bit of time for questions. I start with one: What do you think is the motivation behind this, 'We want to be able to spy on really everyone?' So the motivation behind motivation...*
+
+**Glenn:**
+There are some obvious discrete motivations: Whether it be the ability to learn what economic competitors are doing, the ability to learn about technological advances in other countries in order to replicate them, the ability to learn what's happening politically and diplomatically in different countries to get better contract negotiations or to be able to better manipulate the world. But ultimately there really is only one goal and that goal is power. 
+
+If you think about what it means to be able to know everything about everybody else in the rest of the world, and this is the key for me, while at the same time those power factions that know everything about what the rest of the world is doing are building an ever higher and more impenetrable wall of secrecy behind which they operate, the power imbalance is as extreme as it gets. In a healthy society, private individuals, have privacy - hence the name privacy, except in the rarest of cases. It's supposed to be public servants, public figures, public agencies that have extreme transparency except in the most extreme cases - hence the name public sector. And yet we completely reversed that, so that we as private individuals have almost no privacy, and they as public figures, public servants, public officials have almost no transparency and that ultimately is what this surveillance system is about, is accumulating more and more power by being able to know everything about those over whom they're ruling, while those over whom they're ruling know virtually nothing about them.
+
+**Frank:**  *We have approximately ten more minutes for questions from the audience.*
+
+**Herald Angel:** *So, please the audience line up at microphone 1, 2, 3 and 4 if you want to ask a question. There are also questions from the internet. On the other hand, I exploit my position here and want to ask one thing: Are you fearing for your own well-being to be harmed?*
+
+**Glenn:**
+You know, I think there is obvious risk to what Laura Poitras and I have both done together. Like I said before, we've been advised by lawyers that we really shouldn't travel. Obviously my partner not only was detained under a terrorism law by the British government. But we're now all being threatened with prosecution under terrorism and espionage statutes. When you have tens of thousands of top secret documents there is obvious risk to that as well. But journalists around the world and activists around the world, not only in the past but currently are [word missing: 45:21] facing far greater dangers and had paid far greater prices than anything we have. And so I don't spend very much time thinking about that at all it's a very easy choice, when I see the people like Edward Snowden and the other ones on the list making the choices they've made to do my part, which is often a subset of what they're doing, in pursuit of these values that I really believe in.
+
+**Herald:** *The next question is from the internet.*
+
+**Signal Herald:** Do you hear me? Okay. How do you decide which detail you share with the world and which you are not allowed or which you [...stammer...] we don't know if we are allowed to see everything you have. What is your decision process there? Do you decide that on your own or in a committee? And what are the criteria for the information that you release right now?*
+
+**Glenn:**
+That's a great question. That has probably been by far the hardest choices that we've had to make. And I know there's a lot of debate surrounding it, and I've watched that debate because it's been really valuable to I think all of us who have had to make these choices. The first factor that we use is the agreement that we entered into with Edward Snowden when he came to us and expressed very clear ideas about what he wanted to achieve and how he thought that could be achieved. And we spent a lot of time talking to him about the methods that we would use, about what we would publish, about what we wouldn't publish. And regardless of the debates that have taken place we feel duty-bound to adhere to the agreement that we entered into with him, because he is not an object to be sacrificed for a cause, he is a human being whose agency and autonomy has to be regarded and honored. And everything that we have done... 
+
+[applause] 
+
+Everything that we have done has been guided by the formula that we created together with him. I have been one of the most vocal supporters of Wikileaks and of Chelsea Manning and I will be that for as long as I live. I believe in radical transparency. I think the methods that they used to disclose the war logs and the diplomatic cables were exactly the right ones to use. And I think that there are different tactics and strategies that are optimal for different situations. And one of the choices that we made was, that there were certain kind of information we didn't want to disclose. We didn't want to disclose information that would help other states augment their surveillance capabilities to which they would subject their own citizens. We didn't want to publish any of the information that the NSA has gathered about people. Whether it be their raw communications or the things the NSA has said about them as a result of what they gather, because to do that would destroy people's privacy and do the NSA's dirty work for them. And we didn't want to publish anything that would endanger the lives of innocent human beings who might be named by those documents. Everything else beyond that, what we have done is thought to publish in a way that will create the most powerful debate and the greatest level of recognition and to sustain the interest that people have in the debate that we felt like was so urgently needed. I can tell you, that we are only 6 months into doing this. It took Wikileaks, I believe nine months from the time they got the diplomatic cables until the time they began publishing them. These documents are complicated, people are waiting for us to make mistakes. It's important that we understand what it is that we are publishing so that what we say about them is accurate. There is a lot more stories to come, a lot more documents that will be published.
+
+[applause]
+
+And the only other thing I can say is that Laura and I and other people who have been working on these documents including Edward Snowden share exactly the same believes that you have and exactly the same values about transparency. And the last thing that any of us would ever do is sit on or conceal a story that the world ought to know about because it's newsworthy and shines a light on what these factions are doing and that would never ever happen. Every last newsworthy document will be published.
+
+**Question from microphone 1:** *I know about the attacks that the GCHQ, the British police have done to you - they tried to trash your hardware. And I'd like to know if there were more than that, like attacks to you personally. Because you talked about the attacks they used.*
+
+**Glenn:**
+I think the GCHQ has done us and the world a huge favor by showing their true face to the world. I mean, will the British government ever be able to stand up in public again and condemn some other country for attacks on press freedom without triggering a global laughing fit?
+
+[applause]
+
+I think that the most important thing that you can do as a journalist when you're being threatened - and the threats have gone far beyond what you just asked about. They are, as I said continuously threatening in all sorts of formal and informal ways, to criminally charge some or all of us who have been involved in this reporting. The only thing that you can do is to stand up to the playground bully and continue to publish in defiance of their threats and that's what we're gonna continue to do.
+
+[applause]
+
+**Question from microphone 4:** *Do you have the impression that the governments, especially the German government, are actually doing something? Or do you have the impression that they are just putting up a show for the citizens while they actually prefer to cooperate with the NSA and support them? And if it's the latter, what can we do about it?*
+
+**Glenn:**
+
+It's definitely the latter.
+
+[laughter, applause]
+
+Ultimately, governments will do two things: They will in the first instance do everything that they can to advance their own interests. And governments around the world, especially in the west, don't perceive it to be in their own interest, at least some of them, to disobey the United Stated. And they also don't perceive it to be in their own interest to take meaningful action against surveillance policies where today themselves believe in and engage in. And so the question then becomes: How do you get them to do something beyond that framework? And the only real answer becomes: to increase the cost to doing it. As I said earlier, I think that the cost to the internet sector in the United States has become quite real. The cost of Boeing which just lost a 4 billion dollar contract for fighter jets because Brazil didn't want to buy from a country that has been systematically spying on them is very real.
+
+[applause]
+
+I think it's up to all of us to devise ways, to not persuade them, because I don't think that power centers get persuaded in that way, by nice [lofty?] arguments. I think it's important to devise ways to raise the costs severely, for either their active participation in or their acquiescence to the systematic erosion of our privacy rights. And when we find a way to put them in the position where it's not we who are in fear of them but they who are in fear of us, that's when these policies will change.
+
+[applause]
+
+**Frank**: *I think it was a perfect closing of your keynote. Thanks a lot for taking the time, and [interrupted]*
+
+[begin of standing ovations]
+
+**Glenn:** Thank you everybody. Appreciated!
+
+[standing ovations]
+
+**Glenn:** Thank you very much.
+
+**Frank**: *And please continue your work!*
+

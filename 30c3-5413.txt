@@ -1,0 +1,813 @@
+Welcome to the Subtitles Pad, nice to see you here!
+  
+This pad text gets synchronized while typing, so that every person looking at this page will see the same text in realtime. This enables you to collaborate on the transcription of the spoken words! 
+ 
+ It is also possible to change the main writer during the talk when fingers become tired.
+  
+Please recrute as many participants as you can. That way, we will create the best possible draft together which is later on used for setting the subtitles.
+  
+Thank you very, very much for your help! 
+  
+percidae (Barbara) from the VOC team 
+-------------------------------------------------------------------------------------------------------------
+Willkommen auf dem Untertitel-Pad, schön dich hier zu sehen! 
+  
+Dieses Pad synchronisiert sich sofort, wenn du etwas tippst. Jeder, der diese Seite ansieht, sieht den gleichen Text wie du. Auf diesem Weg kann nahtlos aus dem gesprochenen Wort eines Vortrags geschriebene Sprache werden. 
+  
+Der Haupt-Mitschreiber kann so während des Vortrages ganz einfach abgelöst werden, wenn z.B. die Finger müde und die richtigen Tasten nicht mehr getroffen werden.
+  
+Bitte versuche so viele Mitschreiber oder Kontrolleure wie möglich zu finden, um einen möglichst guten ersten Entwurf für das spätere Untertiteln zu erstellen. 
+  
+Vielen, vielen Dank für deine Mithilfe! 
+percidae (Barbara) vom VOC Team 
+-------------------------------------------------------------------------------------------------------------
+Here, the subtitles for talk XY are supposed to be created 
+ Damit Sie auch morgen schlecht von Ihrem Computer träumen. [Tomorrow’s computer nightmares, today.] (de)
+frank, Ron
+
+2013.12.30
+17:15
+Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
+or: www.twitter.com/c3subtitles (most up to date infos)
+or the table of ALL pads: http://subtitles.media.ccc.de/
+
+The language is supposed to be: 
+[x] German  
+[ ] English 
+(the orignal talk-language)
+-------------------------------------------------------------------------------------------------------------
+
+Hallo!
+Hallo!
+[HUUUU!]
+Moin Moin.
+FRANK: Herzlich willkommen zu den Security Nightmares, der traditionell letzten Veranstaltung des Kongresses vor dem Abschlussevent, der sich direkt nahtlos an diesen hier anschließen wird. Wir machen das jetzt zum – wievieltes Mal?
+RON: 14. Mal
+[Applaus]
+RON: Guckt da, sie haben schon wieder das Inventar auf die Bühne gefahren und es spricht!
+FRANK: Wer war beim ersten mal dabei? [wenige]
+Cool, so viele junge Leute.
+RON: Für wen ist es das erste Mal?
+FRANK: Cool.
+RON: Okay, wir nehmen die Folien vom letzten Mal [Gelächter]
+Wer von euch ist nur wegen Snowden hier? Also, auf Deutsch gefragt, wer von euch ist Katastrophentourismus? [Gelächter]
+FRANK: Lass die folien mal 4:3, da wird nichts mit 16:9 draus.
+4:3 ist just fine, wir sind da ein bisschen old-school
+[Applaus]
+FRANK: Wenn ihr wüsstet, was Ron hier noch als Präsentationsprogramm nimmt …
+[Gelächter, Ron lacht]
+RON: Genau, ich hatte hier ein paar alte Kumpels getroffen aus Hamburg und aus anderen Städten, und wir haben uns über Dinge unterhalten wie den ersten Rechner, was man halt so macht. Da kam dann auch raus, wann hast du deinen ersten Rechner gekriegt, was war das für einer und wie enttäuscht warst du?
+Und einer meinte: Meine Eltern sind zu einem Informatiklehrer gegangen und haben ihn gefragt, was sie mir kaufen sollen, und dann habe ich einen PC gekriegt. Und er wollte doch einen Atari ST.
+Und dann saß er vor diesem Ding mit dem A und den blinkenden Cursor und hat sich gefragt …
+In diesem Sinne eine Serviceansage für alle 10-12-Jährigen, die heute zuschauen und die kein iPad bekommen haben: Eure Eltern lieben euch. Ihr wart bestimmt ein Wunschkind. [Gelächter, Applaus]
+Eure Eltern wissen, was sie tun.
+Sie wissen: Es gibt keine tollen Apps. Es ist keine schicke Hardware. Es wird keine Updates geben.
+Es gibt keine Rechteverwaltung für Apps. Die Anzahl von Viren ist enorm hoch.
+Das WLAN-Password wird bei Google gespeichert, und der Heise-Verlag hat in zwei Tagen es nicht geschaft, das löschen zu lassen bei einem Test.
+
+Das wissen die alle. Sie wollen, dass ihr daran verzweifelt. Sie wollen, dass ihr CyanogenMod installiert, und euch die Hardware untertan macht. [Applaus]
+
+Und es ist auch OK, dass das Gehäuse aus Plastik ist, weil dann kommt man besser an das JTag [?] ran. [Gelächter, Applaus]
+Und es macht nichts, wenn man es vor Ende der Garantiezeit öffnet.
+Das ist euer Auftrag.
+
+FRANK: Irgendwas piept hier. [weg] Ah, danke. [Applaus]
+
+Die Agenda kennt ihr schon, wir reden über Security-Nightmares, solche, die wir haben wollen (falls sie vielleicht was ändern), solche, die wir nicht haben wollen, die dieses Jahr doch relativ reichlich waren.
+Und wir wollen ein bisschen dafür sorgen, dass ihr vorgewarnt seid, mit euch zusammen natürlich.
+Manchmal haben wir auch recht mit unseren Glaskugelblicken.
+RON: Genau wir kommen gleich zum Zehnjahresrückblick.
+
+
+Aber manchmal hat man den Eindruck, es geht weiter, aber nicht vorwärts, den Satz haben wir letztes Jahr schon gesagt.
+Beispiel gefällig? Ping of Death für IPv6, alle Windows-Versionen. [Gelächter, Applaus]
+
+FRANK: Also was wir festgestellt haben ist: Der Spruch, dass die Geschichte sich wiederholt, gilt auch und insbesondere für IT-Security.
+
+Die Bugs kommen immer wieder, in anderer Form, in Emulatoren, in anderen Protokollen, in alten Stacks, die plötzlich viel wichtiger werden.
+
+Also es lohnt tatsächlich, sein altes enzyklopädisches Wissen über Bugs aus den 90ern nicht allzusehr vergammeln zu lassen.
+Man kann da immer wieder was mit anfangen.
+RON: Bisschen Publikumsbefragung: Browserplugins wollten wir mal abfragen
+Aber nicht das langweilige Zeug wie Adblock oder so, oder NoFlash, das hat ja sowieso jeder. Sondern sowas wie Ghostery
+
+FRANK: Wers nicht hat, lohnt sich, also Augen öffnend
+RON: Certificate-Patrol? Weniger, das hätte ich jetzt nicht gedacht
+Was haben wir noch?
+Disconnect?
+Noch weniger.
+Dann hatte ich die Reihenfolge richtig.
+
+Jetzt die Frage, die wir seit fast 15 Jahren stellen:
+Wer hat hier ein Zigbee-Gerät?
+FRANK: Wer weiß noch, was Zigbee ist?
+RON: Okay, okay. Wenn ihr was Lustiges über Zigbee zu erzählen habt, die Mikrofone sind dort und dort.
+
+[… hier fehlt noch was im Stream]
+
+Ihr habt ja jetzt gerade das hinter euch, was die Leute Weihnachtszeit nennen, wir nennen das die Familie besuchen und Computer fixen.
+[applaus]
+
+Und wer hat da als Neujahrsvorsatz noch die WinXP-Rechner vor April upgraden? 
+[gelaechter]
+
+FRANK: Macht hinne.
+RON: Und am ende lassen sie nen Schraubenzieher reinfallen und sagen:
+ups, ist kaputt, Mum
+
+FRANK:  Wir haben überlegt, wie können wir den Status der IT-Security im Jahre  2013 zusammenfassen, nach dem, was wir alles gelernt haben, insbesondere  seit dem Sommer.
+Und eigentlich sind wir da mit einem Bild rausgekommen.
+RON: Erstmal war die Frage, wir setzen uns hier hin und lachen hysterisch ne Dreiviertelstunde. [Gelächter, Applaus]
+
+Und dann haben wir gedacht, ein Bild sagt mehr als tausend Worte.
+
+FRANK: In den Jahren, wo wir die Show machen, war es noch nie so oft so, dass ich dachte: Also eigentlich wäre so ein Job mit Blumen züchten oder gärtnern oder irgendwas mit Holz oder so vielleicht doch OK ... [Gelächter, Applaus]
+
+RON: Es ist natürlich erst mal ein Schock: Alles das, worüber wir gelacht haben in den Hollywood-Filmen, das ist alles echt. [Gelächter]
+
+FRANK: So: "Ich will die Daten von seinem Mobiltelefon." [Ron macht Tastaturgeräusche] Plum.
+
+RON: "Mach mal alle Ampeln grün von hier bis zum Flughafen."
+FRANK: Ja, diese Dinge.
+RON: The front fell off.
+
+FRANK: Wie viele von euch dachten dieses Jahr auch darüber nach, gärtnern wäre vielleicht nicht so schlecht? [fast alle, gelächter]
+
+---
+Was ist mit dem Internet passiert? The freont fell off, it just fell off
+The front fell off, we don't know why.
+
+Die Frage lautet natürlich jetzt: "Why?"
+
+Gut, machen wir mal mit der Rückschau weiter.
+Why?
+--
+
+RON: Und warum speichern sie alle historischen Daten auch noch mit?
+FRANK: Das weißt du nicht?
+RON: Wolltest du erklären.
+FRANK: Warum speichert die NSA alle verschlüsselten Daten, derer sie habhaft werden kann? Da gibt es was für euch, nachher in der Wikipedia nachlesen, und zwar ein Programm namens VENONA.
+Dabei handelt es sich um ein Programm, bei dem die Amerikaner alles, was sie damals von sowjetischen Agenten mitschneiden konnten, mitgeschnitten haben, obwohl sie es nicht entschlüsseln konnten.
+Irgendwann haben sie festgestellt: Da liegen so viele verschlüsselte Funksprüche rum, lass uns schauen, ob wir da mit was anfangen können.
+Und dann begab es sich, dass eine ganze Weile vorher Stalin an die Macht gekommen war, und der hatte so eine gewisse gestörte Beziehung zu Intellektuellen und auch zu Mathematikern und Kryptographen.
+
+Was dazu führte, nachdem sie genügend davon erschossen und in die Lager gesteckt hatten, dass der Geheimdienst angefangen hat die One-Time-Pads, die sie für die Agenten benutzt haben, zu recyceln und nochmal zu benutzen. [Gelächter, Applaus]
+Was dazu geführt hat, dass die Amerikaner über die Jahre hinweg die ganzen sowjetischen Agentensysteme aufgerollt haben in den USA, weil sie einfach geguckt haben, wo die One-Time-Pads nochmal benutzt wurden, und wie wir alle wissen, bei XOR kann man dann relativ einfach den Schlüssel herausbekommen.
+
+[Einwurf: Second-Time-Pad]
+Genau, ein Second-Time-Pad
+
+Aus dieser Lehre heraus speichern die jetzt einfach alles mit, weil: man weiß ja nie.
+
+Wenn man sich überlegt, was wir alles so verschlüsseln – hoffentlich doch relativ viel –, und die speichern das trotzdem alles mit, weil sie hoffen, dass sie eines Tages trotzdem noch rankommen können.
+
+RON: Dann sagt man okay, fair enough. Darüber haben wir uns ja schon mal unterhalten hier, ich glaube vor vielen Jahren, über diese Frage: Wenn man einen Schlüssel wählt, für welchen Zeitraum wählt man den. Für den Zeitraum der Kampagne, im Sinne von Kriegsführung.
+Wie lange muss es aushalten und diese Geschichten. Fair Enough.
+Aber: Warum haben sie’s kaputtgemacht? Warum haben sie die Front angesägt, dass sie jetzt runterfällt?
+
+Da fragt man sich schon: Warum denken sie, dass, wenn sie jetzt die Kryptos sabotieren und die Standards sabotieren und damit das Internet für alle kaputt machen, oder wie Bruce Schneier sagt, die US-Regierung hat das Internet verraten, they broke it for everyone, – dann ist es nicht nur für uns, sondern auch für die ganzen amerikanischen Firmen, die das benutzen, um ihre eigenen Geheimnisse zu sichern. Und man denkt, glauben die eigentlich, sie sind die Einzigen, die mithören?
+Glauben sie denn, sie sind die Einzigen, die versuchen, die Sachen zu entschlüsseln?
+
+FRANK: Die Annahme bisher war ja immer: Wenn sie etwas kaputtmachen – Krypto oder Standards oder so –, dann machen sie’s nicht an Punkten, wo’s ihnen selber schaden könnte.
+RON: So wie früher, als Krypto noch Exportgut war, ich weiß nicht, wer von euch sich daran erinnert, und es von bestimmter Software drei Stück gab: einmal für den amerikanischen Markt – hatte 128 Bit –, einmal für den europäischen Markt – das hatte dann 64 Bit oder 56 Bit – und natürlich was extra für die Franzosen, das hat ein paar Bit mitgeschickt, damit der französische Geheimdienst es nicht so schwer hatte. [Gelächter]
+
+
+FRANK: Da gab es einen schoenen Namen für, der Name war Workload Reduction Field
+
+RON: Das gabs früher, und da konnte man denken, die Ami-Firmen können ein bisschen besser verschlüsseln. Jetzt ist aber für alle angesägt, kaputt gemacht.
+Wahrscheinlich, weil sie irgendwie denken, die anderen sind nicht so schlau wie wir.
+FRANK: Oder es ist ihnen egal.
+RON: Ist es ihnen egal?
+FRANK: Ja, vielleicht ist es ihnen auch einfach egal.
+
+Also ich meine, wenn man in so einer Offense-Geisteshaltung ist, dass es einem wichtiger ist zu wissen, was die anderen denken, als das die anderen nicht wissen, was was man selber denkt, dann kann man schon zu solchen Einschätzungen kommen, dass man sagt:Wir machen zwar unsere eigene Defense ein bisschen schlechter, aber dafür können wir bei allen anderen reingucken.
+Das landet schnell bei einem, wie war der schöne Begriff? Wilderness of mirrors, diese Labyrinthe aus Spiegeln, dass man nicht mehr weiß, was man selber denkt und was die anderen gedacht haben.
+
+RON: Da gibts übrigen einen Terry-Pratchett-Witz mit Spiegeln und Oma Wetterwachs. Ich hätte gedacht, jetzt lachen mehr. [Gelächter, Zwischenruf: "Ha ha"]
+Gut, es wird ihnen natürlich ins Gesicht explodieren, die ganze Aktion, ist ja klar, weil: Wenn sich früher viele gesagt haben, "das basiert auf einem amerikanischen Standard, da hat die NSA dran mitgearbeitet, das ist bestimmt rock solid."
+FRANK: "Die wissen ja, was sie tun."
+RON: Die wissen ja, was sie tun.
+FRANK: Niemand hat so richtig daran gedacht, dass die vielleicht zu gut wussten, was sie tun.
+RON: Und jetzt ist die Ansage: "Ach, wenn die NSA da mitgearbeitet hat, dann ist da vielleicht eine Extra-Hintertür drin."
+FRANK: "Lass mal nachgucken gehen."
+RON: Und jetzt werden nicht nur die Verrückten nachgucken. [Applaus]
+Sondern die, die dafür bezahlt werden oder die das, was sie finden, verkaufen.
+Und wenn die Amis denken, dass sie die einzigen sind, die zahlen, dann ist das wahrscheinlich der nächste Fehler.
+
+Vor 10 Jahren --
+FRANK: Wer war da? 20C3? [wenige]
+Da werden nicht so viele Leute merken, dass du die Folie manipuliert hast.
+
+RON: Wir haben damals gesagt, es kommt die Zeit, in der die Leute sagen: Ich wars nicht, mein Bügelbrett wars. Das ist zehn Jahre her.
+FRANK: Okay, es war nicht das Bügelbrett, sondern das Bügeleisen.
+RON: Genau, wir haben ja nur leicht danebengelegen.
+FRANK: Ihr erinnert euch, dieses Jahr wurden in Russland Bügeleisen gefunden, in denen zusätzliche Elektronik eingebaut war, die sich in WLANs eingebucht und dann böse Dinge getan hat.
+
+FRANK: Da muss man sich mal ueberlegen, die economy of scale dahinter: Wie viele Leute kaufen ein Bügeleisen, wie viele haben WLAN, wie viele von diesen haben was Interessantes in diesem WLAN und haben ihr Bügeleisen am Strom in Reichweite des WLANs.
+
+RON: Wir fragen mal: Wer von euch hat ein Bügeleisen? [alle]
+Wer buegelt mehr als sagen wir mal 2 Std. die Woche? [Gelächter]
+Okay, es haben viele Leute ein Bügeleisen, aber es hat nur 2 Stunden pro Woche Strom.
+
+Wer von denen, die … [Zwischenruf: Akku?]
+
+Vom Akku stand nix in dem Artikel. Das hat bestimmt kein Akku, Akkus sind doch so teuer.
+
+FRANK: Stell dir mal vor, die bauen da einen Lithiumakku ein, in ein Bügeleisen [Lachen] Das könnte den einen oder anderen Brandfleck geben.
+
+RON: Mach mir doch meine Statistik nicht kaput. Also 2 Std. pro Woche hat das Ding Strom und kann sich in Wireless LANs einbuchen.
+Wer von euch sieht noch unverschlüsselte Wireless LANs [alle]?
+Wenn er bügelt? [wenige, Gelächter]
+Doch einige. Das lohnt sich offensichtlich, ein Bügeleisen auf den Markt zu bringen, das dann zwei Stunden pro Woche Strom hat und dann vielleicht, vielleicht auch nicht, ein Wireless LAN sieht, wo es sich einbuchen kann und dann Spam verschicken kann oder was auch immer die Dinger gemacht haben und es lohnt sich schon.
+[Zwischenruf: Hotels]
+Hotels, klar, logisch, kann schon sein.
+Aber das ist, ich finde, das ist schon was wert, das lohnt sich jetzt.
+Dann ist das so ein Fall wie bei LG und den Fernsehern. 
+Habt ihr mitgekriegt? LG-Fernseher telefonieren nach Hause und erzaehlen, was ihr so geguckt habt, und welche Apps ihr laufen habt lassen und wie die Dateien hießen auf den Memory Sticks, die ihr an der Seite reingesteckt habt.
+FRANK: Das ist ja nur reine Statistik.
+RON: Das kam dann raus und dann haben die gesagt: Ja, das brauchen wir schon. [Lachen]
+FRANK: Das ist eine wesentliche Funktion zur Verbesserung der Benutzererfahrung.
+RON: Dann haben sie eine neue Version rausgebracht, und die hat dann nicht mehr ganz so viele Daten abgegriffen, aber das war’s auch.
+
+Und dann denkt man, die bessern sich damit wahrscheinlich die Rendite auf, indem sie die Daten verkaufen.
+
+Machen das die Bügeleisenhersteller jetzt auch schon? Ist das Teil des Business Cases? "Wir können dieses Bügeleisen nicht für mehr verkaufen als für 12 Dollar, machen wir noch für 50 Cent nen WLAN-Chip rein und verkaufen die Ergebnisse für 60. Profit!!"
+
+FRANK: Wenn wir uns das so angucken, wie es immer hieß vor ein paar Jahren, Internet of Things, alle Geräte werden intelligent vernetzt sein und tolle Dinge für uns tun. Da hat niemand dran gedacht, WLAN in einem Bügeleisen. Da kann man bestimmt noch mehr machen, was fällt euch da noch so ein, wo man noch überall Netzwerk einbauen könnte?
+[Zwischenrufe]
+RON: Hat jemand Waschmaschine gesagt?
+[Kühlschrank!]
+RON: Hat jemand von euch ne Waschmaschine mit Ethernet-Anschluss?
+[einer -- Lachen]
+[Zwischenruf]
+RON: Ja, ne Gasheizung - das haben wir mitgekriegt, das kommt noch.
+
+FRANK: Sex-Toy mit Bluetooth? [Gelächter] Oh, da seid ihr scheu.
+
+RON: Jedenfalls war vor zehn Jahren schon klar: Man kann kein Vertrauen mehr in sein Telefon haben.
+FRANK: Wer von euch vertraut seinem Telefon? [einer] Du hast noch ein Nokia 1011?
+Ja, schon hart ne.
+RON: Damals hörte das Internet fast auf wegen E-Mail und Spam, da dachten wir auch: Fax kommt wieder?
+
+Wer von euch hat kein Fax? [fast alle] Doch so viele.
+FRANK: Wer von euch hat denn noch ein Fax? [einige]
+[Zwischenruf: Computerfax]
+Nicht ein elektronisches Gerät, das das Protokoll Fax spricht, sondern ein wo Papier rein- und rausgeht, vorzugsweise so Thermopapier?
+Hat sich nicht so richtig ereignet, diese Fax-Renaissance.
+RON: Dann dachten wir: Kontinente-Blinkenlights kommt, und das war, bevor rauskam, wie schlimm das mit Scada ist, und Anschluss ans Internet und so.
+Wir haben ja jetzt auch Kontinente-Blinkenlights, nur auf anderen Ebenen.
+Ich weiß nicht, ob ihr in dem Vortrag wart von dem Menschen, der IP-Pakete rausschickt in größeren Mengen und schaut, wer antwortet? Das hat er mal waehrend so eines Taifuns gemacht, wo das Internet ausgegangen ist, und hatte dann Kontinente-Blinkenlights zumindest auf seinem Schirm.
+
+FRANK: Wir sehen da aber Potential mit den Smartmetern. [Applaus]
+RON: Ist Quatsch, weil da auf die Propaganda reinfällst. Ich hab jetzt son Ding, das kann gar nichts. [Gelächter] Das kommt aus der Packung raus und nennt sich EHZ, elektronischer Haushaltszähler, manche Leute nennen es Smartmeter, manche nennen es ganz anders, ganz furchtbar, dass sie keinen einheitlichen Namen dafür haben, wenn du rauskriegen willst, was es kann und was nicht, und welche Schnittstelle normal ist und welche nicht, S0 und D0 und Impulsgeber und in 1000 pro Kilowatt oder 10000 oder 100000.
+Es kommt aus der Box raus, und es kann erstmal gar nichts.
+Es kann mir immerhin den aktuellen Verbrauch in Watt anzeigen, das ist toll, weil man nicht mehr diese roten Umdrehungszahlen umrechnen muss mit der Stoppuhr: 1, 2, 3, 4, ...
+FRANK: Da findet man einen Optokoppler.
+RON: Jetzt. Die Optokoppler, die es gab, die waren doch alle dreckig, weil es keinen Rückkanal gab und du nicht wusstest, ob das Paket ankam und so.
+Und jetzt haben sie die Dinger mit D0-Schnittstelle, das ist eine optische Schnittstelle, wo du diesem netten Menschen eine Mail schickst und sagst, bau mir mal so ein Ding und – lassen wir das.
+Und dann kriegst du dieses Ding mit USB-Anschluss und dann musst du eine Software selber suchen.
+
+Wenn Du anrufst bei Vattenfall und sagst: ich habe einen Prospekt gesehen, wo eine glückliche Familie auf ein iPhone starrte und ihren Verbrauch sah, und das ging übe reine weiße Kiste, die unter der Decke hing, die über eine andere Kiste an den elektronischen Haushaltszähler angeschlossen war, und das will ich jetzt haben.
+
+FRANK: Du willst auch gluecklich lächelnd auf dem Sofa auf dein IPhone gucken?
+RON: Ja! Ich hab nichtmal gefragt, was das kostet, ich habe gesagt, ich will das haben. Und die haben nur gefragt: "Wohnen Sie in Berlin im Märkischen Viertel oder in der Hamburger Hafencity, in den Pilotgebieten?" – "Nein." – "Ja, dann nicht."
+FRANK: Du übersiehst ein Detail: Warum wollen Energieversorger dieses Smartmeter haben? Insbesondere die kleinen wollen sie nicht, es gibt nur eine Funktion dabei, die die gut finden daran, nämlich die Möglichkeit, dir den Strom abzuschalten, wenn du deine Rechnung nicht bezahlt hast
+RON: Kann es nicht.
+FRANK: Das kann dein Gerät noch nicht, aber das ist etwas, was die nächste Generation können soll, dass sie Subscriber Management, wie das so schön heißt, aus der Ferne machen koennen wollen
+
+RON: Das einzige, was das Ding kann ist mehr Strom verbrauchen als das alte.
+[gelaechter]
+
+FRANK: Über das Subscriber Management haben wir offenbar Dissens, aber ich glaube immer noch an Blinkenlights. Ein wichtiges Detail: diese Geraete werden millionenfach verbaut, mehrere Dutzend Millionen, wenn man Europa betrachtet,
+und eine der interessanten Fragen ist natuerlich: ist da Krypto an?
+RON: Steht nen Public Key vorne drauf, also muss ja krypto drin sein, ist ja auch zertifiziert, von der NSA und so., also ganz tolles Zeug.
+FRANK: Die Frage ist,wie viel Strom kostet das eigentlich, da die Krypto anzumachen? Wenn man das umrechnet, ein Smartmeter-Deployment europaweit oder weltweit, da kann man sicher ausreichen, um wie viel die globale Minimumtemperatur steigt.
+
+RON: Das sehen wir ja bei Krypto: Vor 10 Jahren die Umbenennung von openSSH und open SSL in wide open SSH und SSL
+
+FRANK: SSH hat sich zum Glück gefangen, SSL – nun ja.
+RON: Was war das jetzt: Defacing und der Zufallszahlengenerator ist nichts.
+FRANK: Ist an der Zeit, das mal zu ersetzen.
+[Zwischenruf]
+RON: Das einzig schöne , was man dazu sagen kann, ist das dieses elliptic curve ding nie funktioniert hat und es nie jemanden gestört hat.
+
+FRANK: Ja Wahlcomputer: Da lagen wir glaub ich richtig, kann man schon so sagen.
+RON: Ist immer noch nicht tot, das Thema, oder?
+FRANK: Es röchelt noch, aber nicht mehr lange. [Applaus] Alle diese Themen haben ja eine gewisse Neigung zum Zombietum: Brains....! In diesem Fall kommen sie wahrscheinlich als Online-Wahlen wieder, wo wir uns sehr drauf freuen können, das wird ein großer Spaß werden.
+
+RON: Aber, was auch ne weile raus war aus den Schlagzeilen, sind Source Code Management Systeme, damals haben wir natürlich noch von CVS gesprochen, heute von Github.
+
+Diese Geschten: Eine Suchfunktion über Github jagen und nach "private key" suchen. Arbeiten die dran, dass sie schlechten Code bald nicht mehr entgegen nehmen?
+FRANK: Ich glaube nicht, wozu sollten sie’s tun?
+
+[einruf: dann kannst  du die Webseite zumachen]
+
+RON: Weil man dann die Webseite zumachen kann.
+
+FRANK: Vielleicht sollten sie einfach ein Entertainment-Programm draus machen. Früher auf dem Kongress hatten wir Codelesungen, wo sich Leute auf die Bühne gesetzt haben und Lieblingsstellen aus schlechtem Sourcecode vorgelesen haben. Ich glaube, wir sollten sowas mal wieder machen, das könnte unterhaltsam sein. [Applaus]
+
+RON: Du meinst, bei github brauchen wir naming and shaming? "Wenn du diesen Code committen willst, sagen wir allen deinen Facebook-Freunden Bescheid."
+
+FRANK: Du meinst "du kannst ihn commiten, aber …
+RON: aber alle werden wissen, wie schlecht er ist, oder du gehst zurueck und arbeitest nochmal dran."
+
+FRANK: ich träum ja immer mal davon, wenn ich so richtig schlechte Software sehe, wenn ich richtig reich wäre, würde ich gerne Leute wie Blackwater dafür bezahlen, nachts um vier einen Hausbesuch beim Autor zu machen, mit einem kalten Eimer Wasser ins Gesicht wecken und ihm seinen Code vorlesen. [Gelächter, Applaus]
+
+RON: wir haben vor 10 jahren erklaert dass 1024 bit rsa Schlüssel nicht mehr state of the art sind.
+FRANK: Wer hat noch einen 1024-Bit-RSA-Key? [keiner] Ist auch peinlich, ich geb’s zu. Wer kennt jemanden, der einen 1024-Bit-… [Gelächter]
+
+Wer von euch hat so eine Kryptochipkarte in der Hosentasche? Wer von euch ist sich sicher, dass da kein 1024-Bit-RSA-Key drin ist? 
+RON: Die wissen alle, dass das unter 100 sind.
+
+Wir hatten bessere Schadensroutinen gefordert. Da kann man sich jetzt drüber streiten, ob wir bessere Schadensroutinen sehen, das hat sich eingependelt auf: „Dein Computer ist jetzt gesperrt, weil wegen, und Du kriegst ihn erst zurück, wenn Du uns Geld ueberweist.“ Oder „Deine Daten sind jetzt verschluesselt und Du kriegst sie erst wieder, wenn Du uns Geld ueberweist.“
+
+Mit Countdown, hab ich gesehen, du hast nur noch drei Tage, zwei Stunden und eine Minute, ups, jetzt sind’s nur noch drei Tage.
+
+Dann wird der Zaehler aber wieder hochgesetzt wenn man glaubhaft versichern kann, dass man gerade daran scheitert western union zu bedienen.
+
+FRANK: Oder sich bitcoins zu besorgen.
+
+Es gab schon innovative Schadensroutinen. Gut fand ich zum Beispiel die, die dir suggeriert, indem sie deinen Browser hijackt und darauf achtet, dass du in einem Online-Banking bist, dass du Geld überwiesen bekommen hast. Die sagt dir: Auf einem Konto ist jetzt mehr Geld, das du nicht erwartest, summiert das auch prima auf.
+Und dann kommt eine Messagebox: „hey, du hast da Geld ueberwiesen bekommen, das dir nicht gehört, überweis das mal zurück“.
+Dann willst du das Geld zurücküberweisen, da hilft alles nichts: kein Authenticator, kein 2-factor, nothing. Das fand ich schon ziemlich fortschrittlich.
+
+RON: Und die Erpressungsroutinen werden ja auch immer härter, mit Fotos von Merkel, die streng guckt, oder dass das Ding dann das Bild einblendet, das es über die Webcam sieht. Das ist schon nicht so schlecht.
+
+FRANK: Das Thema Exploitveröffentlichungen hatten wir damals schon.
+RON: Damals haben wir aber gesagt, weil die Softwarehersteller so schlecht reagieren auf Kontaktierung – „hier haben wir einen Bug gefunden, fixt den mal“, dann gähnen die alle rum und sagen „vielleicht später“ – es wird mehr veroeffentlicht werden, damit die Softwarehersteller besser in die Puschen kommen.
+Und was ist passiert? Was ist die aktuelle Reaktion, wenn man irgendwo was einreicht?
+
+FRANK: Wenn du Pech hast und es in den USA tust, bekommst du erst mal ein Schreiben vom Gericht oder vom Anwalt.
+
+Alle Inzentivierungen gehen mittlerweile dahin, dass du deine Bugs an die NSA verkaufst.
+
+Die Community sagt „no more free bugs“, warum sollen wir den Softwareherstellern die Bugs for free geben, da verkaufen wir sie lieber an schattige Gestalten.
+Die Hersteller sagen, wir wollen deine Bugs nicht kennen, weil wir uns dann drum kümmern müssen, also verklagen wir dich lieber, bevor du sie disclosest.
+
+Das heißt, die Situation hat sich eigentlich seit 2003 eher  verschlechtert. Es wird zwar mehr publiziert, was daran liegt, dass es mehr Bugs gibt, mehr Technologie da draußen, und viel mehr Leute draufgucken, aber die Situation des Security Researchers an sich hat sich nicht verbessert. und solange da nichts passiert, wirds auch nicht besser werden.
+
+RON: Schauen wir mal auf das Internet-Normalitätsupdate 2013, was ist grade normal? Normal ist, das 25% aller Deutschen kein Onlinebanking benutzen, weil sie Angst vor Trojanern haben. [Applaus]
+
+RON: es gibt im Internet 40-50 Mio. potenzielle UPnP-Opfer, das sind die Plasterouterzombies, aber Virenscanner sind bei 100% Erkennungsrate. [Gelächter] Wenn man eine Woche wartet mit dem Öffnen der Mail.
+
+„Ne, ich konnte die Mail nicht öffnen, war ein Anhang dran.“
+FRANK: Erst mal eine Woche warten.
+RON: Genau, erst mal eine Woche abhängen.
+FRANK: Wäre ein interessanter Gedanke zur Entschleunigung, wenn man alle E-Mail erst mal eine Woche in der Quarantäne lässt. So wie früher die Schiffe... wenn sie in einem Hafen ankamen, mussten sie erst mal 30 Tage auf der Reede bleiben und eine gelbe Flagge hissen und, wenn nichts ausgebrochen war, durften sie in den Hafen laufen.
+RON: Die Überlebenden durften dann einlaufen.
+FRANK: Vielleicht muss man das mit E-Mail machen, eine Woche liegen lassen, bis die Virenscanner geupdated sind, dann scannt man sie und dann guckt man rein.
+RON: Ist tatsächlich so. Das, was noch durchkommt, wenn man das bei VirusTotal hochlädt, hast du eine Erkennungsrate von 1 von 46 oder so.
+
+47% der Internetuser sind Opfer von Internetkrimininalität geworden.
+FRANK: Wo hast denn den her?
+[Einrufe: Virenscanner!]
+
+ZUSCHAUERMIKRO: Da ist was sehr interessantes passiert bei den Virenscannern: Ich dachte, inzwischen sind die alle echt top. [Gelächter] …
+FRANK: Wie kamst du darauf?
+ZUSCHAUERMIKRO … Da war ein älterer Rechner der ein halbes Jahr nicht mehr im Internet war und keine aktuellen Signaturen hatte, der wieder verwendet werden sollte und gescannt werden sollte. Da haben drei verschiedene Antivirenhersteller gesagt, da ist kein Virus. Ich hab ein bisschen damit gearbeitet und gesagt, der verhält sich komisch, da ist ein Virus. Hab ein bisschen tiefer geguckt und da war ein Virus, und das war uralt, im Prinzip der alte Conficker-Wurm, nur das irgendjemand ein bisschen rumgepfuscht hatte und das nicht mehr ganz original der gleiche Code war. Vom Prinzip her war’s aber der Code. Von drei Herstellern … Avast hat’s nicht auf Anhieb gefunden, Eset32 hat’s nicht gefunden …
+FRANK: Schneller.
+ZUSCHAUERMIKRO: Fand ich zumindest sehr interessant.
+
+FRANK: Also ich finde Virenscanner immer ein interessantes Phänomen. Das ist eine Software, die Executables aus dem Internet nachlädt, mit möglichst hohen Prioritäten auf deinem Computer ausführt, Zugriff auf alle Speicherbereiche und alle Bereiche der Festplatte hat, und irgendwie glaubt man, dass das einen sicherer macht. Ganz merkwürdig. [Gelächter, Applaus]
+
+Und wenn man sich Audit-Reports anschaut von Leuten, die sich diese Virenscanner angeguckt haben, das scrollt immer so wegen der Angreifbarkeiten allein dieser Virenscanner, weil die die ganzen Signaturen nachladen, die sind groß, komplexe Datenformate, binary, das kann nur schief gehen.
+
+Die Frage, wann die Leute anfangen, die Virenscanner systematisch hops zu nehmen, haben wir uns ja schon mehrfach gestellt.
+
+RON: Das ist inzwischen Standard-Repertoire von so einem Trojaner. Da gibt es einen, der kann eine Fehlermeldung in 10 verschiedenen Sprachen faken, die er dem Benutzer vorsetzt, damit der dann sein Passwort eingibt, und der dann effektiv den Virenscanner ausschaltet.
+
+FRANK: Du hast noch nicht gesagt, wo diese 47% her ist.
+
+Wie viele von euch wurden denn schon Opfer von Internetkriminialität in den letzten 10 Jahren? [wenige] und wer kennt wen? [mehr]
+
+[Zwischenrufe]
+
+RON: 47% hört sich viel an, oder? Das ist bestimmt jedes Mal, wenn jemand eine Spammail gekriegt hat, sagt er „Jetzt bin ich Opfer von Internetkriminalitaet geworden.“
+FRANK: Oder eine Mail mit einem fishy Anhang.
+Ich vermute mal, das ist eine Zahl vom BKA, die ignorieren wir einfach.
+
+ZUSCHAUERMIKRO: Noch ein Hinweis zu den Virenscannern, zu schön, um ihn euch vorzuenthalten. Ich hatte den Case, dass der Virenscanner auf den Cheflaptops die Schadsoftware nicht erkannt hat, die war naemlich in den Signaturfiles des Virenscanners gespeichert. [Gelächter, Applaus]
+
+Wir bekommen ausreichend Hilfe dadurch, dass die meisten Virenscanner ASLR unter Windows deaktivieren und uns andere …
+
+FRANK: Genau. Identitätsdiebstahl, gut … Vielleicht sollte man bei der Gelegenheit die Identitätsprobleme nochmal kurz ansprechen. Was sich gerade abzeichnet, ist eine Umstellung von expliziter Identifizierung auf „fuzzy authenticators“. Das heißt: Alles, was man mit seinem Computer macht und wo man ist, in welchen Netzwerken man ist, was für Cookies im Browser angesammelt sind, das ganze Fingerprinting vom Browser usw., History, da sind genügend Bits drin, um eine Identitaet abzubilden, auch wenn man sich nicht explizit einloggt. Wir sind mittlerweile so weit, dass intern einige Online-Versender sagen: Eigentlich müssen wir die Leute sich nicht mehr einloggen lassen, wir kennen sie gut genug, um ihnen bis zu 50, 100 Euro den Kram einfach so rauszuschicken an die an die Adresse, von der sie glauben, dass es das ist. Reicht halt als Identität.
+
+Das heißt: Der nächste Schritt des Identitätsdiebstahls wird dann abhängig von mehr Bandbreite, weil man erst mal das ganze Browser- und sonstige Image und so des Opfers herunterladen muss, um ihn sauber zu emulieren.
+
+Also: Mehr Bandbreite führt zu mehr Identitätsdiebstahl.
+
+[Zwischenruf: Wir haben hier 100 Gig – Gelächter, Applaus]
+
+Was die Leute hier mit den 100 Gig gemacht haben, dazu kommen wir gleich.
+
+RON: 94% der Javaplugins da draussen sind veraltet, das muessen wir nicht kommentieren, oder?
+
+35% der Mobilgeräte ohne Passwort in Europa -- lassen wir mal so stehen.
+
+Die großen Botnetze haben mehr als 1 Mio. Bots. Das sind, glaube ich, die PC-basierten Botnetze, denn die routerbasierten müssten noch viel, viel größer sein.
+FRANK: Ist mit den Spielkonsolen schon was los? Die sind doch mittlerweile auch alle online.
+
+[einruf: buegeleisen]
+
+10% der deutschen Webseiten sind verseucht.
+
+RON: Das ist angeblich ein hoher Prozentsatz, in den USA sollen es weniger sein
+
+FRANK: Naja, Ad Networks [?]. Ein Adblocker ist eine Sicherheitsmaßnahme, falls euch wieder einmal jemand von der Presse fragt, warum ihr Adblocker laufen lasst: wegen der Sicherheit. [Applaus]
+
+RON: Auf einer Sache wollte ich noch rumhacken: bei diesen 40-50 Mio potentiellen Opfern durch dieses UPnP (also Universal Plug and Play) -Protokoll, das Router auch auf der externen Schnittstelle zur Verfügung stellen, obwohl es eigentlich nur nach intern offen sein sollte,
+da war ja der interessante Punkt, wenn man sich die 200 Hersteller anschaut, dass 75% von denen sich auf nur 4 verschiedene Entwicklerkits abstützen.
+Das heißt, da gibt es so eine Monokultur, möchte man fast sagen, von Entwicklerkits für dieses UPnP-Protokoll, das alle verwenden, und wo offensichtlich auch uralter Code unterwegs ist, weil es Code mit Fixes schon seit zwei Jahren gab, als es rauskam, und die Dinger einfach nicht up to date sind.
+Gut.
+Was ist mit E-Government gelaufen dieses Jahr?
+FRANK: Einiges.
+RON: Public Sources Auswertung nimmt zu, können wir festhalten,
+
+FRANK: Ist mittlerweile eigentlich der Standard geworden. Social Media auszuwerten machen sie alle.
+RON: Wir warten da eigentlich auf die Sockenpuppen-Gegenbewegung. Wenn plötzlich auf Twitter alle sagen, wir biegen jetzt rechts ab und die Leute biegen tatsächlich links ab.
+FRANK: Oder 2 Millionen Sockenpuppen sagen, wir gehen übermorgen mal in Berlin demonstrieren. [Applaus]
+
+ist ja nicht so, dass man so was nicht auch kaufen kann. So eine kleine Spendenkampagne ist billiger als Demonstranten kaufen, Facebook-Freunde kaufen geht viel billiger.
+
+[Einruf: Botnets]
+
+Ja, das fällt dann wieder auf.
+
+RON: Was kam noch raus? Stuxnet ist schon seit 2007 im Umlauf. Das sind ja die spannenden Sachen: Wenn man denkt, da kommt was um die Ecke, es ist riesengroß und keiner hat es kommen sehen …
+
+FRANK: Stichwort „kommt was um die Ecke“, wir kriegen da …
+
+Ein brauner Umschlag.
+
+Mach mal weiter, ich guck mal in den braunen Umschlag.
+
+RON: Stuxnet 2007 beweist natürlich eins, was jeder Architekt und Softwareentwickler kennt: Ein großes funktionierendes System war früher mal ein kleines funktionierendes System.
+Und tatsächlich war wohl der modernere Teil von Stuxnet nicht so schön wie der alte Teil, wie bei Häusern eigentlich.
+
+[Zwischenruf in Richtung des Kameramanns, Gelächter]
+
+FRANK: Das mit dem Leaken müssen wir hier noch mal lernen.
+
+Interessant. Wo wir gerade bei E-Government sind, das war sozusagen ein passender Leak. Es geht hier in einer Statistik darum, wie viele Leute haben denn die eID-Funktion im elektronischen Personalausweis angemacht.
+Bayern liegt das ganz weit vorne mit immerhin 30%. Die anderen haben so zwischen 20 und 30 Prozent.
+In den Städten ist es mehr. Es gibt aber auch Personalausweisbehörden, die unter 10% haben von Leuten, die das aktivieren lassen.
+Und aus irgendeinem Grund ist ein stark sinkender Trend bei der Aktivierung der eID-Funktion beim Personalausweis zu verzeichnen. [Gelächter, Applaus]
+
+RON: Woran kann das nur liegen? Lass mich überlegen, du hast ein Produkt und es verkauft sich nicht, wer ist Schuld?
+
+FRANK: Die Verkäufer. In dem Fall die Mitarbeiter in den Bürgerämtern. Steht hier auch. [Gelächter]
+
+Die müssen sozusagen mehr … „jede Technik braucht ihre Zeit,  bis sie sich durchsetzt.“ Sie müssten das jetzt mal machen, denn das ist ja modern, auch sehr schön.
+
+„Der Ausweis ist zehn Jahre gültig, auch wenn die Zahl der Anwendungen heute noch überschaubar ist, denken Sie doch an morgen!“ Großartig.
+
+Oh, und wenn Sie die Online-Ausweisfunktion erst in ein paar Jahren einschalten lassen, kostet es extra Geld. Auch schön.
+
+Sie mögen bitte Plakate aufhängen in den Bürgerbüros dafür, dass sie mehr eID freischalten. Ganz großartig-
+
+30% klingt jetzt nicht so, als würde der E-Government-Durchbruch unmittelbar bevor stehen. Wer von euch hat eine eID-Funktion in seinem Personalausweis angemacht? [wenige, Gelächter]
+
+Moment, es gibt ja mehrere Motivationen, das zu tun. Aus Forschungsgründen ist das vollkommen legitim.
+
+RON: Ich zitiere, ihr müsst das schon machen, es passiert nix:
+"Ohne Kenntnis Ihrer PIN kann niemand Ihren Ausweis im Internet verwenden" [Gelächter] Traut euch!
+
+Warum hast du das nicht vorgelesen? Das ist doch der Brüller:
+
+"Ändern sie heute noch nicht die Transport-PIN. Sie können den Brief so lange verschlossen aufbewahren, bis sie ihn brauchen. Dan kann auch nichts passieren" [Gelächter, Applaus]
+
+Mein persönlicher Rat, wenn das gerne jemand tun möchte, sich einen zuverlaessigen Notar suchen und es dort aufbewahren lassen, damit man wenigstens was beweisen kann.
+
+FRANK: Kostet wahrscheinlich mehr als der ganze Perso.
+
+RON: Wunderbar. ELSTER rückt von Java ab. [Applaus]
+
+Das wird das Bruttosozialprodukt um 2% nach oben drücken, da hab ich überhaupt keine Zweifel. Habt ihr das mal bedient? Wusstet ihr, wie langsam das ist und wie schnell das jetzt ist ohne Java?
+
+[Einruf]
+
+FRANK: Nochmal?
+
+ZUSCHAUERMIKRO: Es begab sich also zu dieser Zeit, dass der Dezember jährte und ich dann daran dachte, doch meine Steuererklarung für das Jahr zuvor zu machen. [Gelächter] Ich nahm meinen großen Stapel Papier, setzte mich vor meinen Browser, öffnete die in JavaScript geschriebene ELSTER-Online-Anwendung und verbrachte ungefähr 3 Stunden damit, dieses Formular durchzugehen und Dinge auszufüllen.
+Dann kam etwas dazwischen, Essen, bin also in die Küche gegangen und habe ein Brot geschmiert, bin zurückgekommen, sagt das Ding: „Ihr 30-Minuten-Timeout ist abgelaufen“
+[Gelächter, Applaus]
+Dieses komische Windows-Formular, Elster.exe, hat am Ende funktioniert. Ich hab das getwittert, da kam jemand und meinte: Das Problem kenn ich, ich hab in einer Bude gearbeitet, die hat die Anwendung für die Arbeitsämter gemacht. Da ist das auch so. [Gelächter]
+Nein, man kann nicht speichern, nach 30 Min. sind einfach die Daten weg. Leider kein Fortschritt. [Applaus]
+
+FRANK: Nach unserer Definition ja schon, denn Fortschritt ist Rückschritt beim E-Government.
+
+ZUSCHAUERMIKRO: Aus zuverlässiger Quelle, wie man die halt so im Internet hat, sieht es so aus, dass die beim Finanzamt ihre Strukturen so wählen wollen, dass die Microsoft-Cloud-fähig sind, was natürlich auch ein Fortschritt beim E-Government ist.
+
+FRANK: Oh ja, insbesondere bei Open Data und Transparency und solchen Dingen. [Gelächter, Applaus] Leider gegenüber den falschen Leuten, aber …
+
+RON: Man muss ja mit der Zeit gehen und Standards nutzen.
+
+[Frank und Ron lachen]
+
+ZUSCHAUERMIKRO: Wer hat denn seine RFID-Chips gekillt hier?
+FRANK: Wer hat einen Pass mit getötetem RFID-Chip? Wer kennt jemand mit Perso mit einem getöteten RFID-Chip? [Zwischenruf] Wer hat noch nen Alten? [fast alle melden sich, Gelächter]
+
+[Zwischenruf]
+
+RON: Genau, den darf man wenigstens noch für Tretboote hinterlegen, nicht wahr.
+
+ZUSCHAUERMIKRO: Man kann den Mikrowellenofen benutzen zum Desinfizieren und auf so einem Ausweis steht ja nicht drauf, dass man ihn nicht zum Desinfizieren in die Mikrowelle legen darf. [Gelächter, Applaus]
+FRANK: Also, da sollte man vorher erstmal sehr sorgfältig mit Zeit und Leistung experimentieren, denn der chip wird erstaunlich schnell erstaunlich warm und gibt ein erstaunlich grosses Brandloch. [Gelächter]
+
+[Zwischenruf]
+
+Ja, ich hab von jemand gehört, der … [Gelächter]
+
+Hardware verschrotten, weil sie softwareverseucht ist
+Gibts ja schon ne ganze Weile so als Trend.
+Und da jede Hardware mittlerweile Software ist, wenn man z.B. so einen Computer anguckt, so ein Notebook, der besteht aus schätzungsweise 30, 40 verschiedenen Computern, die drin werkeln, Kameracontroller, Mikrofoncontroller, USB-Controller, Tastaturcontroller, Displaycontroller usw. usf . Alle diese Dinge können für sich rechnen und wenn eins davon verseucht ist, kann man nicht alle wieder entseuchen. Insofern denke ich, Hardware verschrotten, nur weil die Software nicht mehr vertrauenswürdig ist, dürfte demnächst häufiger der Fall sein.
+
+Uns wurde auch gerade noch ein interessantes Detail erzählt zu Telefonen: Da gibt es Chips drin, die machen Power Control, die sorgen dafür, dass alles hoch- und runtergefahren wird, dass die CPU genug Spannung hat usw. usf., und die kosten Geld. Zunehmend ist der Trend wohl dahingehend, dass man diese Chips weitgehend durch den Hauptprozessor ersetzt, nur die physische Hardware hintendran macht, aber die Kontrolle des ganzen Power-Gedöns von einem Stück Prozessor machen lässt, der wiederum zugänglich für Software ist, was bedeutet, dass man möglicherweise demnächst aus Sicherheitsgründen größere Teile von Telefon- oder PC-Flotten per Software brickt, damit sie kein Sicherheitsrisiko mehr darstellen.
+
+RON: Redest du von Plaste-Routern, hast du gerade Plaste-Router gesagt?
+FRANK: Das hast du gesagt.
+RON:Oder hast du LG-Fernseher gesagt?
+FRANK:Das hast du gesagt.
+RON: Ja, interessante Fragestellung.
+Mit dem Verschotten von verseuchten PCs sind wir ganz weit vorne, das hat in Schwerin stattgefunden, genauso wie in den USA. In den USA haben sie mit einer Behörde mit so einer Maßnahme 2,7 Millionen US-Dollar vernichtet. Die haben erst aufgehört, als sie pleite waren. [Gelächter]
+
+Das nenn ich mal commitment to security.
+
+In Schwerin haben sie nach 170 Rechnern und 190000 Euro für Neubeschaffung aufgehört.
+
+Aber das kann schon passieren jetzt mit den Dingen, die dieses Jahr hochgepoppt sind. Was war das, Intel Advanced Management Technology?
+
+FRANK: IPMI meinst du?
+RON: IPMI, ist das Protokoll, glaube ich.
+FRANK: Ja, IPMI. Kennt ihr IPMI? Wer weiß, was IPMI ist?
+
+Für die, die das nicht wissen: das Management-Interface eures Servers und eures Computers hängt mit dem nackten Hintern im Internet.
+
+Wenn man sich mal die Mainboards von größeren Herstellern ansieht, dann werde typischerweise so 30 Remote Exploit Vulnerabilities auf einmal veröffentlicht. Das war bei einem Hersteller dieses Jahr der Fall, und die waren seit Jahren offen. Wenn man da mal ein bisschen rumgeht, dann sieht man das immer noch, die liegen meistens auf relativ bekannten Ports, wenn man ein bisschen drauf rumklopft, fällt es auch meistens relativ schnell auseinander und man kann interessante Dinge damit tun. Man kann das BIOS bedienen, Software updaten, Dinge hoch- und runterfahren, alles sehr convenient und praktisch.
+
+RON: Das eine kommt ja von Intel, ist glaube ich aus 2008, und da fragt man sich wirklich, ob die hysterisch lachend in einem Besprechungsraum gesessen haben und sich überlegt haben, ach, wir nehmen da son kleinen PowerPC oder nen ARM-Core und lass uns da ein altes Linux draufschmeißen. Und was machen wir noch, lasst uns ihm DMA geben auf das RAM, 'what could possibly go wrong?'. Und damit es bedienerfreundlich und günstig ist, lass ihn auf dem selben Ethernetport lauschen, wo der User seinen Stecker reinsteckt, und lass es sich eine DHCP-Adresse greifen und jedes Paket vor dem Application Processor, möchte man fast sagen, vor dem eigentlichen Hauptprozessor der Platine auswerten. Höhöhö. [Gelächter]
+
+FRANK: Dazu muss man sich so einen James-Bond-Villain vorstellen, so hehehe ...
+
+RON: Ja, „was kann schon schiefgehen, lass uns das machen“
+
+Und das ist wohl inzwischen auch auf Rechnern drin, die man so im Laden kauft, also wir hatten da mit einem Engel gesprochen, einem PC-Schrauber, der hatte keine andere Erklärung dafür, warum er den Virus nicht mehr vom Rechner seiner Mutter runterkriegte, der dann auch verschrottet wurde.
+
+Ach so: die haben sich ueberlegt bei Intel, wie sie schneller mehr Hardware verkaufen?
+[Gelächter] Warum bin ich da nicht gleich drauf gekommen?
+
+
+Noch schöner ist es dann, wenn die Software tatsächlich updatefähig ist und auch regelmäßig beim Updatesever anruft, und der Updateserver dann mit IIS 6 läuft im Jahr 2013.
+
+FRANK: So passiert bei Huawei.
+
+RON: Und jetzt die Geschichte mit Microsoft, die haben Extraserver, hab ich mir sagen lassen, auf denen die Crashdumps landen, die ihr ihnen vielleicht zukommen lasst, damit sie ihre Software besser machen koennen.
+FRANK: Nein, nein, die ihr der NSA zukommen lasst, damit die Malware besser getargeted werden kann.
+RON: Damit die dann daraus Steuer-CDs brennen kann, meinst du?
+FRANK: Ja. Oder was auch immer der Modus operandi für dich als Target sein wird.
+
+Medizingeräte, kennen wir alle, ist meistens nicht so, dass man im Krankenhaus liegt und eine Ethernet-Dose neben seinem Bett hat und Langeweile hat [Gelächter] Das ist manchmal ganz schön doll gruselig, selbst wenn man nichts tut und nur guckt, was da so zu sehen ist, da geht man doch lieber schnell wieder Tetris spielen
+
+RON: Es gibt Dinge, die will man nicht wissen.
+
+In diesem Jahr gabs dann eine Warnung zu 300 medizinischen Geräten, so wie ich das verstehe alle mit Ethernet-Schnittstelle, von 40 verschiedenen Herstellern und da gings nur um fest eingestellte Passwörter. Da gings noch nicht mal um veraltete Software oder so was.
+
+FRANK: [leise, zu Ron] Bisschen auf die Tube drücken …
+
+RON: Ja. Dann das Thema böse Defaults. Es geht los mit kleinen bösen Defaults wie bei Browsern, ob der jetzt Third-Party-Cookies annimmt oder nicht. Das sind so die kleinen Defaults, die man richtig machen kann oder falsch.
+
+FRANK: Der Inhalt des Certificate Stores, von dem man Root-Zertifikate in seinem System hat, fällt für mich auch unter böse Defaults.
+
+RON: Auf jeden Fall, und dann würds ja spannend werden, wer auf der Basis seiner selbst gewählten Defaults richtig auf die Fresse fällt.
+
+
+Da gibts die Firma RSA, nicht wahr [Gelächter], die wohl, so stands bei Reuters, 10 mio Dollar dafür bekommen haben, dass sie in ihrem Product BeSafe einen schlechten Default gewählt haben.
+
+FRANK: Einen bösartigen Default, muss man wohl sagen. Es gibt  schlechte defaults, die waren schon schlecht oder sind schlecht geworden, und dann gibt es bösartige Defaults.
+
+RON:Genau. Deswegen warten wir jetzt, weil wir an ausgleichende Gerechtigkeit glauben, immer noch im Jahre 2014 auf die Schlagzeile, dass sie mit BeSafe auch ihre eigenen Keys geseedet haben.
+
+FRANK: Wissen wir nicht, aber liegt irgendwie nahe. Wenn man einem schönen kaputten Random Number Generator hat, kann man ihn auch für alles mögliche andere verwenden.
+
+RON: Gut, was gabs sonst noch Bemerkenswertes?
+
+FRANK: Ja, Biometrie war eines der interessanten Themen.
+
+RON: Wer von euch nimmt teil an dem großen weltweiten Biometrieexperiment TouchID?
+
+Genau, Starbug hat teilgenommen, das war der, der zählte.
+
+FRANK: Und dann war’s auch schon wieder vorbei.
+
+RON: Genau. Freitag war’s in den Läden, jedenfalls die paar Läden, die eins hatten, und Sonntag war das Thema durch, richtig?
+
+Und die wirklich wichtige Frage wurde nie beantwortet: Wie hat er es geschafft, schon am Samstag eins in die Finger zu kriegen? [Gelächter]
+
+FRANK: Das wissen wir: Heise hat uns dabei geholfen.
+
+RON. Die haben Leute gehabt, die in der Schlange standen?
+
+FRANK: Ich weiß nicht, ich glaube, die hatten …
+
+RON: Die hatten ein Review-Ding.
+
+FRANK: Es war tastsächlich eine Kooperation mit Heise an der Stelle.
+
+Interessant an dieser Biometriegeschichte ist eigentlich was Anderes. Biometrie war immer ein bisschen so hm, naja, schon wieder dieses Thema, haben wir doch schon vor zehn Jahren kaputtgemacht, warum sollten wir es jetzt nochmal anfassen.
+
+Wir tendieren dazu, wenn wir eine Technologie so richtig kaputt gemacht haben, sie beiseite zu legen und zu sagen, da wächst so schnell kein Gras mehr.
+
+Und was Apple da getan hat, war, gut, sie haben versucht, es so gut wie möglich zu machen, es war halt nicht gut genug, nicht weiter überraschend, aber sie haben zum Beispiel etwas getan, was viele andere nicht tun werden und auch früher nicht getan haben, nämlich das Matching des Fingerprints im Telefon zu machen und nicht in die Cloud zu schieben.
+
+RON: Soweit wir wissen.
+
+FRANK: Soweit wir wissen, genau.
+
+Was jetzt natürlich passiert, da Apple ja der Marktführer ist, oder zumindest der Coolness-Führer, nehmen viele Hersteller, die sich als zweiter, dritter oder vierter in diesem Markt verstehen, die Richtung auf, die Apple vorgibt, sprich die bauen auch Fingerabdrucksysteme in ihre Telefone ein.
+Und das sind halt meistens so Androidhersteller, die zeichnen sich vor allem dadurch aus, wenn sie irgendwo einen Zehntelcent sparen koennen, dann tun sie das, aus Gründen der Margen, die sie auf diese Telefone haben.
+
+
+Und so ein Chip, der Match-on-Chip macht, also das Matching des Fingerabdrucks mit dem Template auf dem Telefon macht und nicht irgendwo in der cloud, ist einfach teurer.
+
+Wir koennen also davon ausgehen, dass Apple mit TouchID ein bisschen die Büchse der Pandora aufgemacht hat und wir im nächsten Jahr eine Menge Telefone sehen werden, die Fingerabdruckleser haben – der wird natürlich genauso kaputt sein wie TouchID, sogar noch viel kaputter, weil sie alle eine geringere Auflösung haben, aber das matching eben nicht im Telefon passiert, sondern wenn überhaupt in Software auf dem Telefon, aber eher in der Cloud
+
+Das heißt, diese TouchID-Nummer war das Öffenen der Büchse der biometrischen Pandora, wenn wir da nicht nächstes Jahr noch ein bisschen draufklopfen.
+
+
+RON: Ja, aber da nimmst du ja an, dass die anderen es hinkriegen, dass das funktioniert. es besteht noch Hoffnung.
+
+Eine der cooleren Sachen, die wir dieses Jahr gesehen haben, war die Drohne, die andere Drohnen versklaven kann, wenn sie in der Gegend rumfliegt, nach SSIDs von anderen Drohnen guckt, dann das WPA, das da drauf ist, bruteforced, dann den User, den eigentlichen Piloten rausschmeißt und dann anfängt, der Drohne, die sie übernommen hat, Flugbefehle zu geben. [Applaus]
+
+Gibts ein ganz ordentliches Video auf Youtube, das war auf jeden Fall echt was wert.
+
+[Zwischenruf]
+
+FRANK: Ja, das waren [?] Drones, um die es da ging, das sind halt fliegende Exploit-Targets.
+
+Ganz großartig, und man kann da jetzt auch, mit ein bisschen Mühe, sich an einem Samstagnachmittag im Park einen schönen Drohnenschwarm zusammenhijacken. [Gelächter]
+
+[Zwischenruf: Drohnen von Amazon geliefert]
+
+Ja, Amazon shippt auch die [?] drones, ob sie auch mit den [?] drones shippen, wird noch die interessante Frage.
+Ich glaub ja eher an Rohrpost als an Drohnen als Ausliefungssystem. [Applaus]
+
+Ja genau, wer hat denn neulich mal bei nem Kumpel oder so sein Telefon zum Laden an ein Netzteil gesteckt mit USB, na? Und, wer fühlt sich noch gut dabei? [Gelächter]
+
+Netzteile die Telefone exploiten, wir leben einfach in einer Zeit, in der diese ganzen Chips einfach viel zu billig geworden sind. Man kann sie überall einbauen, nicht nur in Bügeleisen, sondern auch in Netzteile, und mittlerweile muss man wohl immer kleine versiegelte Köfferchen mit seiner Hardware mit sich rumtragen, die mit der Hardware, die Informationen enthält, in Kontakt kommen.
+RON: Du siehst ja auf den Flughäfen ja immer diese Säulen mit USB,
+FRANK: Da frage ich mich immer, benutzt die jemand?
+RON: Ja, da siehst du Leute, oder?
+FRANK: Echt?
+RON: Ja.
+FRANK: OK. Tja, dann sollte man wohl mal welche aufstellen davon. [Gelächter]
+
+RON: Dann gab’s diesen total irren Bericht darüber, dass eine Smartphone-Kontrolle von Autofahrern, – Achtung Reizwort für Deutsche: Autofahrer – bei Anfangsverdacht erlaubt ist.
+Jetzt, Kontrolle worauf? Auf Radarblitzer-Warnungssoftware.
+Wie muss da der Anfangsverdacht aussehen? Er ist nicht zu schnell gefahren.
+[Gelaechter, Applaus]
+
+Das mit der Java-Abschaltung durch Browser- und OS-Hersteller ist mal ein interessantes Phänomen der Selbstverteidigung, das wir hier beobachten können und wo man sich die Frage stellt, ob man das weiterspinnen muss und wer irgendwann losgehen wird und diese ganzen Plasterouter da draußen ausschalten wird wegen der Sicherheit. Keine Ahnung.
+
+[zu Frank, leise] USA, berührungslos Daten einspeisen?
+
+FRANK: Ja, diese Gerüchte gibt es schon eine Weile. Ob was dran ist, wissen wir noch nicht so genau.
+
+RON: Ja, haben wir noch nicht gesehen.
+FRANK: Ja.
+
+RON: Trojaner tarnen sich per Chat-Protokoll, und die Geschichten mit den Netzwerkkarten hatten wir ja schon.
+
+FRANK: Eines der interessanteren Dinge dises Jahr war der Internet Census, mal das ganze Internet durchklappern und auswerten. 
+wir hatten da mehrfach drüber gelesen, hzum einen von den ganzen diversen akademischen Research Projekten, die das gemacht haben, dann haben wir darüber gelesen, dass die NSA es auch tut und das GCHQ, also vollständige Internet-Landkarten erstellen und gucken, was da überall so ist.
+
+Und dann bekamen wir einne interessante Einreichung im Vorfeld, wo jemand das auch von hier aus mal gemacht hat, also mal das ganze Internet durchgeklingelt hat, weil wozu haben wir denn hier 100 GBit.
+
+Und zwar nur selektiv einen Port gefragt hat, in dem Fall den Port für VNC [Gelächter], und immer wenn sich ein Bildschirm offerierte, der kein Passwort wollte, einen Screenshot gemacht und weitergegangen. [Gelächter, Applaus]
+
+Da haben wir ein paar Screenshots bekommen, aus denen wir einen kurzen Film gemacht haben [Applaus] Ihr müsst genau hinschauen.
+
+[Während des Films Gelächter]
+
+[Applaus]
+
+FRANK: Was ich einen sehr interessanten Kontrast fand zu den Vorträgen, die wir hier so hatten, die sich zum Teil damit beschäftigt haben, mit welchen fortgeschrittenen Angriffstechniken NSA & Co. operieren [Gelächter] und was es für fortgeschrittene Angriffstechniken gegen aktuelle Sicherheitsmaßnahmen wie Address Space Randomization gibt und worüber wir sonst an Defense-Techniken reden
+RON: Wie man den "air gap" überwindet.
+FRANK: Genau, wie man es schafft, Maschinen, die nicht am Netz sind, zu erreichen und so. Und dann geht man einmal durchs Internet und klingelt, man dreht noch nicht mal die Türklinke runter, sondern guckt nur so und bekommt den Abschaltknopf für den Notstromdiesel
+RON: Oder die Pumpe für die Wasserversorgung von whatever.
+FRANK: Oder das Einstellungssystem für den Chlorlevel im Schwimmbad
+oder das Pizza-Order-System von irgendwem
+oder die Banking-Software, die gerade diverse hunderttausend Euro anzeigt usw. usf. Kameras, Facebook-Logins, Onlinepoker, auch sehr beliebt, wo Leute sich beim Online-Poker gegenseitig digital über die Schulter gucken. [Gelächter]
+
+RON: Du guckst dir das an und denkst da, ich will nicht mehr sehen, zeigt mir nicht noch mehr; ich glaube nicht, dass ich noch schlafen könnte, wenn ich mir davon mal 120 Screens reingezogen hätte oder so.
+
+Ist das jetzt alles böse Hardware?
+
+[Zwischenruf: Frage]
+
+ZUSCHAUERMIKRO: Ich hab da kürzlich eine Webseite gesehen, ich hab den URL nicht mehr im Kopf, aber da hat jemand das gleiche gemacht mit Überwachungs-Webcams. Da waren auch lustige Sachen dabei, er hatte glaub ich so 300–400 Videos drauf stehen. Kameras, auf die man sich aufschalten konnte.
+
+RON: Ich glaub, das war eine Kunstinstallation mit Public-Kameras, die möglicherweise nicht wirklich Public-Kameras waren.
+
+FRANK: Davon gibts viele zehntausend. Was das zeigt: die Verbreitung einer unsicheren Technologie ist mittlerweile so groß, dass man immer gleich mehrere zehntausend davon in diesem Internet hat.
+
+Wenn man die dann findet, dann hat man die halt. Es ist jetzt nicht so als könnte man sich drauf verlassen: Wer soll das schon finden hinter dieser IP-Adresse, da führt ja kein Link  dahin [Gelächter], aber wenn man 100 GBit hat …
+RON: Er hatte nur eins, oder?
+FRANK: Oder wenn man nur 1 GBit hat, dann ist das kein großes Problem mehr, eben mal alle durchzuprobieren. Da sollte man schon ein bisschen drauf achten.
+
+ZUSCHAUERMIKRO: Nein, das war ein Anbieter, der anbot, dass man seine Kamera über eine website von jedem Ort aus abrufen konnte. das waren Anwohner, die diese Webcams zuhause in ihren Wohnungen oder in Clubs o.A. installiert hatten, und ich habe mich da mal ne nacht durchgeklickt, ich habs hinterher ausgemacht, weil es mir einfach zu peinlich vorkam, weil ich diese voyeuristischen Intentionen nicht durchgehalten habe.
+
+[Zwischenruf]
+
+FRANK: Man kann auch einfach mal typische Strings aus der Management-Software von solchen Kameras nach Google schmeißen, und da findet man tausende, von denen nicht mal die Hälfte ein Passwort gesetzt hat. Von so was gibts halt viele, ich finde, der Unterschied zwischen auf eine Webcam gucken und den Chlorlevel im Schwimmbad einstellen ist schon … [Gelächter]
+
+Ja, böse Hardware, Bügeleisen hatten wir schon.
+
+Evil SD Controller, das war einer der Talks auf diesem Kongress, wo ich wieder dachte gärtnern oder tischlern oder so. Denn eine Menge Leute hatte angefangen, nachdem USB-Sticks nicht so richtig vertrauenswürdig waren, zu sagen, nehmen wir halt SD Cards, also … Pech gehabt, ging auch nicht mehr. Sehr schade.
+
+RON: Vor allen Dingen, die können mit dem Datenstream, der da reinkommt und raus geht, alles machen und an jedes PDF einen Virus dranhängen oder sagen, sie hätten nur 2GB, obwohl sie eigentlich vier haben und alles, was spannend ist, nochmal in einen gesicherten Bereich reinschreiben, den der User nicht sieht und so. Also da geht zu viel.
+
+FRANK: Ja, eines der Dinge, die wir 2014 sehen werden, ist die Einführung von UEFI-Biosen, die tolle Sachen machen können, nämlich nachladbare Module.
+
+Man muss für die Malware nicht mehr das gesamte BIOS flashen, man kann auch einfach ein Modul nachladen, sehr praktisch.
+
+RON: Das wird den Diensten auch entgegenkommen. Da wird erst das NSA-Modul geladen, dann das BND-Modul und dann sind die Russen dran.
+FRANK: ich weiss nicht wer sich mit den ITU-Standards auskennt für Telekommunikation. Da gibts für die lawful interception, also fürs Abhören, einen Standard, dass die technischen Voraussetzungen dafür geschaffen werden, dass fünf unabhängige Dienste, Polizeibehörden, was auch immer, unabhängig voneinander jemanden abhören können müssen
+
+RON: Ohne dass die Dienste mitkriegen, wer da noch alles abhört.
+FRANK: Oder dass derjenige, der abgehört wird, es mitbekommt. Was passieren soll, wenn’s mehr als 5 sind, ist ein bisschen undefiniert. Es soll Fälle gegeben haben, wo so was passiert ist.
+Man fragt sich, wie ist es mit Computern, wenn sich mehr als 5 Leute wegen diesem BIOS sich auf die Füße treten. Wenn ich mir vorstelle, Jake zum Beispiel, bei dem wirds bestimmt ganz schön eng auf dem Computer.
+
+Eines der wesentlichen Dinge für 2014 wird das Problem … dass wir immer mehr gelernt haben, dass es alle möglichen Side Channels gibt, die es möglich machen, die Krypto zu brechen. Angefangen von Mikrofonen, Beschleunigungssensoren, mit denen man Passworte abschnorcheln kann, über Geräusch, was die Stromkonverter in den CPUs machen usw. usf., es gibt also jede Menge Möglichkeiten des Angriffs auf Computer. Immer beachten, zehntausende offene VNC-Webseiten versus ein Krypoangriff, der versucht, den Key aus dem Geräusch, was der Power-Converter der CPU macht, zu rekonstruieren. Das ist sozusagen das Spektrum, von dem wir gerade reden in der IT-Security.
+
+Aber klar ist, die Kontrolle über die Sensoren wird ein wesentliches Problem der IT-Security werden.
+
+RON: Wenn die Passphrase, die jemand eingibt, mitgehört werden kann von einem Telefon, das nur auf dem selben Schreibtisch liegen muss, nur 1 Meter entfernt, braucht man die Krypto nicht mehr zu brechen, weil man einfach die Passphrase abgreifen kann.
+
+Und wenn wir böse Hardware sagen, dann meinen wir eigentlich böse Software weil, was ist denn da noch Hardware, das ist ja alles Software? Das ist alles Hardware, die Software ausführen kann und deswegen ist die Frage immer nur, wo wo ist der jtag, oder?
+FRANK: Oder der SPI.
+
+RON: Böse Netze: Das mit diesen Internet-Zombiedatenbanken oder potenziellen Zombiedatenbanken wird sich jetzt langsam füllen.
+Es gibt da ja so schöne Projekte, die so CVE-Vulnerability-Datenbanken haben, das muss man nur verknüpfen mit so einem Internetzensus, das immer schön auf dem Laufenden halten und dann weiß man bei dem nächsten Zero-Day gleich, wo man hingreifen muss, wenn man ein paar Millionen Zombies braucht. [Applaus]
+
+FRANK: Einer der Klassiker, den wir schon eine Weile haben, ist ja die Baseband-Apokalypse, also die Baseband-Chips in Mobiltelefonen …
+
+RON: Wir haben aber immer gesagt, dieses Jahr noch nicht.
+
+FRANK: Dieses Mal sind wir der Meinung, 2014 könnte es passieren, es gibt mehrere Faktoren, die dafür sprechen. Zum einen sind Base Stations, mit denen man so ein Baseband effektiv angreifen kann über 2G oder 3G, mittlerweile echt billig geworden und ubiquitär verfügbar. Zum anderen ist in diesen Basebands mittlerweile wirklich alles Mögliche drin, von Spracherkennung über Videodekodierung usw. usf. und wir haben quasi eine Monokultur, in 90% aller Smartphones, die geshippt werden, sind Qualcomm-Chips drin.
+
+RON: Genau, und dann erinnert ihr euch, Monokultur hatten wir schonmal gesehen, alle benutzen dasselbe, sitzt auf demselben Ding wie der Application Processor, ist irgendwie dasselbe wie bei sonem PC mit einem MMI-Interface oder was auch immer.
+
+
+Das ist natürlich ein enorm saftiges Ziel, wo man sich fragt, warum ist da nicht schon früher was passiert, so ein Baseband kann SMSe verschicken, SMSe können sehr schnell sehr teuer werden, das kann Minuten produzieren und alles das, ohne dass es der User mitkriegt.
+
+Letztes Jahr haben wir gesagt, was uns noch schützt ist, dass die Batterielaufzeiten der Telefone alle nicht gut genug sind, die Leute würden es sofort merken, wenn das Ding verseucht ist, weil die Batterie so schnell leerzieht.
+
+Aber, der Punkt ist eben, dass die Basebands überall reinwandern, auch in ganz viele Geräte, die einfach immer Strom haben, und jetzt sogar die ersten anfangen, diesen Chip noch mit draufzukleben, auch wenns ein Bügeleisen ist.
+
+Wenn man das alles zusammenwirft, in einen Topf schmeißt und einmal umrührt und sich fragt, was wird dabei rauskommen, dann, denke ich, ist die Baseband-Apokalypse jetzt doch vor der Tür. [Applaus]
+
+Wir werden sehen, wir haben uns in der Vergangenheit höchstens um 10 Jahre verschätzt.
+
+FRANK: Neue Geschäftsfelder, was haben wir denn da so?
+Eine Idee war, bei so Insolvenzen fallen ja auch Zertfikate an [Gelächter, Applaus]
+
+RON: Was haben wir letztes Jahr gesagt, Domainnamen kaufen aus Insolvenzen, um darüber Malware zu servieren, natürlich nicht zu Ende gedacht, und jetzt Zertifikate aus diesen selben Insolvenzen kaufen, damit Malware signieren. Da sind wir wieder bei dieser Signatur-Apokalypse und möchten nochmal auf diesen absolut epischen Bugzilla-Thread hinweisen  über "Honest Achmed Used Cars and Certificates".
+
+FRANK: Den solltet ihr auf jeden Fall alle nochmal nachlesen.
+
+RON: Episch. Also der ehrliche Achmed mit seinen Gebrauchtwagen und Zertifikaten, wieder an dem Punkt, wo man Realität und Satire nicht mehr auseinanderhalten kann, denn dieses Jahr ist ja ein signierter Trojaner aufgetaucht - ich glaube von Digicert signiert - und die signatur war von einem Automobilhändler, den es nicht mehr gab, der insolvent gelaufen war oder so ähnlich.
+
+Tja, "Used Cars and Certificates".
+
+FRANK: Phishing-Mails lektorieren, ist auf jeden Fall … [Gelächter, Applaus] Wir wissen, gerade nach dem Studium ist es schwierig, einen Job zu finden, gerade in ein bisschen  abseitigeren Feldern, wenn man beispielsweise Psychologie studiert hat. Auch so Erpressungstrojanerschreiber brauchen noch Spezialisten, die dafür sorgen, dass der Trojaner möglichst effizient funktioniert. [Gelächter, Applaus]
+
+RON: Und dann den Suchmaschinenanfragenmixer. Das gibts doch bestimmt schon, das kann ich bestimmt schon als kommerzielles Produkt kaufen. Wenn ich mir so angucke, wie sich manche Firmen Sorgen machen, dass jemand mitkriegt, was in ihrer Forschungsabteilung läuft und trotzdem benutzen die Forscher in diesen Firmen alle Google, um herauszukriegen, wie sie ihr Problem lösen, da ist doch auch jede Frage an Google eine Antwort an Google, das möchte man doch eigentlich durch einen Mixer stecken.
+
+FRANK: Die Abschlussrubrik wie immer: Trendsportarten
+RON: Genau, also wir haben die leichten Sportarten: einfach mal mit nem offenen WLAN herumfahren und gucken, wer sich einbucht. [Applaus]
+
+So wie „wie viele Bügeleisen sind es denn“ [Gelächter]
+
+Man hört ja immer, dass die Jugend nicht mehr so weit rumkommt wie früher. Früher ist man auf dem Land mit einem Schmetterlingsnetz über die Felder gerannt und hat hinterher geguckt, was drin war. Wir von der Küste sind mit dem Kescher durch die Wogen gelaufen und haben hinterher geguckt, was drin war. Das macht man jetzt, denke ich, mit dem Android-Tablet, das man bekommen hat zu Weihnachten [Gelächter], mit 12.
+
+Das ist die Wiederholung, wir haben schon gesagt, wir brauchen mehr Open Data, wir brauchen mehr Sensornetze. Manchmal fragt man sich, ob man die wirklich will, aber wir müssen Baselining machen, da führt kein Weg dran vorbei, sonst kriegen wir nie raus, was normal ist
+
+FRANK: Genau, dieses „rauskriegen, was normal ist“ ist etwas, was wir für 2014 sehr dringend empfehlen: mehr Logfiles lesen bzw. mehr Logfiles durch Software lesen lassen.
+
+Denn wenn man mal genau hinguckt, ist der größte Teil von dem, was wir so gehört und gelesen haben, auch was die NSA und das GCHQ in den Netzen tun, mit Verkehr umleiten und schneller sein und diese Quantum-Attacken usw. usf.  – wenn man genau weiß, wonach man suchen muss, finden sich davon Spuren in Logfiles, insbesondere wenn man Logfiles aus mehreren Stellen aggregiert. Dann lassen sich, wenn man Timing hat usf., auch eine Menge interessanter Sachen herausfinden.
+
+Deswegen so als Empfehlung: wenn ihr gelangweilte Akademiker seid, die gerade ein neues Projekt für die Doktorarbeit suchen, sucht doch mal ein paar große ISPs und macht ein bisschen Data Mining auf den Logfiles, um zu gucken, was da so ist, was da so an Kram installiert ist, der da nicht hingehört. [Applaus]
+
+RON: Und wem das zu logisch ist und zu abstrakt und zu bildschirmorientert, der mehr so hands-on sein will und mal mit dem Lötkolben beigehen: Jetzt gibt es endlich auch Military Surplus Infrastructure, also nicht nur Hosen, sondern auch Schüsseln und andere Sachen, mit denen man wirklich was machen kann, und das taucht jetzt langsam auf den Schrottplätzen dieser Welt auf oder auf eBay.
+
+FRANK: Und in den geostationären Umlaufbahnen [Gelächter]. Auch dort ist jede Menge Surplus-Hardware, die nicht mehr benutzt wird.
+
+RON: Da geht noch was.
+FRANK. Da geht noch was. Es gibt noch eine Menge zu tun.
+
+RON: Damit kommen wir zum Ende [Zuschauer: oohhh] und wünschen euch wie immer  einen guten Rutsch ins Jahr 1984!
+
+[Applaus]
+
+FRANK: Und da wir schon ein bisschen länger gebraucht haben als geplant, werden wir direkt nahtlos zur Abschlussveranstaltung überleiten.
+
