@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -lhS *.txt | cut -c 27-34,47-55 > size-report
+
