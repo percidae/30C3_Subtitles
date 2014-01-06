@@ -1,0 +1,6 @@
+#!/bin/bash
+for file in $(ls *.txt); do
+	tail -n+24 $file > temp.txt 
+ 	rm $file
+	mv temp.txt $file
+done
