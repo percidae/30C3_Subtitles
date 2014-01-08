@@ -11,8 +11,9 @@ or: www.twitter.com/c3subtitles (most up to date infos)
 
 The language is supposed to be: 
 [ ] German 
-[ ] English 
+[X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/eOoD9nRqjdue/info/ 
 -------------------------------------------------------------------------------------------------------------
 
 Ok thanks a lot, I think the introduction was really thorogh, so I can just skipithis slide. So I'm going to talk about fpga's 

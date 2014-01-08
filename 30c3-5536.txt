@@ -4,6 +4,8 @@ Link and further information can be found here: https://events.ccc.de/congress/2
 
 The language is supposed to be: 
 [ ] German 
-[ ] English 
+[X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/ZWRbSoz3FqxU/info/ 
 -------------------------------------------------------------------------------------------------------------
+

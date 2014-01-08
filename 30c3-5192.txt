@@ -8,6 +8,7 @@ The language is supposed to be:
 [ ] German 
 [X ] English  
 (the orignal talk-language)
+Amara link: http://www.amara.org/de/videos/E6HP2r8oo8yT/info/ 
 -------------------------------------------------------------------------------------------------------------
 from: approx 1631?
 So the user paid, and now you have a bunch of extra stuff, some use a backend server

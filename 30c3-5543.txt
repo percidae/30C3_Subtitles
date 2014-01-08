@@ -15,6 +15,7 @@ The language is supposed to be:
 [ ] GermanProjects:Subtitles
 [x ] English  
 (the orignal talk-language) 
+Amara Link: http://www.amara.org/de/videos/oD089RQ3ivme/info/
 ------------------------------------------------------------------------------------------------------------
 
 

@@ -10,6 +10,7 @@ The language is supposed to be:
 [ ] German 
 [x] English  
 (the orignal talk-language)
+Amara  Link: http://www.amara.org/de/videos/eSmrG45AB7mJ/info/
 -------------------------------------------------------------------------------------------------------------
 
 so today i'm gonna talk about a very important subject: how to hack Tamagotchis
@@ -611,7 +612,7 @@ ANNOUNCER: Again.
 Q: Do you know of any other products using these same GeneralPlus chips that your reverse engineering is applicable to?
 
 A: Not the exact chip, although I've heard that Furbys also use GeneralPlus
-Also I was lookin into GeneralPlus and a lot of toy manufacturers or toy consulting companies offer to set you up with GeneralPlus
+Also I was looking into GeneralPlus and a lot of toy manufacturers or toy consulting companies offer to set you up with GeneralPlus
 So my guess is that a very large number of toys use it.
 If I think of it, there is actually a third one that I found out about which was a Hannah Montana toy and I actually managed to dump the code of that using an internal test mode of the toy, jumping it off the LCD
 But yeah, those are the two I've heard of

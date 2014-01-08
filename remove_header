@@ -1,6 +1,10 @@
 #!/bin/bash
+header="$(cat header)"
 for file in $(ls *.txt); do
-	tail -n+24 $file > temp.txt 
- 	rm $file
-	mv temp.txt $file
+	file_head="$(head -n 23 $file &2>1)"
+	if [ "$file_head" == "$header" ]; then
+		tail -n+24 $file > temp.txt 
+ 		rm $file
+		mv temp.txt $file
+	fi
 done

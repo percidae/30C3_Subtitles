@@ -8,6 +8,7 @@ The language is supposed to be:
 [ ] German 
 [x] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/zLQmTVh54kav/info/ 
 -------------------------------------------------------------------------------------------------------------
 
 talk: how to write an open textbook over a weekend

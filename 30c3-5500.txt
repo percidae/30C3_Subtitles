@@ -8,6 +8,7 @@ The language is supposed to be:
 [ ] German 
 [X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/Kjo1egNvmISB/info/ 
 -------------------------------------------------------------------------------------------------------------
 
 So, my talk is going to be about Anonymity and Privacy in Public.

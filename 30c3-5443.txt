@@ -12,6 +12,7 @@ The language is supposed to be:
 [ ] German 
 [x ] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/HToaCNX9Dqxf/info/ 
 -------------------------------------------------------------------------------------------------------------
 Please welcome ..
 Hardware and process anf FPGA's and brings with him lots of computer security. Held a lighting tak today on ...

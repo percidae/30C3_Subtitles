@@ -7,6 +7,7 @@ The language is supposed to be:
 [ ] German 
 [ x] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/IM3aPAJD5A95/info/ 
 -------------------------------------------------------------------------------------------------------------
 
 We came up with a system for duration of each signal.  Signal for 1 and 0 's and we gave each a system.  We didn't know radio so we wanted help form the community. The reason this is not working is because of us and not becasue of others.  

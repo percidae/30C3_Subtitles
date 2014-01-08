@@ -11,6 +11,7 @@ The language is supposed to be:
 [ ] German
 [ X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/3mLEkbrxB4aO/info/ 
 -------------------------------------------------------------------------------------------------------------
 Hello, it's great to be here. we're going to build on our previous year's talk, which some of your may have heard. if not, we'll catch you up. I'm sergey, we're from darkmouth. Julian was from darkmouth as well, but he defected. Traitor.
 

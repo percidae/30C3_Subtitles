@@ -9,6 +9,7 @@ The language is supposed to be:
 [ ] German  
 [x] English  
 (the orignal talk-language) 
+Amara Link: http://www.amara.org/de/videos/6e7D1YlwBSZO/info/
 -------------------------------------------------------------------------------------------------------------
 
 Hi, we're Anne and Dominic.and were here to tell you about brain computer interfaces

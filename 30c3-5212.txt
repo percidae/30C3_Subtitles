@@ -7,7 +7,7 @@ The language is supposed to be:
 [ ] German  
 [ x] English  
 (the orignal talk-language) 
-
+Amara Link: http://www.amara.org/de/videos/5JioSwb5IQ2J/info/
 
 The follwoing is NOT the "baseband exploitation in 2013" presentation --
 

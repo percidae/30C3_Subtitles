@@ -6,8 +6,9 @@ or the table of ALL pads: http://subtitles.media.ccc.de/
 
 The language is supposed to be: 
 [ ] German 
-[ ] English 
+[X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/8tSBEj1w38Cr/info/ 
 -------------------------------------------------------------------------------------------------------------
 
 Thank you for coming

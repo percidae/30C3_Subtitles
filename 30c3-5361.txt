@@ -13,6 +13,7 @@ The language is supposed to be:
 [ ] German 
 [x] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/2FKYeLpjdOeM/info/ 
 -------------------------------------------------------------------------------------------------------------
 
 Angel: Ok, this is Nate, he will do a talk about like responsible disclosure 

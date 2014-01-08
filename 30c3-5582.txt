@@ -10,8 +10,9 @@ or: www.twitter.com/c3subtitles (most up to date infos)
 
 The language is supposed to be: 
 [ ] German 
-[ ] English 
+[X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/9VcUa9bufpDy/info/ 
 -------------------------------------------------------------------------------------------------------------
 renglish mumble
 

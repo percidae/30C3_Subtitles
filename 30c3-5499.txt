@@ -14,6 +14,7 @@ The language is supposed to be:
 [ ] German 
 [x] English  
 (the orignal talk-language)
+Amara Link:  http://www.amara.org/de/videos/zQYOBTxLwAkw/info/
 -------------------------------------------------------------------------------------------------------------
 Alright, I'll think we're about to get started. Please take a seat and make sure the usual announcements: nothing blocking the aisles, no cables no bags nothing else so nobody trips over and we can actually empty the room if we have to in an emergency.
 With that I would like to introduce Ilja, he's the director of Penetration Testing at IOActive Most of you probably know him. He's been looking at the X.org code, the X Window system code and the things he found there. I'm sure it's gonna be pretty interesting ??? before. Please give him a warm welcome.and let's hear what he has to say about it.

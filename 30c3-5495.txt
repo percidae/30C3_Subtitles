@@ -17,6 +17,7 @@ The language is supposed to be:
 [ ] German 
 [x ] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/DNymsl1nTHVf/info/ 
 -------------------------------------------------------------------------------------------------------------
 ctually, this thing is a different version of another talk.
 It might just be a draft of something to discuss.

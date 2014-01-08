@@ -6,6 +6,7 @@ The language is supposed to be:
 [ ] German 
 [X ] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/zL2dXPyXROjp/info/ 
 -------------------------------------------------------------------------------------------------------------
 Andreas Bogk, 27-12-2013, 30c3 talk
 

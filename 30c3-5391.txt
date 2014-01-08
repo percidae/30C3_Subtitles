@@ -7,6 +7,7 @@ The language is supposed to be:
 [ ] German 
 [X ] English  
 (the original talk-language) 
+Amara Link: http://www.amara.org/de/videos/AcSYmwPfIfyF/info/
 -------------------------------------------------------------------------------------------------------------
 Y U NO ISP, taking back the Net
 (taziden)
@@ -98,41 +99,34 @@ Technical stuff actually is not a problem, like yeah, we can provide a 100GB of 
 So who's out there?
 In Spain there are Guifi, they have an amazing network with a thousand of nodes, wireless nodes, there is the Free Network Foundation in the US, there is  Ninux in Roma, Altermundi in Argentina, and individual networks in Germany, and there are others, there are plenty of others, but the problem is we don't know each other, we don't talk to each other, we don't benefit from the network, even in the same city. There's a funny thing: yesterday evening I was talking to some guy form the [Shuckspace] in Stuttgart, and he was very much interested in this. This morning I received an e-mail from a guy from Stuttgart who was running a non-profit ISP, a student one, with 4500 members, and I was like "What, they don't know each other and they are in the same city? What is wrong? It's not like we have the internet to know each other". 
 
-So commication and federaration is the key to this in my opinion. So I will introduce you to some kind of exclusivity (don't be too excited, or maybe… you will see). o we build a database at the beginning we thoght yust for France 
-we are asking each other 
-20 organisaton asking each other these numbers
-we build the database 
-is build with international scope in head
-with friendly isp you can 
+So commication and federaration is the key to this in my opinion. So I will introduce you to some kind of exclusivity (don't be too excited, or maybe… you will see). So we built a database, at the beginning we thoght yust for France, to share informations: we have monthly meetings in our French organization, with the federation, and we excange our problems, we ask each others on a frequent basis "Oh, now how much subscribers do you have, how big is your network?" and so… so it's quite a pain in the ass to have twenty organizations asking themselves these numbers: let's put this stuff into machines. So we built a database, automatic database that retrieves informations, like [???] and so. The good thing is that is built with an international scope in head, so it can be reused, it's free software and so. As a user you can find the closest friendly ISP, and as a friendly ISP you can [???] your informations. So here is the thing, I will demonstrate you. We are not all in the system right now. I will put it in english… wow it's english (laughing) almost!
+So you can  find the closest ISP next to you, like if I zoom on the map, then I say I'm living in the middle of nowhere, which is at my place, an then you just put the cursor there and then… TA-DAM! So you see, the area is covered by an organization next to you; there is a wireless network here and we provide ADSL around the area. So you click on the organisation and you have informations, like the contact, the mailing list, the number of subscribers, members, the chatroom if you want to interact with people, and there it is. It's quite simple but it's very useful, and it just takes a few minutes to add a new project: ADD MY PROJECT, you can automatically provide a JSON, we have a format for this, and you can also fill a form and provide info… and you're done, it appears on the map.
+So, the features, as i said: there is a certain amount of information on ISPs, like subscribers, areas, techno, blablabla, and it's free software, you can patch it, fork it, whatever you like. There is also a mailing list for discussions, international discussions: here is the link ffdn.org/diy and the idea I have in mind today and why am I in fornt of you today is why don't we have hackerspaces.org for non-profit ISPs? When I saw that two people from the same city don't know each other and don't know that there is a big network already existing and so… I'm amazed, it's weird, it's really weird, so I will invite you to discuss this and see what we can do to share this information and to have finally some… a better overview of what is going on around this.
 
-I will demonstrate you
-
-were are in the system right now
-
-oh its english (laughing) almost!
-so you can  find the closest isp to you... where im living in the middle of nowhere, at my place... you can see the closest isp to you.
-there is a wireless network here... you click on the organisation and you get the information, like the mailing list, the chatroom if you want to interact with people it just takes a few minutes to provide a new project you can automatically provide.. info, and youre done, its in the map.
-as i said. the features: there is information on isps, it is free software, you can patch it, fork it, whatever you like
-international discussions
-the idea I have in mind today and why I am here today is why dont we have hackerspaces.org for isps. why don't two people from the same city know there already is a big network ... to share some information 
+So, Why you no try? And here are the informations to contact us. If you're interested there will be a workshop in Hall13 at eleven… at 1PM, so you're welcome. Thank you.
 
 
+Alright, thank you very much, and [?] quick questions… anything from the interwebs?
+Yeah, for example is it hard to get an autonomous system number IP prefixes and to find someone for the BGP peering?
+Sorry, I didn't get the question.
+is it hard to get an autonomous system number IP prefixes and to find someone doing the BGP peering for you?
+It's really simple. The most difficult thing is to have public IPv4, but requesting an autonomous system (ASN) is really filling out a form, sort of. It's quite easy and that's something people usually think is difficult, and they think about technical issuses, but in the end when you discuss with us, with people who have tried to do this you understand that the technical part, the network part is simple, we do it on a daily basis, we edit config files, we try and so… you cannot edit the config file of your friend, that's the difficult part of this kind of things.
 
-the batter of you 
-if youre interessed there will be a workshop in Hall 13
+Ok, quick question from number 2 then we have to [?] sorry for that, you can ask him later.
 
-Questions 
-Yeah, for example is it hard to get an autonomous system number? ip prefixes and to find someone for the BGP peering?
-It's really simple Requesting an autonomous system (ASN) is really filling out a form. It's quite easy
-they think about technical issuses... ppl who have tried to do this you understand that the technical part... its simple, we do it on a daily basis... you cannot edit the config file of your friend, that's the difficult part of 
+Regarding the net neutrality: how hard is to stay under the radar or not? Because in your scale, in your scope you're still dependent upon a Tier 3 ISP for you access to [???] the internet, so you do not have enough power or enough mass to play with the big guys and make up you own rules and you're still dependent on the rules of the ISP itself?
+The anwser to that is that basically so far nobody has tried to enforce anything that we didn't want on our network on the layer three... where usally the network neutrality attacks appeared... so, we have neutral neutral networks that just works, the big telcos just don't care about us and they don't try to push; we have our own IPs, our own routing and so o, and so…just works.
+
+But you're not forced by legislation to keep logs and stuff?
+Well there are things enforced by legislation but we try to use FFDN to be our voice against it, to say "Hey we have a lot of people and we are against it, we are running ISPs and we say it's not OK", and we are ISPs with citizens behind and that's a different angle. That's important to have multiple angles to attack these kind of things.
+
+All right, it's all for that, we're all out of time, let's give him another round of applause. Thank you very much.
+And please remember to bring up a [???] radio. Thank you
 
 
 
+====================================================================
 
-regarding the net neutrality: how hard is to stay under the radar or not?
-You do not have enough power to mess with big guys and mess with rules?
-The anwser to that is that basically no one . on the layer three... where usally the network attacks appeared... neutral networks... the big telcos don't care about us... we have our own IPs it just works.
-we have our own IPs, our own routes.
 
 there are things enforced by legislation... we try with the ffdn to be against it, to fight it....
 ... that's a different angle to attack this kind of things

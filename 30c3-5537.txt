@@ -7,6 +7,7 @@ The language is supposed to be:
 [ ] German 
 [x] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/IwiKybILl85q/info/
 -------------------------------------------------------------------------------------------------------------
 I gonna talk about history of wearable computing. [talk about some imposter claming to invent wearable tech in 199x, invention of a shoe calculator] Someone with Bell Inc. IP changed the Wikipedia article on wearable computing to ensure Steve Mann was it's inventor. [crazy and creppy Steve Mann]. Steve Mann grandfather of wearable devises. This was the short history. 
 
