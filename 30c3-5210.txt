@@ -1,3 +1,319 @@
-c
+Text teilweise schon bei Amara.
+Alter Text kann via Revison 1 abgerufen werden
 
+http://www.amara.org/de/videos/y1Gk3maFbvNQ/de/627979/
+
+
+
+------------------------------------------------------------------------------------------------------------
+Text der bei Amara noch fehlt:
+
+ca. bei Minute 20:
+
+ich mache euch einen Vorschlag, jeder e-mail Client unterstützt sogar s/mime 
+ihr habt den Leuten diese Personalweise andrehen wollen den die Leute auch nicht wollten
+Leute könnten damit De-Mails verschlüsseln und signieren
+seitenhint? hätten in dem Mail sich die ganze Sache klemmen können
+in dem moment 
+ist genau für diesen Zweck da, ok 
+dann wurde gesagt, man musst irgendwie meinen Vorschlag der ende zu Ende Verschlüsselung ad absurdum führen loswerden
+geht das auch auf dem smartphone?
+hab ich gesagt "ja"  *Gelächter, Applaus*
+Das ist übrigens ein Tipp
+Tipp S/Mime Zertifikat aufs iphone laden
+halte ich aber nicht für eine gute Idee...
+ja aber ende zu ende Verschlüsselung müsste ich jetzt mal erklären
+wie macht man das in Türkei in einen Internet-Cafe geht und seine 
+ende zu ende verschlüsselte de mail abholen möchte 
+*Linus fasst sich an den Kopf*
+richtige Antwort: man macht es NICHT *Applaus*
+Naja, ich hab dann so erzählt und mir war auch klar, wenn so ein Gesetz erst mal an dem Punkt ist in dem Ausschuss zusein, wie gesagt das ist nur ein Theaterveranstaltung die da statt findet
+das Ding kriege ich auch nicht mehr gestürzt habe meine rolle versucht ernst zu nehmen aber das ding war verloren
+der junge mann der die frage stellte
+aus dem Ausschussraum raus gehen am Fahrstuhl der junge Mann (Manuel Höferlin): "ich weiß sie haben recht aber so ist das eben"
+und ich dachte, "ja was willst du machen.."
+ 
+Wir erinnern wir uns
+war in dem Innenausschuss die interessieren sich für innere Sicherheit
+erzähl ich was vom cyberwar und cybercrime was mir da os ein bisschen gar nicht aufgefallen war, das ich mich die ganze zeit auf sicher konzenterit habe und nicht auf nachweisbar
+also haben sie noch ein zweites gesetzt gemacht, das eJustice Gesetz in dem Fall müssen wir jetzt die ganze 
+Strafprozessordnung umschreiben damit wir bei gerichteter Kommunikation De-Mail anwenden können
+es ging wie gesagt um Nachweisbarkeit
+also das die jedesmal das Papier auf dem sie ausgedruckt wird auch wert ist
+oh schwierig also Juratext über Gesetzte selber
+und die Sätze waren auch echt viel länger
+ 
+Auch wenn es sich bei De-Mail um ein Transportmedium, bei der  qualifizierten elektronischen Signatur hingegen um ein  Dokumenten bezogenes Sicherungsmittel handelt, ist im Beweisrecht eine Gleichbehandlung beider Instrumente geboten, weil es sich bei der  De-Mail-Nachricht auch um ein elektronisches Dokument im Sinne von § 371  handelt und die Absenderbestätigung dazu führt, dass die Nachricht mit  einer qualifizierten elektronischen Signatur des Providers versehen wird.
+ 
+steht da so ist jetzt geltendes Recht
+ 
+qualifizierte elektronische Signatur
+Dokument gebunden angebracht
+text oder email oder sonst was mache ein bisschen Magie und habe aufgrund von asymmetrische Krypto das mein Empfänger feststellen kann das das Dokument von mir signiert wurde und auf dem weg nicht verändert wurde das ist ein sehr entscheidender Bestandteil von das findet auch bei den anderen asymmetrischen Verschlüsselungsverfahren Anwendung
+das gesamte... eine andere vertrauenswürdige Instanz
+kann man einen Trust-Chain aufbauen bin froh das es das gibt
+wir bauen diese funktin zu signieren in den neuen PA ein, geht auch in anderen Sachen
+so kann man bei seiner bank beantragen mit Zertifikat auf die Smartcard/EC-Karte und stecke meine pA Signaturkarte in ein Lesegerät und gebe den Geheimcode ein
+bringe Signatur an und mit gutem recht genau wo viel wert wie Signatur mit Tinte
+ist das ungefähr klar?
+man kann damit signieren
+wenn jetzt etwas signiert ist, welchen sinn haben Signaturen? Und juristisch geht natürlich um einen Identitätsbeleg gegenüber dritten
+zlb. verrag z.b. zum richter gehen und sagen, diese person hat sich nicht daran gehalten
+dokumenteirte willensbekundung muss ich mit sigantur versehen
+eine andere fuktion des PA den menschen zu verienfachen die identität zu lesen muss nicht mehr gucken..
+das ging natürlich nur zur einmaligen identitätsfeststellung
+bekommt nur einmal die daten der person und ein zeichen das der ausweis nicht gefälscht ist es gibt ausweis zueigen und unterschreiben
+bei De-Mail geh ich also einmal hin zur post doer irgendwo anders wo ich den ausweis zeigen kann
+ah wunderbar kriegst ne demial adresse
+also ist jede De-Mail die ich schreibe ein signiertes dokument und gleichwertig mit der qualifizierten elektronischen signatur
+dwas natürlich das hier ad adsurdum führt
+wenn wir das auf einen breif übertragen - gerichtsfestigkeit der De-Mail - g
+gehe irgendwann mal zur post und gehe..
+dann kommt magie und die post unterschreibt jeden brief für mich und ich wander dann dafür wo auch imemr ich hin mus hin, hat natürlich den nachteil wenn jemand anderes was in den briefkasten wirft hab ich gedacht wenn die anderen richter das hören 
+die andern sachfverständigen werden kreidebleich dann sagte dr. worlfarm vielfuss
+kalgeschriften gehen auch per postkarte
+mit andern worten soll ball bissel flascher spielen thema erledigt.
+wir können dann also Klagen in zukunft über web.de-grußkarte facebook oder twitter haben werden
+*Applaus*
+haben sich gegen ende zu ende verschlüsselung mit händen und füßen gewehrt das haupsächliche Argument war er ist zu kompliziert.
+tatsache dass viele menschen keine ende zu ende verschlüsselung benutzen ist darin begründet, dass es nicht per default im email client drinn ist
+smine hat sich noch nicht so ganz herum gesprochen, smine hat sich noch nicht so herum gesprochen
+mit de mal hätte man das so richtig schön machen können jedem bürger sein eigenes zertifikat tzu geben
+so richtig schön den anteil von verschlüsselter kommunikation den der staat nicht lesen kann zu erhöhen
+damit wäre auch erklärt warum da nicht getan wurde *Applaus*
+habe mich so bsisschen drüber aufgeregt und dann resigniert
+kam eines tages so ein brauner umschlag bei mir an
+hab ich gedacht..
+mal kucke habe ich erstmal nicht verstanden
+bisschen weiter recherchiert
+bisschen zurück in der zeit
+weit bevor es das bürgerportalgesetz gab
+grundschrein für De-Mail gelegt wurde
+2001 meldete eine kl eine firma die wortmarke Dmail an
+für sortierung...
+2007 meldete das bundesamt für sicherheit in der i-technik die wortmarke D-mail an für rechenmaschinen werbung - ist natürlich ein wichtiger bestandteil 
+und jetzt gab es ntürlich ein problem, denn das bsi hatte jetzt eine wortmarke veruscht anzumelden die schon einer hatte
+also hätte bsi dagen müssen scheiße müssen wir anders nennen
+haben 2008 De-Mail angemeldet
+was statt fand war eine vertragliche einigung zwischen bSI und firma Giersch Ventures in der geregelt wurde wofür das Innenmindesterium die wortmarke De-mail nutzen darf und wofür nicht und was darin 
+ausgeschlossen war dienstleistungen postdiensteligunen...
+auszug aus dem kleinen vertrag un ddamit eine bestimmte orm der nutzung bei de-mail ausgeschlosse ist und das wäre die form, dass ich die de-mail ausdrucke ..
+so dassa ich quasi einen breif machen kann, man könnte sagen einen postbrief man könnte auch sagen einen e-post-brief
+*Applaus*
+und das ist - jetzt wird es interessant, wenn sowas etwar mal gesetzlich festgelegt ist
+wenn dann mit so einer 
+geld verdienen kann auch geld verident wird und darüber war die 
+post nicht glücklich sich hgaben dann auch noch eu-beschwerden ..
+weil sie sich massiv genachteiligt fühlen weil sie schönen epostbrief haben genaus sicher bzw. unsicher ist und der darf nich de-mail sein, der hintergrund ist der geheimvertrag der mir zugespielt wurde
+sie haben sich sogar noch so stark durchlobbyiiert .. oder verlgeichbare sichere verfahren
+alles weil das BSI einen geheimvertrag über markenrecht hatte fand ich interessant
+Da hab ich mir gedacht "Hmm, von wem hat sich denn die Post beraten lassen, dass die da jahrelang so einen Epostbrief entwicklen und am Ende dann irgendwie da landen mit einem Produkt das sie eigentlich für den zentralen Kernbereich gar nicht vermarkten können. Und stellt sich raus, die wurden von BearingPoint beraten.
+BearingPoint war ein großer Berater der deutschen Post bei diesem Epostbrief. BearingPoint
+stellte sich erst vor kurzem durch einen anfrage durch die linke hraus war BearingPoint auch ein  großer berater bei der formulierung des de-mail-standards
+ein schelm wer böses dabei denkt
+*Applaus*
+anfrage wo die linke dafür gesorgt hat das alle firmen die für die BearingPoint im bereich it-sicherheit .. mal genannt wird und mal die projekte genant weden und unter anderem bürgerportale..
+ausserdem hat BearingPoint bei der egovernment initiative und dem neuen Personalausweis beraten und andere zentrale dinge
+andere firma die da mit gearbeitet hat die sich herausgestellt hat durch anfrage Dielinke
+war CSC und das war auch noch vor wenigen wochen in den Nachrichten
+CSC ist eine andere der wichtigsten partner der US geheimdienste entwicklen späh programme für die NSA
+tochetermifrma waf an verschleppung Kaleb el Masri beteiligt
+seit 2009 auftragsvolumen 25MiE für beratung von BReg bekommen also das Sicherheitskonzept wurde 
+wurde von einem US geheimdienst geschreiben
+Quizfrage: Kunden, die bei CSC De-Mail kauften, kauften auch:
+wer weiß was di enoch gemacht haben? Es sollte bestimmt noch einer, der hier ist wissen.
+publikum: "eperso"
+publikum: "bundestrojaner natürlich"
+die den codereview bei digitask und diejenigen die den codereview gemacht haben war csc
+und De-Mail haben sie uns auch noch gemacht, aber das ist ja was anderes
+kommen wir jetzt mal zum ende
+De-Mail geht so wie wir es jetzt haben
+geht nicht über email sicherheit heraus
+De-Mail geht nicht an e-mailadresse
+verschlüsselt nur auf dem transportweg auf server kann man weiter rein schauen
+sind wenige server die aufgrund der inhatle der nachrichten attraktivität als angriffsziel haben
+ 
+und einziger grund der das alles erkälren kann ist das es das ziel ist die wirtschaft zu fördern in deutschland und die abhörbarkeit der kommunikation zu erhalten
+*Applaus*
+und diese gesetz wurde so beschlossen ich hab das dsann mal irgendwann gesagt: 
+keine regierung ist so blöd ihren bürgern ein abhörsicheres komm mdikum zu geben, sagte auch
+edward snowden
+ihr erinnert auch muss dann großspurig angekündig werden die großen deutschen Anbieter
+alle anbierter initative verschlüsseln ihre emails. Sie setzen einen rfc um, 
+ 
+wurde 2002 noch überholt durch rfc2487 undd urch 
+idee ist ca. 15 jahre alt das man zwist dchen zwuei e-mail servern die Nachrichten /übertragung tatäschlich verschlüsselt machen könnte.
+*Applaus*
+ 
+das heißt das ist jetzt heir ne grafik die hab ich von der internetseite 
+"made in germany" ..
+der nutze rschreibt seine e-mail wird für den transport verschlüsselt wird 
+dieser e-mail server wird dann
+auch verschlüsselt herum und der nutzer holt sie auch verschlüsselt ab
+ 
+diesen teil machen warhscheinlich viele nutzer schon seit jahren weil es auch schon von den anbietern angeboten wird.
+das das ad adsurdum geführt wird.. was hilft es mir wenn ich meine nachricht verschlüsselt bis zu t-mobil gesendetw erden und.. wenn die dann alle nachrichten uinverschlüsselt ins internet blasen ..
+ 
+ 
+ 
+das haben sie
+sträfltich und unverzeihlich das sie die verschl nicht anhaben und machen werbekampange draus.
+sicher garantiert
+und wenn man kein e-mai made in germany hat kriegt man spam
+diese e-mail wurde aussicherheitsverbund das war so ein footer den gmx unter seine e-mails  .. gesendet
+quizfrage:
+woist die unverschlüsselte e-ail
+a) beim Abender
+b) bei der Telekom
+c) web.de
+d) empfänger
+*Applaus*
+e) a b c und d
+quizfrage:
+Wie sah es denn vorher aus?
+ungefähr so: 
+hab mir erlaubt die grafik etwas zu ändern
+und statt sich zu schämen macht man eben eine werbekampagne und als ich vor zwei tagen so drann an den folien saß ..
+hat sich denn überhaupt was verändert?
+wer  hat den nnoch zugriff?
+budnenachrichten dienst eplus bundesrkminalamt die leute 
+hatten alle zugriff auf diese e-mails
+als ich so dachte ach ich kuck mal wie sit das mit e-mails so ..
+sind verschüosselt, stell ich fest , sind nicht
+man ist weiterhin in der lage emails made in germany unverschlüsselt abzuholen
+bin folgender nutzer e-mail adresse und passwrot liste mal folder auf im posteingang
+hole mir bitte nachricht nr. 2 und logge mich wieder aus, das gleiche bei gmx und wenn ich jetzt noch genug zeit gehabt hätte hätte ich das live demonstriert ich denke ihr glaubt mir das so.
+e-mails made in germany können nach wie vor unverschlässselt vwersendet und abgehlt werden
+und es hilft auch nicht, das da ein siegel dran steht
+finde ich auch nicht in ordnng
+normale e-mail
+was haben wir bei e-mail made in germany
+sie setzten fast 20 jahre alte standards um
+viele jahre waren e-mails nicht verschlüsselt sie sind es ohnehin nur 
+nur auf transportweg das ist mit 
+anderen anbieter auch möglich
+ 
+unverschlüsstelt abholen usw. ist noch möglich
+ich weiß nicht was ich dazu sagen soll bin mit dem thema zuende...
+wobei ich sagen muss, dass diese Entdeckung, dieser Fund, mich schon schockiert hat und hätte eignetlich doch schon den beteiligten unternehmen zugetraut das sie dieses sicherheitsversprechen auch wirklich einlösen wurden.
+kurz zum grund das sie immernoch diese unver
+e-mail client so zu konfigurieren das unverschlüsselt kommuniziert wird
+wenn sie also von einem auf den anderen tag diese unverschüsselte verbindung ausschalten sorgt für anrufe bei heldpesk und für unglückliche kunden.
+weiß nicht ob kunden
+ich bin da echt ziemlich schokiert von
+ 
+anderes thema, das schlandnet
+ihr seht dieses magentafarbene T das kommt in allen vier immer vor ..
+ich schweirg zu erklären habe das oft versucht auch klements hat sich daran versucht
+als das internet gelegt wurde, das ist die BRD
+als das internet gelegt wurde, wurden diese kabel in der erde vergraben
+das wurde primär von leuten gemacht die im in-der-erde-vergraben-business sind
+*Applaus*
+leute die im kaber-vergrab business sind halten sich nicht an ländergrenzen das geht durch 3 länder ..
+da legen wir auch noch bisschen glasfaser mit rien haben wir internet
+halten sich selten an ändergrenzen
+und irgendwie müssen ja alles was internetr ist miteinander verbunden sein und
+dafür gibts commercial internet exchanges
+in frankfurt der decix
+wo so alles was irgendwie interne tmacht wo es..
+egal was wir wollen internet haben sdait verbunden sein die
+haben in der regel ein kabel nach frankfurt liegen und dort steht dann der de-cix
+und da kann man dann .. sowas wie wir hier, stecken kabel an
+könnte man sagen ist jetzt wunderbar, schön was hier passiert ..
+und alle..
+ihre datenpakete
+einige andere anbieter gedacht haben mh... ich bin so groß als anbieter, dass andere anbieter einen größeren vorteil davon haben sich mit mir zu verbinden als ich vorteil habe mich mit ihnen zu verbinden und das macht die deutsche telekom, die hat viele Kunden und 
+wermit uns verbunden werdenmöchte, peeren möchte, möge dafür zahlen
+naja wenn ihr schon ein kabel nach frankfurt legen habt, ist ungünstig, da sind wir nicht
+braucht kable kein problem sind im loch-graben-business
+anbieter sagt möchte mit Telekom verbunden werden
+möchte server aufmachen
+*Applaus*
+das ist passiert die letzen 10 jarhe in deutschland
+das heißt die anbieter wollen einen tollen telekom kunden haben wollen
+ist größter i-net provider in detuschland
+also gehen sie folgenden weg
+machen ein peering vertrag mit level 3
+level 3 wiederum ist sooo groß, dass selbst die t-kom kleiner ist
+sagt bei uns gibt es internet punkt
+wennwir dein neues internet sind und wir mit dier peeren gibt es alle verbindungen auch die zur t-kom
+die in deutschland teurer gewesen wären
+um also mit der telekom zu kommunizieren gehe ich einen kleinen umweg *Applaus* denn die physikalische distanz diee leitungs ..
+das ist eine millisekunde dafür vernüfntige anbindung der
+diesep poitik der t-kom automatisch kein schlandnet
+aber es ist der telekom zu verdanken, das wir keines haben
+natürlich die t-kom nicht besonders glücklich über diese entgangenen kunden
+aber wäre schöner wenn alle bei-tkom zahlen würden aber das tun sie nicht, denn sie können sich ja aussuschen mit wem sie ..
+wenn wir jetzt ein schlandnetz hätten .. dann gibt es eine große firma in Deutschland die davon profitieren würde und die wird natürlich sagen, machen
+denn die internationale konkurrenz ist ja dann weg
+das ist nicht nur das deutsche internet decix halb europa peeren
+der de-cix hat auch problem in den medien denn es halten sich markante gerüchte, dass dort sowohl d also auchdeutsche als auch us geheimdinesnte dort schnorcheln
+schlandnet sähe irgendwann so aus
+auch da haben wir keinen gewinn
+gleiche sit uat wie vorher nur jemand anderes de runs abhört
+fazit schlandnet löst keine probleme sondern zentralisiert sie.
+wierspricht physikalischen gegbenheiten
+liegen nicht nach ländergrenzen
+es erhält bzw. erhöhte die übewachunsgmölichkteiten für detusche dienste
+und erhöhte marktmacht der deutschen telekom
+bisher politk t-kom dafür das es kein schalndet sich ergebenhat
+ 
+letztes thema: cloud
+wollte thema ursp sehr viel ausführlicher amchen
+eigentlich ist nur eines dazu zu sage
+das hat frank rieger rene obermann von t-kom gesagt
+„Ihre Daten sind woanders, und sie wissen nicht wo, davon halte ich prinzipiell nix“
+*Applaus*
+an dieser stelle gilt natürlich das wort des gelehrten
+Thema ist abschließen behandelt
+nichts desto trotz sit
+für Cloud ist schlimm
+keine detuschen anbieter
+detusche anbieter: mist wir haben keine kunden
+großes magentafarbene...
+cloud war echt der heiße scheiß und alle machen es nicht in D
+schon vor 2-3 jahren bin ich dann das erste mal über bemühungen des BSI, dem wirschaftsforderungsorgan der RD in diesem bereich gestoßen wo dann gesagt wurde wir machen da jetzt mal so eckpunitek paier cloud und machen da so kriterien und wenn man da so drei checkmarekn wenn man da noch zwei mehr hat silber nicht bronze nennen .. klasse C+ relativ einrachf zugeschittene t-system clous detusch und eutsch und deutsch 
+hab ich mir angeschaut und schon so bisschen drüber lustig gemacht
+der eine entscheidene punkt der cloud akzeptabel macht ist, wenn ich ende zu ende verschlüsselung einbaue
+nehme dateien die ich in die cloud werde verschlüssele so das ich
+das heißt ich degradiere den cloud-anbieter zu einer festplatte
+lch war jahrelang dropbox nutzer hab vorher alle dateien erschlüsselt
+das wäre ein schöner standard gewesen, wir prüfen, dass das vernünftig gemacht wird, dann können wir einen auf d-clouc machen, haben sie aber nicht
+dann hab ich ir gedacht: wer hatt die denn beraten...BearingPoint
+*Applaus*
+ 
+Öffentlicher Sektor trustet Cloud
+Workshop..
+Vision 2021 Beratungsleistung zur Review TKÜ aufbau BKA
+*Applaus*
+ 
+ 
+...
+Wir haben noch ein paar Minuten zeit für zwei Fragen
+Wir haben hier saalmikrofone
+ 
+bitteschön du zuerst
+ich wollte fragen ob dieser ge ob das der selbe Daniel Giersch ist der recht für gmail hatte weshalb man in Deutschlandgmail googlemail nennen musste?
+ja
+also diese person ist ähm sehr bekannt für derartige dinge, ich glaube, dass ich nicht so viel dazu sagen möchte, weil er glaube ich gute anwälte hat
+seine antwälte haben jedenfalls immer ganz gute verträge ausgehandelt, sehr geschäftstüchtiger junger mann
+ 
+mich ihteressiert ob in anbetracht GG10 es nicht ein schwerwiegendes verbrechen ist wenn die diese e-mail unverschlüsselt abholen können
+...
+kann ich nicht beurteilen, du musst das so sehen, es war, 
+.
+und diese gesetzliche regelung hast du ja aufgezeigt, juristlische lösung für ein anders geartetes Problem
+also e-mail unverschüsselt abholen ist so ne unsitte die um sich greift, einfach auf alten bereichen relativ verbreitet ist
+was die t-kom macht und gmx und web.de das so ein bisschen auf kosten der altnutzer die eine jahre alte konfigurationfahren werden halt noch unverschlüsselt bedient für den werbeeffekt ist das ja egal
+ich würde nicht unbedingt so weggehen das als schwerwiegendes verbrechen zu bezeichen
+das ist ziemlich nachlässig und verantwort los ist offenkundig
+
+ja ich hab ne technische Frage
+ist es möglich PGP bei De-Mail zu nutzen oder wir der virenscanner diese mail als malware klassifzieren
+das ist eine gute frage das machen solche malwarsysteme die auch bei unternehmen zum einsatz kommen
+da sind so lösungen die man kaufen kann..
+wir lesen alle deine -mail und sagen ob da viren sind
+schreiben in betreff rein achtung  verschlüsselte e-mali und warnen davor
+vielen dank.. zeit für fragen genomen hast...
+ENDE
 

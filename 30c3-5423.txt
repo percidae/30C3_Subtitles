@@ -1,16 +1,25 @@
-Here, the subtitles for talk XY are supposed to be created 
+The Tor Network 
+Saal 1
 
 Links to video:
 
 CCC-TV: http://media.ccc.de/browse/congress/2013/30C3_-_5423_-_en_-_saal_1_-_201312272030_-_the_tor_network_-_jacob_-_arma.html
 
 Youtube: https://www.youtube.com/watch?v=CJNxbpbHA-I (easier for transcription because it reacts to left/arrows for rwd/fwd)
+    You can also use shift-tab at amara. At least in the old editor.
+
+Amara Link: http://www.amara.org/de/videos/ogSRd61FX656/en/627819/
+-------------------------------------------------------------------------------------------------------------
 
 
-The Tor Network 
-Saal 1
-[Jacob Appelbaum]
-So, thanks very much to the guy who brought me a Mate. I learned his name is Alexander. It's never a good idea to take drugs from strangers, so I introduced myself before I drank it - thank you.
+
+Jacob Appelbaum: So, thanks very much to the guy who brought me a Mate. 
+
+I learned his name is Alexander. 
+
+It's never a good idea to take drugs from strangers, 
+
+so I introduced myself before I drank it - thank you.
 
 First I wanted to say that following up after Glenn Greenwald is a great honor and a really difficult thing to do, that's a really tough act to follow, and he's pretty much one of, I think, our heroes.
 
@@ -24,10 +33,16 @@ And if you wanna do that, it'd be great, and otherwise, we're gonna try to have 
 
 So with that, here is Roger.
 
-[Roger Dingledine]
-Okay, so, a lot of things have happened over this past year, and we're gonna try and cover as many of them as we can.
+Roger Dingledine: Okay, so, a lot of things have happened over this past year, 
 
-Here's a great quote from either NSA or GCHQ, I'm actually not sure which one it is. But we're gonna start a little bit earlier in the process than this and work our way up to that.
+and we're gonna try and cover as many of them as we can.
+
+
+Here's a great quote from either NSA or GCHQ, 
+
+I'm actually not sure which one it is. 
+
+But we're gonna start a little bit earlier in the process than this and work our way up to that.
 
 So, we're in a war, or rather, conflict of perception here. There are a lot - I mean, you saw Glenn's talk earlier - there are a lot of large media organisations out there that are trying to present Tor in lots of different ways,
 
@@ -55,7 +70,7 @@ So it turns out that these censors need an anonymity system in order to censor t
 
 So another challenge here: at the same point, one of my side hobbies is teaching law enforcement how the internet works, and how security works and how Tor works.
 
-So, yeah, their job does suck, but it's actually not our fault that their job sucks. There are a lot of different challenges to sucessfully being a good, honest law enforcement person these days.
+So, yeah, their job does suck, but it's actually not our fault that their job sucks. There are a lot of different challenges to successfully being a good, honest law enforcement person these days.
 
 So, for example, I went to Amsterdam and Brussels in January of this past year to try to teach various law enforcement groups.
 
@@ -63,7 +78,7 @@ And I ended up having a four-hour debate with the Dutch regional police, and the
 
 And, there are a lot of good-meaning smart people in each of these organisations, but they end up, as a group, doing sometimes quite bad things.
 
-So part of our challeng is: how do we teach them that Tor is not the enemy for them?
+So part of our challenge is: how do we teach them that Tor is not the enemy for them?
 
 And there are a couple of stories that I've been trying to refine using on them. One of them they always pull out, the "But what about child porn? What about bad people? What about some creep using Tor to do bad things?".
 
@@ -81,14 +96,20 @@ So if you’re a bad person, for various definitions of bad person, and you’re
 
 Whereas there are very few tools out there like Tor for honest, I'd like to say law-abiding, but let's go with civilization-abiding citizens out there.
 
-[Jacob Appelbaum]
-And it’s important to understand that this hypothetical thing is actually also true for certain values.
+Jacob Appelbaum: And it’s important to understand that this hypothetical thing is actually also true for certain values.
 
-So at our Tor developer meeting that we had in Munich recently, that Syrian woman came to us, and thanked us for Tor. She said, “I’m from a city called Homs. You might have heard about it, it’s not a city anymore."
+So at our Tor developer meeting that we had in Munich recently, that Syrian woman came to us, and thanked us for Tor. She said, 
 
-"I used Tor. My family used Tor. We were able to keep ourselves safe on the internet thanks to Tor. So I wanted to come here to Munich to tell you this. Thank you for the work that you’re doing."
+I’m from a city called Homs. You might have heard about it, it’s not a city anymore.
 
-And for people who - this was their first dev meeting - they were completely blown away to meet this person. - 'Wow, the stuff that we're working on, it really does matter, there are real people behind it.'
+I used Tor. My family used Tor. We were able to keep ourselves safe on the internet thanks to Tor. 
+
+So I wanted to come here to Munich to tell you this. Thank you for the work that you’re doing.
+
+And for people who - this was their first dev meeting - they were completely blown away to meet this person. 
+
+- 'Wow, the stuff that we're working on, it really does matter, there are real people behind it.'
+
 
 And, I think, we were all really touched by it, and all of us know someone who has been on the receiving end of people being jerks on the internet.
 
@@ -96,7 +117,12 @@ So this is a real thing where there are real people involved, and it's really im
 
 - or you here in Germany, now that we know what Edward Snowden has told the world -
 
-those bad guys, those jerks, for different values of that, they always have options. But very rarely do all of us have options that will actually keep us safe.
+those bad guys, those jerks, for different values of that, 
+
+they always have options. 
+
+But very rarely do all of us have options that will actually keep us safe.
+
 
 And Tor is certainly not the only one, but right now, and we hope in this talk you'll see that we're making the right tradeoff by working on Tor.
 
@@ -180,7 +206,7 @@ Now we're looking into Chrome, which has a differen t and sometimes more secure 
 
 We're hoping to work on using Chrome, anyone want to help? Please do.
 
-Diversity of funding - a lot of funding comes from governmetns. There are ten things we wan't to work on, if you want to fund one of those ten, you can focus our interests. Government funding helps to do many cool things. people can be payed to work on Tor, on the other hand governments can influence our priorities. We will not put backdoors in Tor.
+Diversity of funding - a lot of funding comes from governmetns. There are ten things we want to work on, if you want to fund one of those ten, you can focus our interests. Government funding helps to do many cool things. people can be payed to work on Tor, on the other hand governments can influence our priorities. We will not put backdoors in Tor.
 
 People have approached us to put backdoors in Tor. It is a serious committment to not do this. We fix everything as soon as we find out that something is wrong. There are people who have tried to have us change that committment. When we say we are non-profit, they are dumbfounded.
 
@@ -221,281 +247,54 @@ Who here uses a VPN or some kind of VPN service [about 1/4]? This is a big probl
 We need to build decentralized systems
 In some cases we know that VPN proxies have data retion for 10-15 year, that 's bad news. The news on VPNs is not in your favor.
 
-What happens with this stuff? It could be that the silk road fellow used VPN. It could also be that the NSA has tracked him in some other way. Parallel construction is a really serious problem, if we could expand Tor network, we would make it significantly harder to do that. We live in a world were intelligence services and LE are merging together. That is a sierious problem for Tor.
 
-NSA is doing bad stuff, why should that affect FBI? They said they told the FBI. Do they anonymously tip the FBI? Is there a third party anonymous whistleblower? From the FBI point of view, thats basically the same.
+What happens with this stuff? 
 
-We are able to adress some questions. Summaries: We want to improve hidden services. We want to make them strong, especially improve performance. The more mainstream they become, the more use we will be seeing. It should be esay to use them. The most important things for cypherpunks to understand. 
+It could be that the silk road fellow used VPN. 
 
-If you like, use Bitcoin. If you want to give us lots of BItocins, do not get dsicouraged. In Noisy Square, there is now a talk on helping Tor. We need you to teach other poeple on why
+It could also be that the NSA has tracked him in some other way. 
 
+Parallel construction is a really serious problem, 
 
+if we could expand Tor network, we would make it significantly harder to do that. 
 
+We live in a world were intelligence services and LE are merging together. 
 
-
-Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
-or: www.twitter.com/c3subtitles (most up to date infos)
-
-The language is supposed to be: 
-[ ] German 
-[ x] English  
-(the orignal talk-language)
--------------------------------------------------------------------------------------------------------------
-
-{coffee talk}  {the speaker desperately needs coffee}  *giggling* an audience member currently gives up his coffee.
-
-The Tor Network we live in interesting times. 
-
-Tahnks very much for the guy bringing me coffe. never good to accept from strangers but thank yo.
-Hard to follow glenn greenwald but thanks to greenwald.
-something unconventinal , we want people to ask questions. write down the questions and 
-(audio out)
+That is a sierious problem for Tor.
 
 
-You dont get to make that choice. if we take tor away form sysria she dies, if we take it away form the creep on tor in america , he will find other ways to be a creep.  whereas there are very few tools out there like tor to use for law abiding citizens. 
+NSA is doing bad stuff, why should that affect FBI? 
 
-thegirl from syria actually approached torproject and say thank you for the work that torproject oes.  the dev meeting was blown away by this person and everyone was touched by it.  this is a real thing where there are real people involved. if we remove the option for the girl in syria,  if you remove the Tor, the bad guys will still have ways to be bad but without Tor the public will not have a way ...
+They said they told the FBI. Do they anonymously tip the FBI? 
 
-what about terrorists.
-So many way to solve senario 2 than senerio 1.  
+Is there a third party anonymous whistleblower? 
 
-[speakers talk extremely fast]
+From the FBI point of view, thats basically the same.
 
-It is good to have rhetorical arguments.  People who dont want anonymity to exist (audio out)
-...
-we bought some and it was really good. What motivation do they have here? There goal is to get more clicks. it doesnt matter what we destroy when we do it.
-This has many problems.
-There mission is impacted by Tor. They have an enemy they can point to.
-When silk road was busted, at a particular meeting, a us govt meeting, an agent evaluated the silkroad bust and  saw a 50% drop when it was busted.  I started to reason with thim, when media (audio out, again)
-[showing Tor realy bandwidth slide]
-Shows extremely small 'drop' on slide.
+We are able to adress some questions. 
 
-Then,there is the dark or deep web. This comes back to the media producing as many articles as they can.
-"The dark web is every page out there that google cannot index" (sample definition)
-"Everything you access, your work etc is dark web."
-"90% of web pages are in the dark web" (sample)
-"the only way to access the dark web is through tor ("sample def)
-{laugher}
+Summaries: We want to improve hidden services. 
 
-the reality is that is not the case. everyone here and watching the video stream. that set up is 'click bait'
-there are some high profile services, 'raise you hand if you have run a tor hidden service'. 
-......
-for the most part , the top one with wikileaks. and with global ... (connection down)....
+We want to make them strong, especially improve performance. 
 
-The news picked up on this in various ways. 
-I actually heard form a DEA about the farmers market story, they sold drugs, omg, and tor was no where in the story and the DEA wanted to take it down and the country that received the letter said screw you so they tried to investigate the people behind it who where using hushmail. and they sent a letter ot canada hushmail and then 6 months after using hushmail and tor 
+The more mainstream they become, the more use we will be seeing. 
 
+It should be esay to use them. 
 
-We've asked firefox to inegrate some of these privacy integrated things and they seem to be friendly to it.  Even with the synchronization with firefox , they are not as fas t as with some of the people in the community (ahem, fuck you) and that is exponetionly ...
-the chrome team is doing a good job.
+The most important things for cypherpunks to understand. 
 
 
 
+If you like, use Bitcoin. 
 
-I tend to believe we need to be engaged
-
-
-
+If you want to give us lots of BItocins, do not get dsicouraged. 
 
 
+In Noisy Square, there is now a talk on helping Tor. 
 
-So scenario 1, I watnt to buid a tool that works for millions of people, and I can tell you how it works
-I want to build a tool for the next 2 weeks, it will work for 20 people, and I'm not going to tell you about it
-The bad guys have a lot more options to how they can keep safe
-So the challenge that TOR has is that they want to build something that works for everyone
-so the terrorist has a lot of options, that sucks, we need to build tools that the rest of the world can use
-one interesting point to mention is that people who don't want anonymity to exist in a practical sense
-this doj study, they actually started to do a study where they 
-they came up with the number 3% of the traffic being bad
-the universities started getting DMCA takedowns, and the lawyers told them to stop
-the initial results they were looking towards, about 3% of the traffic coming out of that exit node was 'bad'
-I personally don't like to use the word 'war' when talking about the internet
-and one of the most frustrating things, is the BBC actually have articles on their site about how to use the Silk Road and TOR
-it isn't the case that these websites isn't a good idea, and it
-and in this case they literally were promoting, and pushing people to buy drugs, which is really amazing and surprises me
-what we want is every person has the right to speak freely on the internet
-and the comment section, oh wow thanks, this is great, thanks, this is great, I don't have to get shot in the street
-and we bought some, and it was really good :3
-their goal in this case was to get more clicks. doesn't matter what we destroy
-and they want to show that their mission is of course impacted by TOR, 
-about an agent, as it says in the last point, which showed a massive drop in the network usage
-I evaluated the TOR network load, during the silk road bust, and I 
-We can understand that it can be reasonable that people would stop using for a while
-so the green line is the capacity of the TOR network over time
-can you guess? if you don't look on the dates on the bottom, can you see the drop?
-but just for the record, that's where he said that it went down 
-*laughter* *applause*
-here's a graph of the overall network growth of the past 3-4 years. So the green line is the capacity, and you can see that a lot of people have added more relays
-And then there is the dark web, the deep web, or whatever else you want to call it. It comes down to the media 
-the dark web, is every web page out there, that google can't index
-*applause*
-every coproate database, every government database, ever, every thing that you access that google can't get to
-statement 3 that the media has added this year, the only way you can access the deep web is through TOR 
-so really the reality of this is that it's not actually the case. 
-for everyone here, 
-there are a few high profile hidden services, actually, for a show of hands, raise your hands if you run a hidden service
-these four sites, these 4 entities, have produced most of the stories about the deep, gaping, whatever you call it web
-and in fact, with global leaks, they are deploying more and more hidden services that you also haven't heard about
-and those things also bring out a disproportionate amount of negative information about
-and he was relentlessly attacked, because he happened to have, a registration for a company
-they really pull on people's hearts in a big way, and that sort of created a lot of stress
-and it really sad series of events. and of course the news picked up on it in a negative way.
-the farmers market has quite an interesting story, that you wanted to tell?
-yeah I actually heard from a DEA person that was involved in the bust of the farmers market
-t
+We need you to teach other poeple on why Tor is important.
 
-and then they switched over tor, and 6 months later, it was a good time to bust them, and there were all these good 
-
-don't use hushmail, seriously, it's a bad idea. and don't use things where they have a habit of backdooring or cooperating with lawful intercept 
-and we should respect them as much as they deserve
-but everybody else, protect yourself. So, the thing is, not every single person is not stupid enough to use hush mail. So, as a result, we started seeing some pretty 
-probably not the most interesting exploits that we've ever seen, but the most interesting exploit we've seen deployed to all these users
-was either esiei or NSA, and I had an exchange with one of the guys behind the aldsfha exploint company, and he has on a couple of occasions of writing exploits for the tor browser
-or they do some interception with an imsi catcher
-they find out who you are, they begin to target you, and 
-there was a period of time where you could really badly troll all your friends by just putting a link up
-when the FBI did this, they basically gave the exploit to everyone
-this is a really interesting difference between other ways that the FBI could bust you
-and they generally seemed friendly to it, but we have desynchonization, but even with this desync, we were still aheah of them
-and that's a really serious change,
-we want to have a lot of diversity, in a lot of browsers, but we have a very straight sense of privacy
-that have been mostly by some guy 
-if anyone here would like about it, it's really something that we really need some help with
-another exiting topic is the diversity of funding. a lot of our funding comes from governments, US mostly, but some other governments as well because they have things that they want us to work on
-we've got 10 things we want to work on , if you want us to work on one of them, 
-so if you can, if you have funding for one of these, we can focus on one of these that you're interested in
-a lot of the stuff that you've seen coming from tor in the past couple of years,
-On the other hand it's bad because funders can influence out priorities, now, there's no conspiracy of anything
-Give me view more details! - People have approached us obviously in order to get us to do these sort of things, this is a serious thing that we
-we try to fix it as soon as possible, regardless
-extends beyond any reasonable commitment, and we really believe that commitment and there are people...
-and you're able to have a company, and make a company, so that you can make
-who basically said, 
-department of justice person
-congress has basically given us, the right to backdoor everything
-and you are taking advantage of the situation that we'ev given to you in america, with freedom of speech and everything
-congress said whe should have. And then, then the conversation basically ended, and she had no further thing to say.
-so part of what we need to do, is to make tools that area ctually safe as tools, rather than the lot of other .. out there
-education, training and so on. We don't have any funders right now, who want to pay for better annonymity. And it's really important for some poeple that we have heard in the last talk that they have good anonymity
-so, what should tor's role be here? there are a lot of people in the TOR community saying that we should just focus on writing good code, and the rest will sort itself out
-but some of our funders might wonder if they should keep funding us after so part of what we need to do .. that
-would like the world to hear. SO if you know anybody who'd like to provide actual freedom, we'd love to hear from you
-it's easy to say there shouldn't be politics in what we're doing. And you must also understannd that it's crazy when someone says that
-that is a very political thing for many pople, and it is often the privilage for some, that they don't even consider it to be a political statement
-understangint that there are almost no tools that can resist the NSA and the GCHQ
-but they couldn't get all tor users, that's really important: We changed the political game for them
-and that, fundamentally, is a political issue
-it's not a partisan solution where we say that some poeple are good, and some are bad
-we're saying that the common good, of everyone having these fundamental rights .. protected .. them, 
-for every person to have. That is the best kind of political solution that we can come up with .
-in some ways. We can't actually do it unless everyone actually starts to agree with us
-And that diversity of users, is actually technically is what makes TOR safe. You need to have activists in various countries
-you need to have them all in the same network, otherwise, if I see that you're using tor, I can 
-.. safe. so part of the hobby is that each tor person have, we're all getting better at outreach to various communities
-so, I mentioned earlier 'm, i'm, yeah. My lawyer gave me some great advice: never miss the chance to shut the fuck up
-much more diplomatic. So at the same time, we have poeple talking about domestic violence and abuse groups, and at the same time we have folks and coorporations 
-that you're talking to and learn how to use their language, and convince them that these things are important
-ok, so, a while ago I wrote up a list of 3 ways to destroy tor. The first way is to change the laws of privacy and ** ... so that anonymity is outlawd
-there are good uses to these things, you can't take them away from the world
-make ISPs hosting exit relays. and if more and more ISPs says that they don't want to do it
-so I think we're doing pretty well about fighting that fight,
-with ISPs. But the third one, is one that we haven't focused on
-make websites hate tor users
-wikipedia did id a long time ago, google gave you a captcha if you're lucky
-so, skype is another interesting example here. If you run a tor exit relay, and you call someone, skype hangs up on you.   .. microsoft pays ..
-so as more and more of these blacklisting companies exist, we're more and mroe screwed
-we need help to teach all these companies to learn .. IP addresses  .. 
-which is to say that when a company does not want to give you location anonymitiy, maybe there's a reason for it
-given what we've learned, it makes sense, that they demonstrate that they do not
-abuse. often they won't have metrics for it, and they refuse to work with us to come up with invented solutions 
-or something where you solvea  captcha, somewhere where you have to have an account,
-.. because they don't even provide secure logsin when you're not using tor
-so in a sort of funny sense, it could be helpful that they are blocking tor
-we need to show that these are the best thing right now
-and we need people 
-especially Wikipedia. For me personally, that the way 
-ask them to set a special flag in the wikipedia database, and then I can log in and edit. it's not really the ideal solution
-I should be able to have a pseudonomynous way to edti it
-is to in fact use tor or something like it * applause 
-so, the last point on that, is this one. what was the joke [] about [IPO, IPO, IPO!]
-so in the course of a week or so, we added about 4 or 5 million tor clients to the network 
-actually, some jerk in the ukraine signed up 5 million bots as tor clients
-one thing we learned .. it worked ... we had to make some changes, there is for example the 
-this is a pretty big change, but there is a lot of work that need to be changed
-attacker, if the botnet have been turned against the tor network, it may have been fatal for the tor network
-they were going around and removing tor clients from users who were
-that's a lot of power .. Microsoft ..word to the wise: bad idea. They actually removed the bot and left the tor client
-Snowden it's hard to tell, there are some bits of information that we're missing here. Due to the 
-NSA spy, especially now? I mean, we think that most of that is botnet trafffc, over a million, where it goes up
-threat to the tor network. It can be alleviated a couple of different ways, I meniotned before
-not an exit relay, it would make it significantly harder to milk the tor network 
-events like this .. in the future
-*claps*
-so someone sent a question, that I'm just going to go ans answer now
-how much could you need? well, here's the thing, if you were willing to fund us, I would really especially like it, since I'm the one that
-you could match the dollar to dollar that government funders brign to the table. we would really love that, it would actually be amazing if you could do that
-or as much as you can
-2 million us and 3 million us, expect that we're trying to do many great things 
-no funding to make anonymity better. if it ends up more than that, we're in good shape, and we can make 
-but because we want users to use the software with something, it's not enough 
-alternate funding models where we have .. we haen't really experiment with that
-it's not classified anymore, it's on the internet
-so this is probably the hot topic, this is probably the one that everyone wants to know about
-so the NSA and the gchc have decided they don't want anonymity .. with a few exceptions, there are a few different programs
-but for the Tor side of it, quick ant is what is called a question filled data set
-this is a ?? what that means is it is recording data, that is, data retention about something
-Glenn scream. That program, is kind of scary, but not too scary, it looks like after the fact
-Fox assets is basically just the tailored access and operation server farm where they serve up malware
-[NSA and MSNbc loves Yahoo] when you use tor, they basically redirect you, by basically tagging a bit of data in the tcp connection
-and they're using this to pop somebody. From what I understand, it took them 8 months to get 1 guy. That's fucking great, I think. We went from 
-work for a long time they really believe that that's the right target. 
-of the game not exactly sure. but, there are some other things that are really dangerous. which is Quantum cookies for example
-leak cookie information. So let's say that you log into yahoo account, and that was a known selector for surveillance
-other cookies then they would basically insert thing, that your browser would request over an insecure connection
-but also to be aware of sessional isolation
-TLS to actually make sure that the tor browser only has the exact set of credentialy for what thing you're doing at the time
-
-
-ETC
-
-
-If you choose to spy on the citizens the NSA almost always wins.
-
-The NSA will get whatever data you have stored away.
-
-You must choose a different
-
-Equador understood that they are not the best at surveillance and they realized the game is rigged.
-and there is no ... now
-
-because of a broad siciety movement
-
-it's not actually dark everywhere
-
-there are other tools
-lot of other crypto improvements
-new tor browser bundle
-everybody can build .. same binary to everybody can check
-metrics, censorship resistance
-
-as a final note: we accept bitcoins now, we'd encourage bitcoin millionnaires to help us
-really important to show people we have alternative methods of funding community projects
-please don't get discouraged
-starting now in noisy square
-
-we need you to teach other people why tor is important, thank you
+Thank you
 
 [no time for Q/A left]
-
-
-
-
-
-
-
-
-
-
-
-
 

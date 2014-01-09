@@ -54,5 +54,6 @@ The language is supposed to be:
 [ ] German 
 [x ] English  
 (the orignal talk-language)
+Amara link: http://www.amara.org/de/videos/khs4mZMLm8ui/info/ 
 -------------------------------------------------------------------------------------------------------------
 

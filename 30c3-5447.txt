@@ -4,8 +4,9 @@ Link and further information can be found here: https://events.ccc.de/congress/2
 
 The language is supposed to be:  
 [ ] German  
-[ ] English  
+[X] English  
 (the orignal talk-language) 
+Amara Link: 
 -------------------------------------------------------------------------------------------------------------
 This is the script for our talk. Since it was a conceptual talk and very tight in terms of time scale, it is very tightly scripted and should match the spoken word pretty exactly. Some ad lib's especially at the beginning and end not included.
 Also Q&A session not included

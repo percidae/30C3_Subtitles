@@ -1,3 +1,4 @@
+
 Here, the subtitles for talk XY are supposed to be created 
  #Saal2 "Hardening hardware and choosing a good Bios"  Peter Stuge
  
@@ -6,8 +7,9 @@ Link and further information can be found here: https://events.ccc.de/congress/2
 
 The language is supposed to be: 
 [ ] German 
-[ ] English 
+[X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/c9lcIQbrkTes/info/
 -------------------------------------------------------------------------------------------------------------
 Alright. Thanks everybody. I'm here to talk about hardening hardware and choosing a good bios.
 lets see what this means

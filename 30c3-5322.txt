@@ -12,10 +12,10 @@ Amara Links: http://www.amara.org/de/videos/MedDt2Cy4XTb/info/
 -------------------------------------------------------------------------------------------------------------
 
 Welcome everyone, good evening, thanks for attending this talk.
-So i am delroth this is shuffle2 we are member of [...?] which is called booto
-but he couldn't make it for [...?] here.
-We are basicly consolehackers and emulator developers. So we work on the wii on the gamecube and we like developers on the [...?] which is a gamecube emulator. And we were helped with this WiiU reverse engeneering project by friends from fail0verflow. You might have seen them day 1 they basicly cracked open the WiiU and made it possible to do this work, so thanks a lot to them.
+So i am delroth this is shuffle2 we have another member in our reverse engineering team which is called booto
+but he couldn't make it for 30c3 this year.
+We are basicaly consolehackers and emulator developers. So we work on the wii on the gamecube and we are like developers of the  dolphin emulator  [...?] which is a gamecube and Wii emulator. And we were helped with this WiiU reverse engeneering project by friends from fail0verflow. You might have seen them day 1 they basically cracked open the WiiU and made it possible to do this work, so thanks a lot to them.
 So for those of you don't know what the WiiU gamepad is, so this is a WiiU gamepad. This is what you actually connect to the console to play games.
-It's called named DRC, so we probably going to use DRC a lot in this presentation to just because it's [...?] right an such so. So just know DRC is basicly the gamepad.
+It's code named DRC, so we probably going to use DRC a lot in this presentation to just because it's a lot shorter to write  an such so. So just know DRC is basicly the gamepad.
 
 

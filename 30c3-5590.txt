@@ -1,3 +1,4 @@
+
 Here, the subtitles for talk XY are supposed to be created 
   
 Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
@@ -8,5 +9,6 @@ The language is supposed to be:
 [ ] German 
 [X] English  
 (the orignal talk-language)
+Amara Link: http://www.amara.org/de/videos/HX2lTGgFGka0/info/
 -------------------------------------------------------------------------------------------------------------
 
