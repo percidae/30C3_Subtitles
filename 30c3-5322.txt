@@ -15,7 +15,52 @@ Welcome everyone, good evening, thanks for attending this talk.
 So i am delroth this is shuffle2 we have another member in our reverse engineering team which is called booto
 but he couldn't make it for 30c3 this year.
 We are basicaly consolehackers and emulator developers. So we work on the wii on the gamecube and we are like developers of the  dolphin emulator  [...?] which is a gamecube and Wii emulator. And we were helped with this WiiU reverse engeneering project by friends from fail0verflow. You might have seen them day 1 they basically cracked open the WiiU and made it possible to do this work, so thanks a lot to them.
-So for those of you don't know what the WiiU gamepad is, so this is a WiiU gamepad. This is what you actually connect to the console to play games.
-It's code named DRC, so we probably going to use DRC a lot in this presentation to just because it's a lot shorter to write  an such so. So just know DRC is basicly the gamepad.
+So for those who don't know what the WiiU gamepad is, so this is a WiiU gamepad. This is what you actually connect to the console to play games.
+It's code named DRC, so we're probably going to use DRC a lot in this presentation just because it's a lot shorter to write and stuff like that. So just so that you know DRC is basicaly the gamepad.
 
+As you can see it's not like your standard game cube control thing with just like two joysticks and a few buttons, it has actually a lot of features. The main feature is that it's a wireless device that you don't have to plug into the WiiU or anything, it's kind of standard nowadays, but still. It has an 854x480 touchscreen which is resistive so it's not like a capacitive touchscreen, it's just resistive. It has audio output and also microphone and together with microphone it has a VGA camera which outputs a 640x480 resolution. It also has the standard gamepad stuff, so analog sticks, 19 digital buttons, motion stuff like accelerator, gyroscope, compass, and a few other wireless stuff which are interesting like NFC and IR which is used actually to use the Gamepad as a TV remote, like it can communicate with your TV over infrared.
+
+But one big problem with it, is that it's actually only usable with the Nintendo WiiU. Unlike Microsoft and Sony, with the Xbox1 and the PS4, they actually told people, we're going to release drivers at some point and you can use it with your PC, etc. Nintendo never said anything like that, they just don't plan for it to be open, just the Wiimote before and all of their other devices. It's kind of sad because it's a really fun device, like you could use it to do a lot of stuff like control robots or just create new games without being in front of your screen. So yeah, let's fix that! This is the whole point of this talk. So let's open the box. This is the motherboard of the WiiU Gampad, as you can see it's actually quite a complex device.
+
+The main chip on this in the middle, the big one, is actually an STM8 CPU from ST Microelectronics, it's called UIC, it has written UIC on it. This is the first of actually three CPU's that are on this Gamepad. On the left you can actually see there is a big empty space where you connect the wifi chipset, it can actually be detached, it's a broadcoam wifi chipset, kind of standard. And on the bottom right you also have an empty space which is for the NFC antenna and NFC controller.
+
+This is the other side of the motherboard with more interesting stuff, the chip on the right-most is the flash that contains basically all the code and firmware and stuff for the Gamepad.
+
+And the CPU just to the left of the flash, is called, it's written on it DRC-WP and the only other marking on it is Japan. You have no other indication of what the chip is. And we see later on that this is the main CPU that controls most of the Gamepad.
+
+This is on the other side of the system, so on the WiiU Motherboard, not in the Gampad, so on the left you can see the main bundle with the CPU and the GPU of the WiiU
+
+
+At the top right you have the DRH, which is basically just the same as the DRC the microcontroller on the Gamepad, but it handles communication between the WiiU and the Gamepad.
+
+So how does it actually communicate? If you look at the back of the wifi chip, it actually indicates 5GHz for use indoors only, for a wifi chipset that is very common.
+
+So you can just look online and start sniffing wifi in the 5GHz frequency band, but obviously it's encrypted. It's not that easy.
+
+So just a side note, this is actually a big problem with this project, finding a properly working wifi device that can actually do access point mode on 5GHz channels is really hard, especially
+on Windows it's basically mostly impossible. On OS X I think some people actually managed to get access points working with all the features we need for this project.
+
+On Linux actually only a few drivers are able to do that. So for example, if you take Intel wireless devices there is no AP mode support on most cards that support 5 GHz. On Atheros devices, you actually can find a lot of these cards, but they have minor issues which I'm going to talk about. Car? 9170 is basically [?] 7088? 9K ATH but for USB, for some reason it's very hard to find devices that use this chipset. They are the same minor issues like with ATH 9K, because it's basically the same chipset inside, but they also have the same minor issues. And then this one is interesting, the Rugging? RT 2800 USB is actually a nice USB chip, which is not too hard to find, has no major issues, but it only started working with Linux 3.11, which is fairly recent, so it wasn't actually working when we started this project. We might actually be able to work as well on broadcom chips but we haven't tested that yet.
+
+So let's work on decrypting the communication between the WiiU and the Gamepad. We basically need two things: first of all ? is actually encrypted so maybe WPS or something like that, and what's the key used for encryption? So it was actually fairly easy to find strong signs of the encryption scheme
+
+if you just look as the 802.11 at the packets that you sniff it just like WPA2 packets, it has these 
+
+Basically integrity checks, basic encryption scheme, and you have 8 bytes in the 802.11 headers that are encrypted for every packet and this matches what WPA2 does with the CCMP ID. So just looking at it was really like it was using WPA2.
+
+So we just need the key now. It was actually harder than expected. Actually no, they made it easy for us compared to just having to hack stuff. They actually have a nice feature, the WiiU, when you want to connect a Gamepad to a WiiU for the first time you have to pair it with the console, and what this pairing system does is you have, the WiiU displays four symbols on the screen and you have to type the same four symbols on your Gamepad and then the Gamepad can connect to the WiiU. And looking at dumps, it's actually using WPS.
+
+So WPS is a wifi standard that is used for auto configuration of wifi devices and basically what it does is use WPS with access points you don't know about, and they give you all the information including SSID, encryption method, encryption key and everything like that.
+
+So WPS is secured, well "secured", by the need to press a button on the access point or to enter the pin that is shown on the access point
+
+to prove you have physical access
+
+the specification is kind of interesting because it doesn't make a 
+
+just check that the guy presses on the button and send the data
+
+there are eight steps to the 
+
+Diffie 
 

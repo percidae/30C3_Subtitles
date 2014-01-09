@@ -13,7 +13,7 @@ Y U NO ISP, taking back the Net
 (taziden)
 
 Why and how you should build and run your own Internet Access Provider, or at least try
-It was the first title i came up with, it's quite long, so [???] Y U NO ISP, [?] second title [?] of course [?] actually we are ISP, we are doing this, so this is the answer to your questions.
+It was the first title i came up with, it's quite long, so [???] Y U NO ISP, for the second title I had in mind, and then I received some emails, following the announce of the schedule, of people saying me, actually we are ISP, we are doing this, so this is the answer to your questions.
 
 I don't know you and I will elaborate on that during the talk.
 First a little disclaimer: we are going to talk about access, but we are not going to talk about hosting and transit. Those are very interesting issues, very important issues...
@@ -26,14 +26,14 @@ form different perspectives
 from the legislative point of view, from commercial ISPs themselves,
 from all sorts of bad people
 and ?[Google?]? also but they don't know what they are doing
-and there are especially stupid laws like Hadopi, and the ??? laws we had in France, and ACTA, and so on, we can continue a very long time with these bad laws.
+and there are especially stupid laws like Hadopi, and the " 3 strikes" laws we had in France, and ACTA, and so on, we can continue a very long time with these bad laws.
 There is no diversity, there are very few commercial ISPs, 3 or 4, something like that,
 so there is a kind of monoploly there
 The network is very centralised, everything or almost everything goes through Paris,
 one person in the south west or France wants to exchange packets through the network with someone from the south east, the packets go to Paris, and then go back to the south of France, it's complicated, and that's not how the internet should work.
 So there is something to do on this, on the centralisation of the network.
 And of course, as there are big commercial ISPs, we are just numbers in a database.
-When we call the hotline, we are asked to wait for a long time to have a ???, that's not ?[how do you call it?]
+When we call the hotline, we are asked to wait for a long time to have a silly answer, that's not very cool.
 And there are lots of other issues on the network in France, but ???
 
 So there are several issues to address:
@@ -118,7 +118,7 @@ Regarding the net neutrality: how hard is to stay under the radar or not? Becaus
 The anwser to that is that basically so far nobody has tried to enforce anything that we didn't want on our network on the layer 3... where usally the network neutrality attacks appeared... so, we have neutral networks that just works, the big telcos just don't care about us and they don't try to push things; we have our own IPs, our own routing and so o, and so…it just works.
 
 But you're not forced by legislation to keep logs and stuff?
-Well there are things enforced by legislation but we try to use FFDN to be a voice against it, to say "Hey we have a lot of people and we are against it, we are running ISPs and we say it's not OK", and we are ISPs with citizens behind and that's a different angle. That's important to have multiple angles to attack these kind of things.
+Well there are things enforced by legislation but we try to use FFDN to be a  voice against it, to say "Hey we have a lot of people and we are against it, we are running ISPs and we say it's not OK", and we are ISPs with citizens behind and that's a different angle. That's important to have multiple angles to attack these kind of things.
 
 All right, it's all for that, we're all out of time, let's give him another round of applause. Thank you very much.
 And please remember to bring up a [???] radio. Thank you

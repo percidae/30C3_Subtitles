@@ -1,5 +1,3 @@
-Here, the subtitles for talk XY are supposed to be created 
- 
 FPGA 101
 Making awesome stuff with FPGAs (en)
 Karsten Becker
@@ -16,12 +14,26 @@ The language is supposed to be:
 Amara Link: http://www.amara.org/de/videos/eOoD9nRqjdue/info/ 
 -------------------------------------------------------------------------------------------------------------
 
-Ok thanks a lot, I think the introduction was really thorogh, so I can just skipithis slide. So I'm going to talk about fpga's 
-and I want to show you what you can do with those, what 
-essentially, what is an FPPGA? It's a programable logic. You have an area which is programmable and you can use it
-if you have something like 2 inputs system
-i would just call them a and be. The combinations that you can see are very obvious
+Ok thanks a lot, I think the introduction was really thorogh, so I can just skipithis slide. 
+
+So I'm going to talk about fpga's 
+
+and I want to show you what you can do with those, 
+
+what essentially, what is an FPPGA? 
+
+It's a programable logic. 
+
+You have an area which is programmable 
+
+and you can use it if you have something like 2 inputs system
+
+I would just call them A and B. 
+
+The combinations that you can see are very obvious
+
 if it has 1 and 1 as input, it will output as zero
+
 on the right hand side you see, naught?, so you got the idea
 so the idea is that you have in an FPGA you have these lookup tables, and you can describe what outputs should be
 one of those outputs, can be the input of an input

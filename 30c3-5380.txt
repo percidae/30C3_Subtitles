@@ -1,5 +1,3 @@
-Here, the subtitles for talk XY are supposed to be created 
- 
 Persistent, Stealthy, Remote-controlled Dedicated Hardware Malware
 (en)
 Patrick Stewin

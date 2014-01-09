@@ -1,11 +1,11 @@
-Here, the subtitles for talk XY are supposed to be created 
-  
+
 Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
 or: www.twitter.com/c3subtitles (most up to date infos)
 
 The language is supposed to be: 
 [X] German  
 With some random English translation from a guy who had network problems.
+        What should we do with this translations? Move them to da differnt pad or at the end?
 [ ] English 
 (the orignal talk-language)
 
@@ -18,7 +18,7 @@ Amara Link: http://www.amara.org/de/videos/sPE3RUZF69vx/info/
 -------------------------------------------------------------------------------------------------------------
 
 
-Vielen Dank und herzlich Willkommen zum Vortrag 25 Jahre CHipkarten-Angriffe
+Vielen Dank und herzlich Willkommen zum Vortrag 25 Jahre Chipkarten-Angriffe
 Wir haben eine Kompressionsrate
 
 Thank you and welcome to the presentation about 25 years of attacks on chip cards.

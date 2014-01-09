@@ -1,3 +1,4 @@
+
 Here, the subtitles for talk Magic Lantern are supposed to be created  
   
 Link and further information can be found here: https://events.ccc.de/congress/2013/wiki/Static:Projects
@@ -181,6 +182,12 @@ some analog recorded noise on top of that
 now comes magic lantern and the real fun part
 
 ...
+
+
+
+-------------------------------------------------------------------------------------------------------------
+German version?
+
 
 Magic Lantern (Michael Zöller)
 
@@ -471,7 +478,7 @@ unterschiel. audio-chips - daher kann ich ...
 
 
 
-focus points im enü erwähnt
+focus points im Menü erwähnt
 während der aufnahme
 du  speicherst die potition des motiors in der linse.
 
