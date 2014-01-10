@@ -34,25 +34,58 @@ The combinations that you can see are very obvious
 
 if it has 1 and 1 as input, it will output as zero
 
-on the right hand side you see, naught?, so you got the idea
-so the idea is that you have in an FPGA you have these lookup tables, and you can describe what outputs should be
+on the right hand side you see, naught?
+
+so you got the idea
+
+so the idea is that you have in an FPGA you have these lookup tables,
+
+and you can describe what outputs should be
+
 one of those outputs, can be the input of an input
+
 this is the basic idea of how an fpga works. In reality, it works a bit different, xx says that it is a bit different
+
 so it's not as trivial as I may sound, with just lookup tables, it's a bit more complicated
-so, with 
-that is 4 bits as well, and the question is, how do you implement a counter?
+
+so, with that is 4 bits as well, and the question is, how do you implement a counter?
+
 feed directly into the header as well, then you have a xx loop
-to avoid that, because we want to do something useful with FPGAs, there is something called registers. Registers are like data storage
-it does something interesting. It takes the data that is on the input, and later it puts it on the output
+
+to avoid that, because we want to do something useful with FPGAs, 
+
+there is something called registers. 
+
+Registers are like data storage
+
+it does something interesting. 
+
+It takes the data that is on the input, and later it puts it on the output
+
 with that, you can have your logic, your xx logic,
+
 and then you have another portion of xx logic, and then you have another register
+
 you add one, in your contmaisd logic, and you put it as a new input for the register
-the reason that this works is because the time it takes for the comunitorial logic, is much smaller, but has a certain delay
-and so this can create a counter, and this way you can realize all kinds fof synchonous designs
+
+the reason that this works is because the time it takes for the comunitorial logic, 
+
+is much smaller, but has a certain delay
+
+and so this can create a counter, 
+
+and this way you can realize all kinds fof synchonous designs
+
 you can create a CPU with it, and other interesting things
+
 even though it is running at a frequency that is significantly lower than something else
+
 when you have a cpu, you have 3 tasks, say A B and C. 
-you can actually increase the frequency of the cpu, or you can make the task shorter, by making it more efficient
+
+you can actually increase the frequency of the cpu, or you can make the task shorter, 
+
+by making it more efficient
+
 with FPGAs, you have something like a blanc canvas
 on the C you have your video decoder. And so, the thing that you are working with, is actually the ara, and the frequency. The frequency that you can run your circuit as is actually determined
 for example, you're running your circuit at 10mhz, 

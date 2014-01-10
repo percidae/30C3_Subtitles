@@ -10,3 +10,223 @@ The language is supposed to be:
 Amara Link: http://www.amara.org/de/videos/eCSW5x6caOFZ/info/ 
 -------------------------------------------------------------------------------------------------------------
 
+Speaker: So, yeah
+
+Announcer: This talk will be on Technomonopolies and how social networks are really monopolies in your view right?
+
+Speaker: Yep
+
+A: And, so
+
+S: Well not all social networks but I will get to that...
+
+A: Yeah so the stage is yours Mike, thank you
+
+S:  Thanks. Um... Hi there, after some... after some minor technical difficulties, I am very happy to be talking to you. This is a priviledge for me. My name is Mike but most people in the technical communities and hacker communities call me "rysiek" for some reason or other. Lets not get into the reason.
+
+I work at the Free and Open Source Software Foundation in Poland. It is an NGO that promotes free software and open source in different contexts. In educational contexts in business contexts, in any contexts. And I am particularly interested in anything that has to do with freedom of speech, with human rights in the digital era, in the digital world.
+
+So, Technomonoplies. First of all, or "inb4." Before we get started I'm going to use some examples that are robably familiar to most of you. And I will have to do them fast. So they will be a little bit simplified, I apologize for that. But you have been warned. 
+
+Okay, so 'techno' is the simple part of this word. It is the part that didn't work for a few minutes right now. But what are 'monopolies'? I think that, you know, monopolies are quite... we all know what a monopoly is... right? 
+
+[points to slide]
+
+That is basically the more or less the definition. You have either the only supplier of a product or service on a given market. Or there are some high barriers of entry to the market. Or there is no good substitute for a given product or service.
+
+Lets go through that. 
+
+[highlights first bullet point]
+
+That is obvious, right. For example, you know, where there is only For example, you know, where there is only one supplier of a product or a service that is a monopoly full stop. In the 1990s in Poland we had only one supplier, only one telephone company. It was called Telecomunska Polska and it was obviously a monopoly. That is no longer the case thanks to anti-monopoly laws and I know that this was also the case in many other countries and in many other markets.
+
+[clicks to highlight second two bullet points]
+
+So but what are these? What are 'high barriers of entry'? For example a high barrier of entry can be a patent system. When somebody offers a product or a service based on some patented technology, somebody else has to liscense the technology from this company or this person to be able to also provide this service or this... this product. 
+
+So this is a high barrier of entry. Right because, because the price for the, the price of the patent license an be very high for example, right?
+
+What are, well what does it mean that there is 'no good substitute'? Lets just think about Microsoft Office binary... format five years ago. Right there was no good substitute for Microsoft Office as far as readng and writing those particular formats was concerned. Unfortunately... that was... the case, this was the only product that actually had this functionality however we might look at this particular product. So what users got was vendor lock-in in a box. They bought software and they were vendor locked because nobody else could actually interface with these... files.
+
+[moves to 'Healthy Market / Mobile Network' Slide]
+
+What is a 'Healthy Market'... on the other side, right? What is the Healthy Market, for example mobile networks, or moblie network operators. Well that is a more or less healthy market right, because you can choose. There well established standards, there is... you can keep contact with other people regardless of which network they use or even in which country they are, right. The prices might change a little bit but this is not prohibiting you from contacting these people within this particular service. 
+
+So you can freely and independently select both the provider and the device without worrying whether or not you will keep contact with the people that are using this particular provider or are using this particular kind of device, right. This is exactly, for example, this is exactly why Jovla Mobile [??] could enter the market right. Because there were standards, they could just drop their devices on the market and then you know, the... service providers didn't really care but couldn't stop it in any way.
+
+[moves to 'Healthy Market / Email' Slide]
+
+Okay, another example, also obvious, well that's email right. Also well established standards so anybody can write an email server or anybody can run an email server right. Everybody knows how..., well everybody can check how to do that and write their own or... set up their own server.
+
+And again it's possible to keep contact regardless whether I'm using my own email server or my hackerspace's email server and somebody else here uses for example gmail or whatever mail... server right. This is irrelevant. I can select both the user agent and the service provider and I can... be more or less sure that I will be able to keep contact with anybody using this particular kind of service regardless of the provider and the user agent they are... using.
+
+No a little bit of history. Web designers hold... you know grab something...
+
+[moves to 'Healthy Market / Browers' Slide and IE logo appears]
+
+Yeah. Do we have any web designers here? Web developers here? Hands up.
+
+[raises hand]
+
+Yay, do you remember this beautiful... logo. You know, embrace extend explorer. Websites created for a particular browser 2006 try to make a website that works in different browsers good luck with that.
+
+So there were barriers to selecting your browser freely. There were barriers for users. The user cannot, could not select a browser freely because most websites were written for Internet Explorer right. There wer barriers for website creators because, you know, they had standards they could read and see aho, so I should write this website in this particular way oh but that doesn't work for this particular browser and this is the most used browser so I should write for that that. But how to write for that, there are no standards. 
+
+And there were barriers of entry for... browser creators, browser developers, right because they had to not only implement the standards but also somehow manage to show the websites written for this particular browser in a way that was lets call it usable right. 
+
+[moves to 'Healthy Market / Browers' Slide with Firefox logo]
+
+And this happened. So we got... a organization that got us back on track by insisting to use standards properly. And... writing a good product, creating a good product that users wanted to use and thanks to that we can now independently choose a browser...
+
+[moves to next slide]
+
+so some of the web developers probably remember these old black dark times and those old black times are somewhere in our lore. In for example stuff like that right. 
+
+But this is a very ironical picture. Most of us do not get the irony yet. I will get back to the irony in this picture. Some of you might already have a idea what that might be.
+
+Anyway so healthy market
+
+[moves to 'Healthy Market / Google Search' Slide ]
+
+Is Google Search. Well is web search a healthy market? Well there is a low barrier of entry, more or less, there are several providers already, so we can choose a provider regardless of Google's dominance. We have a dominant player on the market but we can choose to use for example "Duck Duck Go" or anything else right.
+
+So I wouldn't, I would say that this is indeed some an example of healthy market. 
+
+[moves to next slide]
+
+Okay so, if we have... a healthy market and we have for example mobile network service providers... we can choose, you know we can tier it, we can... see, okay so this is the service right this service is mobile telephony and data transmission or whatever we call it. 
+
+But then we have the provider we can select the provider and then we can select the device completely independently of each other right. So I don't know, T-Mobile or Orange doesn't care what kind of... phone I use as long as it is compliant to standards.
+
+[moves to next slide]
+
+Social Networks, is this is how we... see the social networks market, right. We have the social networks market and we can choose from several providers for example Twitter, Facebook and Google and we can use a different, let's call it 'user agent' or... the terminal that we use to... use the service. For example Twitter.com or Facebook.com or plus.google.com or whatever desktop client, mobile clients that are annointed by those companies.
+
+But something is wrong with this picture and I wil get back to that in a minute.
+
+[moves to next slide]
+
+But first of all let's do a small gedanken [??] expiriment right a small thought expiriment. What would happen... like we all know that in Europe and in many other places in... world we can use the same power socket right we can use the same power socket right. 
+
+We have a... electrical device also I would like to welcome all the people from Great Britian here. So we have a electrical device and thanks to the fact that it is basically standardized we can just plug it in and it'l work right without burning without crashing without doing something nasty hopefully.
+
+But what will happen if a large manufacturer of electrical devices decided: well, it would be more condusive to my business, it will be you know, more interesting for me to provide my own plug standard right I will make my own plugs. I will make my own sockets right and if you want to use my devices you will have to have my sockets in your home right.
+
+Something is wrong with that, wouldn't we agree I mean probably the customers would say: well that's crazy I will not like.. you know create new sockets in home just to use the devices of this particular... company, that's crazy. Media would probably be quite interested in this crazy... idea and probably you would get some kind of agency or institution would get involved and try to make this particular company adhere to standards right.
+
+They will say: well you know here we do this our way. We have the standards that say there are like 230 volts and you know you have those two...points in the plug and this is the way we do that. Either play along or see ya right.
+
+[moves to next slide]
+
+But the interesting this is that this is obvious to us when we are talking about standard wall plugs but this is not obvious to us when we are talking about electrical cars. Oh yeah like we are doing an off topic enough topic right now... no we are not but okay.
+
+So when we're dealing with electrical cars, every single manufacturer of electrical cars is you know doing thier own sockets, doing their own... electrical circuits, thier own ways of charging those... cars right. 
+
+This is crazy, they are actually then going into deals with cities or countries or some local communities and saying: listen, we will give you a discount, or we will even somehow support you if you will support our particular kind of electrical car and electrical socket for cars on your terrain. 
+
+So what we get even though we seem to have a market right, so this company produces electrical cars and this company produces electrical cars this company is trying to produce electrical cars... okay let's play along. 
+
+So we seem to think that this is a market. But what we actually get are localized monopolies right you cannot get your electrical car that is compatible with this particular company's deal with this particular city and go to another city and hope to charge that car. Oh that's not good.
+
+[moves to next slide]
+
+So getting back on track... who has a facebook account
+
+[raises hand]
+
+Hands high, hands high don't lie. Okay I don't.
+
+Okay and why won't you close it and move it to Diaspora or Google+. This is not a hands up question right... because we all know.... the answer right. All my friends are one facebook right. All my contacts are on Facebook and no other provider provides this service of contacting those peoples on Facebook... oh wait this sounds like a monopoly doesn't it?
+
+This is exactly the same thing we had here
+
+[moves back to car charging slide]
+
+I cannot charge my car here right I have to charge my car here because this is the deal I get with this particular manufacturer. So I would say that this is more or less the same thing...
+
+[moves back to previous slide]
+
+because Facebook service of keeping in touch with people that use Facebook. Obviously you can find other ways of connecting with those people, just as you can find other ways of getting from point A to point B instead of electrical car right. But if you want to use and electrical car in this city and that city you are not going to do that. If you want to use your for example twitter account to connect to Facebook users this is not going to... work.
+
+So while we see this...
+
+[moves to next slide]
+
+Remember this slide, this slide was like 5 minutes ago, hope you remember it. When we think about social networks we think about this.. kind of thing right when we have we can select the provider we can select the user agent only we can't.
+
+Because there are actually vertically integrated monopolies in the... service of contacting you with Facebook users there is only one provder... guess whose that and there is only one user agent or there several user agents but they're all annointed and accepted by a particular company right. You cannot have a Twitter client using Facebook, well it's absurd but for some reason it's not absurd for us to expect I don't know that a Panasonic electrical device will work with a power socket made by some other company right.
+
+[moves to next slide]
+
+So why this is...accepted and that not. But, let's go further. The point here is that we cannot freely choose you know every single element of you know.. in this market. This is not a single market, those are three different markets... those are three different monopolies.
+
+Who has more than one account? Who has an account on Facebook and Twitter and or Google Plus and Twitter ecetera... 
+
+Why?
+
+Why do you have several different power sockets at home? 
+
+I am not trolling you know, I am trying to make a point. 
+
+[moves to next slide]
+
+Which also sometimes is actually trolling.
+
+So this is also the case right. We have other services, we seem to have a single I don't know, cloud drive market only we don't. We cannot easily switch providers, we would have to download everything from provider A and move to provider B only there formats might not exactly be.... For example metadata formats don't exactly be fully compatible.
+
+And you can only use this client with this particular... provider.
+
+[moves to next slide]
+
+ And also, internet instant messaging right... this is the same situation. We have Skype, we have iMessage, we had MSN, but now it is SkyNet... 
+
+We kind of have Gtalk and XMPP which is nice right only we are slowly getting a problem with that because Google has announced some time ago that: nah, maybe we should move into Hangouts and like you know close the server to server service. 
+
+Oh by the way facebook chat actually uses XMPP, probably you know that right, on the backend, but they just don't let other servers connect to their servers and for example they don't... won't let Warsaw Hackerspare Jabber server talk to facebook server right. It is not their business strategy. 
+
+So this is... the vertical integration right and this last thing, the Gtalk... the Google thing is the most interesting I would say, because it shows... 
+
+[moves to next slide]
+
+Another thing, it shows the network effect, right. 
+
+Obviously you will... you would say: ohh but it is more convienient that way Google is... has such... has such a nice interface and you know and everybody uses Google so why shouldn't I use Google I can make my decisions for myself right. 
+
+I can make my decisions for myself, unfortunately this little thing called the network effect 
+
+[clicks to reveal content on slide]
+
+Which is pretty simple: The more people use a given communication platform, the more people will start using it, right. Or the more people use it the more people use it, which sounds silly.
+
+But, this is obvious right... the more people use a telephone... you know started use telephone the more people wanted to use the telephone service right because so that stay in touch with those people.
+
+This is the same effect that keeps you in Facebook right. All our friends are there. But it gets a little bit hairy at some point, because when you have a critical mass of users it's harder to stay outside right. Because you get: nah all my friends are there maybe I should join. 
+
+[clicks to reveal more content on slide]
+
+It is not only maybe I can go out or maybe I Can't because all my friends are here. No no no, it's sometimes like: oh maybe I should join. Do we have any person here that had to join Facebook, Twitter or Google because it was somehow required by their school or university or their...
+
+Thank you there is one place, two three, four... more yes thank you.
+
+See this is how it works.
+
+Some of you maybe didn't want to join but they had you... but you had to join because other people joined and with a little it was obvious to make a group on facebook or whatever right
+
+[clicks to reveal more content on slide]
+
+but that also means that the more power... that means more power to the entity controlling the platform because to join Facebook you had to accept Facebook's Terms of Service.
+
+Suddenly somehow, accepting Facebook Terms of Service was a requirement for you to get your education. I don't get that. 
+
+Do we see a problem here? Right there's something... fishy with this... image 
+
+[moves to next slide]
+
+And now we are getting back to the irony, who uses Google chrome?
+
+
+
+
+
+
+

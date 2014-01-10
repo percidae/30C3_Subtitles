@@ -9,3 +9,198 @@ The language is supposed to be:
 Amara Link: http://www.amara.org/de/videos/ZWRbSoz3FqxU/info/ 
 -------------------------------------------------------------------------------------------------------------
 
+I'm Christoph Berkemeier and today I would like to talk about long distance quantum cryptography communication (it's the same)
+
+At first I would like to give a small introduction then I would like to talk about quantum communication
+
+then about extending the read and finally about the quantum repeater
+
+So, the introduction
+
+Let's assume we would like to communicate in secrecy
+
+it would be preferable if you could use a proovable security and for proovable security we need a one time pad
+
+A one time pad is a very simple symmetric encryption algorithm and it was invented in 1882 by Frank Miller 
+
+and later - I think in 1917/1918 - reinvented
+
+As you can see here there's a plaintext, there's a key, modulo the alphabet and the alphabet here is 2 because we're using zeros and ones and If we just apply this scheme we get the ciphertext which is not decryptable. For secure application we have some requirements. We need a random secret key, we need a secret key as long as the data and we need one-time secret keys, so in the end we single-use long, random secret keys.
+
+The problem is the key is the key distribution. The key must be printed, crafted or saved in a physical object and then the key could be copied during mechanical transport and the transport is logistical expensive. Without the quantum regime in the classical regime the solution relies on trust, but you would like to go to the quantum regime.
+
+Here you can see some photons *laughter* and I would like to introduce you the quantum effect of entanglement. First in the quantum regime when you measure things you don't measure deterministic but probalistic. So when you measure the photon 1 in the state you measure the probability of alpha. The same goes for the photon 2 which is here a probability of beta and also with photon 3, but if photon 3 is part of an entangled photon pair and the measurement of the photon 4 depends on the previous measurement of photon 3. Einstein called this "spukhafte Fernwirkung" - "spooky action at a distance".
+
+Ok, so now we got some introduction we'll come to the quantum communication and we can think of simplified quantum communication scheme. It goes like this: There is an entangled photon pair. Alice prepares or prepares not the state of the photon 1. Bob then copies the state of photon 2 to photon 3, then Bob measures the photon 3 and as it is probabilistic Bob repeats steps 2 and 3 until he is sure about his measurement. He is sure about his measurement. The problem is this scheme is oversimplified. If this scheme would be possible the information distribution would be faster than light and that contradicts the theory of relativity. Which is bad. *laughter*
+
+Down below you can see the original author. He talked about entangled photon pairs.
+
+This not only contradicts the theory of relativity but there is also the no-cloning theorem. This no-cloning theorem was just invented to counter the possibility of fast-than-light communication and the proof depends on the linearity of quantum mechanics and so it is sophisticated.
+ 
+ But what we have to keep in mind is that the single photon can not be cloned. While this destroys our oversimplified quantum communication scheme it also gives some kind of copy protections for single photons / single quantums. In our case we would like to talk about photons and it is important to remember that this copy protection is only for single photons. When we have got thousand photons and we measured a hundred of them then we have got nine hundred photons that are not disturbed by the measurement and nobody will miss the hundred.
+
+So we need single photon sources. What are single photon sources? Single photon sources can be characterized by an experiment you see down below. You take the photons of your light source, put it here in the beam splitter, the beam splitter directs 50% of the photons to this avalanche photo diode and the other 50% to this photo diode. The coincidence counter then measures the time difference between the events on this diode and this diode. So as you can see here I've got three different sources. The first one is the light bulb on top here which is a chaotic source and a certain time interval it's very probable that when we have measured one event that we measured a second event. As you can see the photons are bunching here. 
+
+Then we have got the laser. The laser is a coherent photon source and an event is unrelated if any event has been previously measured. As you can see this line is quite straight. These photons neither bunch nor anti-bunch. The true single photon source which is perfect in theory does anti-bunching. So as you can see here's a certain time interval and the probability that a second event is registered in this time interval is nearly zero. But for real single photon sources we say that the second order relation below 0.5 is a single photon source and therefore it is in discussion if attenuated lasers can also be single photon sources because as you can see here when you drop a second photon of this measurement we might get something similar to this graph.
+
+Ok.
+
+What are the possible sources? The possible single photon sources are quantum dots which are atomic structures on a nanoscale and some are engineered out of semiconductors but there are also non-semiconductor quantum dots. 
+
+There are optical parametric oscillators. This is a very interesting source because this OPO generates entangled photon pairs and you can then measure one photon and know that there is a second photon flying around in a different state. It's then called heralded(?) photon source. You can use single photons and you can use ?? centers in diamonds. There's a diamond made out of carbon and one of the carbon atoms in this crystal is not carbon but is nitrogen. These are very stable and popular right now. As conclusion the anti-bunching behaviour characterizes our single photon source and the known single photon sources would allow non-disturbing measurement of the state which would in the end harm our security of our device.
+
+Ok.
+
+Here is a quantum key concept. Quantum key distribution concept and you have over here Alice. Alice prepare photon in a certain polarization and then sends this photon to a electro-optical modulator which shifts the polarization at random. The photon is then sent over the quantum channel to Bob where Bob modulates the incoming photon at random and then measures it with a polarizing beam splitter and detect it through the photo diode.
+
+The polarizing beam splitter is different from the beam splitter as it transmits or reflects photons based on its polarization. Now Alice and Bob have done some measurement and then Alice and Bob compare their random modulation of the EOM over a verifiable channel. This channel can be public but must not but at least it must be verifiable.
+
+
+In BB84 there's two states for encoding and two states for randomizing so here you can use two states and here you're using also two states and as an input there are also two states you can use. 
+
+Ok. There are various protocols you can use, BB84 just mentioned was the first protocol and is intended for four states and E91 uses entanglement for transmission and the SARG protocol is used in some commercial available quantum key distribution devices. Of course the security depends on the implementation and you might have seen the nice talk in 2007 at the Chaos Communication Congress where they show some practical attacks on quantum cryptography. 
+
+
+So we have got some quantum communication in one laboratory which is awesome but we'd like to go beyond and therefore we need to extend the range. One thing we could do is we could use the free space a.k.a the air which has the advantage that it is very flexible because air is nearly everywhere and the disadvantage is that there's background light, like the sun or street lamps and when you have got a high photon count in your PD your PD is burnt out or is saturated and doesn't detect any event. You can handle this but it is a disadvantage.
+
+Another disadvantage is the distribution medium. The air is not very stable. There is for example fog or heavy rain or something like this and this would degrade your key rate. It's not what we would like to have. There has been some experiments and they reached something between 50 and 100km free space quantum communication. The main problem for reaches beyond 100km is the problem that the earth is not flat. You can't reach Tokyo from Hamburg without a very high tower or a satellite. 
+
+
+So there was quantum communication proposed by satellite. By satellite you're sending by example single photon and entangled photon pair source up with the satellite and the satellite sends one photon to receiver 1 and one photon to receiver 2. Each receiver measures the photon and through entanglement of the photons the measurements are correlated. 
+
+Down below you can see a paper that has been published that shows some more satellite schemes to communicate. Then the next thing we could do is we could do quantum communication by fibre. The advantage is here the signal in the fibre is relatively independant of the environment. I say relatively because a physist that has shaken his fibre during experiment knows how hard it can get to get any signal out of it.
+
+
+The fibre is of course flexible but it is definitely not mobile. The good thing is also that you can use commercial available fibres and these fibres already in the ground can be used at will. The disadvantage is that you can't use every wavelenght because most wavelenght have a high loss in the fibre. The wavelength that are used today are around 800, 1310 and around 1550 but even the last one has a 0.2 dB damping per km and the reach is limited to about 100 km.
+
+
+What we should do now is to find a scheme to enhance this reach. One possibility is the trusted node concept. Here you combine quantum transmission like here 1, 2 and 3 with classic transmission like A and B. The problem is obvious that you need to trust the persons or the machines or whatever works at the place where the classical transmissions takes place. It relies on trust that we already had before and so this might be an interesting test case for some things.
+
+
+Instead you would like to reach the quantum repeater. The quantum repeater looks like this. It consists of a quantum memory element like here at 1. It has got some entangled photon pairs element, a beam splitter and 2 photo diodes. They are published in this paper down below. 
+
+
+Let's take a look at first at the beam splitter. It's entanglement swapping. Entanglement swapping means that you got here photon 1 and here photon 2 and you send both photons which are part of entangled photon pairs to this beam splitter. When these photons are indistinguishable these photons bunch and end up at either this photo diode or this photo diode. When this photon bunch the entanglement between 2 and 3 is swapped and afterwards you have got entanglement between 3 and 4.
+
+
+Thereby you swapped entanglement you have reached greater range.
+
+Now we have got the entanglement swapping. We would like to have also quantum memory element because it enlightens network synchronization and it might be possible to connect this quantum memory element to other devices you would like to use.
+
+
+
+Ok, the quantum memory element. There has been defined some criterias for memory elements. As I said before the wavelength is very important. The bandwidth is  important which means the frequency interval in which photons would be still stored in the quantum memory. The fidelity describes the quality of the photons so if I send in a photon in state A  the photon that comes out of the quantum memory element should also be in state A and not something else because then it would be a random generator but not a memory element.
+
+
+Then the efficiency that means how often I have to send in a photon to get a photon out and of course the storage time and the capacity is also important. Again, we can use Quantum Docs, NV centers in diamonds, atomic gases and cold trapped atoms for quantum memory.
+
+
+Quantum dots. You can see them here on the right side. I think it's an atomic force microscopy and this are the sites and it's out of semiconductors so you've got a semiconductor of a certain lattice and other semiconductors with similar but not the same lattice on top and they bunch because they thereby reduce the surface energy. Here we have got the conducting band, the bench structure of the quantum dot. On the upper side is the conducting band which is a electron sample of electrons far away from the atomic core and down below you got the valence electrons which are the electrons near the atomic core. And then there are some states in this band when a photon comes into the quantum dot it is absorbed and it generates an exiton. An exiton is an electron-hole-pair. Because this quantum dot is biased the hole as you can see in the middle is moved out of the quantum dot and the electron can't recombine, at least for a certain time, it's not stable for a hundred of years. Then you've got this electron up there and the incoming photon and the information on the incoming photon and the information on the electron are correlated over spin correlation. So then for read out you would bias the quantum dot again but this time to move in some holes as you can see down below. Then the holes enter the quantum dot then the electron and one hole can combine and a photon will be sent out. The fidelity is perfect, it's the same photon we've sent in.
+
+
+In this paper they mentioned the fidelity was around 80% +/- 10 and they had an efficiency of 20% but others reach about to 97% which is a high value of course. The storage time is about 100 µs and recently I read a paper or at least an abstract where they stored a photon for about 39 minutes. Sure long enough storage time. The bandwidth is 1 GHz which I think is also wide enough as you would like to entangle swap this photons and for entanglement swapping, I remind you, you need indistinguishable photons and I'm not so sure where the... well you can't entangle photons you can't distinguish anymore but I think 1 GHz is good enough for using it as a quantum memory. 
+
+
+As we have got quantum dots the wavelength of the quantum memory can be tuned as you wish and the capacity you can do of course frequency multiplexing and on the other hand multi-photon-storage is not likely as they say it in their paper.
+
+
+Now we have got the quantum repeater. We got here our quantum memory element which stores photons for a certain time and over here the entangled photon pairs which are useful for the entanglement swapping. If we combine a long chain of this quantum repeaters we can reach any distance we would like to have. 
+
+Coming to my conclusions: Told you something about the free space quantum communication, the quantum communication by fibre and the quantum repeater with the main part of the belt state measurement and the quantum memory. If you liked the quantum communication you could also take a look at the quantum dots which are a very interesting nanoscale structure and frequency down- and upconversion and I would like to thank you for your attention. 
+
+*applause*
+
+Herald: Now if you have questions there are mics there, there and I think this one also works. Also if you're on the stream you can use IRC or twitter. Any questions in the room? Ok, you, go ahead.
+
+
+Attendee: You showed us with the repeater you have the beam splitter and you said the photons can bunch, how do they do that?
+
+Speaker: I don't know how but the important point because it's quantum mechanics the important point is this photons come to the beam splitter, ok, and if they're indistinguishable, then they bunch. This is the concept. Why they bunch is not part of physics I think but it's in the quantum mechanics. 
+
+Attendee: Ok thank you.
+
+Herald: internet please
+
+Internet: I only have one question: how do you fix the static magnetic symmetry problem for the q-bit? Does that problem even exist? It's called static magnetic symmetry problem for the qbit.
+
+Speaker: Yes. 
+
+Internet: Does it exist?
+
+Speaker: I'm not so sure
+
+Internet: Ok, I think the one who posed the question was not so sure either, so never mind then.
+
+Attendee: would it be possible to have man-in-the-middle attacks so if there is one untrusted step in this whole chain would you detect it or is it undetectable this way?
+
+
+Speaker: you mean with the quantum key distribution?
+
+Attendee: No, if you have a chain normally in a fibre you have to amplify the photons. This is done with some dotation now in a classical way with some RF elements and something like this but this is all classical and they use stimulated emission to simply multiply the photons so you would have 1 photon which has exactly the same quantum numbers but hasn't been measured. I never understood why this is not a problem for quantum cryptography. 
+
+Speaker: I think you're talking about the no-cloning theorem. You can't clone a single photon state perfectly.
+
+
+Attendee: As far as I could read, it only applies to systems with a hamiltonian and stimulated emissions has a completely different hamiltonian where this is not applyable as simple as I think.
+
+Speaker: I don't think so. The no-cloning theory says that you can't perfectly copy a quantum in an arbitrary state. So you may be generate a photon in a certain state because they have been used before so if I use the same process I might get the same proton again but I can't measure it perfectly.
+
+Attendee: But a laser in my opinion does exactly this. Simply copy -
+
+Speaker: No, they are not in the same state. And they don't share the same polarization in a laser.
+
+Attendee: Ok, that's the answer.
+
+Attendee: Can you say anything about the loss rate of the repeater or is it perfect? 
+
+Speaker: It's perfect of course *cough* Right now there is no quantum repeater. It is an active research topic and right now the loss rates, I mean, the problem right now is that the quantum memory is not there so we can't talk about a quantum repeater but the loss rates are right now very high. This is something that is actively researched.
+
+Attendee: Seriously when people talk about entanglement they consider properties of  particles for example photons in two different locations so the two particles do have pretty sharp location and due to Heisenbergs uncertainty principle of course the momentum component of the particle will be kind of broad so the wavelength is not very sharply defined for the photons which I think is fine for this case but I'm saying in the way people normally talk about entanglement the space component is very sharp and the momentum component isn't. So my question is: in principle I think you could also have a sharp momentum component and a very undefined space component for example you look at electrons in carbon nanotubes they might be delocalized essentially and one might be going this way around and the other one going the other way. So my question is: have there been any experiments in using entanglement not in space but in momentum space? And if so, would there be practical applications for encryption and stuff? Because it should be possible I think.
+
+Speaker: I can't remember paper where this was described so I don't know every paper and it might be possible.
+
+Herald: Do you have any more questions?
+
+Attendee: Yes. The entanglement of polarization of two photons in two different locations...
+
+Speaker: Yes
+
+Attendee: ... and you could also for example two electrons in the same position in the same nanotube and  one is going counterclockwise while the other one is going clockwise and that is two different locations in momentum space while they overlap in direct conventional space. That's what I meant.
+
+Speaker: Ok
+
+
+Attendee: I have a very small questions, I was wondering what is the problem conserving the state for example when you try to save quantum states. You said that you can save it up to hundred µs or so. What is the problem, why can't it only save the state for such a short time?
+
+Speaker: This is only one quantum memory, so there might be others. I just mentioned there has been published a paper in november who said that they can save the state for about 39 minutes at room temperatur and I think for about 3 hours in a cryogenic environment. The problem here is the dioccurence of the electron. You see, this electron is not stable for an arbitrary time and after more time as they I think they had problems to read it out.
+
+Attendee: Thank you very much.
+
+Attendee: I have a question concerning detectors. How do you actually detect a photon state and get the photon state out of the photon so it's... I can't really imagine how to build a detector that can catch these different states. Do you apply this with your beam splitter?
+
+Speaker: Yes. When I talk about states I mean just one certain property like for example the polarization. Of course you can use other properties. But the polarization you can catch with this polarizing beam splitter which can differ between two polarizations. When it's of one polarization it goes to the photo diode down below and when it's the other polarization it goes to the photo diode on the other side.
+
+
+Attendee: But if you use a photo diode, you actually have never one single photon detection. With an avalanche photo diode you can only detect a bunch of photons coming to the diode, you're not able to detect one single photon because this will not cause the avalanche effect, so how do you come across this.
+
+Speaker: No. I mean you use an avalanche diode for detecting this photon.
+
+Attendee: But you can't detect one single photon with an avalanche diode.
+
+Speaker: You do. I did!
+
+Attendee: But you don't have one photon then. Because it does not have single photon resolution, this type of detection.
+
+
+Speaker: It depends on what kind of avalanche diode you use but there are avalanche photo diode that I used for single photon detection. *laughs* I'm very sure!
+
+
+Herald: Any more questions anyone? No? Ok, then tank you and another round of applause please!
+
+
+
+
+
+
+
+

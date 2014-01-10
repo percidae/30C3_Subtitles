@@ -20,7 +20,7 @@ First a little disclaimer: we are going to talk about access, but we are not goi
 
 but that's a separate issue and that's not the scope on the talk today.
 I'm going to focus about access and how to provide a neutral internet access.
-So I will start by giving you a quick overview of the network in France, the public network, the public ISPs: the are lots darkzones, we have no or bandwith, 
+So I will start by giving you a quick overview of the network in France, the public network, the public ISPs: the are lots of dark zones, we have no or bandwith, 
 very isolated; network neutrality is under heavy attack
 form different perspectives
 from the legislative point of view, from commercial ISPs themselves,
@@ -36,7 +36,7 @@ And of course, as there are big commercial ISPs, we are just numbers in a databa
 When we call the hotline, we are asked to wait for a long time to have a silly answer, that's not very cool.
 And there are lots of other issues on the network in France, but ???
 
-So there are several issues to address:
+So there are several issues to address.
 First: help people understand the stakes: what is the internet ? How does it work ? It's not a box that you buy at the supermarket. Many people think that's the way it is.
 Make people understand that freedom of expression is at stake when it comes to port restrictions and things like that on their internet access.
 Another issue to address is how to provide public IPs, for making people capable of hosting their own services at home, v4, v6 and so on, have a neutral access, that's quite easy, actually, to provide a neutral access, but the big telcos continue to tell us that, "yeah, you know, the bandwidth is so big, the pipes are full, the network are saturated…", that bla bla shit.
@@ -44,8 +44,7 @@ Another issue to address is how to provide public IPs, for making people capable
 And of course a big issue which is the rural areas and how to build rural networks there to provide a good access to the internet and to put an end to this divide, this digital divide about the access to the internet.
 
 So how do we engage this fights? In France we come up  with a solution that I will present you. I've identified two key-points for me, but maybe there are others. First federating energies: we are doing things, but how do we build on top of this, how do we share the knowledge that we use to build our networks, how can we avoid to reinvent the wheel and to ask again the same question each in our little corners.
-So, at first, in France, there was an example to follow, FDN, it's "French Data Network". It exists since 1992, since then almost nothing has changed in the structure of the organisation: its a nonprofit oragnisation; at first it was plain old telephonic system, and then ASDL came in 2005. Well
-POTS has proven useful lately in Egypt and Syria: FDN provided international landlines for… call numbers... to give back the access to the internet to people there and all around the world. And FDN also provide VPN, which is very cool and they provide VPN for Reporters Without Borders which is even more cooler.
+So, at first, in France, there was an example to follow, FDN, it's "French Data Network". It exists since 1992, since then almost nothing has changed in the structure of the organisation: its a nonprofit oragnisation; at first it was plain old telephonic system, and then ASDL came in 2005. Well, POTS has proven useful lately in Egypt and Syria: FDN provided international landlines for… call numbers... to give back the access to the internet to people there and all around the world. And FDN also provide VPN, which is very cool and they provide VPN for Reporters Without Borders which is even more cooler.
 
 ..
 
@@ -55,18 +54,15 @@ Because there are mines, those are the routers that are seeing my trafic when I 
 So FDN is kind of "choose your own adventure book" now, not book, ISP!
 It's like you're the hero of the very service that you use everyday. You have your say on how it works, on everything: how much does it cost and so on...
 
-in 2010 FDN was growing and growing, the human scale that was very important, was starting to vanish, and then it was time to spread the word it was time to fork and to build other ISPs and copy the very same structure and the  very same concepts which were the basis of FDN. So 
-here came the FFDN, the Federation FDN, called in tribute to this old organisation, and in 
-2011 there were 7 non profit ISP founding this federation, counting something like 400 members and now we are 23 ISPs all over France, counting something like something like 1600 members and… spoiler, we are soon crossing the borders, because there are plans to build a non profit ISP that will integrate our federation in Belgium.
-You're right, they're amazing and you should support them.
-If you are Belgian, we can discuss and I can introduce you to this people, they are here today.
+in 2010 FDN was growing and growing, the human scale that was very important, was starting to vanish, and then it was time to spread the word, it was time to fork and to build other ISPs and copy the very same structure and the very same concepts which were the basis of FDN. So here came the FFDN, the Federation FDN, called in tribute to this old organisation, and in 2011 there were 7 non profit ISP founding this federation, counting something like 400 members and now we are 23 ISPs all over France, counting something like 1600 members and… spoiler, we are soon crossing the borders, because there are plans to build a non profit ISP that will integrate our federation in Belgium.
+You're right, they're amazing and you should support them. If you are Belgian, we can discuss and I can introduce you to this people, they are here today.
 
 So here's a map of this organisation.
 So we built copies of FDN locally to maintain the human scale. That's very important if you want to do things with people that you can meet them, actually on a weekly, daily, not daily, but weekly or monthly basis, because what we are doing requires human link, much more than bandwith and technical stuff.
 
 So, How do we connect subscribers?
 There are many solutions actually to provide access to internet. In France we have the chance, the opportunity to have ADSL backhaul contracts, it's not possible everywhere
-You can use 5 GHz wifi bridges to extend ADSL lines and so on, to reach the darkzones I told you about and soon we are going to provide fibre to the home next to Paris, in a small city, which is quite exciting, and no, the RFC1149 doesn't work, don't try it. I've heard there's a new one, the 2549 but we won't try it.
+You can use 5 GHz wifi bridges to extend ADSL lines and so on, to reach the dark zones I told you about and soon we are going to provide fibre to the home next to Paris, in a small city, which is quite exciting, and no, the RFC1149 doesn't work, don't try it. I've heard there's a new one, the 2549 but we won't try it.
 
 So some examples.
 
@@ -99,7 +95,7 @@ Technical stuff actually is not a problem, like yeah, we can provide a 100GB of 
 So who's out there?
 In Spain there are Guifi, they have an amazing network with thousands of nodes, wireless nodes, there is the Free Network Foundation in the US, there is  Ninux in Roma, Altermundi in Argentina, and individual networks in Germany, and there are others, there are plenty of others, but the problem is we don't know each other, we don't talk to each other, we don't benefit from the network, even in the same city. There's a funny thing: yesterday evening I was talking to some guy form the [Shuckspace] in Stuttgart, and he was very much interested in this. This morning I received an e-mail from a guy from Stuttgart who was running a non-profit ISP, a student one, with 4500 members, and I was like "What, they don't know each other and they are in the same city? What is wrong? It's not like we have the internet to know each other". 
 
-So communication and federation is the key to this in my opinion. So I will introduce you to some kind of exclusivity (don't be too excited, or maybe… you will see). So we built a database, at the beginning we thought about this just for France, to share information: we have monthly meetings in our French organization, with the federation, and we excange our problems, we ask each other on a frequent basis "Oh, now how much subscribers do you have, how big is your network?" and so on… so it's quite a pain in the ass to have twenty organizations asking themselves these numbers: let's put this stuff into machines. So we built a database, automatic database that retrieves informations, like the areas covered and so on. The good thing is that we've built with an international scope in head, so it can be reused, it's free software and so on. As a user you can find the closest friendly ISP, and as a friendly ISP you can [???] your informations. So here is the thing, I will demonstrate you. We are not all in the system right now. I will put it in english… wow it's in English (laughing) almost!
+So communication and federation is the key to this in my opinion. So I will introduce you to some kind of exclusivity (don't be too excited, or maybe… you will see). So we built a database, at the beginning we thought about this just for France, to share information: we have monthly meetings in our French organisation, with the federation, and we excange our problems, we ask each other on a frequent basis "Oh, now how much subscribers do you have, how big is your network?" and so on… so it's quite a pain in the ass to have twenty organisations asking themselves these numbers: let's put this stuff into machines. So we built a database, automatic database that retrieves informations, like the areas covered and so on. The good thing is that we've built with an international scope in head, so it can be reused, it's free software and so on. As a user you can find the closest friendly ISP, and as a friendly ISP you can [???] your informations. So here is the thing, I will demonstrate you. We are not all in the system right now. I will put it in english… wow it's in English (laughing) almost!
 So you can  find the closest ISP next to you, like if I zoom on the map, then I say I'm living in the middle of nowhere, which is at my place, and then you just put the cursor there and then… TA-DAM! So you see, the area is covered by an organisation next to you; there is a wireless network there and we provide ADSL around the area. So you click on the organisation and you have informations, like the contact, the mailing list, the number of subscribers, members, the chatroom if you want to interact with people, and there it is. It's quite simple but it's very useful, and it just takes a few minutes to add a new project: ADD MY PROJECT, you can automatically provide a JSON, we have a format for this, and you can also fill a form and provide info… and you're done, it appears on the map.
 So, the features, as i said: there is a certain amount of information on ISPs, like subscribers, areas, techno, blablabla, and it's free software, you can patch it, fork it, whatever you like. There is also a mailing list for discussions, international discussions: here is the link ffdn.org/diy and the idea I have in mind today and why am I in front of you today is why don't we have hackerspaces.org for non-profit ISPs? When I saw that two people from the same city don't know each other and don't know that there is a big network already existing and so… I'm amazed, it's weird, it's really weird, so I will invite you to discuss this and see what we can do to share this information and to have finally some… a better overview of what is going on around this.
 

@@ -1,0 +1,1557 @@
+1
+00:00:09,710 --> 00:00:16,710
+Jacob Appelbaum: So, thanks very much to the
+guy who brought me a Mate.
+
+2
+00:00:58,199 --> 00:00:59,530
+I learned his name is Alexander.
+
+3
+00:00:59,530 --> 00:01:01,359
+It's never a good idea to take drugs from
+strangers,
+
+4
+00:01:01,359 --> 00:01:07,230
+so I introduced myself before I drank it - thank
+you.
+
+5
+00:01:07,230 --> 00:01:11,730
+First I wanted to say that following up after
+Glenn Greenwald is a great honor and a really
+
+6
+00:01:11,730 --> 00:01:16,470
+difficult thing to do, that's a really tough
+act to follow, and he's pretty much one of,
+
+7
+00:01:16,470 --> 00:01:18,290
+I think, our heroes.
+
+8
+00:01:18,290 --> 00:01:21,909
+So, it's really great to be able to share
+the stage with him, even for just a brief
+
+9
+00:01:21,909 --> 00:01:26,670
+moment. And I wanted to do something a little
+unconventional when we started and Roger agreed.
+
+10
+00:01:26,670 --> 00:01:30,380
+Which is that we want people who have questions
+- since I suspect some things happened this
+
+11
+00:01:30,380 --> 00:01:35,469
+year that arouse a lot of questions in people
+- we'd like you to write those questions down,
+
+12
+00:01:35,469 --> 00:01:40,770
+pass them to an Angel or to just bring them
+to the front of the stage as soon as possible
+
+13
+00:01:40,770 --> 00:01:44,390
+during the talk, so that we can answer as
+many of your questions as is possible.
+
+14
+00:01:44,390 --> 00:01:48,039
+This is a lot of stuff that happened, there's
+a lot of confusion, and we wanna make sure
+
+15
+00:01:48,039 --> 00:01:53,880
+that people feel like we are actually answering
+those questions in a useful way.
+
+16
+00:01:53,880 --> 00:01:57,070
+And if you wanna do that, it'd be great, and
+otherwise, we're gonna try to have the second
+
+17
+00:01:57,070 --> 00:02:00,969
+half of our talk be mostly space for questioning.
+
+18
+00:02:00,969 --> 00:02:02,229
+So with that, here is Roger.
+
+19
+00:02:02,229 --> 00:02:06,520
+Roger Dingledine: Okay, so, a lot of things
+have happened over this past year,
+
+20
+00:02:06,520 --> 00:02:09,229
+and we're gonna try and cover as many of them
+as we can.
+
+21
+00:02:09,229 --> 00:02:12,560
+Here's a great quote from either NSA or GCHQ,
+
+22
+00:02:12,560 --> 00:02:14,820
+I'm actually not sure which one it is.
+
+23
+00:02:14,820 --> 00:02:18,190
+But we're gonna start a little bit earlier
+in the process than this and work our way
+
+24
+00:02:18,190 --> 00:02:18,960
+up to that.
+
+25
+00:02:18,960 --> 00:02:24,300
+So, we're in a war, or rather, conflict of
+perception here. There are a lot - I mean,
+
+26
+00:02:24,300 --> 00:02:28,900
+you saw Glenn's talk earlier - there are a
+lot of large media organisations out there
+
+27
+00:02:28,900 --> 00:02:32,360
+that are trying to present Tor in lots of
+different ways,
+
+28
+00:02:32,360 --> 00:02:36,720
+and we all here understand the value that
+Tor provides to the world, but there are a
+
+29
+00:02:36,720 --> 00:02:41,170
+growing number of people around the world
+who are learning about Tor not from our website,
+
+30
+00:02:41,170 --> 00:02:44,750
+or from seeing one of these talks or from
+learning it from somebody who uses it and
+
+31
+00:02:44,750 --> 00:02:46,150
+teaches them how to use it.
+
+32
+00:02:46,150 --> 00:02:52,540
+But they read the Time Magazine or Economist
+or whatever the mainstream newspapers are,
+
+33
+00:02:52,540 --> 00:02:57,790
+and part of our challenge is how do we help
+you, and help the rest of the world do outreach
+
+34
+00:02:57,790 --> 00:03:02,650
+and education, so that people can understand
+what Tor is for and how it works and what
+
+35
+00:03:02,650 --> 00:03:04,700
+sorts of people actually use it.
+
+36
+00:03:04,700 --> 00:03:11,650
+So, for example, GCHQ has been given instructions
+to try to kill Tor by, I mean, who knows,
+
+37
+00:03:11,650 --> 00:03:15,980
+maybe they thought of it on their own, maybe
+we can imagine some nearby governments asked
+
+38
+00:03:15,980 --> 00:03:21,950
+them to do it. And part of the challenge...
+they say "we have to kill it because of child
+
+39
+00:03:21,950 --> 00:03:22,770
+porn".
+
+40
+00:03:22,770 --> 00:03:26,810
+And it turns out that we actually do know
+that some people around the world are using
+
+41
+00:03:26,810 --> 00:03:33,810
+Tor for child porn. For example, we have talked
+to a lot of federal agencies who use Tor to
+
+42
+00:03:33,940 --> 00:03:35,410
+fetch child porn. [subdued laughter]
+
+43
+00:03:35,410 --> 00:03:40,730
+I talked to people in the FBI who use Tor
+every day to safely reach the websites that
+
+44
+00:03:40,730 --> 00:03:42,510
+they want to investigate.
+
+45
+00:03:42,510 --> 00:03:46,980
+The most crazy example of this is actually
+the Internet Watch Foundation. How many people
+
+46
+00:03:46,980 --> 00:03:51,700
+here have heard of the Internet Watch Foundation?
+I see a very small number of hands.
+
+47
+00:03:51,700 --> 00:03:56,500
+They are the censorship wing of the British
+government. They are the sort of quasi-government
+
+48
+00:03:56,500 --> 00:04:02,390
+organisation who is tasked with coming up
+with the blacklist for the internet for England.
+
+49
+00:04:02,390 --> 00:04:07,660
+And, we got e-mail from them a few years ago,
+saying - not what you'd expect, you'd expect
+
+50
+00:04:07,660 --> 00:04:11,330
+"Hey, can you please shut this thing down,
+can you turn it off, it's a big hassle for
+
+51
+00:04:11,330 --> 00:04:17,590
+us." - the question they asked me was: "How
+can we make Tor faster?" [laughter, claps]
+
+52
+00:04:17,590 --> 00:04:21,930
+It turns out that they need Tor, because people
+report URLs to them, they need to fetch them
+
+53
+00:04:21,930 --> 00:04:26,840
+somehow. It turns out that when you go the
+URL with the allegedly bad stuff on it and
+
+54
+00:04:26,840 --> 00:04:33,250
+you're coming from the Internet Watch Foundation's
+IP-address, they give you kittens. [laughter]
+
+55
+00:04:33,250 --> 00:04:39,909
+Who would have known? [laughter, applause]
+
+56
+00:04:39,909 --> 00:04:46,150
+So it turns out that these censors need an
+anonymity system in order to censor their
+
+57
+00:04:46,150 --> 00:04:52,740
+internet. [laughter] Fun times.
+
+58
+00:04:52,740 --> 00:04:58,780
+So another challenge here: at the same point,
+one of my side hobbies is teaching law enforcement
+
+59
+00:04:58,780 --> 00:05:02,139
+how the internet works, and how security works
+and how Tor works.
+
+60
+00:05:02,139 --> 00:05:06,759
+So, yeah, their job does suck, but it's actually
+not our fault that their job sucks. There
+
+61
+00:05:06,759 --> 00:05:12,219
+are a lot of different challenges to successfully
+being a good, honest law enforcement person
+
+62
+00:05:12,219 --> 00:05:12,900
+these days.
+
+63
+00:05:12,900 --> 00:05:18,930
+So, for example, I went to Amsterdam and Brussels
+in January of this past year to try to teach
+
+64
+00:05:18,930 --> 00:05:20,979
+various law enforcement groups.
+
+65
+00:05:20,979 --> 00:05:25,050
+And I ended up having a four-hour debate with
+the Dutch regional police, and then another
+
+66
+00:05:25,050 --> 00:05:30,330
+four-hour debate with a Belgian cybercrime
+unit and then another four-hour debate with
+
+67
+00:05:30,330 --> 00:05:31,830
+the Dutch national police.
+
+68
+00:05:31,830 --> 00:05:36,460
+And, there are a lot of good-meaning smart
+people in each of these organisations, but
+
+69
+00:05:36,460 --> 00:05:41,259
+they end up, as a group, doing sometimes quite
+bad things.
+
+70
+00:05:41,259 --> 00:05:46,030
+So part of our challenge is: how do we teach
+them that Tor is not the enemy for them?
+
+71
+00:05:46,030 --> 00:05:52,810
+And there are a couple of stories that I've
+been trying to refine using on them. One of
+
+72
+00:05:52,810 --> 00:05:57,090
+them they always pull out, the "But what about
+child porn? What about bad people? What about
+
+73
+00:05:57,090 --> 00:06:00,129
+some creep using Tor to do bad things?".
+
+74
+00:06:00,129 --> 00:06:05,009
+And one of the arguments that I tried on them
+was, “Okay, so on the one hand we have a
+
+75
+00:06:05,009 --> 00:06:11,270
+girl in Syria who is alive right now because
+of Tor. Because her family was able to communicate
+
+76
+00:06:11,270 --> 00:06:16,349
+safely and the Syrian military didn’t break
+in and murder all of them."
+
+77
+00:06:16,349 --> 00:06:20,800
+"On the other hand, we have a girl in America
+who is getting hassled by some creep on the
+
+78
+00:06:20,800 --> 00:06:24,180
+internet who is stalking her over Tor."
+
+79
+00:06:24,180 --> 00:06:29,749
+So the question is, how do we balance, how
+do we value these things? How do we assign
+
+80
+00:06:29,749 --> 00:06:33,729
+a value to the girl in Syria and how do we
+assign a value to the girl in America so that
+
+81
+00:06:33,729 --> 00:06:36,560
+we can decide which one of these is more important?
+
+82
+00:06:36,560 --> 00:06:40,479
+And actually the answer is, you don’t get
+to make that choice, that’s not the right
+
+83
+00:06:40,479 --> 00:06:42,120
+question to ask.
+
+84
+00:06:42,120 --> 00:06:45,930
+Because if we take Tor away from the girl
+in Syria, she’s going to die. If we take
+
+85
+00:06:45,930 --> 00:06:50,650
+Tor away from the creep in America, he’s
+got a lot of other options for how he can
+
+86
+00:06:50,650 --> 00:06:52,620
+be a creep and start stalking people.
+
+87
+00:06:52,620 --> 00:06:57,479
+So if you’re a bad person, for various definitions
+of bad person, and you’re willing to break
+
+88
+00:06:57,479 --> 00:07:03,539
+laws or go around social norms, you’ve got
+a lot of other options besides what Tor provides.
+
+89
+00:07:03,539 --> 00:07:10,539
+Whereas there are very few tools out there
+like Tor for honest, I'd like to say law-abiding,
+
+90
+00:07:10,949 --> 00:07:16,249
+but let's go with civilization-abiding citizens
+out there.
+
+91
+00:07:16,249 --> 00:07:23,249
+Jacob Appelbaum: And it’s important to understand
+that this hypothetical thing is actually also
+
+92
+00:07:25,270 --> 00:07:26,840
+true for certain values.
+
+93
+00:07:26,840 --> 00:07:31,779
+So at our Tor developer meeting that we had
+in Munich recently, that Syrian woman came
+
+94
+00:07:31,779 --> 00:07:35,860
+to us, and thanked us for Tor. She said,
+
+95
+00:07:35,860 --> 00:07:40,009
+I’m from a city called Homs. You might have
+heard about it, it’s not a city anymore.
+
+96
+00:07:40,009 --> 00:07:45,270
+I used Tor. My family used Tor. We were able
+to keep ourselves safe on the internet thanks
+
+97
+00:07:45,270 --> 00:07:46,129
+to Tor.
+
+98
+00:07:46,129 --> 00:07:51,039
+So I wanted to come here to Munich to tell
+you this. Thank you for the work that you’re
+
+99
+00:07:51,039 --> 00:07:51,409
+doing.
+
+100
+00:07:51,409 --> 00:07:55,900
+And for people who - this was their first
+dev meeting - they were completely blown away
+
+101
+00:07:55,900 --> 00:07:57,150
+to meet this person.
+
+102
+00:07:57,150 --> 00:08:01,129
+- 'Wow, the stuff that we're working on, it
+really does matter, there are real people
+
+103
+00:08:01,129 --> 00:08:01,779
+behind it.'
+
+104
+00:08:01,779 --> 00:08:06,520
+And, I think, we were all really touched by
+it, and all of us know someone who has been
+
+105
+00:08:06,520 --> 00:08:09,449
+on the receiving end of people being jerks
+on the internet.
+
+106
+00:08:09,449 --> 00:08:14,249
+So this is a real thing where there are real
+people involved, and it's really important
+
+107
+00:08:14,249 --> 00:08:17,389
+to understand that if you remove the option
+for that woman in Syria
+
+108
+00:08:17,389 --> 00:08:23,210
+- or you here in Germany, now that we know
+what Edward Snowden has told the world -
+
+109
+00:08:23,210 --> 00:08:26,949
+those bad guys, those jerks, for different
+values of that,
+
+110
+00:08:26,949 --> 00:08:28,419
+they always have options.
+
+111
+00:08:28,419 --> 00:08:32,919
+But very rarely do all of us have options
+that will actually keep us safe.
+
+112
+00:08:32,919 --> 00:08:37,130
+And Tor is certainly not the only one, but
+right now, and we hope in this talk you'll
+
+113
+00:08:37,130 --> 00:08:41,120
+see that we're making the right tradeoff by
+working on Tor.
+
+114
+00:08:41,120 --> 00:08:44,650
+[Roger Dingledine]
+One of the other talks that I give to them,
+
+115
+00:08:44,650 --> 00:08:47,130
+one of the other stories that I give to them,
+
+116
+00:08:47,130 --> 00:08:51,760
+one of the big questions they always ask me
+is: "But what about terrorists? Aren't you
+
+117
+00:08:51,760 --> 00:08:53,530
+helping terrorists?"
+
+118
+00:08:53,530 --> 00:08:58,480
+And we, we can and we should talk about "What
+do you mean by terrorists?" because in China
+
+119
+00:08:58,480 --> 00:09:02,700
+they have a very different definition of terrorists
+and in Ghaza they have a very different definition
+
+120
+00:09:02,700 --> 00:09:03,450
+of terrorists,
+
+121
+00:09:03,450 --> 00:09:07,700
+and in America, they are always thinking of
+a small number of people in some Middle-Eastern
+
+122
+00:09:07,700 --> 00:09:10,880
+country who are trying to blow up buildings
+or something -
+
+123
+00:09:10,880 --> 00:09:12,490
+[Jacob Appelbaum]
+Mohamed Badguy, I think is his name.
+
+124
+00:09:12,490 --> 00:09:13,460
+[Roger Dingledine]
+Yes, that -
+
+125
+00:09:13,460 --> 00:09:15,720
+[Jacob Appelbaum]
+In the NSA slides.
+
+126
+00:09:15,720 --> 00:09:17,910
+[Roger Dingledine]
+Yes.
+
+127
+00:09:17,910 --> 00:09:23,720
+So, scenario one: I want to build a tool that
+works for millions of people, it will work
+
+128
+00:09:23,720 --> 00:09:28,670
+for the next year, and I can tell you how
+it works, so you can help me evaluate it.
+
+129
+00:09:28,670 --> 00:09:30,710
+That's Tor's problem.
+
+130
+00:09:30,710 --> 00:09:34,770
+Scenario two: I want to build a tool that
+will work for the next two weeks, it will
+
+131
+00:09:34,770 --> 00:09:38,340
+work for 20 people and I'm not going to tell
+you about it.
+
+132
+00:09:38,340 --> 00:09:43,090
+There are so many more ways of solving scenario
+two than solving scenario one.
+
+133
+00:09:43,090 --> 00:09:48,200
+The bad guys for all sorts of definitions,
+the bad guys have a lot more options on how
+
+134
+00:09:48,200 --> 00:09:52,790
+they can keep safe. They don't have to scale,
+it doesn't have to last forever, they don't
+
+135
+00:09:52,790 --> 00:09:56,470
+want peer review, they don't want anybody
+to even know that it's happening.
+
+136
+00:09:56,470 --> 00:10:01,430
+So the challenge that Tor has is that we wanna
+build something that works for everybody and
+
+137
+00:10:01,430 --> 00:10:06,080
+that everybody can analyze and learn about.
+That's a much harder problem, there are far
+
+138
+00:10:06,080 --> 00:10:08,370
+fewer ways of solving that.
+
+139
+00:10:08,370 --> 00:10:13,580
+So, the terrorists, they got a lot of options.
+That sucks. We need to build tools that can
+
+140
+00:10:13,580 --> 00:10:15,230
+keep the rest of the world save.
+
+141
+00:10:15,230 --> 00:10:17,660
+[Jacob Appelbaum]
+And it's important, really, to try to have
+
+142
+00:10:17,660 --> 00:10:23,240
+some good rethorical arguments, I think. I
+mean, we sort of put a few facts up here.
+
+143
+00:10:23,240 --> 00:10:28,330
+One interesting point to mention is that people
+who really don't want anonymity to exist in
+
+144
+00:10:28,330 --> 00:10:32,700
+a practical sense, maybe not even in a theoretical,
+human rights sense either, but definitely
+
+145
+00:10:32,700 --> 00:10:36,570
+in a practical sense, they're not really having
+honest conversations about it.
+
+146
+00:10:36,570 --> 00:10:40,630
+For example, this DOJ study, the Department
+of Justice in the United States, they actually
+
+147
+00:10:40,630 --> 00:10:44,270
+started to do a study where they classified
+traffic leaving Tor exit nodes.
+
+148
+00:10:44,270 --> 00:10:48,580
+Which is interesting - that they were basically
+probably wiretapping an exit node to do that
+
+149
+00:10:48,580 --> 00:10:52,560
+study, I wonder how they went about that - but
+nonetheless, they came up with the number
+
+150
+00:10:52,560 --> 00:10:55,830
+of three percent of the traffic being bad
+and then they aborted the study because they
+
+151
+00:10:55,830 --> 00:10:57,730
+received many DMCA takedown notices. [laughter]
+
+152
+00:10:57,730 --> 00:10:58,780
+[Roger Dingledine]
+Yes, they -
+
+153
+00:10:58,780 --> 00:11:01,740
+[Jacob Appelbaum]
+Apparently even the DMCA is a problem to finding
+
+154
+00:11:01,740 --> 00:11:02,470
+out answers. [unintelligible]
+
+155
+00:11:02,470 --> 00:11:05,110
+[Roger Dingledine, interrupts]
+They asked a university to run the Tor exit
+
+156
+00:11:05,110 --> 00:11:09,380
+for them and they were just starting out doing
+their study, and then the university started
+
+157
+00:11:09,380 --> 00:11:11,880
+getting DMCA takedowns and said:
+
+158
+00:11:11,880 --> 00:11:16,270
+"Well, we have to stop, the lawyers told us
+to stop!", and the Department of Justice said:
+
+159
+00:11:16,270 --> 00:11:21,410
+"We're the Department of Justice, keep doing
+it.", and then they turned it off. [laughter]
+
+160
+00:11:21,410 --> 00:11:25,490
+So, not sure how the balance of power goes
+there, but the initial results they were looking
+
+161
+00:11:25,490 --> 00:11:31,330
+towards were about three percent of the traffic
+coming out of that Tor exit node was bad,
+
+162
+00:11:31,330 --> 00:11:36,910
+but I haven't figured out what they mean by
+"bad". But I'll take it if it's three percent.
+
+163
+00:11:36,910 --> 00:11:41,730
+[Jacob Appelbaum]
+
+164
+00:11:41,730 --> 00:11:48,730
+Jake dislikes the term 'war' when talking
+about the internet. The BBC has articles on
+
+165
+00:11:56,850 --> 00:12:03,850
+their website on using Tor + Silk Road to
+buy drugs. We don't do that - even though
+
+166
+00:12:10,010 --> 00:12:14,020
+Bitcoin is amazing, it's not anonymous. BBC
+has a 'man-bite-dog'-approach, they run with
+
+167
+00:12:14,020 --> 00:12:17,400
+everything which looks a bit interesting.
+We dont wan tthat: we want for every person
+
+168
+00:12:17,400 --> 00:12:23,320
+to have the right and possiblity to express
+themselves. When the BBC ran a story about
+
+169
+00:12:23,320 --> 00:12:27,960
+Tor, everyone was thankful, then they posted
+another article on Tor+Silk Road.
+
+170
+00:12:27,960 --> 00:12:33,260
+That has a serious problem, the war on drugs
+becomes intertwined with the war on Tor. Agent
+
+171
+00:12:33,260 --> 00:12:36,560
+who showed 'massive drop ' in Tor traffic
+after Silk Road shut down, was with US govt.
+
+172
+00:12:36,560 --> 00:12:39,750
+Such publicty always leads to drop, not necessarily
+directly connected. Then they checked the
+
+173
+00:12:39,750 --> 00:12:44,990
+data, see graph, and saw almost no drop. Can
+you guess where the drop the agent talks about
+
+174
+00:12:44,990 --> 00:12:48,810
+occurred? It didn't go down by 50%. Agent
+waswrong. Qrrow where it would have dropped
+
+175
+00:12:48,810 --> 00:12:52,640
+according to agent. Here's a graph of the
+overall network growth over the past three
+
+176
+00:12:52,640 --> 00:12:54,950
+years. Multiple relays added after Snowden
+revelations.
+
+177
+00:12:54,950 --> 00:13:00,120
+The Dark Web (or other scary names) is media
+trying to produce as many articles as they
+
+178
+00:13:00,120 --> 00:13:04,100
+can. Definitions range from 'every webpage
+that Google can't index' (so every govt database,
+
+179
+00:13:04,100 --> 00:13:09,190
+etc), '98% of pages are in dark web', 'only
+way to access dark web is through Tor'. These
+
+180
+00:13:09,190 --> 00:13:11,420
+statements together sell many articles, people
+are shocked.
+
+181
+00:13:11,420 --> 00:13:14,920
+REality is that it's not actually the case.
+People here know this: these stories are clickbait'.
+
+182
+00:13:14,920 --> 00:13:18,020
+Few hands go up about Tor hidden se
+(lost connection for a minute)
+
+183
+00:13:18,020 --> 00:13:22,160
+These things also bring out much negative
+attention. The Freedom Hosting was relentlessly
+
+184
+00:13:22,160 --> 00:13:29,160
+attacked, because the topics the other sites
+have pull on peoples' hearts in a big way.
+
+185
+00:13:29,630 --> 00:13:36,630
+First issue of WikiLeaks was really hard on
+many people. The news also picks up on that
+
+186
+00:13:37,560 --> 00:13:41,350
+in negative ways. You could call that a cultural
+conflict.
+
+187
+00:13:41,350 --> 00:13:45,640
+I heard from a DEA person who was involved
+in Farmer's Market takedown. Old drug webiste,
+
+188
+00:13:45,640 --> 00:13:49,570
+Tor was not involved. DEA wanted to take it
+down. They sent a letter to take it down,
+
+189
+00:13:49,570 --> 00:13:51,650
+[...]
+People used hushmail. Year or two later people
+
+190
+00:13:51,650 --> 00:13:55,300
+discovered Tor. SIx months later there were
+all these newspaper articles about how Tor
+
+191
+00:13:55,300 --> 00:13:58,900
+hidden services are broken. They were using
+PayPal directly. Story is 'don 't use Hushmail'.
+
+192
+00:13:58,900 --> 00:14:01,620
+Don't use lawful interception-compliant or
+backdoored services, such as Hushmail, especially
+
+193
+00:14:01,620 --> 00:14:02,610
+if you traffic drugs.
+
+194
+00:14:02,610 --> 00:14:06,950
+As a result, we have seen some pretty crazy
+stuff happen. In this case, this year we saw
+
+195
+00:14:06,950 --> 00:14:10,900
+one of the most intersting exploits we have
+seen deployed againts a broad scale of users.
+
+196
+00:14:10,900 --> 00:14:15,710
+Not sure who was behind it. Claimed by an
+FBI agent, IP space may be NSA-owned. Exploit
+
+197
+00:14:15,710 --> 00:14:21,050
+in Firefox. Traditionally, if you don't use
+Tor, they go to your house and install gear
+
+198
+00:14:21,050 --> 00:14:25,120
+or intercept your connection. They find out
+who you are, target you, serve you an exploit.
+
+199
+00:14:25,120 --> 00:14:28,540
+Here, they had taken over a Tor hidden service
+and explited old versions of Tor browser.
+
+200
+00:14:28,540 --> 00:14:32,750
+Not used as fresh zero-day. When the FBI did
+this, they give this exploit to other regimes
+
+201
+00:14:32,750 --> 00:14:37,780
+as well. They would like to be able to be
+more up to speed with Firefox. HOwever, there
+
+202
+00:14:37,780 --> 00:14:40,560
+is still desynchronisation. They have probably
+hired some people from this community - fuck
+
+203
+00:14:40,560 --> 00:14:42,440
+you- and have them write their exploits.
+
+204
+00:14:42,440 --> 00:14:47,240
+Now we're looking into Chrome, which has a
+differen t and sometimes more secure architecture.
+
+205
+00:14:47,240 --> 00:14:51,130
+We're hoping to work on using Chrome, anyone
+want to help? Please do.
+
+206
+00:14:51,130 --> 00:14:53,940
+Diversity of funding - a lot of funding comes
+from governmetns. There are ten things we
+
+207
+00:14:53,940 --> 00:14:58,720
+want to work on, if you want to fund one of
+those ten, you can focus our interests. Government
+
+208
+00:14:58,720 --> 00:15:03,280
+funding helps to do many cool things. people
+can be payed to work on Tor, on the other
+
+209
+00:15:03,280 --> 00:15:08,270
+hand governments can influence our priorities.
+We will not put backdoors in Tor.
+
+210
+00:15:08,270 --> 00:15:14,770
+People have approached us to put backdoors
+in Tor. It is a serious committment to not
+
+211
+00:15:14,770 --> 00:15:21,770
+do this. We fix everything as soon as we find
+out that something is wrong. There are people
+
+212
+00:15:24,590 --> 00:15:31,590
+who have tried to have us change that committment.
+When we say we are non-profit, they are dumbfounded.
+
+213
+00:15:37,690 --> 00:15:44,690
+US DoJ person approached, Congress has given
+us right to backdoor everything, you have
+
+214
+00:15:46,780 --> 00:15:50,680
+to make a backdoor so that we can use our
+rights to surveil everybody. You abuse the
+
+215
+00:15:50,680 --> 00:15:55,120
+righst you have been given by our country.
+Then they said they are nonprofit and the
+
+216
+00:15:55,120 --> 00:15:59,100
+conversation bascially ended. Part of what
+they need to do: continue to make safe tools.
+
+217
+00:15:59,100 --> 00:16:03,360
+Everyone wants to help for anti-censorship,
+noone wants to pay for better anonimyt. People
+
+218
+00:16:03,360 --> 00:16:10,360
+are often dependent on the anonimity Tor allows.
+There is a tradeoff with a lot of our founders,
+
+219
+00:16:15,280 --> 00:16:21,670
+they don't like us as much when we say really
+outrageaous thiings. We want funders who want
+
+220
+00:16:21,670 --> 00:16:26,390
+the same things as you and us: if you know
+someone, please approach us.
+
+221
+00:16:26,390 --> 00:16:33,390
+It's easy to say we should not be political.
+It's also crazy to say so, because the idea
+
+222
+00:16:33,550 --> 00:16:40,550
+of haveing free speech and freedom of information
+is a very political idea. Especillay after
+
+223
+00:16:46,850 --> 00:16:49,970
+the summer of Snowden, we realize almost no
+tools can resist NSA/GCHQ. They can't get
+
+224
+00:16:49,970 --> 00:16:54,930
+all Tor users, we made it very expensive for
+them to do mass surveillance. Please note
+
+225
+00:16:54,930 --> 00:16:57,300
+that the solution is not partisan: all people
+are equally good or bad. The common good of
+
+226
+00:16:57,300 --> 00:17:02,060
+every one having these rights protected is
+an important thing to build and to have. That
+
+227
+00:17:02,060 --> 00:17:09,060
+is the best kind of political solution we
+can have. We however need
+
+228
+00:17:09,459 --> 00:17:09,709
+[...]
+
+229
+00:17:09,459 --> 00:17:16,459
+We need everyone in the same network, diversity
+of users. From a technical perspective, so
+
+230
+00:17:16,919 --> 00:17:23,919
+that they can keep each other safe. We all
+get better when the others are involved. Having
+
+231
+00:17:25,389 --> 00:17:32,179
+Jake talk to LE is not the most effective
+way. Lawyer said "Never miss a chance to shut
+
+232
+00:17:32,179 --> 00:17:37,450
+the fuck up". Therefore we instruct everybody:
+corporations, civil righst groups, LE. We
+
+233
+00:17:37,450 --> 00:17:40,659
+need you to be involved and share the word
+in your co
+
+234
+00:17:40,659 --> 00:17:42,460
+[...]
+We're pretty good in fighting back against
+
+235
+00:17:42,460 --> 00:17:47,460
+policies and legal changes. If ISPs hate exit
+relays, it becomes harder to run one. We're
+
+236
+00:17:47,460 --> 00:17:53,259
+doing ok in that respect. Third one we have
+not focused on as much as we could. Growing
+
+237
+00:17:53,259 --> 00:17:57,179
+number of places are just rejecting Tor users.
+Wikipedia, Skype. Microsoft hangs up on you
+
+238
+00:17:57,179 --> 00:18:01,629
+if you want to Skype, because of blacklist
+from some company, they blakclist Tor exit
+
+239
+00:18:01,629 --> 00:18:08,629
+relays. We need help learning how to teach
+all these companies to not judge users on
+
+240
+00:18:09,009 --> 00:18:10,309
+their IP adresses.
+
+241
+00:18:10,309 --> 00:18:17,309
+When a company does not want to give you location
+anonimity, maybe there's a reason for that.
+
+242
+00:18:17,999 --> 00:18:24,999
+OFten they don't have metrics for not having
+location data. In a few cases it's better
+
+243
+00:18:25,940 --> 00:18:29,879
+that Tor is blocked, because they don't allow
+anonymous logins when Tor is allowed. We need
+
+244
+00:18:29,879 --> 00:18:36,200
+to show that it is the best thing right now.
+We need people to help us understand the overlap
+
+245
+00:18:36,200 --> 00:18:39,769
+between the Tor community and their community
+(especially Wikipedia). If Iḿ not abusive
+
+246
+00:18:39,769 --> 00:18:44,100
+on Wikipedia, I should be able to login anonymously.
+Especially since the only way to anonymously
+
+247
+00:18:44,100 --> 00:18:45,659
+use wikipedia is through Tor.
+
+248
+00:18:45,659 --> 00:18:50,009
+The last point is this one (graph). People
+started yelling 'IPO'. Aparrently, some person
+
+249
+00:18:50,009 --> 00:18:54,679
+signed up his entire botnet. It's good to
+know scalability measures work. We had to
+
+250
+00:18:54,679 --> 00:18:58,970
+make some changes. Using elliptic curves as
+really helped to lower work on the relasy.
+
+251
+00:18:58,970 --> 00:19:05,649
+If this had been a real attacker against the
+Tor network, it probably would have been fatal.
+
+252
+00:19:05,649 --> 00:19:12,620
+Microsoft has the power to remove the things
+they think are malicious. Tor clients on these
+
+253
+00:19:12,620 --> 00:19:18,340
+bots are often still installed. Botnet happening
+in same time as Snowden revelations makes
+
+254
+00:19:18,340 --> 00:19:25,340
+it hard to assess the impact of these revelations
+on Tor use. Bots connecting are a really serious
+
+255
+00:19:28,590 --> 00:19:29,990
+threat to the Tor network.
+
+256
+00:19:29,990 --> 00:19:35,559
+It would make it significantly harder to damage
+the Tor network if more people were involved.
+
+257
+00:19:35,559 --> 00:19:40,779
+When talking of funding for better anonimity,
+how much do you need? If you're wiilling to
+
+258
+00:19:40,779 --> 00:19:46,460
+fund it, it wuold be great if you could match
+what government funders bring to the table.
+
+259
+00:19:46,460 --> 00:19:53,230
+Or as much money as you have, both are great.
+If it ends up on the 2 million USD we have
+
+260
+00:19:53,230 --> 00:19:58,799
+no money for extras. We have to build all
+sorts of tools that are not directly related
+
+261
+00:19:58,799 --> 00:20:04,320
+to Tor. It's not enough to have Tor, hyou
+need tools to work with Tor. We haven't really
+
+262
+00:20:04,320 --> 00:20:05,269
+experimented with that.
+
+263
+00:20:05,269 --> 00:20:10,230
+The NSA and GCHQ have decided that they don't
+like anonimity and want to eradicate it. A
+
+264
+00:20:10,230 --> 00:20:14,200
+few exceptions. I will talk about this on
+monday. On the Tor side, Quick Ant is a [...]. It
+
+265
+00:20:14,200 --> 00:20:17,360
+is recording data about TLS sessions, pulled
+from a larger pile that is called FLYINGPIG.
+
+266
+00:20:17,360 --> 00:20:21,399
+That program is kind of scary, but not too
+much. Quantum INsert is a scary man on the
+
+267
+00:20:21,399 --> 00:20:27,049
+side attack. FOXACID is a targeted attack,
+sort of awatering hole attack. When you use
+
+268
+00:20:27,049 --> 00:20:31,820
+Tor they make your server redirect to their
+malicious code and hit you. It took them eight
+
+269
+00:20:31,820 --> 00:20:36,119
+months to hit one Tor user. That's great.
+It really takes much effort to hit one person,
+
+270
+00:20:36,119 --> 00:20:37,850
+they need that person to be caught.
+
+271
+00:20:37,850 --> 00:20:40,740
+Quantom Cookie is a program to retrieve other
+browser connections to find out concurrent
+
+272
+00:20:40,740 --> 00:20:47,740
+browser activity. Then they would insert other
+things the browser would request to see what
+
+273
+00:20:49,440 --> 00:20:52,299
+other activity you have. Solution is HTTPS
+EVerywhere, whihc also allows session isolation.
+
+274
+00:20:52,299 --> 00:20:56,570
+On the other hand, not every website allows
+TLS. The thing that makes it interseting is
+
+275
+00:20:56,570 --> 00:20:58,679
+that they do it at internet scale.
+
+276
+00:20:58,679 --> 00:21:03,039
+You would imaginge that not routing through
+Five Eyes countries makes you safer. On the
+
+277
+00:21:03,039 --> 00:21:07,929
+other hand, in the Five Eyes countries you
+have some protections. The key point to take
+
+278
+00:21:07,929 --> 00:21:12,169
+home is that every single person here has
+the same problems if they're not useing Tor.
+
+279
+00:21:12,169 --> 00:21:15,710
+The story here is they look at Tor traffic
+coming out of Tor relays
+
+280
+00:21:15,710 --> 00:21:22,710
+they don't know who it is.
+On the one hand, they need borad attacks (not
+
+281
+00:21:22,759 --> 00:21:23,299
+targeted).
+
+282
+00:21:23,299 --> 00:21:29,690
+DNI sent out a press release that they are
+never attacking US citizens. {...]James Platter
+
+283
+00:21:29,690 --> 00:21:30,929
+is an asshole (:) )
+
+284
+00:21:30,929 --> 00:21:36,710
+I talked to an NSA person a couple of weeks
+ago ... You have to attack all non-Americans/
+
+285
+00:21:36,710 --> 00:21:43,710
+No, only if they are the person who we are
+attacking. I wish we had 90000 Tor nodes,
+
+286
+00:21:57,549 --> 00:22:03,259
+that would be incredible. When the NSA ran
+tor notdes, that was about a dozen.
+
+287
+00:22:03,259 --> 00:22:10,259
+They can watch your Tor relays, which is as
+good as having their own relay. We should
+
+288
+00:22:13,700 --> 00:22:18,460
+not be worried they're runnning relays. It's
+a concern, but the bigger concern is that
+
+289
+00:22:18,460 --> 00:22:25,460
+they're watching the whole internet. The problem
+is not 
+
+290
+00:22:41,440 --> 00:22:48,440
+so much are they running relays but how many
+normal relays can they watch. A large adversary
+
+291
+00:23:12,720 --> 00:23:19,720
+like the NSA: a third? Half/ We don't know.
+
+292
+00:23:21,529 --> 00:23:28,529
+Who here uses a VPN or some kind of VPN service
+[about 1/4]? This is a big problem, the hide-my-ass
+
+293
+00:23:54,230 --> 00:24:01,230
+problem. They basically promote their service
+for revolution in Egupt, but turn around when
+
+294
+00:24:04,580 --> 00:24:07,249
+aimed at the UK.
+We need to build decentralized systems
+
+295
+00:24:07,249 --> 00:24:14,249
+In some cases we know that VPN proxies have
+data retion for 10-15 year, that 's bad news.
+
+296
+00:24:17,419 --> 00:24:20,019
+The news on VPNs is not in your favor.
+
+297
+00:24:20,019 --> 00:24:21,989
+What happens with this stuff?
+
+298
+00:24:21,989 --> 00:24:25,909
+It could be that the silk road fellow used
+VPN.
+
+299
+00:24:25,909 --> 00:24:32,909
+It could also be that the NSA has tracked
+him in some other way.
+
+300
+00:24:39,999 --> 00:24:45,100
+Parallel construction is a really serious
+problem,
+
+301
+00:24:45,100 --> 00:24:52,100
+if we could expand Tor network, we would make
+it significantly harder to do that.
+
+302
+00:24:57,269 --> 00:25:04,269
+We live in a world were intelligence services
+and LE are merging together.
+
+303
+00:25:05,269 --> 00:25:09,970
+That is a sierious problem for Tor.
+
+304
+00:25:09,970 --> 00:25:14,110
+NSA is doing bad stuff, why should that affect
+FBI?
+
+305
+00:25:14,110 --> 00:25:21,110
+They said they told the FBI. Do they anonymously
+tip the FBI?
+
+306
+00:25:26,999 --> 00:25:33,999
+Is there a third party anonymous whistleblower?
+
+307
+00:25:40,879 --> 00:25:46,769
+From the FBI point of view, thats basically
+the same.
+
+308
+00:25:46,769 --> 00:25:53,769
+We are able to adress some questions.
+
+309
+00:26:30,980 --> 00:26:37,980
+Summaries: We want to improve hidden services.
+
+310
+00:26:43,019 --> 00:26:50,019
+We want to make them strong, especially improve
+performance.
+
+311
+00:26:52,739 --> 00:26:59,739
+The 
+more mainstream they become, the more use
+we will be seeing.
+
+312
+00:27:10,610 --> 00:27:15,409
+It should be esay to use them.
+
+313
+00:27:15,409 --> 00:27:22,409
+The most important things for cypherpunks
+to understand.
+
+314
+00:27:25,700 --> 00:27:30,769
+If you like, use Bitcoin.
+
+315
+00:27:30,769 --> 00:27:37,769
+If you want to give us lots of BItocins, do
+not get dsicouraged.
+
+316
+00:27:48,940 --> 00:27:55,940
+In Noisy Square, there is 
+
+317
+00:28:26,629 --> 00:28:33,629
+now 
+
+318
+00:28:57,049 --> 00:29:04,049
+a talk on helping Tor.
+
+319
+00:29:04,710 --> 00:29:11,710
+We need you 
+
+320
+00:29:23,669 --> 00:29:30,669
+to 
+
+321
+00:29:48,629 --> 00:29:55,629
+teach other poeple on 
+
+322
+00:33:28,659 --> 00:33:35,659
+why Tor 
+
+323
+00:33:51,899 --> 00:33:58,899
+is important.
+
+324
+00:33:59,970 --> 00:34:06,970
+Thank you
+
+325
+00:34:08,169 --> 00:34:15,169
+[no time for Q/A left]
+
