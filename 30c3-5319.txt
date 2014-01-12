@@ -224,9 +224,151 @@ Do we see a problem here? Right there's something... fishy with this... image
 
 And now we are getting back to the irony, who uses Google chrome?
 
+Don't be shy, don't be shy. Who uses Google Chrome as their main browser. Okay, who doesn't use any other browser...[??]? 
 
+Okay so there are even people like that.
 
+Okay.
 
+[clicks to reveal more content on slide]
+
+Yeah that is the second question... so
+
+[moves to next slide]
+
+But we already know what happens when people use... you know when there... when we have a monoculture of browsers. Of closed-source unforkable browsers right. 
+
+We have a Chromium project but we don't know what Google with do with Chrome in a year, maybe they will push for their SPDY protocol, maybe they will break the internet other... in some other interesting ways like they trying to do with XMPP right.
+
+Do you see the irony here?
+
+[gestures at slide]
+
+We swapped Internet Explorer, browsers, with... the other kind of the same problem.
+
+[moves to next slide]
+
+So look whose talking.
+
+Okay, who uses Google's XMPP or GTalk?
+
+[clicks to reveal more content on slide]
+
+Who has any other account, hands up? Okay that's great. That's great. Thank god I am here and not somewhere else. 
+
+And uses it? This is the... important part. This is a very important question... because if we all moved to GTalk Google will be able to just say: well whatever, I have 99 percent or 90 percent of users of Jabber or I don't care about the rest right and just close it off. Good luck with that.
+
+Embrace, extend, extinguish.
+
+[moves to next slide]
+
+And this is exactly my point. This is a freedom ecology. This is a ecology of freedom. This is not only our own decision. If google does that I will not join Google right... but if Google does that I will suddenly stop being able to communicate via XMPP with 90 percent of my contacts in XMPP right.
+
+So that decision is not only ours to make right, I didn't make that decision right, somebody made it for me. And it is not like somebody I will show like with my finger right. But it just happens somehow.
+
+[moves to next slide]
+
+So...
+
+[laughs]
+
+What to do, what to do, what to do...
+
+We have obviously laws, we have agencies against monopolies. First thing to do is to start looking at monopolies as if they were actually monopolies.
+
+We have some monopolies that we don't not recognize as monopolies. Maybe we should start doing so and start thinking about that.
+
+But from the users perspective...
+
+[moves to next slide]
+
+[laughter from audience, builds into applause]
+
+It is actually easier...
+
+[audience applause]
+
+Thank you... thank you.
+
+It's actually not that hard, you know. You can use Diaspora, who has Diaspora account?
+
+[raises hand]
+
+Yay, hooray. Let's throw up our contacts afterwards.
+
+So you can use some other XMPP servers, which you already do. Your hackerspace or your local users group or your whatever company... you know... most of companies have email servers.
+
+Most hackerspaces have email servers and some other servers, why not XMPP, why not DIaspora or some other social network, right?
+
+Just decentralize it. Be done with it.
+
+[moves to next slide]
+
+[points to slide]
+
+Right, right...
+
+I mean if you can, just do that. Just run your server
+
+[audience applause]
+
+Just run your service. Just keep your keep your data, keep your data close to you to and eep your friends close to you and keep your... not to Mr. Zuckerburg or... whoever.
+
+[moves to next slide]
+
+[points to slide]
+
+It's easier and once you do that, you know, the 'otters great'. It feels great.
+
+So thanks, thanks a lot. I hope it wasn't too fast. I had only 30 minutes and I saw the cards that I were being shown to me... I saw that.
+
+So thank you very much, I hope we can meet at some Diaspora or some other decentralized social... or a social network.
+
+And are there any questions?
+
+Announcer: Yeah we have 5 minutes for questions...
+
+Speaker: Oh my god, 5 minutes.
+
+Question from Audience:
+So you spoke about social networks, but I have to make this question. Last time I checked there were at least triple for open source slash free software networks which are not compatiple with each other. Diaspora is one of these, right?
+
+Diaspora does not know how to talk to Identica, and Identica does not know how to talk to Laurea [??], and Laurea [??] doesn't know to talk with anybody I think.
+
+Speaker: 
+Uhh yeah. Do we have...any Diaspora developers or Friendica developers or Statusnet developers here? Ecetera ecetera...
+
+Do any of you that are... does anybody of those developers are... is on the... w3c federated social web mailing list?
+
+There was a huge thread about maybe tring to finally federate between those networks and I am all for that. That would be great. So if the developers hear that, I mean people want that. And this is the ony way to actually remove the biggest impediment for users... so that they can use the social... federated social web right.
+
+The impediment being: which should I use and why?
+
+Yes?
+
+Announcer: Yeah apparently we have to start the next [??]... we have to start setting up for the next talk, so I will just give you the last questions which is on that microphone over there...
+
+Question from Audience:
+Okay, thank you. There are institutions who are enforcing that there are no monopolies in other areas, do you think it is realistic that this will happen also in these areas?
+
+Speaker: 
+Umm. It is a good question, during a discussion before this talk, a few hours ago. Somebody asked me: have you heard about the joint French and German search engine... Just google it.
+
+[audience laughter]
+
+That what an idea of fighting with the monopoly of Google. And obviously not every single thing that such an agency or institution or whatever can do will be effective, and will be actually doing something good.
+
+But my point is, I don't know about those agencies, I don't work there. I don't really even know the names of them, but I know they are there, somewhere. But maybe we should start thinking about monopolies as monopolies. Maybe this is where we should start. This is the easiest place actually, right just switch something in your head and accept the consequences of... you know, these strange little...
+
+[moving through slide deck to 'Social Monopoly' slide]
+
+These strange little blocks here right.
+
+Thanks.
+
+Announcer: Cool...
+
+[audience applause]
 
 
 

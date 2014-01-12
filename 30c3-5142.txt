@@ -6,12 +6,54 @@ or: www.twitter.com/c3subtitles (most up to date infos)
 
 The language is supposed to be: 
 [ ] German 
-[ ] English 
+[x ] English  
 (the orignal talk-language)
 Amara Link: http://www.amara.org/de/videos/NyPMoCwXfrmf/info/ 
+
+[Monitoring the Spectrum: Building your own distributer RF Scanner Array]
 -------------------------------------------------------------------------------------------------------------
-.....
-so as you all know in recent times there has been an increase in our radio traffic.
-basically making channels less wide, because of the accuracy of the hardware, and the increase of people using the spectrum.
-the cost reduction in 
+
+Speaker: Well, good evening everyone and welcome to this talk by Andrew Reiter on distributed RF spectrum analysis
+I think everyone has been buying cheap SDR sticks and playing with them
+Andrew has been doing more with them
+
+Andrew Reiter (arr.awr): all right, thank you like you said, my name is Andrew Reiter, I come from the US and I'm very happy and glad that I was invited to be able to come here and speak in front of all of you
+
+It is a pretty amazing place, a really amazing conference with a lot of amazing, very friendly people
+
+We are doing a lot more intense work tonight, but hopefully this will be very interesting to you all
+
+First off, there is entirely too much content for us to cover in one half-hour session here
+
+You know. some of this content, as you know, can be given as full-semester courses at university. So, such as antenna theory, things of that nature
+
+So, dont worry about feeling confused, just get the key terms that I am throwing across, get some the ideas in your head that I am trying to express, 
+and then afterwards, review slides, do some further searches on the internet, use the references, things of that nature and then hopefully you can build your own array
+
+Lastly, a while ago a friend and I, we created this radio punks mailing list sort of named after the cyber punks. It hasnt gained much ground, but that is mainly due to lack of trying to push it - so there - I am pushing it - the last slide or 2 has the link
+
+so as you all know in recent times there has been an increase in RF traffic.
+We can see particularly this in the US, because of the FCCs work is trying to reorganize the frequency allocation table, and basically making channels less wide, because of the accuracy of the hardware, and the increasing numbers of people using the RF spectrum.
+
+Also the cost reduction in Hardware.. has dropped a ton
+
+So there is a great deal more devices being developed by manufacturers, companies and that such
+
+Also there is people like (??) and the people that made (?Blade RF?) that are doing non-regulated devices that can transmit
+
+So it is a challenge for us - in my opinion - that we should be wanting to know what is transmitted over the air and so should what is in the air also be in the air, if that makes any sense
+
+It is our duty to sort of first understand channel frequency occupancy, and probability distributions related to channels and the spectrum and how - which protocols are using them. How often are devices using those spaces in the spectrum. Things of that nature
+
+So that we can be aware of the existence of signal, and then we can work towards understanding the signals.
+
+You know. Governments are listening, so should we.
+
+So I feel... It is my duty to talk about the array that I built using RTLS-SDR devices so everybody else can build their own if they desire
+
+So that we can as a group increase our knowledge as to the existence of signals throughout spectrum.and then from there hopefully work towards breaking them down
+
+So hopefully this will get you motivated to build an array and then participate in a future project that I am working on in which we sort link everybodys arrays together and get a feeling of the worldwide spectrum usage
+
+
 

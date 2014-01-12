@@ -1,12 +1,15 @@
 Here, the subtitles for talk 5376 "Do you think that's funny?" are supposed to be created  
-  
-Link and further information can be found here: 
-  
-The language is supposed to be: 
-[ ] German 
+   
+Link and further information can be found here:  
+   
+The language is supposed to be:  
+[ ] German  
 [X] English  
 (the orignal talk-language)
 Amara Link: http://www.amara.org/de/videos/pZMiDSNMlhYq/en/629500/ 
+
+There is already text at amara till minute 10
+
 -------------------------------------------------------------------------------------------------------------
 Please start here
 
@@ -18,11 +21,11 @@ I'm using the wrong stuff apparently not Microsoft so I'm really sorry.
 question we got asked quite a few years ago by a reporter wanting to discuss a project that we did and I thought it was the stupidest question I have ever been asked and I have loved it ever since because obviously this shit is not funny at all.
 So because it's about art-practice under anti-terror laws.
 I'm not going to give this theoretical talk now,, so you're fine it's about practice.
-I'm gonna show you a set projects and focus on kind of the implications of anti-terror laws on the project, on the production of the project most and foremost and also some other projects obviously have been produced before all this crazy ass laws have come into effect.
+I'm  gonna show you a set projects and focus on kind of the implications of  anti-terror laws on the project, on the production of the project most  and foremost and also some other projects obviously have been produced  before all this crazy ass laws have come into effect.
 So let's just get started. 
 And of course in the end I'll be doing a Q&A. 
 So a short introduction for us, I mean almoust talking us means
-ubermorgen.com so that's me and my partner hans[?]
+ubermorgen.com so that's me and my partner Hans
 So we started in the 90s and
 in the 90s it was really great, 
 I really love that because there was nothing happening on the net really
@@ -60,8 +63,8 @@ It was called be stupid.
 I don't want to add to that, but I'm sure some of the people in here have bought a diesel product
 so be proud of yourself you're officially stupid.
 
-I was asked to also persent some projects that some of you might really know but some of you might know, to give you more of a context of our work I'm gonna pesent Vote-Auction.
-Vote-Auction was a project we did in 2000 and we usually produce seals for a projects, not logos, because we're shurly not dot com if we are anything we are an authority, so we need
+I  was asked to also persent some projects that some of you might really  know but some of you might know, to give you more of a context of our  work I'm gonna pesent Vote-Auction.
+Vote-Auction  was a project we did in 2000 and we usually produce seals for a  projects, not logos, because we're shurly not dot com if we are anything  we are an authority, so we need
 a seal right that gives you authority.
 
 So in 2000 it was a platform for buying and selling votes for the presidential election in 2000 Gore against Bush. 
@@ -79,29 +82,29 @@ pretty early on and didn't want to pursue the idea anymore.
 And art mark who is now [...] was really good then
 brought him over to us and we took over and made it a bit bigger I guess.
 
-Basically you could just sign up as a voter and just put your vote on sale and as one would be interested in buying a vote you'd only be able to buy the votes from a whole state, to make it more easy.
+Basically  you could just sign up as a voter and just put your vote on sale and as  one would be interested in buying a vote you'd only be able to buy the  votes from a whole state, to make it more easy.
 
 The price of a vote in different states veried a lot.
 We had an enormous amount of subscribers I don't know precisely because we had a
 randomizing engine in the back obviously and we got into serious trouble with this project
 
-With any kind of governmental agency any OJA in the States and always made specially little websites for them you know with IP filtering and they got their own websites.
+With  any kind of governmental agency any OJA in the States and always made  specially little websites for them you know with IP filtering and they  got their own websites.
 
-Also the Germans were in there as well [...] always contacted us I mean the server on a Wednesday at about 11 and always searched through the same pages. It was really easy then you could just give them something they really liked as a website and some DOS-software that would download in the background and you know stuff like that that really worked fine. 
+Also  the Germans were in there as well [...] always contacted us I mean the  server on a Wednesday at about 11 and always searched through the same  pages. It was really easy then you could just give them something they  really liked as a website and some DOS-software that would download in  the background and you know stuff like that that really worked fine. 
 I'm gonna show you a little video again, because we got this feature on CNN for the project.
 This is really bad quality because it is from TV.
 I'm so sorry. 
 
 *Intro music playing*
 
-TV-Host: In just two weeks the citizens of the united states will elect their next commander in chief. But could that decision be rerouted over the Internet? A website engineered halfway around the world is offering a [...].
+TV-Host:  In just two weeks the citizens of the united states will elect their  next commander in chief. But could that decision be rerouted over the  Internet? A website engineered halfway around the world is offering a  [...].
 Today on Burden of Proof: bidding for ballots - democracy on the block
 Other Host: This is Burden of Proof.
 
 lizvlx: I just need to interrupt a few times. 
-This was on prime-time US CNN, right in the midst of the elections and we were really lucky that we got so much news coverage this was not because we're so awesome in doing projects this was because we just touched a topic that lots of journalists wanted to talk about but they didn't have a specific issue.
+This  was on prime-time US CNN, right in the midst of the elections and we  were really lucky that we got so much news coverage this was not because  we're so awesome in doing projects this was because we just touched a  topic that lots of journalists wanted to talk about but they didn't have  a specific issue.
 But if you present them with the specific issue they have something to talk about so they did.
-We got about ..., I don't know how many people we reached about like 200 to 400 million people this was like really all over the place they even discussed in russia and their parliament. 
+We  got about ..., I don't know how many people we reached about like 200  to 400 million people this was like really all over the place they even  discussed in russia and their parliament. 
 And we got our in a servers hacked.
 And Janet Reno who was than you know somebody was on our ... 
 And we got sued by so many people for either you to false promise, consumers laws
@@ -114,8 +117,8 @@ They served us court papers onto our like Nokia communicators like faxes 30 page
 And on the phone: *miming to be on the phone* You know I need to serve this to you.
 which was ridiculous.
 Still they couldn't shut down because we just had ...
-We where aware that if we kept on doing this project we would get you know authority would be getting more and more interested in us so we bought new domains because the turn up the one domain we put in the new domain which gives you newsstory so that was fine. 
-In the end we were running on IP address, but it was all out their so it was fine because we had the CNN coverage there was no problem.
+We  where aware that if we kept on doing this project we would get you know  authority would be getting more and more interested in us so we bought  new domains because the turn up the one domain we put in the new domain  which gives you newsstory so that was fine. 
+In  the end we were running on IP address, but it was all out their so it  was fine because we had the CNN coverage there was no problem.
 We had no terror laws at the time so we were not terrorists we're just doing voter-fraud
 We are not even doing it we are just providing a platform.
 I'm not responsible for any user. That's what dot com says. 
@@ -132,7 +135,7 @@ TV-Host: Chief counsel to the California Secretary state, where I'm from
 and here in washington Melissa Stratton constitutional law expert ...
 that's my favorite picture
 I mean look at that.
-I mean for me the project is also a very complicated way to produce video art you do this whole project and then it gets filmed by CNN right
+I  mean for me the project is also a very complicated way to produce video  art you do this whole project and then it gets filmed by CNN right
 yeah
 *applause*
 If you wanna see more of the video, pretty much all of the videos are available on Vimeo.
@@ -144,7 +147,7 @@ yeah that's the lawsuits
 *applause*
 I started doing paper sculptures at the time.
 What are you supposed to do with it?
-It's very expensive you know, this is from a show we just did at the Carroll Fletcher Gallery in London, Oxford Circus high-scale good shit.
+It's  very expensive you know, this is from a show we just did at the Carroll  Fletcher Gallery in London, Oxford Circus high-scale good shit.
 But obviously is not so much fun at the time
 But because I come from a [...] family I cannot be bothered really.
 Now on to something completely different.
@@ -157,7 +160,7 @@ and the sound of Ebay
 Google will eat itself maybe some of you know ...
 That's the seal again
 Google will eat itself is just a very easy scheme for a problematic network maybe.
-We just participated in the google-ads program and made money with that and with the money we made, we bought Google shares hands Google will eat itself.
+We  just participated in the google-ads program and made money with that  and with the money we made, we bought Google shares hands Google will  eat itself.
 We didn't do it on a huge, big scale, because we were not so interested in that anymore after doing stuff like Vote-Auction.
 So we just it is more as a conceptual piece. 
 I think at this scale that we did it would have taken us like something like 300 million years, to buy the whole of Google.
@@ -175,7 +178,7 @@ It's kind of a fund thing and it's google to the people.
 But it's not doing anything because money shouldn't be doing anything
 
 The next one was Amazon Noir.
-Which was basically just using the look-inside-the-book-function of Amazon to download whole book you know just search for lots of terms and then recombined the book.
+Which  was basically just using the look-inside-the-book-function of Amazon to  download whole book you know just search for lots of terms and then  recombined the book.
 They look quite measly afterwards, but it's all about the content, who cares.
 That project got kinda interpreted as if we were focusing on free books and information for all.
 We're not interested in ..., we are not activists. 
@@ -202,7 +205,7 @@ Yeah.
 I'm gonna jump trough that because we don't have enough time I think.
 No we are good.
 
-There is another set of projects I we did this are actually the once I like doing most because this is where I get to do some coding.
+There  is another set of projects I we did this are actually the once I like  doing most because this is where I get to do some coding.
 I love coding in Pearl and I will never code in anything else.
 I don't need that ruby shit!
 
@@ -210,10 +213,10 @@ Basically this is IP Nick.
 We learned with Vote-Auction how important the seal is, because we got all these legal letters with lots of seals.
 Texas internet attorney and shit like that.
 So we got our own seal: the Internet Partnership for No Internet Content.
-Sometimes we would get asked by different entities, companies and whatever, you do fake banners and shit like that and they want to take it offline.
+Sometimes  we would get asked by different entities, companies and whatever, you  do fake banners and shit like that and they want to take it offline.
 Usually when you talk to big companies, and you want them to do something they tell you I'm not sure you know,
 I'm not the one right person to talk to, i need to send you to someone else and it never get solved. 
-So we just mirrored that and whenever someone asks us to take some information of our servers, I say you know you need to speak to a different department.
+So  we just mirrored that and whenever someone asks us to take some  information of our servers, I say you know you need to speak to a  different department.
 Because that's really complicated, I made this form. That is the universal content and or domain removal form.
 It's very complicated.
 This is not what it was like in the beginning.
@@ -224,7 +227,7 @@ You really want to get the shit solved but there is just so much paperwork, that
 But the other people who want to get the stuff offline and all the departments.
 The shit just never get solved.
 
-And then I coded and basically it just works like that you can just put in any domain and it just creates a legal document its fine.
+And  then I coded and basically it just works like that you can just put in  any domain and it just creates a legal document its fine.
 The wording is just fine and [...] injunction or whatever.
 Then you just send it out.
 We didn't automise it, because we didn't want to be the ones to blame in the end again.
@@ -232,7 +235,7 @@ We didn't automise it, because we didn't want to be the ones to blame in the end
 We figured the user can send it out by themselves you know we're not going to be the clowns.
 Take on your own responsibility.
 You just send it out.
-If you have a legal document that says this domain im-so-cool.com is supposed to be taken offline because engaging in child pornography.
+If  you have a legal document that says this domain im-so-cool.com is  supposed to be taken offline because engaging in child pornography.
 I guess lots of provideers will take it offline.
 In the beginning not to do anything wrong.
 So this worked really well.
@@ -242,18 +245,18 @@ In form of legal papers in this context you make something else out of it.
 And also it just cuts out the middleman again.
 You don't need a lawyer, you don't need a court you just need your own court papers that's fine.
 The next one I did was the Bank-Statement-Generator it's a weird account statement
-You just enter a starting figure and you enter some other shit and you name and bla and so on and then you enter how you wanna feel when you get the statement.
+You  just enter a starting figure and you enter some other shit and you name  and bla and so on and then you enter how you wanna feel when you get  the statement.
 *laughting*
 Pretty much everyone has the same deductions: 
-You go to a&m[?] and you do some Amazon.
+You go to H&M and you do some Amazon.
 I don't think you can ever really get high numbers, but you know it's from suicidal to toltal mania.
 That's what you can kinda decide for yourself how you wan to feel.
-We were really broke at the time and I remember I was sitting at home and opened letters from the banking and it said you're indebted and i felt really bad.
+We  were really broke at the time and I remember I was sitting at home and  opened letters from the banking and it said you're indebted and i felt  really bad.
 And then I figured why am I feeling bad because of ink on paper. 
 This is really crazy.
 This is what I allways say this is just pixels on screen and the other one is just ink on paper.
 
-Especially because we're not talking about personal letters we're talking about letters that get send out by servers that are signed by people you can't talk to a person about them.
+Especially  because we're not talking about personal letters we're talking about  letters that get send out by servers that are signed by people you can't  talk to a person about them.
 That's not what constitutes a letter this is fucking newspeak.
 So if you react to anything that's get sent to you by server with an emotional reaction something's wrong with you you know.
 
@@ -283,7 +286,7 @@ I mean you can read a bit for yourself.
 We just took the text and pretty much everything else from a website called
 iris scan and just exchanged words to make the content and the message a bit more clear.
 We have not used this in a performative way yet but if we could ever find a [...] to do that I would
-gladly set it up on a conference you know, an airport and just see if people are going to participate it's just the small moment you can go to your own private room if you want to.
+gladly  set it up on a conference you know, an airport and just see if people  are going to participate it's just the small moment you can go to your  own private room if you want to.
 By the way that's what you call affirmative approach versus critical.
 Alanohof the Alano Ranch this is a really small project we did a few years ago.
 Its just a regular fake site.
@@ -320,11 +323,11 @@ Mea culpa
 Now onto something a lot more serious.
 This is a project that's very close to my heart it is called Superenhanced
 We started doing this in about 2006 to 2008 
-This is important for me for various reasons, also because of the talk that's going on right now obviously all the time we all being listen to and so on.
-I don't understand how anyone could not have known that i seriously don't because we all know that anything that's technically possible will be done. 
+This  is important for me for various reasons, also because of the talk  that's going on right now obviously all the time we all being listen to  and so on.
+I  don't understand how anyone could not have known that i seriously don't  because we all know that anything that's technically possible will be  done. 
 We know that from ourselves.
 Even if it's very often only very little because we are technical incapable.
-But there was something else on the agenda and there was you know the issues of enhanced interrogation, torture taxis[?], supermax prisons in the States
+But  there was something else on the agenda and there was you know the  issues of enhanced interrogation, torture taxis[?], supermax prisons in  the States
 *applause*
 I understand that you know don't say anything mean about cats on the Internet.
 We all bow our heads to the gods.
@@ -338,16 +341,16 @@ We had to pay money for that because there was no imprint on the website in the 
 
 This was not a problem early ...
 I mean this is a fake site.
-I personally don't really understand I mean I do understand but I still don't understand why there's this huge uproar now about you know that NAS bullshit, but there was never any of that big uproar when it really got to people being imprisoned.
+I  personally don't really understand I mean I do understand but I still  don't understand why there's this huge uproar now about you know that  NAS bullshit, but there was never any of that big uproar when it really  got to people being imprisoned.
 And this is where the real terror laws started happening.
 No nothin I didn't hear anything.
 We did this project ...
 this is just image material from our research.
 I did like half a year research on this project and then I programed the superenhanced generator together with a friend of mine
 
-It's basically an interrogation software because it's always the problem in interrogations who is to fucking blame if anything goes wrong
+It's  basically an interrogation software because it's always the problem in  interrogations who is to fucking blame if anything goes wrong
 so we did a software so the software is to blame.
-So you can only follow your orders and everything's fine so basically it just runs you through and in if you don't answer properly you get into trouble.
+So  you can only follow your orders and everything's fine so basically it  just runs you through and in if you don't answer properly you get into  trouble.
 So that's not fun I'm so sorry we used this in a few performances in Palestine I think.
 We went to Israel and to Palistine.
 The performance in Israel didn't work out because the people we got as volunteers
@@ -365,7 +368,7 @@ If you want to read a good book read this book by Murat Kurnaz
 Just read it.
 It might not be a nice Christmas present but use it for Easter time somebody get nailed on a cross their.
 We work together with the
-this guy Chris Arendt who was a guard in guantanamo and he lived with us for two months you know so we could do more research and talk and block with a hands-on approach that's we like and he's kinda okay now
+this  guy Chris Arendt who was a guard in guantanamo and he lived with us for  two months you know so we could do more research and talk and block  with a hands-on approach that's we like and he's kinda okay now
 he was in a really bad state then but I don't feel bad for him because I feel bad for the victim not the perpetrator
 I'm sorry Chris he knows that.
 That's a set of photographs we did with our kids. 
@@ -375,12 +378,12 @@ That's her little sister Lola.
 
 That's a grown-up person and that's a funny thing too I mean these pictures I found on a backup of my iPhone
 and I had never seen those pictures before.
-I know my research I had not seen those pictures before and when I had to go through my backup I find all these pictures of guantanamo courtrooms I found that really strange.
+I  know my research I had not seen those pictures before and when I had to  go through my backup I find all these pictures of guantanamo courtrooms  I found that really strange.
 It was very helpful.
 There's more to show obviously but there's not so much time.
 I'd just like to say one thing before we kinda end this:
 If we always talk about these issues of privacy and so on please bear in mind that this is a first world problem
-The southern hemisphere does not suffer from you know being spied on all the time they suffer from not getting any fucking attention so just bear that in mind. 
+The  southern hemisphere does not suffer from you know being spied on all  the time they suffer from not getting any fucking attention so just bear  that in mind. 
 That it's kind of a luxury problem that needs to be discussed obviously
 Second forget crypto because crypto is elitist.
 I'm not saying don't do it all.
