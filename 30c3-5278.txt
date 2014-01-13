@@ -11,3 +11,55 @@ The language is supposed to be:
 Amara Link: http://www.amara.org/de/videos/8qD6zJ6SNVNl/info/
 -------------------------------------------------------------------------------------------------------------
 
+timecode: 14:18
+
+Speaker: It is often said that because of its objective nature this apparatus is neutral. In theory one might argue that science in and of itself is purely a matter of theory and therefore is amoral: it does not concern itself with values.
+
+However the moment you start applying that science it materializes, gains a set of agency and... enters the realm of praxis, the practical, which is the realm concern... that ethics concerns itself with. 
+
+It is impossible for technology to be amoral. It might be agnostic towards different ideologies because in its logic it has no understanding of human values, but it is definitely aimed at control and domination. 
+
+It does not care wether it controls in the name of Iran.. the Iran State or the US State, but it is aimed at control just for the sake of it.
+
+The thing now is how can we intervene into this apparatus. As I said before it's basically made up out of people like you and me and the objects we create.
+
+Its understanding... For its understanding used to need for a large degree humans to actually do all the calculative work, but as we've come to the...of [??] last 50 years into the... era of digital technologies, that whole aspect of humanities, these armies of accountants and bean counters have been replaced by a somewhat smaller army of computer scientists and digital technology has become the physical and technological realization of what used to be an aspect of the mind. 
+
+Which narrows down our space for intervention within the apparatus to... the construction of algorithms really. It is the only logic that it is able to understand.
+
+Speaking of digital technology, it might be seen that... this term 'Turing Machine' is a deterministic logical framework So if we look back at enframing and all this problematics that come with it you'd be tempted to think but only what is calcuable in [???] counts since it's deterministics everything is [??] calculable so there is no problem really.
+
+That is making the mistake that deterministic does not mean it is predictable. To precalculate all the possible states of a Turing Machine you would need an infinite amounts of Turing Machines it doesn't quite work. And it is the aim computer science in that sense to control the unpredictable nature of the Turing Machine.
+
+Thereby it again hides us from the true being of the computer or the... a Turing Machine. And it follows the same logic of control and domination that is prevalent throughout the whole technological apparatus. Now that we've established that and said a bit about technology we should probably have a look at hacking and how it is different.
+
+I would say hacking is irrational. In the eyes of a computer scientist...or a regular computer scientist what we often do is just plain mad really.
+
+One of the most exemplary things aobut it is that... [??] the  obsession with bugs. The bug is an interesting thing because... within computer science everyone wnts to fix bugs all the time. They are not meant to be there and they are not what we precalculated the thing was supposed to do, get rid of it.
+
+This is this forcing being into how we have preplanned and precalculated it. But bugs reveal the nature of the machines that we work with and they bring forth previously hidden potential and... obviously in... exploits, in... a buffer overflow, they could be a segfault or if you are a bit playful with it it can do very interesting things.
+
+But it can also be simpler than that, in a sense you could say that... for instance most of my knowledge about commands of vi came from at some point accidently typing in the wrong key and finding out: oh fuck that actually does something. And...that could be seen as... vi in its being revealing itself to me through a fuckup and telling me something about its nature. It is very different from its [??] approach of I want vi to do this and therefore I read the manual and search for... what I need to do to accomplish this task. 
+
+So  you could say that hacking comes a lot closer to the poiesis as the ancient Greeks... found it. It is a matter of bringing forth rather than... challenging forth... and this [??] I suppose becomes quite literally when we see another funny thing that hackers do which is writing poetry.
+
+This is very literal... example the haiku from.. by Larry Wall which kicked off the Perl poetry mania.
+
+But it doesn't have to be quite this literal. Here is... I mean this is beutiful
+
+[Speaker laughs]
+
+For us to be able to appreciate that as such and to find aesthetics in... yeah in code, in formal logic really, it's supposed to be really dull and utilitarian but certainly it became a playful thing.
+
+It is... actually functional, but it's not made just to be functional, it's made to be something special, something unique, something explorative... I think that further remphasizes the aspect of poisesis that we see in hacking.
+
+Because quite frankly, I think if you ask Keith Winstein and Marc Horowitz why they did that you probably get an answer like this. 
+
+Which is quite obviously either a lack of or a false conciousness about what it actually... what their actual motivations were, but it makes it quite clear that it was not just for the sole sake of utility. It is not.
+
+It has a sense of ambiquity to it that comes with exploring the unknown rather than bending it to your will. It's okay if weird things happen here because I am exploring instead of trying to force something into doing what I just told it to do.
+
+But this poietic aspect of hacking gives it the potential to... and at the same time the... fact that it speaks in the language of computer code, formal logic... gives it the potential to be a space for intervention to place human sensibilities into the technological apparatus...
+
+timecode: 23.44
+
