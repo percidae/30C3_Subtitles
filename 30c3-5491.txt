@@ -13,47 +13,48 @@ Amara Link: http://www.amara.org/de/videos/2kGOoOdz2i5w/en/628531/
 
 
 
-No burning wor
+No neutral ground in a burning world
 
-We'd like you to take a couple things away from this talk.  A piece from technology or society is rarely settled in just a few years.  Just in the past few years we dont really know what using email means.  We have a reasonable idea about how to use an auditorium.  The other thing we'd like to talk about is geek culture.  It is now at the heart of social and () movements. It used to be apolitical but every code your write and action you take has poltical and other changes.  This is a change that has happened in our life times.
+Today we wanna talk to you about the role of technology and society in the longer arc of human history. 
 
-Quinn is mostly a incoherent blend of ..... (very fast)   '
+We'd like you to take away a couple of things away from this talk. The interaction between  a piece of technology and society is rarely settled in two or three years. Or ten years. We are still - as a society - are barely learning how to use email. 
+If you think even in the past five or ten years the way email was used in professional context changed radically. We don't really know what it means yet. We think we have a reasonable understandong how to use an auditorium. We figured that one out. Mostly. 
+The other thing we'd like to talk about here and we'd like you to take away frome here
+is that, while geek-culture kind of grew up, was an outsider-culture. That changed. It's in the heart of politics and social movement now, because it's the heart of how we communicate now. 
+Geek-culture and hacker-culture used to be apolitical. But now, every action that you take and every piece of code that you write has political effects. now, you may intend some these effects. you may not intend the most of these effects. but they are there and we need to start thinking about, and understanding these changes.  
 
-Its about examing the network of effect that 
+This is a change that has happened in our life times.
 
+Quinn is mostly a incoherent blend of anticapitalist anarchism californian-libertarianism. 
 
-not what abou Ella or
+And Ella is a marxist [?syndic?] [ger.: Unternehmensberater ... würde Sinn ergeben], presumably with blood on her hands. but since she likes me a lot she's promised me a six minutes notice on the purge before 
 
+Despite the political parts of this talk, this talk is not about our politics. It's not about what Ella or I want you to do. It's about what we've learned from examining the network effects that we live with now. 
 
-livewith now
-becausefundamentallyyy architecture has a politics and has a culture
-we were kind of sitting around
+Because fundamentally architecture has a politics and it has a culture and we were kind of sitting around in our culture in the usenet in the nineties and wherever we got our start
 
-kind of beeing outsiders. the world pivoted and put us on the
+Kind of beeing like outsiders. the world pivoted and changed and surrounded us and put us on the heart of these matters. 
 
-do politically what we
+And so whatever you want to do politically - what we are gonna be talking about is the framework of the politics that technology is creating around the world right now. 
 
-around the worldd right now
+One of the really interesting structures in the world right now that we are spending a lot of time with are states. 
+States got a couple of basic things that they require to be able to interact with the world. 
+They need to be able to see their territory and the people who live in that territory. If they are going to be able to interact with them. 
+This is simply a truth that applies to anything at anytime when someone wants to interact with a thing. 
+If you cant percieve a thing you cant interact with it.
+This map here is the planned city of brasilia, which is a city that was built to be legible to be understandable to the state 
 
-one of the really interesting structures: states
-they got a couple of basic things the req
-need to see their territory 
-aanything to anytime
-if you cant percieve a thing you cant interact with it
-understandable to the state 
-the notion 
+The notion that a state should - if it nothing else - even if it can't understand all of the rest of the territory - all of it's other cities 
 it sohuld be able to understand the city from which ti governs
+Of course - I don't know how many of you are familiar with the actual city of Brazlia - but it doesn't look much like what's indicated on that map. 
 
-actual city of brazlia
-reality has kind of come back in a lot of messier
-ability of the state terrain is actually a good thing
-around particular 
-when they didnt understant that cholera was spread thru water
-map told us things about human desease transmission which saved us hundreds of milltions of lives
+Reality has kind of come back in and gotten a lot of messier again. So, a lot of the time the ability of the state to see it's citicens and to see it's terrain is actually a very very good thing. 
+This is the snow map that founded modern epidemiology. It's a map of cholera-deaths in London around a particular well when they didn't understand that cholera was spread through water. 
+This map told us things about human disease transmission that have saved - at least -  tens of milltions of lives. And this is a form of surveillance. 
 
-censud record of where all the jews were for the nazis
+Some times this is a bad thing. This is a map of the city of Amsterdam prepared from their very complete census records of where all the jews were in Amsterdam - for the nazis. 
 
-the revolutionary government napoleon standardized on the etric syystem
+During the process of the kind of societal adjustments following the revolution in france - and this was actually one of the demands leading up to the revolution from certain sectors in society - the revolutionary government under napoleon standardized on the metric system. [5:43]
 
 incompatible basic unit systems
 
