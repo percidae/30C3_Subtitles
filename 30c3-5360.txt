@@ -43,7 +43,7 @@ One or more cann messages
 
 I had to reverse this . ON the left you can see CAN messages , multiple way to see can messages. 
 
-I dont know the names for all these. ONe of these messages is the current screen content.  So we can see if the phone is booting or soemthing. we need to write something in this protocoal that show me what it is doing.
+I dont know the names for all these. ONe of these messages is the current screen content.  So we can see if the phone is booting or soemthing. we need to write something in this protocol that show me what it is doing.
 
 shows slide
 (applause)
@@ -51,14 +51,18 @@ shows slide
 here is the serial output
 here is the fancy tool
 here is the fancy camera
+I power it on
 here we see it booting
 it is going through some boot loaders
+here is uboot
 now it is loading linux
-we see the emoluated screen
-it is not piexelatied but that is how it looks in the car
-it is slightly fast when boot from flash
+here we see the emulated screen
+it is not pixelated but that is how it looks in the car
+i boots from an SD-card, it is slightly faster when boot from flash
 
-USB to CAN, lots of cables, different lengths of wires, and here we are.  It now booted and tries to go to my phone.
+here we see the CAN adapter,
+which is USB to CAN, lots of cables, different lengths of wires
+and here we are.  It now booted and tries to go to my phone.
 I can abort this and then I will be in the main menu.
 It is basically a simulation of the car.
 You can go to the menu and do what you would do in the car.
