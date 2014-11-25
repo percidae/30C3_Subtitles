@@ -16,14 +16,20 @@ The trick you used when you wanted to annoy your friend and she wouldnt give the
 We can use uboot to dump memory over the serial port and then we do a n unpack thing and then we have the 
 
 we can boot the real boot of S.
-It has a real distrubtution and it has bash and everything.  PassVD to change the pass to waht we know. There are some harward tricks on the device.  Tehre is something at the bottom that looked suspiciously like a sd card.
+It has a real distrubtution and it has bash and everything.  
+PassVD to change the pass to waht we know. 
+There are some harward tricks on the device.  
+There is something at the bottom that looked suspiciously like a SD card.
 So I cadded the sd card and yes it works and then I boot from there and it is even eaisier.
 The sim slot, rquires the device to tell it to use it and it searches for phone, it seems you can reconfigure this to use this.
 
-They use this for film storage and you can .....  i dont have the firmware upgrade so i can only see the binaries doing this.  
+They use this for film storage and you can .....  
+i dont have the firmware upgrade so i can only see the binaries doing this.  
 
-MIcro B on the one sid eand A socket on the other side. And then you can just put in any usb device.
-You can easily change this to ethernet.  Technically once you do that you can close the package and connect it to the outside  word.
+MIcro B on the one side and A socket on the other side. 
+And then you can just put in any usb device.
+You can easily change this to ethernet.  
+Technically once you do that you can close the package and connect it to the outside  word.
 
 So we need to work the steering wheel, the car etc.  Now, I swas a bit naive and I was hoping for a CAN demaen that would ....  there was no such thing.
 
